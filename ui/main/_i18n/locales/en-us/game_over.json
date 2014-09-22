@@ -1,0 +1,102 @@
+{
+    "annihilation_completed": {
+        "description": "game_over:annihilation_completed:(no description)", 
+        "message": "ANNIHILATION COMPLETED."
+    }, 
+    "army_1": {
+        "description": "game_over:army_1:(no description)", 
+        "message": "ARMY 1"
+    }, 
+    "army_2": {
+        "description": "game_over:army_2:(no description)", 
+        "message": "ARMY 2"
+    }, 
+    "army_3": {
+        "description": "game_over:army_3:(no description)", 
+        "message": "ARMY 3"
+    }, 
+    "army_4": {
+        "description": "game_over:army_4:(no description)", 
+        "message": "ARMY 4"
+    }, 
+    "consumed": {
+        "description": "game_over:consumed:(no description)", 
+        "message": "CONSUMED"
+    }, 
+    "damage": {
+        "description": "game_over:damage:(no description)", 
+        "message": "DAMAGE"
+    }, 
+    "draw": {
+        "description": "game_over:draw:(no description)", 
+        "message": "DRAW"
+    }, 
+    "duration": {
+        "description": "game_over:duration:(no description)", 
+        "message": "DURATION:"
+    }, 
+    "energy": {
+        "description": "game_over:energy:(no description)", 
+        "message": "ENERGY"
+    }, 
+    "inflicted": {
+        "description": "game_over:inflicted:(no description)", 
+        "message": "INFLICTED"
+    }, 
+    "killed": {
+        "description": "game_over:killed:(no description)", 
+        "message": "KILLED"
+    }, 
+    "lost": {
+        "description": "game_over:lost:(no description)", 
+        "message": "LOST"
+    }, 
+    "metal": {
+        "description": "game_over:metal:(no description)", 
+        "message": "METAL"
+    }, 
+    "pa_game_over": {
+        "description": "game_over:pa_game_over:(no description)", 
+        "message": "PA GAME OVER"
+    }, 
+    "produced": {
+        "description": "game_over:produced:(no description)", 
+        "message": "PRODUCED"
+    }, 
+    "received": {
+        "description": "game_over:received:(no description)", 
+        "message": "RECEIVED"
+    }, 
+    "return_to_main_menu": {
+        "description": "game_over:return_to_main_menu:(no description)", 
+        "message": "RETURN TO MAIN MENU"
+    }, 
+    "review_game": {
+        "description": "game_over:review_game:(no description)", 
+        "message": "REVIEW GAME"
+    }, 
+    "start_new_game": {
+        "description": "game_over:start_new_game:(no description)", 
+        "message": "START NEW GAME"
+    }, 
+    "totals": {
+        "description": "game_over:totals:(no description)", 
+        "message": "TOTALS"
+    }, 
+    "units": {
+        "description": "game_over:units:(no description)", 
+        "message": "UNITS"
+    }, 
+    "wasted": {
+        "description": "game_over:wasted:(no description)", 
+        "message": "WASTED"
+    }, 
+    "winner": {
+        "description": "game_over:winner:(no description)", 
+        "message": "WINNER:"
+    }, 
+    "winners": {
+        "description": "game_over:winners:(no description)", 
+        "message": "WINNERS:"
+    }
+}

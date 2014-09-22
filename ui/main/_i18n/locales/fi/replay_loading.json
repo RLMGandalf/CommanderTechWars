@@ -1,0 +1,10 @@
+{
+    "connection_to_server_lost": {
+        "message": "YHTEYS PALVELIMEEN KATKESI",
+        "description": "replay_loading:connection_to_server_lost:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Palataan päävalikkoon",
+        "description": "replay_loading:returning_to_main_menu:(no description)"
+    }
+}

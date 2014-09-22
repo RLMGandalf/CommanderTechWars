@@ -1,0 +1,97 @@
+{
+    "annihilation_complete": {
+        "description": "game_over:annihilation_complete:(no description)", 
+        "message": "\u0202\u019d\u019d\u03aa\u04c7\u03aa\u20a4\u0202\u4e01\u03aa\u0472\u019d \u04aa\u0472\u039c\u1e54\u20a4\u0190\u4e01\u0190", 
+        "original": "ANNIHILATION COMPLETE"
+    }, 
+    "apm": {
+        "description": "game_over:apm:(no description)", 
+        "message": "\u0202\u1e54\u039c", 
+        "original": "APM"
+    }, 
+    "average": {
+        "description": "game_over:average:(no description)", 
+        "message": "\u0202\u0477\u1f73\u0213\u0203\u0260\u1f73", 
+        "original": "Average"
+    }, 
+    "built": {
+        "description": "game_over:built:(no description)", 
+        "message": "\u0e3f\u0574\u0457\u230a\u04ad", 
+        "original": "Built"
+    }, 
+    "destroyed": {
+        "description": "game_over:destroyed:(no description)", 
+        "message": "\u0189\u1f73\u01a8\u04ad\u0213\u020f\u0443\u1f73\u0257", 
+        "original": "Destroyed"
+    }, 
+    "draw": {
+        "description": "game_over:draw:(no description)", 
+        "message": "\u0189\u211d\u0202\u20a9", 
+        "original": "DRAW"
+    }, 
+    "duration": {
+        "description": "game_over:duration:(no description)", 
+        "message": "\u0189\u0574\u0213\u0203\u04ad\u0457\u020f\u019e:", 
+        "original": "Duration:"
+    }, 
+    "efficiency": {
+        "description": "game_over:efficiency:(no description)", 
+        "message": "\u0190\u0493\u0493\u0457\u03f2\u0457\u1f73\u019e\u03f2\u0443", 
+        "original": "Efficiency"
+    }, 
+    "energy": {
+        "description": "game_over:energy:(no description)", 
+        "message": "\u0190\u019e\u1f73\u0213\u0260\u0443", 
+        "original": "Energy"
+    }, 
+    "metal": {
+        "description": "game_over:metal:(no description)", 
+        "message": "\u039c\u1f73\u04ad\u0203\u230a", 
+        "original": "Metal"
+    }, 
+    "pa_game_over": {
+        "description": "game_over:pa_game_over:(no description)", 
+        "message": "\u01f4\u20a9 \u01f4\u0202\u039c\u0190 \u0472\u0476\u0190\u211d", 
+        "original": "GW GAME OVER"
+    }, 
+    "produced": {
+        "description": "game_over:produced:(no description)", 
+        "message": "\u1e54\u0213\u020f\u0257\u0574\u03f2\u1f73\u0257", 
+        "original": "Produced"
+    }, 
+    "the_game_has_ended": {
+        "description": "game_over:the_game_has_ended:(no description)", 
+        "message": "\u4e01\u043d\u1f73 \u0260\u0203\u028d\u1f73 \u043d\u0203\u01a8 \u1f73\u019e\u0257\u1f73\u0257.", 
+        "original": "The game has ended."
+    }, 
+    "units": {
+        "description": "game_over:units:(no description)", 
+        "message": "\u1ee6\u019e\u0457\u04ad\u01a8", 
+        "original": "Units"
+    }, 
+    "used": {
+        "description": "game_over:used:(no description)", 
+        "message": "\u1ee6\u01a8\u1f73\u0257", 
+        "original": "Used"
+    }, 
+    "victory_is_yours": {
+        "description": "game_over:victory_is_yours:(no description)", 
+        "message": "\u0476\u03aa\u04aa\u4e01\u0472\u211d\u0423 \u03aa\u1e60 \u0423\u0472\u1ee6\u211d\u1e60", 
+        "original": "VICTORY IS YOURS"
+    }, 
+    "winner": {
+        "description": "game_over:winner:(no description)", 
+        "message": "\u20a9\u0457\u019e\u019e\u1f73\u0213:", 
+        "original": "Winner:"
+    }, 
+    "winners": {
+        "description": "game_over:winners:(no description)", 
+        "message": "\u20a9\u0457\u019e\u019e\u1f73\u0213\u01a8:", 
+        "original": "Winners:"
+    }, 
+    "you_ve_been_annihilated": {
+        "description": "game_over:you_ve_been_annihilated:(no description)", 
+        "message": "\u0423\u0472\u1ee6'\u0476\u0190 \u0e3f\u0190\u0190\u019d \u0202\u019d\u019d\u03aa\u04c7\u03aa\u20a4\u0202\u4e01\u0190\u0189", 
+        "original": "YOU'VE BEEN ANNIHILATED"
+    }
+}

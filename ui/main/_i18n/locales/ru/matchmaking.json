@@ -1,0 +1,18 @@
+{
+    "returning_to_main_menu": {
+        "message": "Возвращение в главное меню",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "ПА НОВАЯ ИГРА АЛЬФА",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "ОЖИДАНИЕ МАТЧА",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "НЕ УДАЛОСЬ СОЗДАТЬ МАТЧ",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

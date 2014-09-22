@@ -1,0 +1,18 @@
+{
+    "returning_to_main_menu": {
+        "message": "Terugkeren naar Hoofdmenu",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "PA NIEUW SPEL ALPHA",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "BEZIG MET WACHTEN OP DE MATCH",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "MATCH VINDEN IS MISLUKT",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

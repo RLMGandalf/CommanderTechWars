@@ -1,0 +1,37 @@
+{ "name" : "GW Small 1",
+  "planets" : [ { "mass" : 2000,
+        "name" : "earth template",
+        "planet" : { "biome" : "earth",
+            "biomeScale" : 50,
+            "heightRange" : 50,
+            "metalClusters" : 50,
+            "metalDensity" : 50,
+            "radius" : 500,
+            "seed" : 6929,
+            "temperature" : 50,
+            "waterHeight" : 48
+          },
+        "position_x" : 17152.099999999999,
+        "position_y" : -3536.27,
+        "velocity_x" : 34.118899999999996,
+        "velocity_y" : 165.488
+      },
+      { "mass" : 1000,
+        "name" : "moon template",
+        "planet" : { "biome" : "moon",
+            "biomeScale" : 50,
+            "heightRange" : 75,
+            "metalClusters" : 50,
+            "metalDensity" : 50,
+            "radius" : 250,
+            "seed" : 78462,
+            "temperature" : 0,
+            "waterHeight" : 0
+          },
+        "position_x" : 17782.400000000001,
+        "position_y" : -1276.29,
+        "velocity_x" : 97.004000000000005,
+        "velocity_y" : 147.94900000000001
+      }
+    ]
+}

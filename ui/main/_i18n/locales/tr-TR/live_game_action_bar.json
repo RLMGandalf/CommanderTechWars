@@ -1,0 +1,58 @@
+{
+    "manuever": {
+        "message": "MANEVRA",
+        "description": "live_game_action_bar:manuever:(no description)"
+    },
+    "hold": {
+        "message": "TUT",
+        "description": "live_game_action_bar:hold:(no description)"
+    },
+    "move_orders": {
+        "message": "GİT EMİRLERİ",
+        "description": "live_game_action_bar:move_orders:(no description)"
+    },
+    "hold_position": {
+        "message": "POZİSYONU KORU",
+        "description": "live_game_action_bar:hold_position:(no description)"
+    },
+    "normal": {
+        "message": "NORMAL",
+        "description": "live_game_action_bar:normal:(no description)"
+    },
+    "continuous": {
+        "message": "SÜREKLİ",
+        "description": "live_game_action_bar:continuous:(no description)"
+    },
+    "return_fire": {
+        "message": "KARŞI ATEŞ",
+        "description": "live_game_action_bar:return_fire:(no description)"
+    },
+    "energy_on": {
+        "message": "AÇIK",
+        "description": "live_game_action_bar:energy_on:(no description)"
+    },
+    "build_mode": {
+        "message": "ÜRETİM MODU",
+        "description": "live_game_action_bar:build_mode:(no description)"
+    },
+    "at_will": {
+        "message": "SERBEST",
+        "description": "live_game_action_bar:at_will:(no description)"
+    },
+    "roam": {
+        "message": "DOLAŞIM",
+        "description": "live_game_action_bar:roam:(no description)"
+    },
+    "energy_off": {
+        "message": "KAPALI",
+        "description": "live_game_action_bar:energy_off:(no description)"
+    },
+    "fire_orders": {
+        "message": "ATEŞ EMİRLERİ",
+        "description": "live_game_action_bar:fire_orders:(no description)"
+    },
+    "energy_orders": {
+        "message": "ENERJİ EMİRLERİ",
+        "description": "live_game_action_bar:energy_orders:(no description)"
+    }
+}

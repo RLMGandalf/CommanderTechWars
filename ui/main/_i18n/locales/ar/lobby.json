@@ -1,0 +1,166 @@
+{
+    "planets": {
+        "message": "الكواكب:",
+        "description": "lobby:planets:(no description)"
+    },
+    "ai": {
+        "message": "ح.ب",
+        "description": "lobby:ai:(no description)"
+    },
+    "starting_game": {
+        "message": "جاري البدأ باللعبة",
+        "description": "lobby:starting_game:(no description)"
+    },
+    "ai_economy_rate": {
+        "message": "المعدل الاقتصادي للحاسوب",
+        "description": "lobby:ai_economy_rate:(no description)"
+    },
+    "ready": {
+        "message": "جاهز",
+        "description": "lobby:ready:(no description)"
+    },
+    "vs": {
+        "message": "ضد",
+        "description": "lobby:vs:(no description)"
+    },
+    "chat": {
+        "message": "محادثه",
+        "description": "lobby:chat:(no description)"
+    },
+    "cancel": {
+        "message": "إلغاء",
+        "description": "lobby:cancel:(no description)"
+    },
+    "yes": {
+        "message": "نعم",
+        "description": "lobby:yes:(no description)"
+    },
+    "leave_game": {
+        "message": "غادر اللعبة",
+        "description": "lobby:leave_game:(no description)"
+    },
+    "starting_planet": {
+        "message": "كوكب بداية اللعبة:",
+        "description": "lobby:starting_planet:(no description)"
+    },
+    "promote": {
+        "message": "ترقيه",
+        "description": "lobby:promote:(no description)"
+    },
+    "player_economy_rate": {
+        "message": "مستوى إقتصاد الاعب",
+        "description": "lobby:player_economy_rate:(no description)"
+    },
+    "army": {
+        "message": "جيش",
+        "description": "lobby:army:(no description)"
+    },
+    "connecting_to_server": {
+        "message": "جاري الإتصال في الجهاز الخادم",
+        "description": "lobby:connecting_to_server:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "جاري العودة للقائمة الرئيسة",
+        "description": "lobby:returning_to_main_menu:(no description)"
+    },
+    "add_an_army": {
+        "message": "أضف جيش أخر",
+        "description": "lobby:add_an_army:(no description)"
+    },
+    "system": {
+        "message": "نظام شمسي",
+        "description": "lobby:system:(no description)"
+    },
+    "waiting": {
+        "message": "حالة إنتظار",
+        "description": "lobby:waiting:(no description)"
+    },
+    "partner_up_and_share_control_of_one_army_and_economy": {
+        "message": "شارك لاعب آخر لتتشاركوا في إدارة جيش و إقتصاد واحد",
+        "description": "lobby:partner_up_and_share_control_of_one_army_and_economy:(no description)"
+    },
+    "ready_caps": {
+        "message": "جاهز",
+        "description": "lobby:ready_caps:(no description)"
+    },
+    "offline": {
+        "message": "غير متصل",
+        "description": "lobby:offline:(no description)"
+    },
+    "gamma_v": {
+        "message": "الاحداث جاما",
+        "description": "lobby:gamma_v:(no description)"
+    },
+    "kick": {
+        "message": "اطرد",
+        "description": "lobby:kick:(no description)"
+    },
+    "armies": {
+        "message": "الجيوش",
+        "description": "lobby:armies:(no description)"
+    },
+    "format": {
+        "message": "تشكيل قتالي",
+        "description": "lobby:format:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "فقد الإتصال بالجهاز الخادم",
+        "description": "lobby:connection_to_server_lost:(no description)"
+    },
+    "you": {
+        "message": "أنت",
+        "description": "lobby:you:(no description)"
+    },
+    "scale": {
+        "message": "قياس",
+        "description": "lobby:scale:(no description)"
+    },
+    "join": {
+        "message": "انضم",
+        "description": "lobby:join:(no description)"
+    },
+    "game_will_start_when_all_players_select_a_slot_and_click_ready": {
+        "message": "ستبدأ اللعبة عندما يختار كل اللاعبين مكانهم و يضغطون على زر جاهز",
+        "description": "lobby:game_will_start_when_all_players_select_a_slot_and_click_ready:(no description)"
+    },
+    "exit_game": {
+        "message": "هل تريد الخروج من اللعبة؟",
+        "description": "lobby:exit_game:(no description)"
+    },
+    "lobby": {
+        "message": "الردهة",
+        "description": "lobby:lobby:(no description)"
+    },
+    "team_armies": {
+        "message": "جيوش الفريق",
+        "description": "lobby:team_armies:(no description)"
+    },
+    "one_player_per_army": {
+        "message": "لاعب واحد لكل جيش",
+        "description": "lobby:one_player_per_army:(no description)"
+    },
+    "ai_commander": {
+        "message": "قائد ذكاء إصطناعي",
+        "description": "lobby:ai_commander:(no description)"
+    },
+    "game_will_start_when_the_server_has_finished_generating_the_solar_system": {
+        "message": "ستبدأ اللعبة عندما ينتهي الجهاز الخادم من إنشاء النظام الشمسي",
+        "description": "lobby:game_will_start_when_the_server_has_finished_generating_the_solar_system:(no description)"
+    },
+    "free_for_all": {
+        "message": "متوفر للجميع",
+        "description": "lobby:free_for_all:(no description)"
+    },
+    "lobby_beta": {
+        "message": "غرفة بيتا",
+        "description": "lobby:lobby_beta:(no description)"
+    },
+    "battle_solo_against_armies_commanded_by_the_ai": {
+        "message": "حارب لوحدك ضد جيوش الذكاء الإصطناعي",
+        "description": "lobby:battle_solo_against_armies_commanded_by_the_ai:(no description)"
+    },
+    "players": {
+        "message": "الاعبون",
+        "description": "lobby:players:(no description)"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "final_tech": {
+        "message": "Letzte Technologie",
+        "description": "gw_war_over:final_tech:(no description)"
+    },
+    "annihilated": {
+        "message": "Vernichtet",
+        "description": "gw_war_over:annihilated:(no description)"
+    },
+    "discards": {
+        "message": "Abbrüche",
+        "description": "gw_war_over:discards:(no description)"
+    },
+    "turns": {
+        "message": "Runden:",
+        "description": "gw_war_over:turns:(no description)"
+    },
+    "victory": {
+        "message": "Sieg",
+        "description": "gw_war_over:victory:(no description)"
+    },
+    "wins": {
+        "message": "Siege:",
+        "description": "gw_war_over:wins:(no description)"
+    },
+    "delete_archive": {
+        "message": "Archiv Löschen",
+        "description": "gw_war_over:delete_archive:(no description)"
+    },
+    "close": {
+        "message": "Schließen",
+        "description": "gw_war_over:close:(no description)"
+    }
+}

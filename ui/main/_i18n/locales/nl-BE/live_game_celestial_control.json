@@ -1,0 +1,34 @@
+{
+    "select_a_planet_to_destroy": {
+        "message": "Selecteer een planeet om te vernietigen.",
+        "description": "live_game_celestial_control:select_a_planet_to_destroy:(no description)"
+    },
+    "change_orbit": {
+        "message": "Verander baan",
+        "description": "live_game_celestial_control:change_orbit:(no description)"
+    },
+    "select_a_planet_to_attack": {
+        "message": "Selecteer een planeet om aan te vallen.",
+        "description": "live_game_celestial_control:select_a_planet_to_attack:(no description)"
+    },
+    "set_target_spot": {
+        "message": "Selecteer doelwit",
+        "description": "live_game_celestial_control:set_target_spot:(no description)"
+    },
+    "activate_planetary_laser": {
+        "message": "Activeer planetaire laser",
+        "description": "live_game_celestial_control:activate_planetary_laser:(no description)"
+    },
+    "set_course_for_annihilation": {
+        "message": "Stel koers in voor vernietiging",
+        "description": "live_game_celestial_control:set_course_for_annihilation:(no description)"
+    },
+    "then_confirm_destination_to_set_course": {
+        "message": "Bevestig de bestemming om koers te zetten",
+        "description": "live_game_celestial_control:then_confirm_destination_to_set_course:(no description)"
+    },
+    "select_a_new_gravity_well": {
+        "message": "Selecteer een nieuw zwaartekrachtveld.",
+        "description": "live_game_celestial_control:select_a_new_gravity_well:(no description)"
+    }
+}

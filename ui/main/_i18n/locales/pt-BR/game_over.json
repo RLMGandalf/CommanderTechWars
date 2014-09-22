@@ -1,0 +1,78 @@
+{
+    "produced": {
+        "message": "Produzido",
+        "description": "game_over:produced:(no description)"
+    },
+    "draw": {
+        "message": "EMPATE",
+        "description": "game_over:draw:(no description)"
+    },
+    "units": {
+        "message": "Unidades",
+        "description": "game_over:units:(no description)"
+    },
+    "built": {
+        "message": "Construído",
+        "description": "game_over:built:(no description)"
+    },
+    "you_ve_been_annihilated": {
+        "message": "VOCÊ FOI ANIQUILADO",
+        "description": "game_over:you_ve_been_annihilated:(no description)"
+    },
+    "average": {
+        "message": "Média",
+        "description": "game_over:average:(no description)"
+    },
+    "pa_game_over": {
+        "message": "GW GAME OVER",
+        "description": "game_over:pa_game_over:(no description)"
+    },
+    "metal": {
+        "message": "Metal",
+        "description": "game_over:metal:(no description)"
+    },
+    "winners": {
+        "message": "Ganhadores:",
+        "description": "game_over:winners:(no description)"
+    },
+    "the_game_has_ended": {
+        "message": "O jogo foi finalizado.",
+        "description": "game_over:the_game_has_ended:(no description)"
+    },
+    "annihilation_complete": {
+        "message": "ANIQUILAÇÃO COMPLETADA",
+        "description": "game_over:annihilation_complete:(no description)"
+    },
+    "destroyed": {
+        "message": "Destruído",
+        "description": "game_over:destroyed:(no description)"
+    },
+    "efficiency": {
+        "message": "Eficiência",
+        "description": "game_over:efficiency:(no description)"
+    },
+    "used": {
+        "message": "Utilizado",
+        "description": "game_over:used:(no description)"
+    },
+    "winner": {
+        "message": "Ganhador:",
+        "description": "game_over:winner:(no description)"
+    },
+    "apm": {
+        "message": "APM",
+        "description": "game_over:apm:(no description)"
+    },
+    "duration": {
+        "message": "Duração:",
+        "description": "game_over:duration:(no description)"
+    },
+    "energy": {
+        "message": "Energia",
+        "description": "game_over:energy:(no description)"
+    },
+    "victory_is_yours": {
+        "message": "A VITÓRIA É SUA",
+        "description": "game_over:victory_is_yours:(no description)"
+    }
+}

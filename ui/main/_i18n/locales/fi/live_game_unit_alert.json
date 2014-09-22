@@ -1,0 +1,38 @@
+{
+    "ready": {
+        "message": "valmis.",
+        "description": "live_game_unit_alert:ready:(no description)"
+    },
+    "lost": {
+        "message": "lost.",
+        "description": "live_game_unit_alert:lost:(no description)"
+    },
+    "ping": {
+        "message": "Ping!",
+        "description": "live_game_unit_alert:ping:(no description)"
+    },
+    "under_attack": {
+        "message": "hyökkäyksen kohteena.",
+        "description": "live_game_unit_alert:under_attack:(no description)"
+    },
+    "destroyed": {
+        "message": "tuhottu.",
+        "description": "live_game_unit_alert:destroyed:(no description)"
+    },
+    "located": {
+        "message": "paikallistettu.",
+        "description": "live_game_unit_alert:located:(no description)"
+    },
+    "allied": {
+        "message": "Allied",
+        "description": "live_game_unit_alert:allied:(no description)"
+    },
+    "enemy_contact": {
+        "message": "Viholliskontakti!",
+        "description": "live_game_unit_alert:enemy_contact:(no description)"
+    },
+    "launched": {
+        "message": "laukaistu!",
+        "description": "live_game_unit_alert:launched:(no description)"
+    }
+}

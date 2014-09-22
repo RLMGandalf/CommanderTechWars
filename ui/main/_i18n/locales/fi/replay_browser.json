@@ -1,0 +1,90 @@
+{
+    "replays": {
+        "message": "Replays",
+        "description": "replay_browser:replays:(no description)"
+    },
+    "_updating": {
+        "message": "(Updating...)",
+        "description": "replay_browser:_updating:(no description)"
+    },
+    "duration": {
+        "message": "Duration",
+        "description": "replay_browser:duration:(no description)"
+    },
+    "watch_replay": {
+        "message": "Watch Replay",
+        "description": "replay_browser:watch_replay:(no description)"
+    },
+    "most_viewed_tbd": {
+        "message": "Most Viewed (TBD)",
+        "description": "replay_browser:most_viewed_tbd:(no description)"
+    },
+    "___aicount___ai": {
+        "message": "(+ __aiCount__ AI)",
+        "description": "replay_browser:___aicount___ai:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Palataan päävalikkoon",
+        "description": "replay_browser:returning_to_main_menu:(no description)"
+    },
+    "most_recent": {
+        "message": "Most Recent",
+        "description": "replay_browser:most_recent:(no description)"
+    },
+    "longest_game_duration": {
+        "message": "Longest Game Duration",
+        "description": "replay_browser:longest_game_duration:(no description)"
+    },
+    "watch_direct_lobby_id": {
+        "message": "Watch Direct Lobby Id:",
+        "description": "replay_browser:watch_direct_lobby_id:(no description)"
+    },
+    "my_games_only": {
+        "message": "My Games Only",
+        "description": "replay_browser:my_games_only:(no description)"
+    },
+    "highest_rated_tbd": {
+        "message": "Highest Rated (TBD)",
+        "description": "replay_browser:highest_rated_tbd:(no description)"
+    },
+    "game": {
+        "message": "Peli",
+        "description": "replay_browser:game:(no description)"
+    },
+    "failed_to_retrieve_replay_list": {
+        "message": "FAILED TO RETRIEVE REPLAY LIST",
+        "description": "replay_browser:failed_to_retrieve_replay_list:(no description)"
+    },
+    "sorted_by": {
+        "message": "Sorted By",
+        "description": "replay_browser:sorted_by:(no description)"
+    },
+    "_no_info_available": {
+        "message": "(no info available)",
+        "description": "replay_browser:_no_info_available:(no description)"
+    },
+    "all_recent_games": {
+        "message": "All Recent Games",
+        "description": "replay_browser:all_recent_games:(no description)"
+    },
+    "search": {
+        "message": "Etsi",
+        "description": "replay_browser:search:(no description)"
+    },
+    "buildversion": {
+        "message": "BuildVersion",
+        "description": "replay_browser:buildversion:(no description)"
+    },
+    "lobby_id": {
+        "message": "Lobby Id",
+        "description": "replay_browser:lobby_id:(no description)"
+    },
+    "gw_game_summary": {
+        "message": "__gwClientNames__: Galactic War \"__gwWarName__\" (turn __gwTurn__, __gwSystemName__), vs. __gwAiArmies__",
+        "description": "replay_browser:gw_game_summary:(no description)"
+    },
+    "view": {
+        "message": "View",
+        "description": "replay_browser:view:(no description)"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "manuever": {
+        "message": "HANDLING",
+        "description": "live_game_action_bar:manuever:(no description)"
+    },
+    "hold": {
+        "message": "HOLD",
+        "description": "live_game_action_bar:hold:(no description)"
+    },
+    "move_orders": {
+        "message": "FLYTTEORDRE",
+        "description": "live_game_action_bar:move_orders:(no description)"
+    },
+    "hold_position": {
+        "message": "HOLD POSISJON",
+        "description": "live_game_action_bar:hold_position:(no description)"
+    },
+    "normal": {
+        "message": "NORMAL",
+        "description": "live_game_action_bar:normal:(no description)"
+    },
+    "continuous": {
+        "message": "LØPENDE",
+        "description": "live_game_action_bar:continuous:(no description)"
+    },
+    "return_fire": {
+        "message": "SKYT TILBAKE",
+        "description": "live_game_action_bar:return_fire:(no description)"
+    },
+    "energy_on": {
+        "message": "PÅ",
+        "description": "live_game_action_bar:energy_on:(no description)"
+    },
+    "build_mode": {
+        "message": "BYGGEMODUS",
+        "description": "live_game_action_bar:build_mode:(no description)"
+    },
+    "at_will": {
+        "message": "NÅR ØNSKELIG",
+        "description": "live_game_action_bar:at_will:(no description)"
+    },
+    "roam": {
+        "message": "ROAME",
+        "description": "live_game_action_bar:roam:(no description)"
+    },
+    "energy_off": {
+        "message": "AV",
+        "description": "live_game_action_bar:energy_off:(no description)"
+    },
+    "fire_orders": {
+        "message": "SKYTEORDRE",
+        "description": "live_game_action_bar:fire_orders:(no description)"
+    },
+    "energy_orders": {
+        "message": "ENERGIORDRE",
+        "description": "live_game_action_bar:energy_orders:(no description)"
+    }
+}

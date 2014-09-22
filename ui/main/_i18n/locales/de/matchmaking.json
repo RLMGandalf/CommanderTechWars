@@ -1,0 +1,18 @@
+{
+    "returning_to_main_menu": {
+        "message": "Rückkehr zum Hauptmenü",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "PA NEUES SPIEL ALPHA",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "WARTE AUF PARTIE",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "MATCHMAKING FEHLGESCHLAGEN",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

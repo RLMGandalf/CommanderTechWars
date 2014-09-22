@@ -1,0 +1,14 @@
+{
+    "returning_to_main_menu": {
+        "message": "Revenind la Meniul Principal",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "transit:gamma_v:(no description)"
+    },
+    "error": {
+        "message": "Eroare",
+        "description": "transit:error:(no description)"
+    }
+}

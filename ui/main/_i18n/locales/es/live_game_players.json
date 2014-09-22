@@ -1,0 +1,66 @@
+{
+    "alliance_requested": {
+        "message": "Alianza solicitada",
+        "description": "live_game_players:alliance_requested:(no description)"
+    },
+    "build_efficiency": {
+        "message": "Eficiencia",
+        "description": "live_game_players:build_efficiency:(no description)"
+    },
+    "army_fabber_value": {
+        "message": "Fabricante",
+        "description": "live_game_players:army_fabber_value:(no description)"
+    },
+    "army": {
+        "message": "EJÉRCITO",
+        "description": "live_game_players:army:(no description)"
+    },
+    "army_unit_count": {
+        "message": "Recuento",
+        "description": "live_game_players:army_unit_count:(no description)"
+    },
+    "alliance_request": {
+        "message": "Solicitud de alianza",
+        "description": "live_game_players:alliance_request:(no description)"
+    },
+    "accept": {
+        "message": "Aceptar",
+        "description": "live_game_players:accept:(no description)"
+    },
+    "ignore": {
+        "message": "Ignorar",
+        "description": "live_game_players:ignore:(no description)"
+    },
+    "player": {
+        "message": "JUGADOR",
+        "description": "live_game_players:player:(no description)"
+    },
+    "allied_with": {
+        "message": "Aliado con:",
+        "description": "live_game_players:allied_with:(no description)"
+    },
+    "request_pending": {
+        "message": "Solicitud pendiente",
+        "description": "live_game_players:request_pending:(no description)"
+    },
+    "army_factory_value": {
+        "message": "Fábrica",
+        "description": "live_game_players:army_factory_value:(no description)"
+    },
+    "resc": {
+        "message": "RECURSOS",
+        "description": "live_game_players:resc:(no description)"
+    },
+    "army_mobile_value": {
+        "message": "Móvil",
+        "description": "live_game_players:army_mobile_value:(no description)"
+    },
+    "ally": {
+        "message": "ALIADO",
+        "description": "live_game_players:ally:(no description)"
+    },
+    "economy": {
+        "message": "ECONOMÍA",
+        "description": "live_game_players:economy:(no description)"
+    }
+}

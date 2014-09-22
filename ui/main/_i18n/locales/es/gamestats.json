@@ -1,0 +1,114 @@
+{
+    "total_apm": {
+        "message": "Total APM",
+        "description": "gamestats:total_apm:(no description)"
+    },
+    "produced": {
+        "message": "Producido",
+        "description": "gamestats:produced:(no description)"
+    },
+    "wasted": {
+        "message": "Desperdiciado",
+        "description": "gamestats:wasted:(no description)"
+    },
+    "total_efficiency": {
+        "message": "Eficencia total",
+        "description": "gamestats:total_efficiency:(no description)"
+    },
+    "retrieving_stats": {
+        "message": "Recuperando estadísticas ...",
+        "description": "gamestats:retrieving_stats:(no description)"
+    },
+    "total": {
+        "message": "Total",
+        "description": "gamestats:total:(no description)"
+    },
+    "avg": {
+        "message": "Media",
+        "description": "gamestats:avg:(no description)"
+    },
+    "total_metal": {
+        "message": "Metal total",
+        "description": "gamestats:total_metal:(no description)"
+    },
+    "current_units": {
+        "message": "Unidades actuales",
+        "description": "gamestats:current_units:(no description)"
+    },
+    "game_summary": {
+        "message": "RESUMEN DEL JUEGO",
+        "description": "gamestats:game_summary:(no description)"
+    },
+    "winner": {
+        "message": "Ganador:",
+        "description": "gamestats:winner:(no description)"
+    },
+    "factory": {
+        "message": "Fábrica",
+        "description": "gamestats:factory:(no description)"
+    },
+    "current": {
+        "message": "Current",
+        "description": "gamestats:current:(no description)"
+    },
+    "current_apm": {
+        "message": "Current APM",
+        "description": "gamestats:current_apm:(no description)"
+    },
+    "winners": {
+        "message": "Ganadores:",
+        "description": "gamestats:winners:(no description)"
+    },
+    "total_energy": {
+        "message": "Energia total",
+        "description": "gamestats:total_energy:(no description)"
+    },
+    "current_efficiency": {
+        "message": "Current Efficiency",
+        "description": "gamestats:current_efficiency:(no description)"
+    },
+    "draw": {
+        "message": "Empate",
+        "description": "gamestats:draw:(no description)"
+    },
+    "opp_killed": {
+        "message": "Operadores Asesinados",
+        "description": "gamestats:opp_killed:(no description)"
+    },
+    "total_units": {
+        "message": "Unidades Totales",
+        "description": "gamestats:total_units:(no description)"
+    },
+    "fab": {
+        "message": "Fáb",
+        "description": "gamestats:fab:(no description)"
+    },
+    "in_progress": {
+        "message": "En Progreso",
+        "description": "gamestats:in_progress:(no description)"
+    },
+    "lost": {
+        "message": "Perdido",
+        "description": "gamestats:lost:(no description)"
+    },
+    "created": {
+        "message": "Creado",
+        "description": "gamestats:created:(no description)"
+    },
+    "mobile": {
+        "message": "Móvil",
+        "description": "gamestats:mobile:(no description)"
+    },
+    "consumed": {
+        "message": "Consumido",
+        "description": "gamestats:consumed:(no description)"
+    },
+    "current_metal": {
+        "message": "Metal Actual",
+        "description": "gamestats:current_metal:(no description)"
+    },
+    "current_energy": {
+        "message": "Energía Actual",
+        "description": "gamestats:current_energy:(no description)"
+    }
+}

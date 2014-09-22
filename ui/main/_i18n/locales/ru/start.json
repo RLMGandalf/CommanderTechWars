@@ -1,0 +1,318 @@
+{
+    "you_need_a_new_client_to_play_the_game_steam_users_may_need_to_restart_steam_to_get_the_new_client": {
+        "message": "Вам нужен новый клиент чтобы играть. Пользователям Steam может потребоваться перезапуск Steam чтобы получить новый клиент.",
+        "description": "start:you_need_a_new_client_to_play_the_game_steam_users_may_need_to_restart_steam_to_get_the_new_client:(no description)"
+    },
+    "videos": {
+        "message": "Видео",
+        "description": "start:videos:(no description)"
+    },
+    "single_player": {
+        "message": "Одиночная игра",
+        "description": "start:single_player:(no description)"
+    },
+    "passwords_are_different": {
+        "message": "Пароли не совпадают",
+        "description": "start:passwords_are_different:(no description)"
+    },
+    "founding_commanders": {
+        "message": "Снабжение Командиров",
+        "description": "start:founding_commanders:(no description)"
+    },
+    "channels_streaming": {
+        "message": "Каналы с трансляциями",
+        "description": "start:channels_streaming:(no description)"
+    },
+    "you_are_already_assigned_to_a_game": {
+        "message": "Вы уже связаны с игрой.",
+        "description": "start:you_are_already_assigned_to_a_game:(no description)"
+    },
+    "join_local_server": {
+        "message": "Присоединиться к локальному серверу",
+        "description": "start:join_local_server:(no description)"
+    },
+    "click_here": {
+        "message": "Нажмите здесь.",
+        "description": "start:click_here:(no description)"
+    },
+    "playfab_account_already_linked_to_a_different_steam_account": {
+        "message": "Учетная запись PlayFab уже связана с другой учетной записью Steam",
+        "description": "start:playfab_account_already_linked_to_a_different_steam_account:(no description)"
+    },
+    "your_steam_id_and_playfab_accounts_have_been_successfully_linked": {
+        "message": "Ваш Steam ID и учетная запись PlayFab были успешно связаны.",
+        "description": "start:your_steam_id_and_playfab_accounts_have_been_successfully_linked:(no description)"
+    },
+    "unknown_error_please_contact_us_at": {
+        "message": "Неизвестная ошибка. Пожалуйста, свяжитесь с нами ",
+        "description": "start:unknown_error_please_contact_us_at:(no description)"
+    },
+    "email_address_already_exists": {
+        "message": "Данный email уже зарегистрирован",
+        "description": "start:email_address_already_exists:(no description)"
+    },
+    "incorrect_username_or_password_please_check_your_entry_and_try_again": {
+        "message": "Некорректный логин или пароль. Пожалуйста, проверьте и попытайтесь еще раз.",
+        "description": "start:incorrect_username_or_password_please_check_your_entry_and_try_again:(no description)"
+    },
+    "tutorial": {
+        "message": "Обучение",
+        "description": "start:tutorial:(no description)"
+    },
+    "visit_our_website": {
+        "message": "Посетить наш сайт »",
+        "description": "start:visit_our_website:(no description)"
+    },
+    "confirm_password": {
+        "message": "Подтвердите пароль:",
+        "description": "start:confirm_password:(no description)"
+    },
+    "quit": {
+        "message": "Выйти",
+        "description": "start:quit:(no description)"
+    },
+    "there_is_a_problem_with_steam_please_restart_steam_and_try_again_or_login_using_your_playfab_credentials": {
+        "message": "Обнаружена проблема со Steam. Пожалуйста, перезапустите Steam и попробуйте еще раз или войдите, используя учетную запись PlayFab.",
+        "description": "start:there_is_a_problem_with_steam_please_restart_steam_and_try_again_or_login_using_your_playfab_credentials:(no description)"
+    },
+    "accounts_linked": {
+        "message": "Аккаунты связаны",
+        "description": "start:accounts_linked:(no description)"
+    },
+    "your_account_has_been_banned_if_you_believe_this_is_in_error_contact_us_at": {
+        "message": "Ваша учетная запись была заблокирована. Если вы считаете, что это ошибка, свяжитесь с нами ",
+        "description": "start:your_account_has_been_banned_if_you_believe_this_is_in_error_contact_us_at:(no description)"
+    },
+    "system_manager": {
+        "message": "Дизайнер Систем",
+        "description": "start:system_manager:(no description)"
+    },
+    "an_email_with_a_link_to_recover_your_account_was_sent_to_username_domain_com": {
+        "message": "Письмо с ссылкой для восстановления вашего аккаунта было отправлено на username@domain.com.",
+        "description": "start:an_email_with_a_link_to_recover_your_account_was_sent_to_username_domain_com:(no description)"
+    },
+    "return_to_sign_in": {
+        "message": "ВЕРНУТЬСЯ КО ВХОДУ",
+        "description": "start:return_to_sign_in:(no description)"
+    },
+    "your_account_has_been_banned": {
+        "message": "Ваша учетная запись была заблокирована.",
+        "description": "start:your_account_has_been_banned:(no description)"
+    },
+    "multiplayer": {
+        "message": "Мультиплеер",
+        "description": "start:multiplayer:(no description)"
+    },
+    "email_address_is_invalid": {
+        "message": "Неверный email адрес",
+        "description": "start:email_address_is_invalid:(no description)"
+    },
+    "username_already_exists": {
+        "message": "Данное имя пользователя уже существует",
+        "description": "start:username_already_exists:(no description)"
+    },
+    "thank_you_for_your_support": {
+        "message": "Спасибо за вашу поддержку!",
+        "description": "start:thank_you_for_your_support:(no description)"
+    },
+    "none_of_this_would_have_been_possible_without_your_generosity_and_we_are_grateful_that_you_took_the_chance_and_believed_in_our_vision": {
+        "message": " Ничего этого не было бы возможным без вашей щедрости, и мы благодарны, что вы рискнули и поверили в нашу идею.",
+        "description": "start:none_of_this_would_have_been_possible_without_your_generosity_and_we_are_grateful_that_you_took_the_chance_and_believed_in_our_vision:(no description)"
+    },
+    "version": {
+        "message": "Версия:",
+        "description": "start:version:(no description)"
+    },
+    "_ui_library_coherent_labs_copyright_2012_2014": {
+        "message": "| UI Library: Coherent Labs, авторское право © 2012-2014",
+        "description": "start:_ui_library_coherent_labs_copyright_2012_2014:(no description)"
+    },
+    "viewers": {
+        "message": "наблюдатели",
+        "description": "start:viewers:(no description)"
+    },
+    "please_try_again_later_if_this_error_persists_please_contact_support_and_check_the_forums": {
+        "message": "Пожалуйста, повторите попытку позже. Если ошибка повторится, обратитесь в службу поддержки и посетите форум.",
+        "description": "start:please_try_again_later_if_this_error_persists_please_contact_support_and_check_the_forums:(no description)"
+    },
+    "armory": {
+        "message": "Арсенал",
+        "description": "start:armory:(no description)"
+    },
+    "this_title_has_not_been_activated": {
+        "message": "Этот продукт еще не был активирован.",
+        "description": "start:this_title_has_not_been_activated:(no description)"
+    },
+    "set_by_code": {
+        "message": "установить по коду",
+        "description": "start:set_by_code:(no description)"
+    },
+    "you_don_t_appear_to_own_a_copy_of_the_game": {
+        "message": "Кажется, вы не обладаете копией игры.",
+        "description": "start:you_don_t_appear_to_own_a_copy_of_the_game:(no description)"
+    },
+    "email": {
+        "message": "Email:",
+        "description": "start:email:(no description)"
+    },
+    "your_default_region_is_currently_unavailable_please_choose_a_different_region": {
+        "message": "Ваш предпочтительный регион в данный момент не доступен. Пожалуйста, выберите другой регион",
+        "description": "start:your_default_region_is_currently_unavailable_please_choose_a_different_region:(no description)"
+    },
+    "username": {
+        "message": "Имя пользователя",
+        "description": "start:username:(no description)"
+    },
+    "create_a_playfab_account_to_link_with_steam": {
+        "message": "Создать учетную запись PlayFab, чтобы связать ее со Steam",
+        "description": "start:create_a_playfab_account_to_link_with_steam:(no description)"
+    },
+    "replays": {
+        "message": "Повторы",
+        "description": "start:replays:(no description)"
+    },
+    "twitch": {
+        "message": "Twitch",
+        "description": "start:twitch:(no description)"
+    },
+    "please_try_to_link_your_account_at": {
+        "message": "Пожалуйста попытайтесь связать ваш аккаунт на",
+        "description": "start:please_try_to_link_your_account_at:uberent.com/user/linksteam');"
+    },
+    "extra_special_thanks_to_our": {
+        "message": "Отдельная благодарность:",
+        "description": "start:extra_special_thanks_to_our:(no description)"
+    },
+    "login_error": {
+        "message": "Не удается войти",
+        "description": "start:login_error:(no description)"
+    },
+    "this_shouldn_t_happen_please_contact_us_at": {
+        "message": "Это не должно было произойти. Пожалуйста, свяжитесь с нами",
+        "description": "start:this_shouldn_t_happen_please_contact_us_at:(no description)"
+    },
+    "account_information_sent": {
+        "message": "Информация об аккаунте выслана",
+        "description": "start:account_information_sent:(no description)"
+    },
+    "sign_in": {
+        "message": "Войти",
+        "description": "start:sign_in:(no description)"
+    },
+    "playfab_username": {
+        "message": "Имя пользователя PlayFab:",
+        "description": "start:playfab_username:(no description)"
+    },
+    "user_account_has_not_been_linked_to_steam": {
+        "message": "Аккаунт пользователя не связан со Steam.",
+        "description": "start:user_account_has_not_been_linked_to_steam:(no description)"
+    },
+    "connecting_to_playfab": {
+        "message": "Соединение с PlayFab",
+        "description": "start:connecting_to_playfab:(no description)"
+    },
+    "ai_skirmish": {
+        "message": "ИИ Схватка",
+        "description": "start:ai_skirmish:(no description)"
+    },
+    "password": {
+        "message": "Пароль",
+        "description": "start:password:(no description)"
+    },
+    "you_can_change_the_region_later_in_the_settings_menu": {
+        "message": "Позднее вы можете сменить регион в настройках.",
+        "description": "start:you_can_change_the_region_later_in_the_settings_menu:(no description)"
+    },
+    "don_t_have_an_playfab_account": {
+        "message": "У вас ещё нет учетной записи PlayFab?",
+        "description": "start:don_t_have_an_playfab_account:(no description)"
+    },
+    "sign_into_your_playfab_account": {
+        "message": "Войдите в свою учетную запись PlayFab.",
+        "description": "start:sign_into_your_playfab_account:(no description)"
+    },
+    "sign_in_with_your_playfab_id": {
+        "message": "Войдите с вашим PlayFab ID",
+        "description": "start:sign_in_with_your_playfab_id:(no description)"
+    },
+    "link_playfab_with_steam": {
+        "message": "Связать PlayFab со Steam",
+        "description": "start:link_playfab_with_steam:(no description)"
+    },
+    "forgot_username_or_password": {
+        "message": "Забыли логин или пароль?",
+        "description": "start:forgot_username_or_password:(no description)"
+    },
+    "error_connecting_to_playfab": {
+        "message": "Ошибка соединения с PlayFab:",
+        "description": "start:error_connecting_to_playfab:(no description)"
+    },
+    "continue_to_main_menu": {
+        "message": "ПРОДОЛЖИТЬ К ГЛАВНОМУ МЕНЮ",
+        "description": "start:continue_to_main_menu:(no description)"
+    },
+    "galactic_war": {
+        "message": "Галактическая Война",
+        "description": "start:galactic_war:(no description)"
+    },
+    "new_build_available": {
+        "message": "Доступно обновление игры:",
+        "description": "start:new_build_available:(no description)"
+    },
+    "click_to_play_the_credits_galaxy": {
+        "message": "Нажмите, чтобы посмотреть заглавные титры",
+        "description": "start:click_to_play_the_credits_galaxy:(no description)"
+    },
+    "create_account_and_link": {
+        "message": "СОЗДАЙТЕ АККАУНТ И СВЯЖИТЕ",
+        "description": "start:create_account_and_link:(no description)"
+    },
+    "settings": {
+        "message": "Настройки",
+        "description": "start:settings:(no description)"
+    },
+    "cosmic_edition_commanders": {
+        "message": "Командиры Космический Редакции",
+        "description": "start:cosmic_edition_commanders:(no description)"
+    },
+    "please_choose_a_default_region": {
+        "message": "Выберите предпочтительный регион.",
+        "description": "start:please_choose_a_default_region:(no description)"
+    },
+    "problem_with_steam_account": {
+        "message": "Проблема с аккуантом Steam.",
+        "description": "start:problem_with_steam_account:(no description)"
+    },
+    "reconnecting_to_game": {
+        "message": "Переподключение к игре",
+        "description": "start:reconnecting_to_game:(no description)"
+    },
+    "_2014_uber_entertainment_inc": {
+        "message": "© 2014 Uber Entertainment Inc.",
+        "description": "start:_2014_uber_entertainment_inc:(no description)"
+    },
+    "to_those_who_contributed_to_our_kickstarter_campaign_we_d_like_to_thank_you_for_all_the_support": {
+        "message": "Для тех, кто помогал нашей кампании Kickstarter, мы хотели бы поблагодарить вас за поддержку.",
+        "description": "start:to_those_who_contributed_to_our_kickstarter_campaign_we_d_like_to_thank_you_for_all_the_support:(no description)"
+    },
+    "audio_engine": {
+        "message": "Движок Аудио:",
+        "description": "start:audio_engine:(no description)"
+    },
+    "your_steam_account_does_not_own_this_application": {
+        "message": "Ваш аккаунт Steam не обладает данным приложением",
+        "description": "start:your_steam_account_does_not_own_this_application:(no description)"
+    },
+    "edward_smith_kelsey_swank_adam_setaside_coggins_jayson_mondala_greg_herber_demonpanda_brian_paddock_fraser_david_forbes_nightecho_alex3212_martin_gardner_hurtzmyhead_wpmarshall_sonic4spuds_bruce_caron_drnibbles_gerald_palfinger_zachery_kingsbury_nathan_wood_shanov_mother_greg_taiwan_kingway_ryan_raigir_hammontree_michal_myrrhan_codl_shane_clements_anthony_mark_griffin_karl_ansted_timothy_ian_mckenna_thunder1982a_riam_mar_bart_broekhuizen_zachary_bagnik_nicholas_gillis_charliefinton_chad_bates_syberian_talon_f_e_colville_sean_p_cramer_thomas_k_pyke_m8harry_zorndar_eric_william_kemp_robert_whites_aleksandr_sjoblom_renae_c_sean_gorreci_martin_andrew_jeffree_artielon_andrew_chan_nayzablade_benjamin_dimant_mikkel_kalludan_ketscher_jake_ross_asdgsdg_jason_jaybawt_brown_hugo_dissimile_jobling_guillaume_gasnier_takato_knights_christopher_allan_tyler78250_joshua_dimant_erik_sigurd_young_alex_grzybowski_thomas_thomasius_billows_zikowsky_thefalsegod_ron_dimant_vishnu_josh_d_jake_dennison_roy_sikes_talbs_maximillian_tran_fenix_mueneren_joshua_r_gray_wollschoof_lawrence_woodman_arthurd_michael_werni_pesusieni_glennwynne_c_shannon_amokkiwi_alex_seidel_dr_metal_rob_maggio_alex_kremer_macbhaird_shyraine_sebastian_toraz_schmidt_jan_ivar_jonstad_thor_jorgensen_will_desain_dr_becker_nick_peralta_nick2k_alvin_wu_kasper_naef_icedomain_derek_dune_manta_jonas_kukelhan_grayton_lowenfeld_master_guy_marcel_van_rijzewijk_erik_nigro_dagger33_cody_fisher_june_tate_gans_ash_beddows_17g_salami_matthew_kohlmeyer_alistair_mckay_kyle_f_montgomery_stephen_karasek_scott_lipton_gabriel_de_oliveira_lucena_johannes_h_ftmann_zebak_longfang_william_ticklemeelmo_montgomery_paragon_boerd_paul_j_coulter_david_norvell_dustin_wyatt_jordan_sporemaster18_mchart_solemcleavu_helmut_h_tzl_warnko_gaute_tor_eide_james_fritz_feservers_skozzokonz_crazymilkshake5_joshua_cosmicshovel_henry_nsfw_berger_aka_needsmoretouhou_william_brenham_hooper_pyro_pyresun_vijar_noah_huppert_per_egert_nielsen_crothurzix_matt_johan_wolfgang_bruno_maria_james_aleister_antoine_tu_morsealworth_benjamin_c_williams_baron_boom_matthew_palmer_lgzdarkside_vog3l_joel_nielsen_lystic_harry_t_neaus_amenton_marcus_richstein_donald_chonko_morloc_boozehound_carfern_daniel_tulip_rishad_mustafaev_nufar_andy_z_pope_daniel_alberts_cardgame_matthew_keefe_edw19909_shini_pl_kadall_reaperwraith_jonathan_shupe_anton_hansen_colin_hissey_e_200_paragon_jimmy_ohlsson_hans_krause_sean_christian_e_sirlansalot_warlordbael_b_b_solie_gary_ray_fishel_jr_jeong_heon_lee_sam_singleton_adam_wilson_patric_hagelquist_michael_ratzka_brian_huis_michael_christopher_coates_kevin_bitz_engberg_arcindrus_jake_ellis_khmac_xyltin_charles_vectorshift_tabony_norman_scheer_zach_thgr8houdini_setmire_dewd_winfield_j_brown_christerpher_feddema_the_forgotten_son_andreas_elf_markus_frey_carl_sagan_bill_armstrong_seanpaul_lockhart_claridge_alexander_werni_alexander_burnett_hess_frederik_tor_nessling_thomas_parle_smith": {
+        "message": "Edward Smith, Kelsey Swank, Adam \"setaside\" Coggins, Jayson Mondala, Greg Herber, DemonPanda, Brian Paddock, Fraser David Forbes, Nightecho, alex3212, Martin Gardner, Hurtzmyhead, WPMarshall, Sonic4Spuds, Bruce Caron, DRnibbles, Gerald Palfinger, Zachery Kingsbury, Nathan Wood, shanov, Mother Greg, Taiwan-KingWay, Ryan \"Raigir\" Hammontree, Michal \"Myrrhan\" Codl, Shane Clements, Anthony mark Griffin, Karl Ansted, Timothy Ian Mckenna, Thunder1982a, Riam Mar, Bart Broekhuizen, Zachary Bagnik, Nicholas Gillis, CharlieFinton, Chad Bates (Syberian), Talon, f.e.colville, Sean P. Cramer, Thomas K. Pyke, M8Harry, Zorndar, Eric William Kemp, 'Robert Whites, Aleksandr Sjoblom, Renae C., Sean \"Gorreci\" Martin, Andrew Jeffree, Artielon, Andrew Chan, Nayzablade, Benjamin Dimant, Mikkel Kalludan Ketscher, Jake Ross, asdgsdg, Jason \"Jaybawt\" Brown, Hugo \"dissimile\" Jobling, Guillaume GASNIER, Takato Knights, Christopher Allan, Tyler78250, Joshua Dimant, Erik Sigurd Young, Alex Grzybowski, Thomas \"Thomasius Billows\" Zikowsky, TheFalseGod, Ron Dimant, Vishnu (Josh.D), Jake Dennison, Roy Sikes, talbs, Maximillian Tran, Fenix Mueneren, Joshua R. Gray, Wollschoof, Lawrence Woodman, ArthurD, Michael Werni, Pesusieni, Glennwynne C Shannon, AmokKiwi, Alex Seidel, Dr.Metal, Rob Maggio, Alex Kremer, MacBhaird, ShyRaine, Sebastian \"Toraz\" Schmidt, Jan Ivar Jonstad, Thor Jorgensen, Will DeSain (Dr. Becker), Nick Peralta \"Nick2k\", Alvin Wu, Kasper Naef, Icedomain, Derek - Dune Manta, Jonas Kukelhan, Grayton Lowenfeld, \"Master-Guy\" Marcel van Rijzewijk, Erik Nigro, Dagger33 (Cody Fisher), June Tate-Gans, Ash Beddows, 17g-Salami, Matthew Kohlmeyer, Alistair Mckay, Kyle F Montgomery, Stephen Karasek, Scott Lipton, Gabriel de Oliveira Lucena, Johannes H”ftmann, Zebak LongFang, William \"TickleMeElmo\" Montgomery, Paragon, Boerd, Paul J Coulter, David Norvell, Dustin Wyatt Jordan, Sporemaster18, Mchart, Solemcleavu, Helmut H”tzl, Warnko, Gaute Tor Eide, James Fritz (FEServers), SKOZZOKONZ, Crazymilkshake5 (Joshua!), CosmicShovel, Henry (NSFW) Berger AKA [NeedsMoreTouhou], William Brenham Hooper, Pyro PyreSun, Vijar, Noah Huppert, Per Egert Nielsen, Crothurzix, matt, Johan Wolfgang Bruno Maria James Aleister Antoine tu Morsealworth, Benjamin C. Williams \"Baron Boom\", Matthew Palmer, LGZdarkside, vog3l, Joel Nielsen, Lystic, Harry T Neaus, Amenton, Marcus Richstein, Donald Chonko, Morloc, BoozeHound, Carfern, Daniel Tulip, Rishad Mustafaev, Nufar, Andy Z Pope, Daniel Alberts, Cardgame, Matthew Keefe, Edw19909, Shini[PL], Kadall, Reaperwraith, Jonathan Shupe, Anton Hansen, Colin Hissey, E-200 Paragon, Jimmy Ohlsson, Hans Krause, Sean Christian E, SirLANsalot, WarlordBael, B. B. Solie, Gary Ray Fishel Jr., Jeong Heon Lee, Sam Singleton, Adam Wilson, Patric Hagelquist, Michael Ratzka, Brian Huis, Michael Christopher Coates, Kevin \"Bitz\" Engberg, Arcindrus, Jake Ellis, Khmac, Xyltin, Charles [VectorShift] Tabony, Norman Scheer, Zach \"thgr8houdini\" Setmire, Dewd, Winfield J. Brown, Christerpher Feddema (the forgotten son), Andreas Elf, Markus Frey, Carl Sagan, Bill Armstrong, Seanpaul Lockhart-Claridge, Alexander Werni, Alexander Burnett (Hess), Frederik Tor Nessling, Thomas Parle-Smith",
+        "description": "start:edward_smith_kelsey_swank_adam_setaside_coggins_jayson_mondala_greg_herber_demonpanda_brian_paddock_fraser_david_forbes_nightecho_alex3212_martin_gardner_hurtzmyhead_wpmarshall_sonic4spuds_bruce_caron_drnibbles_gerald_palfinger_zachery_kingsbury_nathan_wood_shanov_mother_greg_taiwan_kingway_ryan_raigir_hammontree_michal_myrrhan_codl_shane_clements_anthony_mark_griffin_karl_ansted_timothy_ian_mckenna_thunder1982a_riam_mar_bart_broekhuizen_zachary_bagnik_nicholas_gillis_charliefinton_chad_bates_syberian_talon_f_e_colville_sean_p_cramer_thomas_k_pyke_m8harry_zorndar_eric_william_kemp_robert_whites_aleksandr_sjoblom_renae_c_sean_gorreci_martin_andrew_jeffree_artielon_andrew_chan_nayzablade_benjamin_dimant_mikkel_kalludan_ketscher_jake_ross_asdgsdg_jason_jaybawt_brown_hugo_dissimile_jobling_guillaume_gasnier_takato_knights_christopher_allan_tyler78250_joshua_dimant_erik_sigurd_young_alex_grzybowski_thomas_thomasius_billows_zikowsky_thefalsegod_ron_dimant_vishnu_josh_d_jake_dennison_roy_sikes_talbs_maximillian_tran_fenix_mueneren_joshua_r_gray_wollschoof_lawrence_woodman_arthurd_michael_werni_pesusieni_glennwynne_c_shannon_amokkiwi_alex_seidel_dr_metal_rob_maggio_alex_kremer_macbhaird_shyraine_sebastian_toraz_schmidt_jan_ivar_jonstad_thor_jorgensen_will_desain_dr_becker_nick_peralta_nick2k_alvin_wu_kasper_naef_icedomain_derek_dune_manta_jonas_kukelhan_grayton_lowenfeld_master_guy_marcel_van_rijzewijk_erik_nigro_dagger33_cody_fisher_june_tate_gans_ash_beddows_17g_salami_matthew_kohlmeyer_alistair_mckay_kyle_f_montgomery_stephen_karasek_scott_lipton_gabriel_de_oliveira_lucena_johannes_h_ftmann_zebak_longfang_william_ticklemeelmo_montgomery_paragon_boerd_paul_j_coulter_david_norvell_dustin_wyatt_jordan_sporemaster18_mchart_solemcleavu_helmut_h_tzl_warnko_gaute_tor_eide_james_fritz_feservers_skozzokonz_crazymilkshake5_joshua_cosmicshovel_henry_nsfw_berger_aka_needsmoretouhou_william_brenham_hooper_pyro_pyresun_vijar_noah_huppert_per_egert_nielsen_crothurzix_matt_johan_wolfgang_bruno_maria_james_aleister_antoine_tu_morsealworth_benjamin_c_williams_baron_boom_matthew_palmer_lgzdarkside_vog3l_joel_nielsen_lystic_harry_t_neaus_amenton_marcus_richstein_donald_chonko_morloc_boozehound_carfern_daniel_tulip_rishad_mustafaev_nufar_andy_z_pope_daniel_alberts_cardgame_matthew_keefe_edw19909_shini_pl_kadall_reaperwraith_jonathan_shupe_anton_hansen_colin_hissey_e_200_paragon_jimmy_ohlsson_hans_krause_sean_christian_e_sirlansalot_warlordbael_b_b_solie_gary_ray_fishel_jr_jeong_heon_lee_sam_singleton_adam_wilson_patric_hagelquist_michael_ratzka_brian_huis_michael_christopher_coates_kevin_bitz_engberg_arcindrus_jake_ellis_khmac_xyltin_charles_vectorshift_tabony_norman_scheer_zach_thgr8houdini_setmire_dewd_winfield_j_brown_christerpher_feddema_the_forgotten_son_andreas_elf_markus_frey_carl_sagan_bill_armstrong_seanpaul_lockhart_claridge_alexander_werni_alexander_burnett_hess_frederik_tor_nessling_thomas_parle_smith:(no description)"
+    },
+    "there_are_no_regions_available_for_this_build_version": {
+        "message": "Нет доступных регионов для данной версии игры.",
+        "description": "start:there_are_no_regions_available_for_this_build_version:(no description)"
+    },
+    "already_have_a_playfab_account": {
+        "message": "У вас уже есть учетная запись PlayFab?",
+        "description": "start:already_have_a_playfab_account:(no description)"
+    }
+}

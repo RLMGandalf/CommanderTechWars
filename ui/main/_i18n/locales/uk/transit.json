@@ -1,0 +1,14 @@
+{
+    "returning_to_main_menu": {
+        "message": "До головного меню",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "transit:gamma_v:(no description)"
+    },
+    "error": {
+        "message": "Помилка",
+        "description": "transit:error:(no description)"
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "planets": {
+        "message": "PLANETY:",
+        "description": "lobby:planets:(no description)"
+    },
+    "ai": {
+        "message": "AI",
+        "description": "lobby:ai:(no description)"
+    },
+    "starting_game": {
+        "message": "ZAČÍNÁM HRU",
+        "description": "lobby:starting_game:(no description)"
+    },
+    "ai_economy_rate": {
+        "message": "TEMPO ZDROJŮ AI:",
+        "description": "lobby:ai_economy_rate:(no description)"
+    },
+    "ready": {
+        "message": "připraven",
+        "description": "lobby:ready:(no description)"
+    },
+    "vs": {
+        "message": "vs",
+        "description": "lobby:vs:(no description)"
+    },
+    "chat": {
+        "message": "CHAT",
+        "description": "lobby:chat:(no description)"
+    },
+    "cancel": {
+        "message": "Zrušit",
+        "description": "lobby:cancel:(no description)"
+    },
+    "yes": {
+        "message": "Ano",
+        "description": "lobby:yes:(no description)"
+    },
+    "leave_game": {
+        "message": "OPUSTIT HRU",
+        "description": "lobby:leave_game:(no description)"
+    },
+    "starting_planet": {
+        "message": "STARTOVACÍ PLANETA:",
+        "description": "lobby:starting_planet:(no description)"
+    },
+    "promote": {
+        "message": "POVÝŠIT",
+        "description": "lobby:promote:(no description)"
+    },
+    "player_economy_rate": {
+        "message": "TEMPO ZDROJŮ HRÁČE",
+        "description": "lobby:player_economy_rate:(no description)"
+    },
+    "army": {
+        "message": "ARMÁDA",
+        "description": "lobby:army:(no description)"
+    },
+    "connecting_to_server": {
+        "message": "PŘIPOJUJI K SERVERU",
+        "description": "lobby:connecting_to_server:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Vracím se do hlavního menu",
+        "description": "lobby:returning_to_main_menu:(no description)"
+    },
+    "add_an_army": {
+        "message": "PŘIDAT ARMÁDU",
+        "description": "lobby:add_an_army:(no description)"
+    },
+    "system": {
+        "message": "SYSTÉM",
+        "description": "lobby:system:(no description)"
+    },
+    "waiting": {
+        "message": "čekám",
+        "description": "lobby:waiting:(no description)"
+    },
+    "partner_up_and_share_control_of_one_army_and_economy": {
+        "message": "Spoj se s ostatními a sdílej kontrolu nad armádou a zdroje.",
+        "description": "lobby:partner_up_and_share_control_of_one_army_and_economy:(no description)"
+    },
+    "ready_caps": {
+        "message": "PŘIPRAVIT",
+        "description": "lobby:ready_caps:(no description)"
+    },
+    "offline": {
+        "message": "offline",
+        "description": "lobby:offline:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "lobby:gamma_v:(no description)"
+    },
+    "kick": {
+        "message": "VYHODIT",
+        "description": "lobby:kick:(no description)"
+    },
+    "armies": {
+        "message": "ARMÁDY",
+        "description": "lobby:armies:(no description)"
+    },
+    "format": {
+        "message": "FORMÁT",
+        "description": "lobby:format:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "ZTRACEN KONTAKT SE SERVEREM",
+        "description": "lobby:connection_to_server_lost:(no description)"
+    },
+    "you": {
+        "message": "TY",
+        "description": "lobby:you:(no description)"
+    },
+    "scale": {
+        "message": "VELIKOST",
+        "description": "lobby:scale:(no description)"
+    },
+    "join": {
+        "message": "Přidat se",
+        "description": "lobby:join:(no description)"
+    },
+    "game_will_start_when_all_players_select_a_slot_and_click_ready": {
+        "message": "Hra začne až všichni hráči zvolí pozici a budou připraveni.",
+        "description": "lobby:game_will_start_when_all_players_select_a_slot_and_click_ready:(no description)"
+    },
+    "exit_game": {
+        "message": "Ukončit hru?",
+        "description": "lobby:exit_game:(no description)"
+    },
+    "lobby": {
+        "message": "HALA",
+        "description": "lobby:lobby:(no description)"
+    },
+    "team_armies": {
+        "message": "Týmové armády",
+        "description": "lobby:team_armies:(no description)"
+    },
+    "one_player_per_army": {
+        "message": "Každý hráč za sebe.",
+        "description": "lobby:one_player_per_army:(no description)"
+    },
+    "ai_commander": {
+        "message": "AI Velitel",
+        "description": "lobby:ai_commander:(no description)"
+    },
+    "game_will_start_when_the_server_has_finished_generating_the_solar_system": {
+        "message": "Hra začne až server dokončí přípravu systému",
+        "description": "lobby:game_will_start_when_the_server_has_finished_generating_the_solar_system:(no description)"
+    },
+    "free_for_all": {
+        "message": "Všichni proti všem",
+        "description": "lobby:free_for_all:(no description)"
+    },
+    "lobby_beta": {
+        "message": "BETA HALA",
+        "description": "lobby:lobby_beta:(no description)"
+    },
+    "battle_solo_against_armies_commanded_by_the_ai": {
+        "message": "Bojuj sám proti armádě řízené počítačem.",
+        "description": "lobby:battle_solo_against_armies_commanded_by_the_ai:(no description)"
+    },
+    "players": {
+        "message": "HRÁČI",
+        "description": "lobby:players:(no description)"
+    }
+}

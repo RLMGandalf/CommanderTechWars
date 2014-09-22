@@ -1,0 +1,38 @@
+{
+    "allied": {
+        "description": "live_game_unit_alert:allied:(no description)", 
+        "message": "Allied"
+    }, 
+    "destroyed": {
+        "description": "live_game_unit_alert:destroyed:(no description)", 
+        "message": "destroyed."
+    }, 
+    "enemy_contact": {
+        "description": "live_game_unit_alert:enemy_contact:(no description)", 
+        "message": "Enemy Contact!"
+    }, 
+    "launched": {
+        "description": "live_game_unit_alert:launched:(no description)", 
+        "message": "launched!"
+    }, 
+    "located": {
+        "description": "live_game_unit_alert:located:(no description)", 
+        "message": "located."
+    }, 
+    "lost": {
+        "description": "live_game_unit_alert:lost:(no description)", 
+        "message": "lost."
+    }, 
+    "ping": {
+        "description": "live_game_unit_alert:ping:(no description)", 
+        "message": "Ping!"
+    }, 
+    "ready": {
+        "description": "live_game_unit_alert:ready:(no description)", 
+        "message": "ready."
+    }, 
+    "under_attack": {
+        "description": "live_game_unit_alert:under_attack:(no description)", 
+        "message": "under attack."
+    }
+}

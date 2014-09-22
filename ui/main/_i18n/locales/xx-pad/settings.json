@@ -1,0 +1,1507 @@
+{
+    "1100_recommended_for_480p": {
+        "description": "settings:1100_recommended_for_480p:(no description)", 
+        "message": "1100 (\u0213\u1f73\u03f2\u020f\u028d\u028d\u1f73\u019e\u0257\u1f73\u0257 \u0493\u020f\u0213 480\u2374)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "1100 (recommended for 480p)"
+    }, 
+    "2000_recommended_for_720p": {
+        "description": "settings:2000_recommended_for_720p:(no description)", 
+        "message": "2000 (\u0213\u1f73\u03f2\u020f\u028d\u028d\u1f73\u019e\u0257\u1f73\u0257 \u0493\u020f\u0213 720\u2374)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "2000 (recommended for 720p)"
+    }, 
+    "3200_recommended_for_1080p": {
+        "description": "settings:3200_recommended_for_1080p:(no description)", 
+        "message": "3200 (\u0213\u1f73\u03f2\u020f\u028d\u028d\u1f73\u019e\u0257\u1f73\u0257 \u0493\u020f\u0213 1080\u2374)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "3200 (recommended for 1080p)"
+    }, 
+    "500_recommended_for_240p": {
+        "description": "settings:500_recommended_for_240p:(no description)", 
+        "message": "500 (\u0213\u1f73\u03f2\u020f\u028d\u028d\u1f73\u019e\u0257\u1f73\u0257 \u0493\u020f\u0213 240\u2374)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "500 (recommended for 240p)"
+    }, 
+    "700_recommended_for_360p": {
+        "description": "settings:700_recommended_for_360p:(no description)", 
+        "message": "700 (\u0213\u1f73\u03f2\u020f\u028d\u028d\u1f73\u019e\u0257\u1f73\u0257 \u0493\u020f\u0213 360\u2374)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "700 (recommended for 360p)"
+    }, 
+    "abort": {
+        "description": "settings:abort:(no description)", 
+        "message": "\u0203\u0411\u020f\u0213\u04ad\u03a9\u03a9", 
+        "original": "abort"
+    }, 
+    "alerts": {
+        "description": "settings:alerts:(no description)", 
+        "message": "\u0203\u230a\u1f73\u0213\u04ad\u01a8\u03a9\u03a9\u03a9", 
+        "original": "alerts"
+    }, 
+    "align_to_pole": {
+        "description": "settings:align_to_pole:(no description)", 
+        "message": "\u0203\u230a\u0457\u0260\u019e \u04ad\u020f \u2374\u020f\u230a\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "align to pole"
+    }, 
+    "all": {
+        "description": "settings:all:(no description)", 
+        "message": "\u0202\u20a4\u20a4\u03a9", 
+        "original": "ALL"
+    }, 
+    "alt_fire": {
+        "description": "settings:alt_fire:(no description)", 
+        "message": "\u0203\u230a\u04ad \u0493\u0457\u0213\u1f73\u03a9\u03a9\u03a9\u03a9", 
+        "original": "alt fire"
+    }, 
+    "always": {
+        "description": "settings:always:(no description)", 
+        "message": "\u0202\u20a4\u20a9\u0202\u0423\u1e60\u03a9\u03a9\u03a9", 
+        "original": "ALWAYS"
+    }, 
+    "ambient_occlusion": {
+        "description": "settings:ambient_occlusion:(no description)", 
+        "message": "\u0202\u028d\u0411\u0457\u1f73\u019e\u04ad \u0472\u03f2\u03f2\u230a\u0574\u01a8\u0457\u020f\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Ambient Occlusion"
+    }, 
+    "anti_aliasing": {
+        "description": "settings:anti_aliasing:(no description)", 
+        "message": "\u0202\u019e\u04ad\u0457-\u0202\u230a\u0457\u0203\u01a8\u0457\u019e\u0260\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Anti-Aliasing"
+    }, 
+    "assist": {
+        "description": "settings:assist:(no description)", 
+        "message": "\u0203\u01a8\u01a8\u0457\u01a8\u04ad\u03a9\u03a9\u03a9", 
+        "original": "assist"
+    }, 
+    "attack": {
+        "description": "settings:attack:(no description)", 
+        "message": "\u0203\u04ad\u04ad\u0203\u03f2\u045c\u03a9\u03a9\u03a9", 
+        "original": "attack"
+    }, 
+    "audio": {
+        "description": "settings:audio:(no description)", 
+        "message": "\u0202\u0574\u0257\u0457\u020f\u03a9\u03a9", 
+        "original": "Audio"
+    }, 
+    "bitrate": {
+        "description": "settings:bitrate:(no description)", 
+        "message": "\u0e3f\u0457\u04ad\u0213\u0203\u04ad\u1f73\u03a9\u03a9\u03a9", 
+        "original": "Bitrate"
+    }, 
+    "bug_report": {
+        "description": "settings:bug_report:(no description)", 
+        "message": "\u0411\u0574\u0260 \u0213\u1f73\u2374\u020f\u0213\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "bug report"
+    }, 
+    "build": {
+        "description": "settings:build:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257\u03a9\u03a9", 
+        "original": "build"
+    }, 
+    "build_avatar": {
+        "description": "settings:build_avatar:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0203\u0477\u0203\u04ad\u0203\u0213\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build avatar"
+    }, 
+    "build_avatar_factory": {
+        "description": "settings:build_avatar_factory:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0203\u0477\u0203\u04ad\u0203\u0213 \u0493\u0203\u03f2\u04ad\u020f\u0213\u0443\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build avatar factory"
+    }, 
+    "build_bar_groups": {
+        "description": "settings:build_bar_groups:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0411\u0203\u0213 \u0260\u0213\u020f\u0574\u2374\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build bar groups"
+    }, 
+    "build_item_1": {
+        "description": "settings:build_item_1:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 1\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 1"
+    }, 
+    "build_item_10": {
+        "description": "settings:build_item_10:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 10\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 10"
+    }, 
+    "build_item_11": {
+        "description": "settings:build_item_11:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 11\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 11"
+    }, 
+    "build_item_12": {
+        "description": "settings:build_item_12:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 12\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 12"
+    }, 
+    "build_item_13": {
+        "description": "settings:build_item_13:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 13\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 13"
+    }, 
+    "build_item_14": {
+        "description": "settings:build_item_14:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 14\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 14"
+    }, 
+    "build_item_15": {
+        "description": "settings:build_item_15:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 15\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 15"
+    }, 
+    "build_item_2": {
+        "description": "settings:build_item_2:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 2\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 2"
+    }, 
+    "build_item_3": {
+        "description": "settings:build_item_3:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 3\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 3"
+    }, 
+    "build_item_4": {
+        "description": "settings:build_item_4:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 4\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 4"
+    }, 
+    "build_item_5": {
+        "description": "settings:build_item_5:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 5\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 5"
+    }, 
+    "build_item_6": {
+        "description": "settings:build_item_6:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 6\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 6"
+    }, 
+    "build_item_7": {
+        "description": "settings:build_item_7:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 7\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 7"
+    }, 
+    "build_item_8": {
+        "description": "settings:build_item_8:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 8"
+    }, 
+    "build_item_9": {
+        "description": "settings:build_item_9:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d 9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build item 9"
+    }, 
+    "build_items": {
+        "description": "settings:build_items:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u0457\u04ad\u1f73\u028d\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build items"
+    }, 
+    "build_loop": {
+        "description": "settings:build_loop:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u230a\u020f\u020f\u2374\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build loop"
+    }, 
+    "build_once": {
+        "description": "settings:build_once:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u020f\u019e\u03f2\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build once"
+    }, 
+    "build_orders": {
+        "description": "settings:build_orders:(no description)", 
+        "message": "\u0411\u0574\u0457\u230a\u0257 \u020f\u0213\u0257\u1f73\u0213\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "build orders"
+    }, 
+    "build_preview_behavior": {
+        "description": "settings:build_preview_behavior:(no description)", 
+        "message": "\u0e3f\u0574\u0457\u230a\u0257 \u1e54\u0213\u1f73\u0477\u0457\u1f73\u1ff4 \u0e3f\u1f73\u043d\u0203\u0477\u0457\u020f\u0213\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Build Preview Behavior"
+    }, 
+    "camera": {
+        "description": "settings:camera:(no description)", 
+        "message": "\u04aa\u0203\u028d\u1f73\u0213\u0203\u03a9\u03a9\u03a9", 
+        "original": "Camera"
+    }, 
+    "camera_friction": {
+        "description": "settings:camera_friction:(no description)", 
+        "message": "\u04aa\u0203\u028d\u1f73\u0213\u0203 \u03dc\u0213\u0457\u03f2\u04ad\u0457\u020f\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Camera Friction"
+    }, 
+    "cancel": {
+        "description": "settings:cancel:(no description)", 
+        "message": "\u04aa\u0203\u019e\u03f2\u1f73\u230a\u03a9\u03a9\u03a9", 
+        "original": "Cancel"
+    }, 
+    "capture_anchor": {
+        "description": "settings:capture_anchor:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor"
+    }, 
+    "capture_anchor_1": {
+        "description": "settings:capture_anchor_1:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213 1\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor 1"
+    }, 
+    "capture_anchor_10": {
+        "description": "settings:capture_anchor_10:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213 10\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor 10"
+    }, 
+    "capture_anchor_2": {
+        "description": "settings:capture_anchor_2:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213 2\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor 2"
+    }, 
+    "capture_anchor_3": {
+        "description": "settings:capture_anchor_3:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213 3\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor 3"
+    }, 
+    "capture_anchor_4": {
+        "description": "settings:capture_anchor_4:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213 4\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor 4"
+    }, 
+    "capture_anchor_5": {
+        "description": "settings:capture_anchor_5:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213 5\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor 5"
+    }, 
+    "capture_anchor_6": {
+        "description": "settings:capture_anchor_6:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213 6\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor 6"
+    }, 
+    "capture_anchor_7": {
+        "description": "settings:capture_anchor_7:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213 7\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor 7"
+    }, 
+    "capture_anchor_8": {
+        "description": "settings:capture_anchor_8:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213 8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor 8"
+    }, 
+    "capture_anchor_9": {
+        "description": "settings:capture_anchor_9:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0203\u019e\u03f2\u043d\u020f\u0213 9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture anchor 9"
+    }, 
+    "capture_group_0": {
+        "description": "settings:capture_group_0:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374 0\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture group 0"
+    }, 
+    "capture_group_1": {
+        "description": "settings:capture_group_1:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374 1\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture group 1"
+    }, 
+    "capture_group_2": {
+        "description": "settings:capture_group_2:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374 2\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture group 2"
+    }, 
+    "capture_group_3": {
+        "description": "settings:capture_group_3:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374 3\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture group 3"
+    }, 
+    "capture_group_4": {
+        "description": "settings:capture_group_4:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374 4\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture group 4"
+    }, 
+    "capture_group_5": {
+        "description": "settings:capture_group_5:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374 5\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture group 5"
+    }, 
+    "capture_group_6": {
+        "description": "settings:capture_group_6:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374 6\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture group 6"
+    }, 
+    "capture_group_7": {
+        "description": "settings:capture_group_7:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374 7\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture group 7"
+    }, 
+    "capture_group_8": {
+        "description": "settings:capture_group_8:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374 8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture group 8"
+    }, 
+    "capture_group_9": {
+        "description": "settings:capture_group_9:(no description)", 
+        "message": "\u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374 9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "capture group 9"
+    }, 
+    "chronocam": {
+        "description": "settings:chronocam:(no description)", 
+        "message": "\u03f2\u043d\u0213\u020f\u019e\u020f\u03f2\u0203\u028d\u03a9\u03a9\u03a9\u03a9", 
+        "original": "chronocam"
+    }, 
+    "communication": {
+        "description": "settings:communication:(no description)", 
+        "message": "\u03f2\u020f\u028d\u028d\u0574\u019e\u0457\u03f2\u0203\u04ad\u0457\u020f\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "communication"
+    }, 
+    "copy_to_pip": {
+        "description": "settings:copy_to_pip:(no description)", 
+        "message": "\u03f2\u020f\u2374\u0443 \u04ad\u020f \u2374\u0457\u2374\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "copy to pip"
+    }, 
+    "copy_unit": {
+        "description": "settings:copy_unit:(no description)", 
+        "message": "\u03f2\u020f\u2374\u0443 \u0574\u019e\u0457\u04ad\u03a9\u03a9\u03a9\u03a9", 
+        "original": "copy unit"
+    }, 
+    "crash": {
+        "description": "settings:crash:(no description)", 
+        "message": "\u03f2\u0213\u0203\u01a8\u043d\u03a9\u03a9", 
+        "original": "crash"
+    }, 
+    "custom": {
+        "description": "settings:custom:(no description)", 
+        "message": "\u04aa\u1ee6\u1e60\u4e01\u0472\u039c\u03a9\u03a9\u03a9", 
+        "original": "CUSTOM"
+    }, 
+    "decrease_camera_pan_speed": {
+        "description": "settings:decrease_camera_pan_speed:(no description)", 
+        "message": "\u0257\u1f73\u03f2\u0213\u1f73\u0203\u01a8\u1f73 \u03f2\u0203\u028d\u1f73\u0213\u0203 \u2374\u0203\u019e \u01a8\u2374\u1f73\u1f73\u0257\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "decrease camera pan speed"
+    }, 
+    "dev_mode": {
+        "description": "settings:dev_mode:(no description)", 
+        "message": "\u0257\u1f73\u0477 \u028d\u020f\u0257\u1f73\u03a9\u03a9\u03a9\u03a9", 
+        "original": "dev mode"
+    }, 
+    "direction": {
+        "description": "settings:direction:(no description)", 
+        "message": "\u0257\u0457\u0213\u1f73\u03f2\u04ad\u0457\u020f\u019e\u03a9\u03a9\u03a9\u03a9", 
+        "original": "direction"
+    }, 
+    "disable_navigation_debug_info": {
+        "description": "settings:disable_navigation_debug_info:(no description)", 
+        "message": "\u0257\u0457\u01a8\u0203\u0411\u230a\u1f73 \u019e\u0203\u0477\u0457\u0260\u0203\u04ad\u0457\u020f\u019e \u0257\u1f73\u0411\u0574\u0260 \u0457\u019e\u0493\u020f\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "disable navigation debug info"
+    }, 
+    "dismiss_alert_notification": {
+        "description": "settings:dismiss_alert_notification:(no description)", 
+        "message": "\u0257\u0457\u01a8\u028d\u0457\u01a8\u01a8 \u0203\u230a\u1f73\u0213\u04ad \u019e\u020f\u04ad\u0457\u0493\u0457\u03f2\u0203\u04ad\u0457\u020f\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "dismiss alert notification"
+    }, 
+    "display_mode": {
+        "description": "settings:display_mode:(no description)", 
+        "message": "\u0189\u0457\u01a8\u2374\u230a\u0203\u0443 \u039c\u020f\u0257\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Display Mode"
+    }, 
+    "edge_scroll_options": {
+        "description": "settings:edge_scroll_options:(no description)", 
+        "message": "\u0190\u0257\u0260\u1f73 \u1e60\u03f2\u0213\u020f\u230a\u230a \u0472\u2374\u04ad\u0457\u020f\u019e\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Edge Scroll Options"
+    }, 
+    "enable_navigation_debug_info": {
+        "description": "settings:enable_navigation_debug_info:(no description)", 
+        "message": "\u1f73\u019e\u0203\u0411\u230a\u1f73 \u019e\u0203\u0477\u0457\u0260\u0203\u04ad\u0457\u020f\u019e \u0257\u1f73\u0411\u0574\u0260 \u0457\u019e\u0493\u020f\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "enable navigation debug info"
+    }, 
+    "energy_off": {
+        "description": "settings:energy_off:(no description)", 
+        "message": "\u1f73\u019e\u1f73\u0213\u0260\u0443 \u020f\u0493\u0493\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "energy off"
+    }, 
+    "energy_on": {
+        "description": "settings:energy_on:(no description)", 
+        "message": "\u1f73\u019e\u1f73\u0213\u0260\u0443 \u020f\u019e\u03a9\u03a9\u03a9\u03a9", 
+        "original": "energy on"
+    }, 
+    "fire_at_will": {
+        "description": "settings:fire_at_will:(no description)", 
+        "message": "\u0493\u0457\u0213\u1f73 \u0203\u04ad \u1ff4\u0457\u230a\u230a\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "fire at will"
+    }, 
+    "fov": {
+        "description": "settings:fov:(no description)", 
+        "message": "\u03dc\u0472\u0476\u03a9", 
+        "original": "FOV"
+    }, 
+    "fps": {
+        "description": "settings:fps:(no description)", 
+        "message": "\u03dc\u1e54\u1e60\u03a9", 
+        "original": "FPS"
+    }, 
+    "free_move_backward": {
+        "description": "settings:free_move_backward:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u028d\u020f\u0477\u1f73 \u0411\u0203\u03f2\u045c\u1ff4\u0203\u0213\u0257\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free move backward"
+    }, 
+    "free_move_down": {
+        "description": "settings:free_move_down:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u028d\u020f\u0477\u1f73 \u0257\u020f\u1ff4\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free move down"
+    }, 
+    "free_move_forward": {
+        "description": "settings:free_move_forward:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u028d\u020f\u0477\u1f73 \u0493\u020f\u0213\u1ff4\u0203\u0213\u0257\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free move forward"
+    }, 
+    "free_move_left": {
+        "description": "settings:free_move_left:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u028d\u020f\u0477\u1f73 \u230a\u1f73\u0493\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free move left"
+    }, 
+    "free_move_right": {
+        "description": "settings:free_move_right:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u028d\u020f\u0477\u1f73 \u0213\u0457\u0260\u043d\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free move right"
+    }, 
+    "free_move_up": {
+        "description": "settings:free_move_up:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u028d\u020f\u0477\u1f73 \u0574\u2374\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free move up"
+    }, 
+    "free_movement": {
+        "description": "settings:free_movement:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u028d\u020f\u0477\u1f73\u028d\u1f73\u019e\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free movement"
+    }, 
+    "free_pitch_backward": {
+        "description": "settings:free_pitch_backward:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u2374\u0457\u04ad\u03f2\u043d \u0411\u0203\u03f2\u045c\u1ff4\u0203\u0213\u0257\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free pitch backward"
+    }, 
+    "free_pitch_forward": {
+        "description": "settings:free_pitch_forward:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u2374\u0457\u04ad\u03f2\u043d \u0493\u020f\u0213\u1ff4\u0203\u0213\u0257\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free pitch forward"
+    }, 
+    "free_roll_left": {
+        "description": "settings:free_roll_left:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u0213\u020f\u230a\u230a \u230a\u1f73\u0493\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free roll left"
+    }, 
+    "free_roll_right": {
+        "description": "settings:free_roll_right:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u0213\u020f\u230a\u230a \u0213\u0457\u0260\u043d\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free roll right"
+    }, 
+    "free_yaw_left": {
+        "description": "settings:free_yaw_left:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u0443\u0203\u1ff4 \u230a\u1f73\u0493\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free yaw left"
+    }, 
+    "free_yaw_right": {
+        "description": "settings:free_yaw_right:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u0443\u0203\u1ff4 \u0213\u0457\u0260\u043d\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free yaw right"
+    }, 
+    "free_zoom_in": {
+        "description": "settings:free_zoom_in:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u2124\u020f\u020f\u028d \u0457\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free zoom in"
+    }, 
+    "free_zoom_out": {
+        "description": "settings:free_zoom_out:(no description)", 
+        "message": "\u0493\u0213\u1f73\u1f73 \u2124\u020f\u020f\u028d \u020f\u0574\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "free zoom out"
+    }, 
+    "fullscreen": {
+        "description": "settings:fullscreen:(no description)", 
+        "message": "\u03dc\u1ee6\u20a4\u20a4\u1e60\u04aa\u211d\u0190\u0190\u019d\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "FULLSCREEN"
+    }, 
+    "fxaa": {
+        "description": "settings:fxaa:(no description)", 
+        "message": "\u03dc\u04b2\u0202\u0202\u03a9\u03a9", 
+        "original": "FXAA"
+    }, 
+    "general": {
+        "description": "settings:general:(no description)", 
+        "message": "\u0260\u1f73\u019e\u1f73\u0213\u0203\u230a\u03a9\u03a9\u03a9", 
+        "original": "general"
+    }, 
+    "graphics": {
+        "description": "settings:graphics:(no description)", 
+        "message": "\u01f4\u0213\u0203\u2374\u043d\u0457\u03f2\u01a8\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Graphics"
+    }, 
+    "hdr": {
+        "description": "settings:hdr:(no description)", 
+        "message": "\u04c7\u0189\u211d\u03a9", 
+        "original": "HDR"
+    }, 
+    "headlights": {
+        "description": "settings:headlights:(no description)", 
+        "message": "\u04c7\u1f73\u0203\u0257\u230a\u0457\u0260\u043d\u04ad\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Headlights"
+    }, 
+    "high": {
+        "description": "settings:high:(no description)", 
+        "message": "\u04c7\u03aa\u01f4\u04c7\u03a9\u03a9", 
+        "original": "HIGH"
+    }, 
+    "hold_fire": {
+        "description": "settings:hold_fire:(no description)", 
+        "message": "\u043d\u020f\u230a\u0257 \u0493\u0457\u0213\u1f73\u03a9\u03a9\u03a9\u03a9", 
+        "original": "hold fire"
+    }, 
+    "hold_position": {
+        "description": "settings:hold_position:(no description)", 
+        "message": "\u043d\u020f\u230a\u0257 \u2374\u020f\u01a8\u0457\u04ad\u0457\u020f\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "hold position"
+    }, 
+    "icon_display_distance": {
+        "description": "settings:icon_display_distance:(no description)", 
+        "message": "\u03aa\u04aa\u0472\u019d \u0189\u03aa\u1e60\u1e54\u20a4\u0202\u0423 \u0189\u03aa\u1e60\u4e01\u0202\u019d\u04aa\u0190\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "ICON DISPLAY DISTANCE"
+    }, 
+    "increase_camera_pan_speed": {
+        "description": "settings:increase_camera_pan_speed:(no description)", 
+        "message": "\u0457\u019e\u03f2\u0213\u1f73\u0203\u01a8\u1f73 \u03f2\u0203\u028d\u1f73\u0213\u0203 \u2374\u0203\u019e \u01a8\u2374\u1f73\u1f73\u0257\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "increase camera pan speed"
+    }, 
+    "jump_to_next_planet": {
+        "description": "settings:jump_to_next_planet:(no description)", 
+        "message": "\u0644\u0574\u028d\u2374 \u04ad\u020f \u019e\u1f73\u2327\u04ad \u2374\u230a\u0203\u019e\u1f73\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "jump to next planet"
+    }, 
+    "jump_to_previous_planet": {
+        "description": "settings:jump_to_previous_planet:(no description)", 
+        "message": "\u0644\u0574\u028d\u2374 \u04ad\u020f \u2374\u0213\u1f73\u0477\u0457\u020f\u0574\u01a8 \u2374\u230a\u0203\u019e\u1f73\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "jump to previous planet"
+    }, 
+    "key_pan_speed": {
+        "description": "settings:key_pan_speed:(no description)", 
+        "message": "\u04a0\u1f73\u0443 \u1e54\u0203\u019e \u1e60\u2374\u1f73\u1f73\u0257\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Key Pan Speed"
+    }, 
+    "keyboard": {
+        "description": "settings:keyboard:(no description)", 
+        "message": "\u04a0\u1f73\u0443\u0411\u020f\u0203\u0213\u0257\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Keyboard"
+    }, 
+    "language": {
+        "description": "settings:language:(no description)", 
+        "message": "\u20a4\u0203\u019e\u0260\u0574\u0203\u0260\u1f73\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Language"
+    }, 
+    "last_pseudo_frame": {
+        "description": "settings:last_pseudo_frame:(no description)", 
+        "message": "\u230a\u0203\u01a8\u04ad \u2374\u01a8\u1f73\u0574\u0257\u020f \u0493\u0213\u0203\u028d\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "last pseudo frame"
+    }, 
+    "livestream_settings": {
+        "description": "settings:livestream_settings:(no description)", 
+        "message": "\u20a4\u0457\u0477\u1f73\u01a8\u04ad\u0213\u1f73\u0203\u028d \u1e60\u1f73\u04ad\u04ad\u0457\u019e\u0260\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Livestream Settings"
+    }, 
+    "load": {
+        "description": "settings:load:(no description)", 
+        "message": "\u230a\u020f\u0203\u0257\u03a9\u03a9", 
+        "original": "load"
+    }, 
+    "low": {
+        "description": "settings:low:(no description)", 
+        "message": "\u20a4\u0472\u20a9\u03a9", 
+        "original": "LOW"
+    }, 
+    "maneuver": {
+        "description": "settings:maneuver:(no description)", 
+        "message": "\u028d\u0203\u019e\u1f73\u0574\u0477\u1f73\u0213\u03a9\u03a9\u03a9\u03a9", 
+        "original": "maneuver"
+    }, 
+    "master_volume": {
+        "description": "settings:master_volume:(no description)", 
+        "message": "\u039c\u0203\u01a8\u04ad\u1f73\u0213 \u0476\u020f\u230a\u0574\u028d\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Master Volume"
+    }, 
+    "medium": {
+        "description": "settings:medium:(no description)", 
+        "message": "\u039c\u0190\u0189\u03aa\u1ee6\u039c\u03a9\u03a9\u03a9", 
+        "original": "MEDIUM"
+    }, 
+    "modes": {
+        "description": "settings:modes:(no description)", 
+        "message": "\u028d\u020f\u0257\u1f73\u01a8\u03a9\u03a9", 
+        "original": "modes"
+    }, 
+    "mouse_pan_speed": {
+        "description": "settings:mouse_pan_speed:(no description)", 
+        "message": "\u039c\u020f\u0574\u01a8\u1f73 \u1e54\u0203\u019e \u1e60\u2374\u1f73\u1f73\u0257\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Mouse Pan Speed"
+    }, 
+    "move": {
+        "description": "settings:move:(no description)", 
+        "message": "\u028d\u020f\u0477\u1f73\u03a9\u03a9", 
+        "original": "move"
+    }, 
+    "move_down": {
+        "description": "settings:move_down:(no description)", 
+        "message": "\u028d\u020f\u0477\u1f73 \u0257\u020f\u1ff4\u019e\u03a9\u03a9\u03a9\u03a9", 
+        "original": "move down"
+    }, 
+    "move_left": {
+        "description": "settings:move_left:(no description)", 
+        "message": "\u028d\u020f\u0477\u1f73 \u230a\u1f73\u0493\u04ad\u03a9\u03a9\u03a9\u03a9", 
+        "original": "move left"
+    }, 
+    "move_right": {
+        "description": "settings:move_right:(no description)", 
+        "message": "\u028d\u020f\u0477\u1f73 \u0213\u0457\u0260\u043d\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "move right"
+    }, 
+    "move_up": {
+        "description": "settings:move_up:(no description)", 
+        "message": "\u028d\u020f\u0477\u1f73 \u0574\u2374\u03a9\u03a9\u03a9", 
+        "original": "move up"
+    }, 
+    "music_volume": {
+        "description": "settings:music_volume:(no description)", 
+        "message": "\u039c\u0574\u01a8\u0457\u03f2 \u0476\u020f\u230a\u0574\u028d\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Music Volume"
+    }, 
+    "native_100": {
+        "description": "settings:native_100:(no description)", 
+        "message": "\u019d\u0202\u4e01\u03aa\u0476\u0190 (100%)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "NATIVE (100%)"
+    }, 
+    "navigate_back_exit": {
+        "description": "settings:navigate_back_exit:(no description)", 
+        "message": "\u019e\u0203\u0477\u0457\u0260\u0203\u04ad\u1f73 \u0411\u0203\u03f2\u045c/\u1f73\u2327\u0457\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "navigate back/exit"
+    }, 
+    "never": {
+        "description": "settings:never:(no description)", 
+        "message": "\u019d\u0190\u0476\u0190\u211d\u03a9\u03a9", 
+        "original": "NEVER"
+    }, 
+    "next_pseudo_frame": {
+        "description": "settings:next_pseudo_frame:(no description)", 
+        "message": "\u019e\u1f73\u2327\u04ad \u2374\u01a8\u1f73\u0574\u0257\u020f \u0493\u0213\u0203\u028d\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "next pseudo frame"
+    }, 
+    "normal_chat": {
+        "description": "settings:normal_chat:(no description)", 
+        "message": "\u019e\u020f\u0213\u028d\u0203\u230a \u03f2\u043d\u0203\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "normal chat"
+    }, 
+    "off": {
+        "description": "settings:off:(no description)", 
+        "message": "\u0472\u03dc\u03dc\u03a9", 
+        "original": "OFF"
+    }, 
+    "off_mouselock": {
+        "description": "settings:off_mouselock:(no description)", 
+        "message": "\u0472\u03dc\u03dc (\u039c\u0472\u1ee6\u1e60\u0190\u20a4\u0472\u04aa\u04a0)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "OFF (MOUSELOCK)"
+    }, 
+    "off_no_mouselock": {
+        "description": "settings:off_no_mouselock:(no description)", 
+        "message": "\u0472\u03dc\u03dc (\u019d\u0472 \u039c\u0472\u1ee6\u1e60\u0190\u20a4\u0472\u04aa\u04a0)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "OFF (NO MOUSELOCK)"
+    }, 
+    "on": {
+        "description": "settings:on:(no description)", 
+        "message": "\u0472\u019d\u03a9", 
+        "original": "ON"
+    }, 
+    "orbital_shell": {
+        "description": "settings:orbital_shell:(no description)", 
+        "message": "\u0472\u0213\u0411\u0457\u04ad\u0203\u230a \u1e60\u043d\u1f73\u230a\u230a\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Orbital Shell"
+    }, 
+    "order_preview_behavior": {
+        "description": "settings:order_preview_behavior:(no description)", 
+        "message": "\u0472\u0213\u0257\u1f73\u0213 \u1e54\u0213\u1f73\u0477\u0457\u1f73\u1ff4 \u0e3f\u1f73\u043d\u0203\u0477\u0457\u020f\u0213\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Order Preview Behavior"
+    }, 
+    "paste_unit": {
+        "description": "settings:paste_unit:(no description)", 
+        "message": "\u2374\u0203\u01a8\u04ad\u1f73 \u0574\u019e\u0457\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "paste unit"
+    }, 
+    "patrol": {
+        "description": "settings:patrol:(no description)", 
+        "message": "\u2374\u0203\u04ad\u0213\u020f\u230a\u03a9\u03a9\u03a9", 
+        "original": "patrol"
+    }, 
+    "pause_game": {
+        "description": "settings:pause_game:(no description)", 
+        "message": "\u2374\u0203\u0574\u01a8\u1f73 \u0260\u0203\u028d\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "pause game"
+    }, 
+    "pause_time": {
+        "description": "settings:pause_time:(no description)", 
+        "message": "\u2374\u0203\u0574\u01a8\u1f73 \u04ad\u0457\u028d\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "pause time"
+    }, 
+    "picture_in_picture": {
+        "description": "settings:picture_in_picture:(no description)", 
+        "message": "\u2374\u0457\u03f2\u04ad\u0574\u0213\u1f73-\u0457\u019e-\u2374\u0457\u03f2\u04ad\u0574\u0213\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "picture-in-picture"
+    }, 
+    "ping": {
+        "description": "settings:ping:(no description)", 
+        "message": "\u2374\u0457\u019e\u0260\u03a9\u03a9", 
+        "original": "ping"
+    }, 
+    "planet_jump": {
+        "description": "settings:planet_jump:(no description)", 
+        "message": "\u2374\u230a\u0203\u019e\u1f73\u04ad \u0644\u0574\u028d\u2374\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "planet jump"
+    }, 
+    "play_backwards_at_100": {
+        "description": "settings:play_backwards_at_100:(no description)", 
+        "message": "\u2374\u230a\u0203\u0443 \u0411\u0203\u03f2\u045c\u1ff4\u0203\u0213\u0257\u01a8 \u0203\u04ad 100%\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "play backwards at 100%"
+    }, 
+    "play_backwards_at_50": {
+        "description": "settings:play_backwards_at_50:(no description)", 
+        "message": "\u2374\u230a\u0203\u0443 \u0411\u0203\u03f2\u045c\u1ff4\u0203\u0213\u0257\u01a8 \u0203\u04ad 50%\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "play backwards at 50%"
+    }, 
+    "play_forward_at_100": {
+        "description": "settings:play_forward_at_100:(no description)", 
+        "message": "\u2374\u230a\u0203\u0443 \u0493\u020f\u0213\u1ff4\u0203\u0213\u0257 \u0203\u04ad 100%\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "play forward at 100%"
+    }, 
+    "play_forward_at_50": {
+        "description": "settings:play_forward_at_50:(no description)", 
+        "message": "\u2374\u230a\u0203\u0443 \u0493\u020f\u0213\u1ff4\u0203\u0213\u0257 \u0203\u04ad 50%\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "play forward at 50%"
+    }, 
+    "pole_lock": {
+        "description": "settings:pole_lock:(no description)", 
+        "message": "\u1e54\u020f\u230a\u1f73 \u20a4\u020f\u03f2\u045c\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Pole Lock"
+    }, 
+    "publish_server_mods": {
+        "description": "settings:publish_server_mods:(no description)", 
+        "message": "\u2374\u0574\u0411\u230a\u0457\u01a8\u043d \u01a8\u1f73\u0213\u0477\u1f73\u0213 \u028d\u020f\u0257\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "publish server mods"
+    }, 
+    "quality_preset": {
+        "description": "settings:quality_preset:(no description)", 
+        "message": "\u04a8\u0574\u0203\u230a\u0457\u04ad\u0443 \u1e54\u0213\u1f73\u01a8\u1f73\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Quality Preset"
+    }, 
+    "quick_profile": {
+        "description": "settings:quick_profile:(no description)", 
+        "message": "\u0533\u0574\u0457\u03f2\u045c \u2374\u0213\u020f\u0493\u0457\u230a\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "quick profile"
+    }, 
+    "range_dependent": {
+        "description": "settings:range_dependent:(no description)", 
+        "message": "\u211d\u0202\u019d\u01f4\u0190 \u0189\u0190\u1e54\u0190\u019d\u0189\u0190\u019d\u4e01\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "RANGE DEPENDENT"
+    }, 
+    "recall_anchor": {
+        "description": "settings:recall_anchor:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor"
+    }, 
+    "recall_anchor_0": {
+        "description": "settings:recall_anchor_0:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213 0\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor 0"
+    }, 
+    "recall_anchor_1": {
+        "description": "settings:recall_anchor_1:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213 1\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor 1"
+    }, 
+    "recall_anchor_2": {
+        "description": "settings:recall_anchor_2:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213 2\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor 2"
+    }, 
+    "recall_anchor_3": {
+        "description": "settings:recall_anchor_3:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213 3\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor 3"
+    }, 
+    "recall_anchor_4": {
+        "description": "settings:recall_anchor_4:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213 4\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor 4"
+    }, 
+    "recall_anchor_5": {
+        "description": "settings:recall_anchor_5:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213 5\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor 5"
+    }, 
+    "recall_anchor_6": {
+        "description": "settings:recall_anchor_6:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213 6\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor 6"
+    }, 
+    "recall_anchor_7": {
+        "description": "settings:recall_anchor_7:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213 7\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor 7"
+    }, 
+    "recall_anchor_8": {
+        "description": "settings:recall_anchor_8:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213 8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor 8"
+    }, 
+    "recall_anchor_9": {
+        "description": "settings:recall_anchor_9:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0203\u019e\u03f2\u043d\u020f\u0213 9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall anchor 9"
+    }, 
+    "recall_group_0": {
+        "description": "settings:recall_group_0:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374 0\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall group 0"
+    }, 
+    "recall_group_1": {
+        "description": "settings:recall_group_1:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374 1\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall group 1"
+    }, 
+    "recall_group_2": {
+        "description": "settings:recall_group_2:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374 2\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall group 2"
+    }, 
+    "recall_group_3": {
+        "description": "settings:recall_group_3:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374 3\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall group 3"
+    }, 
+    "recall_group_4": {
+        "description": "settings:recall_group_4:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374 4\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall group 4"
+    }, 
+    "recall_group_5": {
+        "description": "settings:recall_group_5:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374 5\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall group 5"
+    }, 
+    "recall_group_6": {
+        "description": "settings:recall_group_6:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374 6\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall group 6"
+    }, 
+    "recall_group_7": {
+        "description": "settings:recall_group_7:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374 7\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall group 7"
+    }, 
+    "recall_group_8": {
+        "description": "settings:recall_group_8:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374 8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall group 8"
+    }, 
+    "recall_group_9": {
+        "description": "settings:recall_group_9:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374 9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "recall group 9"
+    }, 
+    "reclaim": {
+        "description": "settings:reclaim:(no description)", 
+        "message": "\u0213\u1f73\u03f2\u230a\u0203\u0457\u028d\u03a9\u03a9\u03a9", 
+        "original": "reclaim"
+    }, 
+    "reload_view": {
+        "description": "settings:reload_view:(no description)", 
+        "message": "\u0213\u1f73\u230a\u020f\u0203\u0257 \u0477\u0457\u1f73\u1ff4\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "reload view"
+    }, 
+    "repair": {
+        "description": "settings:repair:(no description)", 
+        "message": "\u0213\u1f73\u2374\u0203\u0457\u0213\u03a9\u03a9\u03a9", 
+        "original": "repair"
+    }, 
+    "resolution": {
+        "description": "settings:resolution:(no description)", 
+        "message": "\u211d\u1f73\u01a8\u020f\u230a\u0574\u04ad\u0457\u020f\u019e\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Resolution"
+    }, 
+    "resolution_scaling": {
+        "description": "settings:resolution_scaling:(no description)", 
+        "message": "\u211d\u1f73\u01a8\u020f\u230a\u0574\u04ad\u0457\u020f\u019e \u1e60\u03f2\u0203\u230a\u0457\u019e\u0260\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Resolution Scaling"
+    }, 
+    "restore_all_defaults": {
+        "description": "settings:restore_all_defaults:(no description)", 
+        "message": "\u211d\u0190\u1e60\u4e01\u0472\u211d\u0190 \u0202\u20a4\u20a4 \u0189\u0190\u03dc\u0202\u1ee6\u20a4\u4e01\u1e60\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "RESTORE ALL DEFAULTS"
+    }, 
+    "restore_defaults": {
+        "description": "settings:restore_defaults:(no description)", 
+        "message": "\u211d\u0190\u1e60\u4e01\u0472\u211d\u0190 \u0189\u0190\u03dc\u0202\u1ee6\u20a4\u4e01\u1e60\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "RESTORE DEFAULTS"
+    }, 
+    "resume_at_latest_time": {
+        "description": "settings:resume_at_latest_time:(no description)", 
+        "message": "\u0213\u1f73\u01a8\u0574\u028d\u1f73 \u0203\u04ad \u230a\u0203\u04ad\u1f73\u01a8\u04ad \u04ad\u0457\u028d\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "resume at latest time"
+    }, 
+    "return_fire": {
+        "description": "settings:return_fire:(no description)", 
+        "message": "\u0213\u1f73\u04ad\u0574\u0213\u019e \u0493\u0457\u0213\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "return fire"
+    }, 
+    "roam": {
+        "description": "settings:roam:(no description)", 
+        "message": "\u0213\u020f\u0203\u028d\u03a9\u03a9", 
+        "original": "roam"
+    }, 
+    "run_twitch_commercial": {
+        "description": "settings:run_twitch_commercial:(no description)", 
+        "message": "\u0213\u0574\u019e \u04ad\u1ff4\u0457\u04ad\u03f2\u043d \u03f2\u020f\u028d\u028d\u1f73\u0213\u03f2\u0457\u0203\u230a\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "run twitch commercial"
+    }, 
+    "save": {
+        "description": "settings:save:(no description)", 
+        "message": "\u1e60\u0203\u0477\u1f73\u03a9\u03a9", 
+        "original": "Save"
+    }, 
+    "save_and_close": {
+        "description": "settings:save_and_close:(no description)", 
+        "message": "\u1e60\u0203\u0477\u1f73 \u0202\u019e\u0257 \u04aa\u230a\u020f\u01a8\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Save And Close"
+    }, 
+    "select_air_group": {
+        "description": "settings:select_air_group:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u0457\u0213 \u0260\u0213\u020f\u0574\u2374\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select air group"
+    }, 
+    "select_all_air_combat_units": {
+        "description": "settings:select_all_air_combat_units:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u0203\u0457\u0213 \u03f2\u020f\u028d\u0411\u0203\u04ad \u0574\u019e\u0457\u04ad\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all air combat units"
+    }, 
+    "select_all_air_combat_units_on_screen": {
+        "description": "settings:select_all_air_combat_units_on_screen:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u0203\u0457\u0213 \u03f2\u020f\u028d\u0411\u0203\u04ad \u0574\u019e\u0457\u04ad\u01a8 \u020f\u019e \u01a8\u03f2\u0213\u1f73\u1f73\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all air combat units on screen"
+    }, 
+    "select_all_combat_units": {
+        "description": "settings:select_all_combat_units:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u03f2\u020f\u028d\u0411\u0203\u04ad \u0574\u019e\u0457\u04ad\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all combat units"
+    }, 
+    "select_all_combat_units_on_screen": {
+        "description": "settings:select_all_combat_units_on_screen:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u03f2\u020f\u028d\u0411\u0203\u04ad \u0574\u019e\u0457\u04ad\u01a8 \u020f\u019e \u01a8\u03f2\u0213\u1f73\u1f73\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all combat units on screen"
+    }, 
+    "select_all_factories": {
+        "description": "settings:select_all_factories:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u0493\u0203\u03f2\u04ad\u020f\u0213\u0457\u1f73\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all factories"
+    }, 
+    "select_all_factories_on_screen": {
+        "description": "settings:select_all_factories_on_screen:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u0493\u0203\u03f2\u04ad\u020f\u0213\u0457\u1f73\u01a8 \u020f\u019e \u01a8\u03f2\u0213\u1f73\u1f73\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all factories on screen"
+    }, 
+    "select_all_idle_factories": {
+        "description": "settings:select_all_idle_factories:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u0457\u0257\u230a\u1f73 \u0493\u0203\u03f2\u04ad\u020f\u0213\u0457\u1f73\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all idle factories"
+    }, 
+    "select_all_idle_factories_on_screen": {
+        "description": "settings:select_all_idle_factories_on_screen:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u0457\u0257\u230a\u1f73 \u0493\u0203\u03f2\u04ad\u020f\u0213\u0457\u1f73\u01a8 \u020f\u019e \u01a8\u03f2\u0213\u1f73\u1f73\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all idle factories on screen"
+    }, 
+    "select_all_land_combat_units": {
+        "description": "settings:select_all_land_combat_units:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u230a\u0203\u019e\u0257 \u03f2\u020f\u028d\u0411\u0203\u04ad \u0574\u019e\u0457\u04ad\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all land combat units"
+    }, 
+    "select_all_land_combat_units_on_screen": {
+        "description": "settings:select_all_land_combat_units_on_screen:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u230a\u0203\u019e\u0257 \u03f2\u020f\u028d\u0411\u0203\u04ad \u0574\u019e\u0457\u04ad\u01a8 \u020f\u019e \u01a8\u03f2\u0213\u1f73\u1f73\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all land combat units on screen"
+    }, 
+    "select_all_matching_units_on_screen": {
+        "description": "settings:select_all_matching_units_on_screen:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u028d\u0203\u04ad\u03f2\u043d\u0457\u019e\u0260 \u0574\u019e\u0457\u04ad\u01a8 \u020f\u019e \u01a8\u03f2\u0213\u1f73\u1f73\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all matching units on screen"
+    }, 
+    "select_all_naval_combat_units": {
+        "description": "settings:select_all_naval_combat_units:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u019e\u0203\u0477\u0203\u230a \u03f2\u020f\u028d\u0411\u0203\u04ad \u0574\u019e\u0457\u04ad\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all naval combat units"
+    }, 
+    "select_all_naval_combat_units_on_screen": {
+        "description": "settings:select_all_naval_combat_units_on_screen:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203\u230a\u230a \u019e\u0203\u0477\u0203\u230a \u03f2\u020f\u028d\u0411\u0203\u04ad \u0574\u019e\u0457\u04ad\u01a8 \u020f\u019e \u01a8\u03f2\u0213\u1f73\u1f73\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select all naval combat units on screen"
+    }, 
+    "select_bot_group": {
+        "description": "settings:select_bot_group:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0411\u020f\u04ad \u0260\u0213\u020f\u0574\u2374\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select bot group"
+    }, 
+    "select_combat_group": {
+        "description": "settings:select_combat_group:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u03f2\u020f\u028d\u0411\u0203\u04ad \u0260\u0213\u020f\u0574\u2374\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select combat group"
+    }, 
+    "select_commander": {
+        "description": "settings:select_commander:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u03f2\u020f\u028d\u028d\u0203\u019e\u0257\u1f73\u0213\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select commander"
+    }, 
+    "select_factory_group": {
+        "description": "settings:select_factory_group:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0493\u0203\u03f2\u04ad\u020f\u0213\u0443 \u0260\u0213\u020f\u0574\u2374\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select factory group"
+    }, 
+    "select_idle_fabbers": {
+        "description": "settings:select_idle_fabbers:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0457\u0257\u230a\u1f73 \u0493\u0203\u0411\u0411\u1f73\u0213\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select idle fabbers"
+    }, 
+    "select_orbital_group_buildings": {
+        "description": "settings:select_orbital_group_buildings:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u020f\u0213\u0411\u0457\u04ad\u0203\u230a \u0260\u0213\u020f\u0574\u2374 (\u0411\u0574\u0457\u230a\u0257\u0457\u019e\u0260\u01a8)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select orbital group (buildings)"
+    }, 
+    "select_orbital_group_units": {
+        "description": "settings:select_orbital_group_units:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u020f\u0213\u0411\u0457\u04ad\u0203\u230a \u0260\u0213\u020f\u0574\u2374 (\u0574\u019e\u0457\u04ad\u01a8)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select orbital group (units)"
+    }, 
+    "select_sea_group": {
+        "description": "settings:select_sea_group:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u01a8\u1f73\u0203 \u0260\u0213\u020f\u0574\u2374\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select sea group"
+    }, 
+    "select_utility_group": {
+        "description": "settings:select_utility_group:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0574\u04ad\u0457\u230a\u0457\u04ad\u0443 \u0260\u0213\u020f\u0574\u2374\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select utility group"
+    }, 
+    "select_vehicle_group": {
+        "description": "settings:select_vehicle_group:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0477\u1f73\u043d\u0457\u03f2\u230a\u1f73 \u0260\u0213\u020f\u0574\u2374\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "select vehicle group"
+    }, 
+    "selected": {
+        "description": "settings:selected:(no description)", 
+        "message": "\u1e60\u0190\u20a4\u0190\u04aa\u4e01\u0190\u0189\u03a9\u03a9\u03a9\u03a9", 
+        "original": "SELECTED"
+    }, 
+    "self_destruct_selected_unit": {
+        "description": "settings:self_destruct_selected_unit:(no description)", 
+        "message": "\u01a8\u1f73\u230a\u0493 \u0257\u1f73\u01a8\u04ad\u0213\u0574\u03f2\u04ad \u01a8\u1f73\u230a\u1f73\u03f2\u04ad\u1f73\u0257 \u0574\u019e\u0457\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "self destruct selected unit"
+    }, 
+    "server": {
+        "description": "settings:server:(no description)", 
+        "message": "\u1e60\u1f73\u0213\u0477\u1f73\u0213\u03a9\u03a9\u03a9", 
+        "original": "Server"
+    }, 
+    "set_army_from_hover": {
+        "description": "settings:set_army_from_hover:(no description)", 
+        "message": "\u01a8\u1f73\u04ad \u0203\u0213\u028d\u0443 \u0493\u0213\u020f\u028d \u043d\u020f\u0477\u1f73\u0213\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "set army from hover"
+    }, 
+    "set_debug_camera": {
+        "description": "settings:set_debug_camera:(no description)", 
+        "message": "\u01a8\u1f73\u04ad \u0257\u1f73\u0411\u0574\u0260 \u03f2\u0203\u028d\u1f73\u0213\u0203\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "set debug camera"
+    }, 
+    "set_default_camera": {
+        "description": "settings:set_default_camera:(no description)", 
+        "message": "\u01a8\u1f73\u04ad \u0257\u1f73\u0493\u0203\u0574\u230a\u04ad \u03f2\u0203\u028d\u1f73\u0213\u0203\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "set default camera"
+    }, 
+    "set_free_camera": {
+        "description": "settings:set_free_camera:(no description)", 
+        "message": "\u01a8\u1f73\u04ad \u0493\u0213\u1f73\u1f73 \u03f2\u0203\u028d\u1f73\u0213\u0203\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "set free camera"
+    }, 
+    "set_planet_camera": {
+        "description": "settings:set_planet_camera:(no description)", 
+        "message": "\u01a8\u1f73\u04ad \u2374\u230a\u0203\u019e\u1f73\u04ad \u03f2\u0203\u028d\u1f73\u0213\u0203\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "set planet camera"
+    }, 
+    "settings": {
+        "description": "settings:settings:(no description)", 
+        "message": "\u1e60\u1f73\u04ad\u04ad\u0457\u019e\u0260\u01a8\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Settings"
+    }, 
+    "shadows": {
+        "description": "settings:shadows:(no description)", 
+        "message": "\u1e60\u043d\u0203\u0257\u020f\u1ff4\u01a8\u03a9\u03a9\u03a9", 
+        "original": "Shadows"
+    }, 
+    "shift": {
+        "description": "settings:shift:(no description)", 
+        "message": "\u1e60\u04c7\u03aa\u03dc\u4e01\u03a9\u03a9", 
+        "original": "SHIFT"
+    }, 
+    "show_build_previews": {
+        "description": "settings:show_build_previews:(no description)", 
+        "message": "\u1e60\u043d\u020f\u1ff4 \u0e3f\u0574\u0457\u230a\u0257 \u1e54\u0213\u1f73\u0477\u0457\u1f73\u1ff4\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Show Build Previews"
+    }, 
+    "show_hide_game_stats": {
+        "description": "settings:show_hide_game_stats:(no description)", 
+        "message": "\u1e60\u043d\u020f\u1ff4/\u04c7\u0457\u0257\u1f73 \u0260\u0203\u028d\u1f73 \u01a8\u04ad\u0203\u04ad\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Show/Hide game stats"
+    }, 
+    "show_hide_performance_panel": {
+        "description": "settings:show_hide_performance_panel:(no description)", 
+        "message": "\u01a8\u043d\u020f\u1ff4/\u043d\u0457\u0257\u1f73 \u2374\u1f73\u0213\u0493\u020f\u0213\u028d\u0203\u019e\u03f2\u1f73 \u2374\u0203\u019e\u1f73\u230a\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "show/hide performance panel"
+    }, 
+    "show_hide_pip": {
+        "description": "settings:show_hide_pip:(no description)", 
+        "message": "\u1e60\u043d\u020f\u1ff4/\u04c7\u0457\u0257\u1f73 \u2374\u0457\u2374\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Show/Hide pip"
+    }, 
+    "show_hide_ui": {
+        "description": "settings:show_hide_ui:(no description)", 
+        "message": "\u01a8\u043d\u020f\u1ff4/\u043d\u0457\u0257\u1f73 \u1ee6\u03aa\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "show/hide UI"
+    }, 
+    "show_hide_visual_aid_overlays": {
+        "description": "settings:show_hide_visual_aid_overlays:(no description)", 
+        "message": "\u01a8\u043d\u020f\u1ff4/\u043d\u0457\u0257\u1f73 \u0477\u0457\u01a8\u0574\u0203\u230a \u0203\u0457\u0257 \u020f\u0477\u1f73\u0213\u230a\u0203\u0443\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "show/hide visual aid overlays"
+    }, 
+    "show_metal_spot_icons": {
+        "description": "settings:show_metal_spot_icons:(no description)", 
+        "message": "\u1e60\u043d\u020f\u1ff4 \u039c\u1f73\u04ad\u0203\u230a \u1e60\u2374\u020f\u04ad \u03aa\u03f2\u020f\u019e\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Show Metal Spot Icons"
+    }, 
+    "show_order_previews": {
+        "description": "settings:show_order_previews:(no description)", 
+        "message": "\u1e60\u043d\u020f\u1ff4 \u0472\u0213\u0257\u1f73\u0213 \u1e54\u0213\u1f73\u0477\u0457\u1f73\u1ff4\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Show Order Previews"
+    }, 
+    "show_stat_bars": {
+        "description": "settings:show_stat_bars:(no description)", 
+        "message": "\u1e60\u043d\u020f\u1ff4 \u1e60\u04ad\u0203\u04ad \u0e3f\u0203\u0213\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Show Stat Bars"
+    }, 
+    "show_unit_icons": {
+        "description": "settings:show_unit_icons:(no description)", 
+        "message": "\u1e60\u043d\u020f\u1ff4 \u1ee6\u019e\u0457\u04ad \u03aa\u03f2\u020f\u019e\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Show Unit Icons"
+    }, 
+    "sign_in": {
+        "description": "settings:sign_in:(no description)", 
+        "message": "\u1e60\u03aa\u01f4\u019d \u03aa\u019d\u03a9\u03a9\u03a9", 
+        "original": "SIGN IN"
+    }, 
+    "sign_out": {
+        "description": "settings:sign_out:(no description)", 
+        "message": "\u1e60\u03aa\u01f4\u019d \u0472\u1ee6\u4e01\u03a9\u03a9\u03a9\u03a9", 
+        "original": "SIGN OUT"
+    }, 
+    "signed_in_as": {
+        "description": "settings:signed_in_as:(no description)", 
+        "message": "\u1e60\u0457\u0260\u019e\u1f73\u0257 \u0457\u019e \u0203\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Signed in as"
+    }, 
+    "smooth_zoom_in": {
+        "description": "settings:smooth_zoom_in:(no description)", 
+        "message": "\u01a8\u028d\u020f\u020f\u04ad\u043d \u2124\u020f\u020f\u028d \u0457\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "smooth zoom in"
+    }, 
+    "smooth_zoom_out": {
+        "description": "settings:smooth_zoom_out:(no description)", 
+        "message": "\u01a8\u028d\u020f\u020f\u04ad\u043d \u2124\u020f\u020f\u028d \u020f\u0574\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "smooth zoom out"
+    }, 
+    "sound_effects_volume": {
+        "description": "settings:sound_effects_volume:(no description)", 
+        "message": "\u1e60\u020f\u0574\u019e\u0257 \u0190\u0493\u0493\u1f73\u03f2\u04ad\u01a8 \u0476\u020f\u230a\u0574\u028d\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Sound Effects Volume"
+    }, 
+    "special_move": {
+        "description": "settings:special_move:(no description)", 
+        "message": "\u01a8\u2374\u1f73\u03f2\u0457\u0203\u230a \u028d\u020f\u0477\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "special move"
+    }, 
+    "stop": {
+        "description": "settings:stop:(no description)", 
+        "message": "\u01a8\u04ad\u020f\u2374\u03a9\u03a9", 
+        "original": "stop"
+    }, 
+    "streaming": {
+        "description": "settings:streaming:(no description)", 
+        "message": "\u01a8\u04ad\u0213\u1f73\u0203\u028d\u0457\u019e\u0260\u03a9\u03a9\u03a9\u03a9", 
+        "original": "streaming"
+    }, 
+    "subsample_50": {
+        "description": "settings:subsample_50:(no description)", 
+        "message": "\u1e60\u1ee6\u0e3f\u1e60\u0202\u039c\u1e54\u20a4\u0190 (50%)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "SUBSAMPLE (50%)"
+    }, 
+    "subsample_75": {
+        "description": "settings:subsample_75:(no description)", 
+        "message": "\u1e60\u1ee6\u0e3f\u1e60\u0202\u039c\u1e54\u20a4\u0190 (75%)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "SUBSAMPLE (75%)"
+    }, 
+    "supersample_110": {
+        "description": "settings:supersample_110:(no description)", 
+        "message": "\u1e60\u1ee6\u1e54\u0190\u211d\u1e60\u0202\u039c\u1e54\u20a4\u0190 (110%)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "SUPERSAMPLE (110%)"
+    }, 
+    "supersample_150": {
+        "description": "settings:supersample_150:(no description)", 
+        "message": "\u1e60\u1ee6\u1e54\u0190\u211d\u1e60\u0202\u039c\u1e54\u20a4\u0190 (150%)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "SUPERSAMPLE (150%)"
+    }, 
+    "supersample_175": {
+        "description": "settings:supersample_175:(no description)", 
+        "message": "\u1e60\u1ee6\u1e54\u0190\u211d\u1e60\u0202\u039c\u1e54\u20a4\u0190 (175%)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "SUPERSAMPLE (175%)"
+    }, 
+    "swap_pip": {
+        "description": "settings:swap_pip:(no description)", 
+        "message": "\u01a8\u1ff4\u0203\u2374 \u2374\u0457\u2374\u03a9\u03a9\u03a9\u03a9", 
+        "original": "swap pip"
+    }, 
+    "team_chat": {
+        "description": "settings:team_chat:(no description)", 
+        "message": "\u04ad\u1f73\u0203\u028d \u03f2\u043d\u0203\u04ad\u03a9\u03a9\u03a9\u03a9", 
+        "original": "team chat"
+    }, 
+    "toggle_audio_logging": {
+        "description": "settings:toggle_audio_logging:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u0203\u0574\u0257\u0457\u020f \u230a\u020f\u0260\u0260\u0457\u019e\u0260\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle audio logging"
+    }, 
+    "toggle_build_orders": {
+        "description": "settings:toggle_build_orders:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u0411\u0574\u0457\u230a\u0257 \u020f\u0213\u0257\u1f73\u0213\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle build orders"
+    }, 
+    "toggle_console": {
+        "description": "settings:toggle_console:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u03f2\u020f\u019e\u01a8\u020f\u230a\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle console"
+    }, 
+    "toggle_debug_camera": {
+        "description": "settings:toggle_debug_camera:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u0257\u1f73\u0411\u0574\u0260 \u03f2\u0203\u028d\u1f73\u0213\u0203\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle debug camera"
+    }, 
+    "toggle_energy_orders": {
+        "description": "settings:toggle_energy_orders:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u1f73\u019e\u1f73\u0213\u0260\u0443 \u020f\u0213\u0257\u1f73\u0213\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle energy orders"
+    }, 
+    "toggle_fire_orders": {
+        "description": "settings:toggle_fire_orders:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u0493\u0457\u0213\u1f73 \u020f\u0213\u0257\u1f73\u0213\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle fire orders"
+    }, 
+    "toggle_fow": {
+        "description": "settings:toggle_fow:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u03dc\u0472\u20a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle FOW"
+    }, 
+    "toggle_free_camera": {
+        "description": "settings:toggle_free_camera:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u0493\u0213\u1f73\u1f73 \u03f2\u0203\u028d\u1f73\u0213\u0203\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle free camera"
+    }, 
+    "toggle_fullscreen": {
+        "description": "settings:toggle_fullscreen:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u0493\u0574\u230a\u230a\u01a8\u03f2\u0213\u1f73\u1f73\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle fullscreen"
+    }, 
+    "toggle_move_orders": {
+        "description": "settings:toggle_move_orders:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u028d\u020f\u0477\u1f73 \u020f\u0213\u0257\u1f73\u0213\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle move orders"
+    }, 
+    "toggle_music": {
+        "description": "settings:toggle_music:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u028d\u0574\u01a8\u0457\u03f2\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle music"
+    }, 
+    "toggle_nav_debug": {
+        "description": "settings:toggle_nav_debug:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u019e\u0203\u0477 \u0257\u1f73\u0411\u0574\u0260\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle nav debug"
+    }, 
+    "toggle_pip_mirror": {
+        "description": "settings:toggle_pip_mirror:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u2374\u0457\u2374 \u028d\u0457\u0213\u0213\u020f\u0213\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle pip mirror"
+    }, 
+    "toggle_twitch_microphone": {
+        "description": "settings:toggle_twitch_microphone:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u04ad\u1ff4\u0457\u04ad\u03f2\u043d \u028d\u0457\u03f2\u0213\u020f\u2374\u043d\u020f\u019e\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle twitch microphone"
+    }, 
+    "toggle_twitch_streaming": {
+        "description": "settings:toggle_twitch_streaming:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u04ad\u1ff4\u0457\u04ad\u03f2\u043d \u01a8\u04ad\u0213\u1f73\u0203\u028d\u0457\u019e\u0260\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle twitch streaming"
+    }, 
+    "toggle_twitch_system_audio_recording": {
+        "description": "settings:toggle_twitch_system_audio_recording:(no description)", 
+        "message": "\u04ad\u020f\u0260\u0260\u230a\u1f73 \u04ad\u1ff4\u0457\u04ad\u03f2\u043d \u01a8\u0443\u01a8\u04ad\u1f73\u028d \u0203\u0574\u0257\u0457\u020f \u0213\u1f73\u03f2\u020f\u0213\u0257\u0457\u019e\u0260\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "toggle twitch system audio recording"
+    }, 
+    "track_selection_with_camera": {
+        "description": "settings:track_selection_with_camera:(no description)", 
+        "message": "\u04ad\u0213\u0203\u03f2\u045c \u01a8\u1f73\u230a\u1f73\u03f2\u04ad\u0457\u020f\u019e \u1ff4\u0457\u04ad\u043d \u03f2\u0203\u028d\u1f73\u0213\u0203\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "track selection with camera"
+    }, 
+    "tracking_alignment": {
+        "description": "settings:tracking_alignment:(no description)", 
+        "message": "\u04ad\u0213\u0203\u03f2\u045c\u0457\u019e\u0260 & \u0203\u230a\u0457\u0260\u019e\u028d\u1f73\u019e\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "tracking & alignment"
+    }, 
+    "tuning": {
+        "description": "settings:tuning:(no description)", 
+        "message": "\u04ad\u0574\u019e\u0457\u019e\u0260\u03a9\u03a9\u03a9", 
+        "original": "tuning"
+    }, 
+    "twitchEnableMicrophone": {
+        "description": "settings:twitchEnableMicrophone:(no description)", 
+        "message": "\u0190\u019d\u0202\u0e3f\u20a4\u0190 \u039c\u03aa\u04aa\u211d\u0472\u1e54\u04c7\u0472\u019d\u0190\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "ENABLE MICROPHONE"
+    }, 
+    "twitchEnablePlayback": {
+        "description": "settings:twitchEnablePlayback:(no description)", 
+        "message": "\u0190\u019d\u0202\u0e3f\u20a4\u0190 \u1e60\u0423\u1e60\u4e01\u0190\u039c \u1e60\u0472\u1ee6\u019d\u0189\u1e60\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "ENABLE SYSTEM SOUNDS"
+    }, 
+    "twitchIngestServer": {
+        "description": "settings:twitchIngestServer:(no description)", 
+        "message": "\u1e60\u0190\u211d\u0476\u0190\u211d\u03a9\u03a9\u03a9", 
+        "original": "SERVER"
+    }, 
+    "twitchName": {
+        "description": "settings:twitchName:(no description)", 
+        "message": "\u1e60\u0457\u0260\u019e \u0457\u019e \u1ff4\u0457\u04ad\u043d \u0423\u020f\u0574\u0213 \u4e01\u1ff4\u0457\u04ad\u03f2\u043d \u03aa\u0189\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Sign in with Your Twitch ID"
+    }, 
+    "twitchPassword": {
+        "description": "settings:twitchPassword:(no description)", 
+        "message": "\u1e54\u0203\u01a8\u01a8\u1ff4\u020f\u0213\u0257\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Password"
+    }, 
+    "twitchStreamingDesired": {
+        "description": "settings:twitchStreamingDesired:(no description)", 
+        "message": "\u0190\u019d\u0202\u0e3f\u20a4\u0190 \u1e60\u4e01\u211d\u0190\u0202\u039c\u03aa\u019d\u01f4 (\u4e01\u0203\u045c\u1f73\u01a8 \u1f73\u0493\u0493\u1f73\u03f2\u04ad \u0457\u028d\u028d\u1f73\u0257\u0457\u0203\u04ad\u1f73\u230a\u0443)\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "ENABLE STREAMING (Takes effect immediately)"
+    }, 
+    "twitch_chat": {
+        "description": "settings:twitch_chat:(no description)", 
+        "message": "\u4e01\u1ff4\u0457\u04ad\u03f2\u043d \u03f2\u043d\u0203\u04ad\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Twitch chat"
+    }, 
+    "uber": {
+        "description": "settings:uber:(no description)", 
+        "message": "\u1ee6\u0e3f\u0190\u211d\u03a9\u03a9", 
+        "original": "UBER"
+    }, 
+    "uberNetRegion": {
+        "description": "settings:uberNetRegion:(no description)", 
+        "message": "\u1e60\u0190\u211d\u0476\u0190\u211d\u03a9\u03a9\u03a9", 
+        "original": "SERVER"
+    }, 
+    "ui": {
+        "description": "settings:ui:(no description)", 
+        "message": "\u1ee6\u03aa\u03a9", 
+        "original": "UI"
+    }, 
+    "unit_capture_groups": {
+        "description": "settings:unit_capture_groups:(no description)", 
+        "message": "\u0574\u019e\u0457\u04ad \u03f2\u0203\u2374\u04ad\u0574\u0213\u1f73 \u0260\u0213\u020f\u0574\u2374\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "unit capture groups"
+    }, 
+    "unit_commands": {
+        "description": "settings:unit_commands:(no description)", 
+        "message": "\u0574\u019e\u0457\u04ad \u03f2\u020f\u028d\u028d\u0203\u019e\u0257\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "unit commands"
+    }, 
+    "unit_orders": {
+        "description": "settings:unit_orders:(no description)", 
+        "message": "\u0574\u019e\u0457\u04ad \u020f\u0213\u0257\u1f73\u0213\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "unit orders"
+    }, 
+    "unit_recall_groups": {
+        "description": "settings:unit_recall_groups:(no description)", 
+        "message": "\u0574\u019e\u0457\u04ad \u0213\u1f73\u03f2\u0203\u230a\u230a \u0260\u0213\u020f\u0574\u2374\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "unit recall groups"
+    }, 
+    "unit_selection": {
+        "description": "settings:unit_selection:(no description)", 
+        "message": "\u0574\u019e\u0457\u04ad \u01a8\u1f73\u230a\u1f73\u03f2\u04ad\u0457\u020f\u019e\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "unit selection"
+    }, 
+    "units": {
+        "description": "settings:units:(no description)", 
+        "message": "\u0574\u019e\u0457\u04ad\u01a8\u03a9\u03a9", 
+        "original": "units"
+    }, 
+    "unload": {
+        "description": "settings:unload:(no description)", 
+        "message": "\u0574\u019e\u230a\u020f\u0203\u0257\u03a9\u03a9\u03a9", 
+        "original": "unload"
+    }, 
+    "value_dependent": {
+        "description": "settings:value_dependent:(no description)", 
+        "message": "\u0476\u0202\u20a4\u1ee6\u0190 \u0189\u0190\u1e54\u0190\u019d\u0189\u0190\u019d\u4e01\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "VALUE DEPENDENT"
+    }, 
+    "virtual_texture": {
+        "description": "settings:virtual_texture:(no description)", 
+        "message": "\u0476\u0457\u0213\u04ad\u0574\u0203\u230a \u4e01\u1f73\u2327\u04ad\u0574\u0213\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Virtual Texture"
+    }, 
+    "voice_volume": {
+        "description": "settings:voice_volume:(no description)", 
+        "message": "\u0476\u020f\u0457\u03f2\u1f73 \u0476\u020f\u230a\u0574\u028d\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Voice Volume"
+    }, 
+    "windowed": {
+        "description": "settings:windowed:(no description)", 
+        "message": "\u20a9\u03aa\u019d\u0189\u0472\u20a9\u0190\u0189\u03a9\u03a9\u03a9\u03a9", 
+        "original": "WINDOWED"
+    }, 
+    "zoom": {
+        "description": "settings:zoom:(no description)", 
+        "message": "\u2124\u020f\u020f\u028d\u03a9\u03a9", 
+        "original": "zoom"
+    }, 
+    "zoom_in": {
+        "description": "settings:zoom_in:(no description)", 
+        "message": "\u2124\u020f\u020f\u028d \u0457\u019e\u03a9\u03a9\u03a9", 
+        "original": "zoom in"
+    }, 
+    "zoom_out": {
+        "description": "settings:zoom_out:(no description)", 
+        "message": "\u2124\u020f\u020f\u028d \u020f\u0574\u04ad\u03a9\u03a9\u03a9\u03a9", 
+        "original": "zoom out"
+    }, 
+    "zoom_speed": {
+        "description": "settings:zoom_speed:(no description)", 
+        "message": "\u01b5\u020f\u020f\u028d \u1e60\u2374\u1f73\u1f73\u0257\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Zoom Speed"
+    }, 
+    "zoom_to_air": {
+        "description": "settings:zoom_to_air:(no description)", 
+        "message": "\u2124\u020f\u020f\u028d \u04ad\u020f \u0203\u0457\u0213\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "zoom to air"
+    }, 
+    "zoom_to_celestial": {
+        "description": "settings:zoom_to_celestial:(no description)", 
+        "message": "\u2124\u020f\u020f\u028d \u04ad\u020f \u03f2\u1f73\u230a\u1f73\u01a8\u04ad\u0457\u0203\u230a\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "zoom to celestial"
+    }, 
+    "zoom_to_orbital": {
+        "description": "settings:zoom_to_orbital:(no description)", 
+        "message": "\u2124\u020f\u020f\u028d \u04ad\u020f \u020f\u0213\u0411\u0457\u04ad\u0203\u230a\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "zoom to orbital"
+    }, 
+    "zoom_to_surface": {
+        "description": "settings:zoom_to_surface:(no description)", 
+        "message": "\u2124\u020f\u020f\u028d \u04ad\u020f \u01a8\u0574\u0213\u0493\u0203\u03f2\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "zoom to surface"
+    }
+}

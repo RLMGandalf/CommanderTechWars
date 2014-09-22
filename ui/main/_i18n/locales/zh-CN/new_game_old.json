@@ -1,0 +1,170 @@
+{
+    "add_slot": {
+        "message": "添加位置",
+        "description": "new_game_old:add_slot:(no description)"
+    },
+    "load": {
+        "message": "载入",
+        "description": "new_game_old:load:(no description)"
+    },
+    "ai": {
+        "message": "AI",
+        "description": "new_game_old:ai:(no description)"
+    },
+    "ready_cancel": {
+        "message": "准备/取消",
+        "description": "new_game_old:ready_cancel:(no description)"
+    },
+    "manage": {
+        "message": "管理",
+        "description": "new_game_old:manage:(no description)"
+    },
+    "private": {
+        "message": "私人",
+        "description": "new_game_old:private:(no description)"
+    },
+    "spectate": {
+        "message": "观众",
+        "description": "new_game_old:spectate:(no description)"
+    },
+    "ready": {
+        "message": "准备",
+        "description": "new_game_old:ready:(no description)"
+    },
+    "cheats": {
+        "message": "作弊",
+        "description": "new_game_old:cheats:(no description)"
+    },
+    "chat": {
+        "message": "聊天",
+        "description": "new_game_old:chat:(no description)"
+    },
+    "_host": {
+        "message": "：主机",
+        "description": "new_game_old:_host:(no description)"
+    },
+    "game_mode": {
+        "message": "游戏模式：",
+        "description": "new_game_old:game_mode:(no description)"
+    },
+    "share_army": {
+        "message": "共享军队",
+        "description": "new_game_old:share_army:(no description)"
+    },
+    "listen_to_spectators": {
+        "message": "听取观众谈话",
+        "description": "new_game_old:listen_to_spectators:(no description)"
+    },
+    "section": {
+        "message": "区域",
+        "description": "new_game_old:section:(no description)"
+    },
+    "game_lobby": {
+        "message": "游戏大厅",
+        "description": "new_game_old:game_lobby:(no description)"
+    },
+    "game_starts_in": {
+        "message": "游戏开始倒计时：",
+        "description": "new_game_old:game_starts_in:(no description)"
+    },
+    "new": {
+        "message": "新建",
+        "description": "new_game_old:new:(no description)"
+    },
+    "public": {
+        "message": "公开",
+        "description": "new_game_old:public:(no description)"
+    },
+    "kick": {
+        "message": "踢出",
+        "description": "new_game_old:kick:(no description)"
+    },
+    "spectators": {
+        "message": "观众",
+        "description": "new_game_old:spectators:(no description)"
+    },
+    "roster": {
+        "message": "名录",
+        "description": "new_game_old:roster:(no description)"
+    },
+    "allow_dynamic_alliances_victory": {
+        "message": "动态联盟胜利",
+        "description": "new_game_old:allow_dynamic_alliances_victory:(no description)"
+    },
+    "allow_dynamic_alliances": {
+        "message": "动态联盟",
+        "description": "new_game_old:allow_dynamic_alliances:(no description)"
+    },
+    "server_mods": {
+        "message": "服务端模组",
+        "description": "new_game_old:server_mods:(no description)"
+    },
+    "friends": {
+        "message": "朋友",
+        "description": "new_game_old:friends:(no description)"
+    },
+    "team_armies": {
+        "message": "组队模式",
+        "description": "new_game_old:team_armies:(no description)"
+    },
+    "add_ai": {
+        "message": "添加AI",
+        "description": "new_game_old:add_ai:(no description)"
+    },
+    "join": {
+        "message": "加入",
+        "description": "new_game_old:join:(no description)"
+    },
+    "free_for_all": {
+        "message": "自由交战",
+        "description": "new_game_old:free_for_all:(no description)"
+    },
+    "start_game": {
+        "message": "开始游戏",
+        "description": "new_game_old:start_game:(no description)"
+    },
+    "game_type": {
+        "message": "游戏类型",
+        "description": "new_game_old:game_type:(no description)"
+    },
+    "game_options": {
+        "message": "游戏设置：",
+        "description": "new_game_old:game_options:(no description)"
+    },
+    "remove": {
+        "message": "移除",
+        "description": "new_game_old:remove:(no description)"
+    },
+    "leave": {
+        "message": "离开",
+        "description": "new_game_old:leave:(no description)"
+    },
+    "spectators_allowed": {
+        "message": "允许的观众：",
+        "description": "new_game_old:spectators_allowed:(no description)"
+    },
+    "invite_player": {
+        "message": "要求玩家",
+        "description": "new_game_old:invite_player:(no description)"
+    },
+    "empty": {
+        "message": "空",
+        "description": "new_game_old:empty:(no description)"
+    },
+    "x": {
+        "message": "X",
+        "description": "new_game_old:x:(no description)"
+    },
+    "open_to": {
+        "message": "开放：",
+        "description": "new_game_old:open_to:(no description)"
+    },
+    "options": {
+        "message": "设置：",
+        "description": "new_game_old:options:(no description)"
+    },
+    "system": {
+        "message": "星系",
+        "description": "new_game_old:system:(no description)"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "locked_game": {
+        "message": "Stengt spill",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "filter_modded": {
+        "message": "Filtrer moddede spill",
+        "description": "server_browser:filter_modded:(no description)"
+    },
+    "single": {
+        "message": "Én",
+        "description": "server_browser:single:(no description)"
+    },
+    "planets": {
+        "message": "Planeter",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "Plasser",
+        "description": "server_browser:slots:(no description)"
+    },
+    "filter_by_system_size": {
+        "message": "Filtrer etter systemstørrelse",
+        "description": "server_browser:filter_by_system_size:(no description)"
+    },
+    "filter_by_game_state": {
+        "message": "Filtrer etter kampstatus",
+        "description": "server_browser:filter_by_game_state:(no description)"
+    },
+    "10_players": {
+        "message": "10+ spillere",
+        "description": "server_browser:10_players:(no description)"
+    },
+    "modded": {
+        "message": "Moddet",
+        "description": "server_browser:modded:(no description)"
+    },
+    "create_game": {
+        "message": "Ny kamp",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "Tilskuere",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "small_system_2_3": {
+        "message": "Små systemer (2-3)",
+        "description": "server_browser:small_system_2_3:(no description)"
+    },
+    "medium_system_4_9": {
+        "message": "Medium systemer (4-9)",
+        "description": "server_browser:medium_system_4_9:(no description)"
+    },
+    "filter_by_player_count": {
+        "message": "Filtrer etter antall spillere",
+        "description": "server_browser:filter_by_player_count:(no description)"
+    },
+    "join_game": {
+        "message": "Delta",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "filter_by_regions": {
+        "message": "Filtrer etter region",
+        "description": "server_browser:filter_by_regions:(no description)"
+    },
+    "game": {
+        "message": "Kamp",
+        "description": "server_browser:game:(no description)"
+    },
+    "modded_games": {
+        "message": "Moddede spill",
+        "description": "server_browser:modded_games:(no description)"
+    },
+    "2_3_players": {
+        "message": "2-3 spillere",
+        "description": "server_browser:2_3_players:(no description)"
+    },
+    "in_progress": {
+        "message": "Pågående",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "Passord",
+        "description": "server_browser:password:(no description)"
+    },
+    "4_9_players": {
+        "message": "4-9 spillere",
+        "description": "server_browser:4_9_players:(no description)"
+    },
+    "annihilate": {
+        "message": "SPILL",
+        "description": "server_browser:annihilate:(no description)"
+    },
+    "non_modded_games": {
+        "message": "Ikke-moddede spill",
+        "description": "server_browser:non_modded_games:(no description)"
+    },
+    "region": {
+        "message": "Region",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "Se på",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "in_lobby": {
+        "message": "I lobbyen",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "Spillere",
+        "description": "server_browser:players:(no description)"
+    },
+    "mode": {
+        "message": "Modus",
+        "description": "server_browser:mode:(no description)"
+    },
+    "large_system_10": {
+        "message": "Store systemer (10+)",
+        "description": "server_browser:large_system_10:(no description)"
+    }
+}

@@ -1,0 +1,458 @@
+﻿.btn_commit {
+    font-size: 1em;
+    font-weight: 700;
+    margin: 10px 20px 0 0;
+    padding: 20px 30px;
+}
+
+.div_body_cont {
+    border-width: 1px 1px 1px 0;
+}
+
+.td_system_editor_error span {
+    color: #00ffff;
+}
+
+.div_planet_list_cont {
+    height: 400px;
+    width: 690px;
+    overflow: auto;
+    border: 1px solid #888;
+    background: #0E0E0E;
+    font-family: DINPRO-LIGHT;
+    padding: 0px 0px 12px 12px;
+}
+
+.div_planet_tile_item {
+    width: 120px;
+    display: inline-block;
+    margin: 12px 12px 0px 0px;
+    line-height: .9em;
+    text-align: center;
+    border: 1px solid transparent;
+}
+
+    .div_planet_tile_item:hover {
+        /*background:rgba(0,255,255,.8);*/
+    }
+
+    .div_planet_tile_item image:hover {
+        background: rgba(0,255,255,.8);
+    }
+
+    .div_planet_tile_item:active {
+        background: rgba(0,255,255,.5);
+        border: 1px solid #00ffff;
+    }
+
+.div_planet_tile_thumbnail {
+    display: inherit;
+}
+
+.div_planet_tile_title {
+    word-wrap: break-word;
+    font-size: .8em;
+    text-align: center;
+    text-shadow: 0 2px 2px #000;
+    padding: 0px 10px 4px;
+}
+
+.div_settings_control_input {
+    width: 120px;
+    margin: 4px 12px 20px 0;
+}
+
+.div_sys_editor_panel {
+    font-size: .8em;
+    float: right;
+    margin: 40px 0px 0px 0px;
+    border-image:url(coui://ui/main/shared/img/panel/img_menu_panel_secondary.png) 14 22 22 22 fill;
+    border-width:14px 22px 22px 22px;
+}
+
+.div_sys_editor_collapsed {
+    font-size: .8em;
+    float: right;
+    margin: 40px 0px 0px 0px;
+}
+
+.div_sys_editor_group {
+    display: block;
+}
+
+.div_planet_selector_cont {
+    width: 100%;
+    border-radius: 4px;
+    border-width: 1px;
+    padding: 10px 20px;
+}
+
+.img_planet_thumb {
+    display: inherit;
+    height: 80px;
+    margin: 8px;
+}
+
+.selected_planet {
+    background: rgba(0,255,255,.5);
+    border: 1px solid #00ffff;
+}
+
+body {
+    background: none;
+}
+
+.div_planet_build_warning {
+    position: absolute;
+    bottom: 160px;
+    left: 10px;
+    right: 10px;
+    font-size:.8em;
+    font-family:'DINPRO-LIGHT';
+    line-height:1.4em;
+    background:#000;
+    width: 400px;
+    height: auto;
+    margin: 0px auto 0px;
+    padding: 6px 10px 10px;
+    text-shadow: 0px 2px 2px black;
+}
+
+.input_slider_value {
+    border: 0;
+    background: none;
+    color: #fff;
+    font-size: 1em;
+    margin: -1px 14px 14px 4px;
+    width: 40px;
+}
+
+.div_settings_control_lbl {
+    width: 100px;
+    font-family: 'DINPRO-LIGHT';
+    font-size: .9em;
+    color: #fff;
+}
+
+.text_input {
+    margin: 8px 0px 0px 0px;
+}
+
+
+
+.div_body_cont_planet_load {
+    border-width: 1px 0px;
+}
+
+.tbl_planet_selector {
+    width: 100%;
+}
+
+.div_planet_item_detail_cont {
+    height: 100%;
+    padding: 10px;
+    margin: 0px 0px 0px 10px;
+    border: 1px solid #888;
+    background: #0E0E0E;
+}
+
+.div_planet_item_detail_title {
+    margin: 0px 0px 10px 0px;
+}
+
+.div_planet_item_detail_img {
+    text-align: center;
+}
+
+.div_planet_property_bar {
+    height: 6px;
+    width: 200px;
+    margin: 4px 4px 12px 4px;
+    background: rgba(255,255,255,.1);
+}
+
+.planet_property_bar {
+    height: 4px;
+    background: rgba(0,255,255,.5);
+    border: 1px solid #00ffff;
+}
+
+
+
+/*------------ SYS EDITOR TOOLBAR 
+-----------------------------------------------------------*/
+.sys_editor_toolbar {
+    font-family:'Sansation Regular';
+}
+
+
+.div_planet_details {
+    height: 40px;
+    font-size:12px;
+}
+
+.div_planet_details td {
+    height: 10px;
+}
+
+.div_planet_details td.lbl_property {
+    text-transform:capitalize;
+    width:60px;
+}
+
+.div_planet_details td.range_bar {
+    width:100px;
+    padding-top: 2px;
+}
+
+.div_planet_details td.range_num {
+    width:35px;
+    padding: 0px 0px 0px 2px;
+    color:#0ff;
+}
+
+.div_planet_property_bar {
+    height: 6px;
+    width: 90px;
+    margin: 4px 4px 12px 4px;
+    background: rgba(255,255,255,.1);
+}
+
+.planet_property_bar {
+    height: 4px;
+    width: 50%;
+    background: rgba(0,255,255,.5);
+    border: 1px solid #00ffff;
+}
+
+/*----- BUILD BAR
+-----------------------------------------------------------------*/
+
+.div_bottom_bar {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    z-index: 2;
+}
+
+.div_build_grp {
+    width:730px;
+    margin:0px auto;
+}
+
+.div_build_bar {
+    width: 675px;
+    height: auto;
+    margin: 0px auto -22px;
+    text-align: center;
+    position: relative;
+    bottom: auto;
+    z-index: 1;
+}
+
+.div_build_bar_menu_cont {
+    height: auto;
+    min-width: 0;
+    display:block;
+    margin: 0px;
+    background: none;
+    border-image: url(coui://ui/main/shared/img/build_bar/img_build_bar_menu_bground.png) 35 35 23 35 fill;
+    border-width: 35px 35px 23px 35px;
+    z-index: 2;
+}
+
+.div_build_bar_cont {
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+    border-width: 0px;
+    border-left: 1px solid rgba(255,255,255,.05);
+    border-top: 1px solid rgba(255,255,255,.05);
+}
+
+.div_build_item {
+    height: 56px;
+    width: 62px;
+    border-right: 1px solid rgba(255,255,255,.05);
+    border-bottom: 1px solid rgba(255,255,255,.05);
+    margin-top: -1px;
+    margin: 0px 0px 0px;
+    float: left;
+    display: block;
+    position: relative;
+}
+
+    .div_build_item a {
+        height: 100%;
+        width: 100%;
+        border: 1px solid transparent;
+        display: block;
+        -webkit-animation: fadeout;
+        -webkit-transition: .3s ease-out;
+    }
+
+.img_build_unit {
+    height: 48px;
+    width: 48px;
+    display:block;
+    margin: 2px auto 0px;
+}
+
+.div_build_item a:hover {
+    height: 100%;
+    width: 100%;
+    background: #1E7AA1;
+    border: 1px solid #00B3FF;
+    box-shadow: inset 0px 0px 20px #00B3FF;
+    z-index:1000;
+    -webkit-animation: none;
+    -webkit-transition: none;
+}
+
+.div_build_item a:active {
+    height: 100%;
+    width: 100%;
+    background: #00B3FF;
+    border: 1px solid #00B3FF;
+    box-shadow: 0px 0px 30px #00B3FF;
+}
+
+.div_build_item.active {
+    background: #00B3FF;
+    border: 1px solid #00B3FF;
+    box-shadow: 0px 0px 30px #00B3FF;
+}
+
+.span_build_count {
+    display: block;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background: #007400;
+    padding: 2px;
+    border-radius: 0px;
+    font-family: 'Armata Regular';
+    font-size: 11px;
+    border: 1px solid #00FF0A;
+}
+
+
+.div_build_bar_tab_cont {
+    height: 50px;
+    width: auto;
+    border-image: url(coui://ui/main/shared/img/build_bar/img_build_bar_bground.png) 21 40 21 40 fill;
+    border-width: 21px 40px 21px 40px;
+    margin: 0px auto -15px;
+    text-align: center;
+    z-index: 0;
+}
+
+
+    .div_build_bar_tab_cont .tab_grp {
+        height: 18px;
+        display:inline-block;
+        margin: -5px auto 0px;
+        border-image: url(coui://ui/main/shared/img/build_bar/img_build_bar_tab_bground.png) 4 19 4 19 fill;
+        border-width: 4px 19px 4px 19px;
+    }
+
+
+.tab_grp_body {
+    display: block;
+    background: none;
+    padding: 4px 4px;
+    margin:-8px 0px 0px 0px;
+}
+
+.sys_editor_tabs {
+    margin:-4px 0px 0px 0px;
+}
+
+.span_build_bar_tab {
+    background: none;
+    font-size: 10px;
+    color: white;
+    text-shadow: 0px 2px 2px black;
+    font-family: 'Sansation Bold';
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 0px;
+    border: 1px solid #444;
+    border-width: 0px 1px 0px 1px;
+    padding: 3px 15px;
+    margin: 0px -2px 0px -1px;
+    background: #1D1D1D;
+    box-shadow: inset 0px 0px 8px #000;
+    -webkit-animation: fadeout;
+    -webkit-transition: .3s ease-out;
+}
+
+.editor_tab {
+    margin: auto;
+}
+
+.span_build_bar_tab:hover {
+    background: #1E7AA1;
+    border: 1px solid #00B3FF;
+    box-shadow: inset 0px 0px 10px #00B3FF;
+    color: white;
+    text-shadow: 0px 0px 10px rgba(255,255,255,.5);
+    -webkit-animation: none;
+    -webkit-transition: none;
+}
+
+.span_build_bar_tab:active {
+    background: #00B3FF;
+    border: 1px solid #00B3FF;
+    box-shadow: 0px 0px 30px #00B3FF;
+    color: white;
+    text-shadow: 0px 0px 10px rgba(255,255,255,.5);
+}
+
+.selected_build_tab:active {
+    background: #00B3FF;
+    border: 1px solid #00B3FF;
+    box-shadow: 0px 0px 30px #00B3FF;
+    color: #fff;
+    text-shadow: 0px 0px 10px rgba(255,255,255,.5);
+}
+
+
+.selected_build_tab {
+    background: #00B3FF;
+    border: 1px solid #00B3FF;
+    box-shadow: 0px 0px 30px #00B3FF;
+    color: #fff;
+    text-shadow: 0px 0px 10px rgba(255,255,255,.5);
+}
+
+
+.div_build_bar_hover {
+    width: 100%;
+    position: relative;
+    bottom: auto;
+    margin: 0px 0px -7px 0px;
+    text-align: center;
+    opacity: 1.0;
+    word-wrap: break-word;
+}
+
+.div_build_bar_hover_cont {
+    width: 400px;
+    height: auto;
+    margin: 0px auto 0px;
+    padding: 6px 10px 10px;
+    background-image: -webkit-linear-gradient(bottom, rgba(0,0,0,1) 0%, rgba(0,0,0,.85) 100%);
+    border-radius: 0px;
+    text-shadow: 0px 2px 2px black;
+}
+
+.div_time {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-left: 3em;
+}

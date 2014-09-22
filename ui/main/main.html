@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<noloc><title>Planetary Annihilation Main</title></noloc>
+<link href="coui://ui/main/shared/css/global.css" rel="stylesheet" type="text/css" />
+<link href="main.css" rel="stylesheet" type="text/css" />
+<script src="coui://ui/main/shared/js/common.js" type="text/javascript"></script>
+<script src="coui://ui/main/main.js" type="text/javascript"></script>
+</head>
+<body>
+    <div class="fullscreen front">
+        <panel id="player" no-keyboard yield-focus data-bind="visible: showPlayer, attr: { src: playerUrl }" src="" fit="dock-top"></panel>
+    </div>  
+    <div class="fullscreen back">
+        <panel id="game" src="coui://ui/main/game/start/start.html" data-bind="css: { live_game_uberbar_on: useLiveGameUberBar, live_game_uberbar_off: !(model.useLiveGameUberBar()) }"></panel>
+        <panel id="uberbar" src="coui://ui/main/uberbar/uberbar.html"></panel>
+    </div>
+</body>
+</html>

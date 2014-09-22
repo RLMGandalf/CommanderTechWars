@@ -1,0 +1,58 @@
+{
+    "delete_this_planet": {
+        "message": "Slet Planeten?",
+        "description": "load_planet:delete_this_planet:(no description)"
+    },
+    "planets": {
+        "message": "Planeter",
+        "description": "load_planet:planets:(no description)"
+    },
+    "delete_this_system": {
+        "message": "Slet Systemet?",
+        "description": "load_planet:delete_this_system:(no description)"
+    },
+    "delete_planet": {
+        "message": "Slet Planet",
+        "description": "load_planet:delete_planet:(no description)"
+    },
+    "delete_system": {
+        "message": "Slet System",
+        "description": "load_planet:delete_system:(no description)"
+    },
+    "show_planets": {
+        "message": "VIS PLANETER",
+        "description": "load_planet:show_planets:(no description)"
+    },
+    "load_system": {
+        "message": "Load System",
+        "description": "load_planet:load_system:(no description)"
+    },
+    "new_system": {
+        "message": "New system",
+        "description": "load_planet:new_system:(no description)"
+    },
+    "systems": {
+        "message": "Systemer",
+        "description": "load_planet:systems:(no description)"
+    },
+    "load_planet": {
+        "message": "Load Planet",
+        "description": "load_planet:load_planet:(no description)"
+    },
+    "cancel": {
+        "message": "LUK",
+        "description": "load_planet:cancel:(no description)"
+    },
+    "show_systems": {
+        "message": "VIS SYSTEMER",
+        "description": "load_planet:show_systems:(no description)"
+    },
+    "system_designer": {
+        "message": "System Designer",
+        "description": "load_planet:system_designer:(no description)"
+    },
+    "delete": {
+        "message": "SLET",
+        "description": "load_planet:delete:(no description)"
+    }
+}

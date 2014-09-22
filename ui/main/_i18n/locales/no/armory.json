@@ -1,0 +1,118 @@
+{
+    "designed_in_collaboration_with": {
+        "message": "Utført i samarbeid med",
+        "description": "armory:designed_in_collaboration_with:(no description)"
+    },
+    "cancel": {
+        "message": "Avbryt",
+        "description": "armory:cancel:(no description)"
+    },
+    "continue_shopping": {
+        "message": "Fortsett å handle",
+        "description": "armory:continue_shopping:(no description)"
+    },
+    "account_name": {
+        "message": "Kontonavn:",
+        "description": "armory:account_name:(no description)"
+    },
+    "badges": {
+        "message": "Emblemer",
+        "description": "armory:badges:(no description)"
+    },
+    "here_s_your_receipt": {
+        "message": "Her er din kvittering.",
+        "description": "armory:here_s_your_receipt:(no description)"
+    },
+    "set_as_default_commander": {
+        "message": "Bruk som standard Commander",
+        "description": "armory:set_as_default_commander:(no description)"
+    },
+    "total": {
+        "message": "Totalt:",
+        "description": "armory:total:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Bekreftelseskode:",
+        "description": "armory:confirmation_code:(no description)"
+    },
+    "kickstarter_backer": {
+        "message": "Kickstarter-støttespiller",
+        "description": "armory:kickstarter_backer:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below": {
+        "message": "Bekreftelse på ditt kjøp finner du nedenfor.",
+        "description": "armory:confirmation_of_your_purchase_is_provided_below:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "Dine kjøp er nå registrert på kontoen din og er tilgjengelige i spillet.",
+        "description": "armory:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "item_is_already_in_cart": {
+        "message": "Valgt gjenstand er allerede i handlekurven.",
+        "description": "armory:item_is_already_in_cart:(no description)"
+    },
+    "add_to_cart": {
+        "message": "Legg i handlekurven",
+        "description": "armory:add_to_cart:(no description)"
+    },
+    "checkout": {
+        "message": "UTSJEKK",
+        "description": "armory:checkout:(no description)"
+    },
+    "my_badges": {
+        "message": "Emblemer",
+        "description": "armory:my_badges:(no description)"
+    },
+    "price": {
+        "message": "Pris",
+        "description": "armory:price:(no description)"
+    },
+    "cart": {
+        "message": "Handlekurv",
+        "description": "armory:cart:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Takk for ditt kjøp.",
+        "description": "armory:thank_you_for_your_purchase:(no description)"
+    },
+    "redeem": {
+        "message": "Innløs",
+        "description": "armory:redeem:(no description)"
+    },
+    "total_price": {
+        "message": "Totalt:",
+        "description": "armory:total_price:(no description)"
+    },
+    "updating": {
+        "message": "Oppdaterer...",
+        "description": "armory:updating:(no description)"
+    },
+    "credit_applied": {
+        "message": "Kreditt lagt til:",
+        "description": "armory:credit_applied:(no description)"
+    },
+    "go_to_main_menu": {
+        "message": "Gå til hovedmenyen",
+        "description": "armory:go_to_main_menu:(no description)"
+    },
+    "cart_empty": {
+        "message": "Handlekurven er tom.",
+        "description": "armory:cart_empty:(no description)"
+    },
+    "commanders": {
+        "message": "Rustninger",
+        "description": "armory:commanders:(no description)"
+    },
+    "remove": {
+        "message": "FJERN",
+        "description": "armory:remove:(no description)"
+    },
+    "item": {
+        "message": "Vare",
+        "description": "armory:item:(no description)"
+    },
+    "return_to_armory": {
+        "message": "Tilbake til rustkammeret",
+        "description": "armory:return_to_armory:(no description)"
+    }
+}

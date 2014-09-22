@@ -1,0 +1,18 @@
+{
+    "returning_to_main_menu": {
+        "message": "Palataan päävalikkoon",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "UUSI PA ALPHA PELI",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "ODOTETAAN VASTUSTAJAA",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "VASTUSTAJAN LÖYTYMINEN EPÄONNISTUI",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "select_a_planet_to_destroy": {
+        "message": "Sélectionnez une planète à détruire.",
+        "description": "live_game_celestial_control:select_a_planet_to_destroy:(no description)"
+    },
+    "change_orbit": {
+        "message": "Changer d'orbite",
+        "description": "live_game_celestial_control:change_orbit:(no description)"
+    },
+    "select_a_planet_to_attack": {
+        "message": "Sélectionner une planète à attaquer.",
+        "description": "live_game_celestial_control:select_a_planet_to_attack:(no description)"
+    },
+    "set_target_spot": {
+        "message": "Définir zone cible",
+        "description": "live_game_celestial_control:set_target_spot:(no description)"
+    },
+    "activate_planetary_laser": {
+        "message": "Activer le laser planétaire",
+        "description": "live_game_celestial_control:activate_planetary_laser:(no description)"
+    },
+    "set_course_for_annihilation": {
+        "message": "Définir une trajectoire pour l'annihilation",
+        "description": "live_game_celestial_control:set_course_for_annihilation:(no description)"
+    },
+    "then_confirm_destination_to_set_course": {
+        "message": "Ensuite, confirmer la destination pour définir la trajectoire.",
+        "description": "live_game_celestial_control:then_confirm_destination_to_set_course:(no description)"
+    },
+    "select_a_new_gravity_well": {
+        "message": "Choisissez un nouveau puit gravitationnel.",
+        "description": "live_game_celestial_control:select_a_new_gravity_well:(no description)"
+    }
+}

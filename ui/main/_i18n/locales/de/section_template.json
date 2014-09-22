@@ -1,0 +1,26 @@
+{
+    "roster": {
+        "message": "Liste",
+        "description": "section_template:roster:(no description)"
+    },
+    "section": {
+        "message": "Sektion",
+        "description": "section_template:section:(no description)"
+    },
+    "game_lobby": {
+        "message": "Spiellobby",
+        "description": "section_template:game_lobby:(no description)"
+    },
+    "ready_cancel": {
+        "message": "Bereit/Abbrechen",
+        "description": "section_template:ready_cancel:(no description)"
+    },
+    "game_options": {
+        "message": "Spieloptionen",
+        "description": "section_template:game_options:(no description)"
+    },
+    "new_lobby": {
+        "message": "Neue Lobby",
+        "description": "section_template:new_lobby:(no description)"
+    }
+}

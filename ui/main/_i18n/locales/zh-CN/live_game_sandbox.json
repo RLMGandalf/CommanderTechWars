@@ -1,0 +1,10 @@
+{
+    "sandbox": {
+        "message": "沙盒",
+        "description": "live_game_sandbox:sandbox:(no description)"
+    },
+    "v": {
+        "message": "v",
+        "description": "live_game_sandbox:v:(no description)"
+    }
+}

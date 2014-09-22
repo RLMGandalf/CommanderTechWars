@@ -1,0 +1,50 @@
+{
+    "here_s_your_receipt": {
+        "message": "Here's your receipt.",
+        "description": "purchase_complete:here_s_your_receipt:(no description)"
+    },
+    "username": {
+        "message": "Benutzername",
+        "description": "purchase_complete:username:(no description)"
+    },
+    "_model_purchaseprice": {
+        "message": "@Model.PurchasePrice",
+        "description": "purchase_complete:_model_purchaseprice:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Confirmation code:",
+        "description": "purchase_complete:confirmation_code:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Thank you for your purchase.",
+        "description": "purchase_complete:thank_you_for_your_purchase:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "Your purchased items are now registered to your account and are accessible in the game.",
+        "description": "purchase_complete:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email": {
+        "message": "Confirmation of your purchase is provided below. A receipt will be emailed to @Model.Email.",
+        "description": "purchase_complete:confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email:(no description)"
+    },
+    "_model_orderid": {
+        "message": "@Model.OrderId",
+        "description": "purchase_complete:_model_orderid:(no description)"
+    },
+    "total": {
+        "message": "Gesamt:",
+        "description": "purchase_complete:total:(no description)"
+    },
+    "there_was_an_error_in_the_purchase_process_please_try_again": {
+        "message": "There was an error in the purchase process. Please try again.",
+        "description": "purchase_complete:there_was_an_error_in_the_purchase_process_please_try_again:(no description)"
+    },
+    "account_name": {
+        "message": "Account Name:",
+        "description": "purchase_complete:account_name:(no description)"
+    },
+    "your_purchase_was_not_completed": {
+        "message": "Ihre Bestellung war nicht vollständig.",
+        "description": "purchase_complete:your_purchase_was_not_completed:(no description)"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "designed_in_collaboration_with": {
+        "message": "Navrženo ve spolupráci s",
+        "description": "armory:designed_in_collaboration_with:(no description)"
+    },
+    "remove": {
+        "message": "ODSTRANIT",
+        "description": "armory:remove:(no description)"
+    },
+    "cancel": {
+        "message": "Zrušit",
+        "description": "armory:cancel:(no description)"
+    },
+    "continue_shopping": {
+        "message": "Pokračovat v nákupu",
+        "description": "armory:continue_shopping:(no description)"
+    },
+    "account_name": {
+        "message": "Název účtu:",
+        "description": "armory:account_name:(no description)"
+    },
+    "badges": {
+        "message": "Odznaky",
+        "description": "armory:badges:(no description)"
+    },
+    "here_s_your_receipt": {
+        "message": "Zde je váš doklad.",
+        "description": "armory:here_s_your_receipt:(no description)"
+    },
+    "set_as_default_commander": {
+        "message": "Nastavit jako výchozího Komandéra",
+        "description": "armory:set_as_default_commander:(no description)"
+    },
+    "total": {
+        "message": "Celkem:",
+        "description": "armory:total:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Potvrzovací kód:",
+        "description": "armory:confirmation_code:(no description)"
+    },
+    "kickstarter_backer": {
+        "message": "Kickstarter stoupenec",
+        "description": "armory:kickstarter_backer:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below": {
+        "message": "Potvrzení o zakoupení je uveden níže.",
+        "description": "armory:confirmation_of_your_purchase_is_provided_below:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "Vaše nakupované položky jsou nyní registrovány na vašem účtu a jsou k dispozici ve hře.",
+        "description": "armory:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "item_is_already_in_cart": {
+        "message": "Položka je už v nákupním košíku.",
+        "description": "armory:item_is_already_in_cart:(no description)"
+    },
+    "add_to_cart": {
+        "message": "Přidat do košíku",
+        "description": "armory:add_to_cart:(no description)"
+    },
+    "armory": {
+        "message": "Zbrojnice",
+        "description": "armory:armory:(no description)"
+    },
+    "checkout": {
+        "message": "Přejít k pokladně",
+        "description": "armory:checkout:(no description)"
+    },
+    "price": {
+        "message": "Cena",
+        "description": "armory:price:(no description)"
+    },
+    "cart": {
+        "message": "Košík",
+        "description": "armory:cart:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Děkujeme vám za váš nákup.",
+        "description": "armory:thank_you_for_your_purchase:(no description)"
+    },
+    "redeem": {
+        "message": "Uplatnit",
+        "description": "armory:redeem:(no description)"
+    },
+    "total_price": {
+        "message": "Celkem:",
+        "description": "armory:total_price:(no description)"
+    },
+    "updating": {
+        "message": "Aktualizace...",
+        "description": "armory:updating:(no description)"
+    },
+    "credit_applied": {
+        "message": "Kredit připsán",
+        "description": "armory:credit_applied:(no description)"
+    },
+    "go_to_main_menu": {
+        "message": "Přejít na hlavní menu",
+        "description": "armory:go_to_main_menu:(no description)"
+    },
+    "cart_empty": {
+        "message": "Váš nákupní košík je prázdný.",
+        "description": "armory:cart_empty:(no description)"
+    },
+    "commanders": {
+        "message": "Komandéři",
+        "description": "armory:commanders:(no description)"
+    },
+    "refresh": {
+        "message": "Obnovit",
+        "description": "armory:refresh:(no description)"
+    },
+    "item": {
+        "message": "Položka",
+        "description": "armory:item:(no description)"
+    },
+    "return_to_armory": {
+        "message": "Zpět do zbrojnice",
+        "description": "armory:return_to_armory:(no description)"
+    }
+}

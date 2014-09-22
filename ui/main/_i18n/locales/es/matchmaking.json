@@ -1,0 +1,18 @@
+{
+    "returning_to_main_menu": {
+        "message": "Regresando al Menú Principal",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "PA JUEGO NUEVO ALPHA",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "Esperando el Emparejamiento",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "EMPARAJIMIENTO FALLÓ",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

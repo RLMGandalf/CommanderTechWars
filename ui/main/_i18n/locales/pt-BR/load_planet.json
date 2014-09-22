@@ -1,0 +1,58 @@
+{
+    "delete_this_planet": {
+        "message": "Apagar este planeta?",
+        "description": "load_planet:delete_this_planet:(no description)"
+    },
+    "planets": {
+        "message": "Planetas",
+        "description": "load_planet:planets:(no description)"
+    },
+    "delete_this_system": {
+        "message": "Apagar esse sistema?",
+        "description": "load_planet:delete_this_system:(no description)"
+    },
+    "delete_planet": {
+        "message": "Excluir o planeta",
+        "description": "load_planet:delete_planet:(no description)"
+    },
+    "delete_system": {
+        "message": "Apagar Sistema",
+        "description": "load_planet:delete_system:(no description)"
+    },
+    "show_planets": {
+        "message": "MOSTRAR PLANETAS",
+        "description": "load_planet:show_planets:(no description)"
+    },
+    "load_system": {
+        "message": "Carregar Sistema",
+        "description": "load_planet:load_system:(no description)"
+    },
+    "new_system": {
+        "message": "Novo sistema",
+        "description": "load_planet:new_system:(no description)"
+    },
+    "systems": {
+        "message": "Sistemas",
+        "description": "load_planet:systems:(no description)"
+    },
+    "load_planet": {
+        "message": "Carregar Planeta",
+        "description": "load_planet:load_planet:(no description)"
+    },
+    "cancel": {
+        "message": "CANCELAR",
+        "description": "load_planet:cancel:(no description)"
+    },
+    "show_systems": {
+        "message": "MOSTRAR SISTEMAS",
+        "description": "load_planet:show_systems:(no description)"
+    },
+    "system_designer": {
+        "message": "Projetar Sistema",
+        "description": "load_planet:system_designer:(no description)"
+    },
+    "delete": {
+        "message": "DELETAR",
+        "description": "load_planet:delete:(no description)"
+    }
+}

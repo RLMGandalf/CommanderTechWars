@@ -1,0 +1,734 @@
+{
+    "astraeus": {
+        "message": "Astraeus",
+        "description": "units:astraeus:(no description)"
+    },
+    "mortar_tank_equipped_with_advanced_mobile_artillery": {
+        "message": "Mortierentank - Uitgerust met geavanceerde mobiele artillerie.",
+        "description": "units:mortar_tank_equipped_with_advanced_mobile_artillery:(no description)"
+    },
+    "assault_bot_equipped_with_advanced_anti_land_and_anti_ship_lasers": {
+        "message": "Aanvalsrobot - Uitgerust met geavanceerde anti-grond- en anti-scheepslasers.",
+        "description": "units:assault_bot_equipped_with_advanced_anti_land_and_anti_ship_lasers:(no description)"
+    },
+    "energy_plant": {
+        "message": "Energiecentrale",
+        "description": "units:energy_plant:(no description)"
+    },
+    "combat_fabrication_bot": {
+        "message": "Gevechts-fabricagerobot",
+        "description": "units:combat_fabrication_bot:(no description)"
+    },
+    "anti_nuke_intercepts_incoming_nuclear_missiles": {
+        "message": "Anti-nuke - Onderschept inkomende nucleaire raketten.",
+        "description": "units:anti_nuke_intercepts_incoming_nuclear_missiles:(no description)"
+    },
+    "skitter": {
+        "message": "Scharrelaar",
+        "description": "units:skitter:(no description)"
+    },
+    "submarine_class_anti_sub_and_anti_ship_torpedoes": {
+        "message": "Onderzeeër - Anti-onderzeeër- en anti-scheepstorpedo's",
+        "description": "units:submarine_class_anti_sub_and_anti_ship_torpedoes:(no description)"
+    },
+    "advanced_vehicle_factory": {
+        "message": "Geavanceerde Voertuigfabriek",
+        "description": "units:advanced_vehicle_factory:(no description)"
+    },
+    "kestrel": {
+        "message": "Kestrel",
+        "description": "units:kestrel:(no description)"
+    },
+    "delta_v_engine_used_to_move_small_to_medium_celestial_bodies": {
+        "message": "Delta V-aandrijving- Wordt gebruikt om kleine tot middelgrote hemellichamen te verplaatsen.",
+        "description": "units:delta_v_engine_used_to_move_small_to_medium_celestial_bodies:(no description)"
+    },
+    "advanced_fabricator_combatant_wired_to_repair_units_and_build_battlefield_structures_can_only_build_units_for_which_it_has_a_blueprint": {
+        "message": "Geavanceerde strijdfabricage-eenheid- Klaar om eenheden te repareren en verdedigingswerken te bouwen. Kan enkel eenheden bouwen waarvoor het een blauwdruk heeft.",
+        "description": "units:advanced_fabricator_combatant_wired_to_repair_units_and_build_battlefield_structures_can_only_build_units_for_which_it_has_a_blueprint:(no description)"
+    },
+    "air_transport_load_a_land_unit_for_rapid_long_distance_travel": {
+        "message": "Luchttransport- Laad een grondeenheid in voor snel vervoer over lange afstanden.",
+        "description": "units:air_transport_load_a_land_unit_for_rapid_long_distance_travel:(no description)"
+    },
+    "recluse": {
+        "message": "Kluizenaar",
+        "description": "units:recluse:(no description)"
+    },
+    "basic_radar_detects_nearby_enemy_land_sea_and_air_units": {
+        "message": "Eenvoudige radar - Detecteert nabije grond-, zee- en luchteenheden.",
+        "description": "units:basic_radar_detects_nearby_enemy_land_sea_and_air_units:(no description)"
+    },
+    "jig": {
+        "message": "Slurper",
+        "description": "units:jig:(no description)"
+    },
+    "sniper_long_range_advanced_anti_land_and_anti_ship_bot": {
+        "message": "Sluipschutter- Geavanceerde anti-grond- en anti-scheepsrobot met groot bereik.",
+        "description": "units:sniper_long_range_advanced_anti_land_and_anti_ship_bot:(no description)"
+    },
+    "fighter_equipped_with_basic_anti_air_missiles": {
+        "message": "Jager- Uitgerust met eenvoudige luchtdoelraketten",
+        "description": "units:fighter_equipped_with_basic_anti_air_missiles:(no description)"
+    },
+    "fabrication_vehicle": {
+        "message": "Fabricagevoertuig",
+        "description": "units:fabrication_vehicle:(no description)"
+    },
+    "naval_factory": {
+        "message": "Scheepswerf",
+        "description": "units:naval_factory:(no description)"
+    },
+    "advanced_fabricator_builds_orbital_satellites_and_ships": {
+        "message": "Geavanceerde fabriceerder- Bouwt satellieten en ruimteschepen.",
+        "description": "units:advanced_fabricator_builds_orbital_satellites_and_ships:(no description)"
+    },
+    "grenadier": {
+        "message": "Grenadier",
+        "description": "units:grenadier:(no description)"
+    },
+    "battleship_long_range_advanced_anti_ship_and_anti_land_guns": {
+        "message": "Slagschip- Geavanceerde anti-scheeps- en anti-grondkanonnen met groot bereik.",
+        "description": "units:battleship_long_range_advanced_anti_ship_and_anti_land_guns:(no description)"
+    },
+    "advanced_radar_satellite": {
+        "message": "Geavanceerde Radarsatelliet",
+        "description": "units:advanced_radar_satellite:(no description)"
+    },
+    "scout_light_weaponry_fast_speed": {
+        "message": "Verkenner- Licht bewapend, hoge snelheid.",
+        "description": "units:scout_light_weaponry_fast_speed:(no description)"
+    },
+    "gunship_equipped_with_strong_anti_ground_no_anti_air_capabilities": {
+        "message": "Gunship- Uitgerust met sterke gronddoelwapens. Geen anti-luchtmogelijkheden.",
+        "description": "units:gunship_equipped_with_strong_anti_ground_no_anti_air_capabilities:(no description)"
+    },
+    "torpedo_launcher_basic_anti_ship_defense": {
+        "message": "Torpedo-lanceerstation- Eenvoudige anti-scheepsverdediging.",
+        "description": "units:torpedo_launcher_basic_anti_ship_defense:(no description)"
+    },
+    "galata_turret": {
+        "message": "Galata-toren",
+        "description": "units:galata_turret:(no description)"
+    },
+    "basic_turret_equipped_with_anti_air_missiles": {
+        "message": "Eenvoudige geschutskoepel- Uitgerust met anti-lucht-raketten.",
+        "description": "units:basic_turret_equipped_with_anti_air_missiles:(no description)"
+    },
+    "orbital_factory": {
+        "message": "Ruimtedok",
+        "description": "units:orbital_factory:(no description)"
+    },
+    "tactical_missile_launcher_equipped_with_advanced_long_range_anti_land_missile_launcher": {
+        "message": "Tactische raket-lanceerstation- Uitgerust met geavanceerde anti-grondraketten met groot bereik.",
+        "description": "units:tactical_missile_launcher_equipped_with_advanced_long_range_anti_land_missile_launcher:(no description)"
+    },
+    "advanced_naval_factory": {
+        "message": "Geavanceerde Scheepswerf",
+        "description": "units:advanced_naval_factory:(no description)"
+    },
+    "basic_manufacturing_builds_land_vehicles": {
+        "message": "Eenvoudige productie- Bouwt grondvoertuigen.",
+        "description": "units:basic_manufacturing_builds_land_vehicles:(no description)"
+    },
+    "advanced_manufacturing_produces_metal_can_only_be_placed_on_metal_deposits": {
+        "message": "Geavanceerde productie- Produceert metaal, kan enkel geplaatst worden op metaalafzettingen.",
+        "description": "units:advanced_manufacturing_produces_metal_can_only_be_placed_on_metal_deposits:(no description)"
+    },
+    "all_terrain_bot_can_crawl_almost_anywhere": {
+        "message": "All-Terrainrobot. Kan bijna overal kruipen.",
+        "description": "units:all_terrain_bot_can_crawl_almost_anywhere:(no description)"
+    },
+    "torpedo_launcher_advanced_anti_ship_defense": {
+        "message": "Torpedo Lanceerder- Geavanceerde anti-schip verdediging.",
+        "description": "units:torpedo_launcher_advanced_anti_ship_defense:(no description)"
+    },
+    "sr_24_shield_missile_defense": {
+        "message": "SR-24 -Schild- Raketverdediging",
+        "description": "units:sr_24_shield_missile_defense:(no description)"
+    },
+    "advanced_radar": {
+        "message": "Geavanceerde Radar",
+        "description": "units:advanced_radar:(no description)"
+    },
+    "advanced_bot_factory": {
+        "message": "Geavanceerde Robotfabriek",
+        "description": "units:advanced_bot_factory:(no description)"
+    },
+    "sheller": {
+        "message": "Bestoker (Sheller)",
+        "description": "units:sheller:(no description)"
+    },
+    "advanced_artillery_equipped_with_long_range_anti_land_and_anti_ship_gun": {
+        "message": "Geavanceerde artillerie- Uitgerust met anti-grond- en anti-scheepskanon met groot bereik.",
+        "description": "units:advanced_artillery_equipped_with_long_range_anti_land_and_anti_ship_gun:(no description)"
+    },
+    "sun_fish": {
+        "message": "Maanvis",
+        "description": "units:sun_fish:(no description)"
+    },
+    "avenger": {
+        "message": "Wreker",
+        "description": "units:avenger:(no description)"
+    },
+    "radar": {
+        "message": "Radar",
+        "description": "units:radar:(no description)"
+    },
+    "fabrication_bot": {
+        "message": "Fabricagerobot",
+        "description": "units:fabrication_bot:(no description)"
+    },
+    "tank_anti_land_and_anti_ship_guns": {
+        "message": "Tank: Anti-grond- en anti-scheepskanonnen",
+        "description": "units:tank_anti_land_and_anti_ship_guns:(no description)"
+    },
+    "flux": {
+        "message": "Flux",
+        "description": "units:flux:(no description)"
+    },
+    "leviathan": {
+        "message": "Leviathan",
+        "description": "units:leviathan:(no description)"
+    },
+    "advanced_sonar_detects_underwater_units": {
+        "message": "Geavanceerde sonar- Detecteert onderwatereenheden.",
+        "description": "units:advanced_sonar_detects_underwater_units:(no description)"
+    },
+    "advanced_fabrication_ship": {
+        "message": "Geavanceerd Fabricageschip",
+        "description": "units:advanced_fabrication_ship:(no description)"
+    },
+    "sonar": {
+        "message": "Sonar",
+        "description": "units:sonar:(no description)"
+    },
+    "stinger": {
+        "message": "Prikker",
+        "description": "units:stinger:(no description)"
+    },
+    "leveler": {
+        "message": "Verpletteraar",
+        "description": "units:leveler:(no description)"
+    },
+    "jellyfish": {
+        "message": "Kwal (Jellyfish)",
+        "description": "units:jellyfish:(no description)"
+    },
+    "orca": {
+        "message": "Orka (Orca)",
+        "description": "units:orca:(no description)"
+    },
+    "advanced_sonar": {
+        "message": "Geavanceerde Sonar",
+        "description": "units:advanced_sonar:(no description)"
+    },
+    "firefly": {
+        "message": "Vuurvlieg (Firefly)",
+        "description": "units:firefly:(no description)"
+    },
+    "fabricator_builds_naval_structures": {
+        "message": "Fabricage-eenheid: bouwt marinewerken",
+        "description": "units:fabricator_builds_naval_structures:(no description)"
+    },
+    "advanced_radar_detects_nearby_enemy_land_sea_and_air_units": {
+        "message": "Geavanceerde radar- Detecteert nabije grond-, zee- en luchteenheden.",
+        "description": "units:advanced_radar_detects_nearby_enemy_land_sea_and_air_units:(no description)"
+    },
+    "air_factory": {
+        "message": "Vliegtuigfabriek",
+        "description": "units:air_factory:(no description)"
+    },
+    "basic_fabricator_combatant_wired_to_build_mines_and_repair_units_can_only_build_units_for_which_it_has_a_blueprint": {
+        "message": "Eenvoudige gewapende fabricage-eenheid- Bedacht om mijnen te leggen en eenheden te repareren. Kan enkel eenheden bouwen waarvoor het een blauwdruk heeft.",
+        "description": "units:basic_fabricator_combatant_wired_to_build_mines_and_repair_units_can_only_build_units_for_which_it_has_a_blueprint:(no description)"
+    },
+    "sxx_1304_laser_platform": {
+        "message": "SXX-1304 Laserplatform",
+        "description": "units:sxx_1304_laser_platform:(no description)"
+    },
+    "teleporter_teleports_units_from_one_to_another": {
+        "message": "Teleporter: Teleporteert eenheden van de ene naar de andere kant.",
+        "description": "units:teleporter_teleports_units_from_one_to_another:(no description)"
+    },
+    "scout_weak_fast_speed": {
+        "message": "Verkenner- Zwak en snel.",
+        "description": "units:scout_weak_fast_speed:(no description)"
+    },
+    "advanced_turret_equipped_with_anti_air_turret": {
+        "message": "Geavanceerde geschutskoepel- Uitgerust met anti-luchtgeschut.",
+        "description": "units:advanced_turret_equipped_with_anti_air_turret:(no description)"
+    },
+    "advanced_manufacturing_builds_naval_units": {
+        "message": "Geavanceerde productie- Bouwt marine-eenheden.",
+        "description": "units:advanced_manufacturing_builds_naval_units:(no description)"
+    },
+    "single_laser_defense_tower": {
+        "message": "Enkelvoudige Laser-verdedigingstoren",
+        "description": "units:single_laser_defense_tower:(no description)"
+    },
+    "metal_extractor": {
+        "message": "Metaalextractor",
+        "description": "units:metal_extractor:(no description)"
+    },
+    "nuclear_missile_launcher": {
+        "message": "Nucleaire raket-lanceerstation",
+        "description": "units:nuclear_missile_launcher:(no description)"
+    },
+    "laser_tank_equipped_with_advanced_anti_land_and_anti_ship_guns": {
+        "message": "Lasertank- Uitgerust met geavanceerde anti-grond- en anti-scheepskanonnen.",
+        "description": "units:laser_tank_equipped_with_advanced_anti_land_and_anti_ship_guns:(no description)"
+    },
+    "manufacturing_increases_maximum_energy_storage_capacity": {
+        "message": "Productie- Verhoogt de energie-opslagcapaciteit.",
+        "description": "units:manufacturing_increases_maximum_energy_storage_capacity:(no description)"
+    },
+    "light_tank_equipped_with_basic_anti_land_and_anti_ship_guns": {
+        "message": "Lichte tank- Uitgerust met basis anti-grond- en antischeepskannonen.",
+        "description": "units:light_tank_equipped_with_basic_anti_land_and_anti_ship_guns:(no description)"
+    },
+    "basic_fabricator_wired_to_build_naval_structures": {
+        "message": "Basis fabriceerder- Gemaakt om marinewerken te bouwen.",
+        "description": "units:basic_fabricator_wired_to_build_naval_structures:(no description)"
+    },
+    "advanced_energy_plant": {
+        "message": "Geavanceerde Energiecentrale",
+        "description": "units:advanced_energy_plant:(no description)"
+    },
+    "tactical_missile_bot_medium_range_advanced_artillery_bot": {
+        "message": "Tactische raketrobot- Geavanceerde artillerierobot met middelgroot bereik.",
+        "description": "units:tactical_missile_bot_medium_range_advanced_artillery_bot:(no description)"
+    },
+    "stingray": {
+        "message": "Pijlstaart (Stingray)",
+        "description": "units:stingray:(no description)"
+    },
+    "advanced_radar_satellite_detects_a_vast_area_for_enemy_land_sea_and_air_units": {
+        "message": "Geavanceerde radarsatelliet- Detecteert vijandige grond-, zee- en luchteenheden binnen een groot gebied.",
+        "description": "units:advanced_radar_satellite_detects_a_vast_area_for_enemy_land_sea_and_air_units:(no description)"
+    },
+    "orbital_and_deepspace_radar_orbital_and_celestial_radar_telemetry": {
+        "message": "Orbitale- en ruimteradar- Radartelemetrie in omloopbaan en ruimte.",
+        "description": "units:orbital_and_deepspace_radar_orbital_and_celestial_radar_telemetry:(no description)"
+    },
+    "lr_96_pacifier_missile": {
+        "message": "LR-96 -Vredestichter- Raket",
+        "description": "units:lr_96_pacifier_missile:(no description)"
+    },
+    "umbrella": {
+        "message": "Paraplu (Umbrella)",
+        "description": "units:umbrella:(no description)"
+    },
+    "advanced_fab_aircraft": {
+        "message": "Geavanceerd Fabricagevliegtuig",
+        "description": "units:advanced_fab_aircraft:(no description)"
+    },
+    "unit_cannon_long_range_unit_dispersal": {
+        "message": "Eenhedenkanon: Transport van eenheden over lange afstand",
+        "description": "units:unit_cannon_long_range_unit_dispersal:(no description)"
+    },
+    "frigate_basic_anti_air_missiles_and_anti_ship_guns": {
+        "message": "Fregat- Eenvoudige luchtdoelraketten en anti-scheepskanonnen.",
+        "description": "units:frigate_basic_anti_air_missiles_and_anti_ship_guns:(no description)"
+    },
+    "bolo": {
+        "message": "Bolo",
+        "description": "units:bolo:(no description)"
+    },
+    "vehicle_factory": {
+        "message": "Voertuigfabriek",
+        "description": "units:vehicle_factory:(no description)"
+    },
+    "anti_nuke_launcher": {
+        "message": "Antikernraketlanceerinrichting",
+        "description": "units:anti_nuke_launcher:(no description)"
+    },
+    "defense_satellite_heavy_orbital_offensive_and_defensive_platform_with_basic_laser": {
+        "message": "Verdedigingssatelliet- Zwaar orbitaal aanvals- en verdedigingsplatform met eenvoudige laser.",
+        "description": "units:defense_satellite_heavy_orbital_offensive_and_defensive_platform_with_basic_laser:(no description)"
+    },
+    "fabrication_sub": {
+        "message": "Fabricageonderzeeër",
+        "description": "units:fabrication_sub:(no description)"
+    },
+    "advanced_fabrication_bot": {
+        "message": "Geavanceerde Fabricagerobot",
+        "description": "units:advanced_fabrication_bot:(no description)"
+    },
+    "orbital_and_deepspace_radar": {
+        "message": "Orbitaal- en Ruimteradar",
+        "description": "units:orbital_and_deepspace_radar:(no description)"
+    },
+    "destroyer_basic_anti_land_and_anti_ship_guns": {
+        "message": "Jager- Eenvoudige anti-grond- en anti-scheepskanonnen.",
+        "description": "units:destroyer_basic_anti_land_and_anti_ship_guns:(no description)"
+    },
+    "bomb_bot_equipped_with_self_destruction_mechanism": {
+        "message": "Bomrobot- Uitgerust met een zelfvernietigingsmechanisme.",
+        "description": "units:bomb_bot_equipped_with_self_destruction_mechanism:(no description)"
+    },
+    "grenadier_basic_assault_weapons_dealing_area_effect_damage": {
+        "message": "Grenadier- Eenvoudig aanvalswapen dat omgevingsschade toebrengen.",
+        "description": "units:grenadier_basic_assault_weapons_dealing_area_effect_damage:(no description)"
+    },
+    "manufacturing_orbital_energy_generation": {
+        "message": "Productie- Energieopwekking in een baan om de planeet.",
+        "description": "units:manufacturing_orbital_energy_generation:(no description)"
+    },
+    "advanced_turret_equipped_with_direct_fire_anti_land_and_anti_ship_defenses": {
+        "message": "Geavanceerde geschutskoepel- Uitgerust met directe anti-grond- en anti-scheepsverdediging.",
+        "description": "units:advanced_turret_equipped_with_direct_fire_anti_land_and_anti_ship_defenses:(no description)"
+    },
+    "fighter_equipped_with_advanced_anti_air_missiles": {
+        "message": "Jager- Uitgerust met geavanceerde luchtdoelraketten.",
+        "description": "units:fighter_equipped_with_advanced_anti_air_missiles:(no description)"
+    },
+    "basic_manufacturing_produces_metal_can_only_be_placed_on_metal_deposits": {
+        "message": "Eenvoudige productie- Produceert metaal, kan enkel op metaalafzettingen geplaatst worden.",
+        "description": "units:basic_manufacturing_produces_metal_can_only_be_placed_on_metal_deposits:(no description)"
+    },
+    "metal_storage": {
+        "message": "Metaalopslag",
+        "description": "units:metal_storage:(no description)"
+    },
+    "basic_artillery_equipped_with_medium_range_anti_land_and_anti_ship_gun": {
+        "message": "Eenvoudige artillerie- Uitgerust met anti-grond- en anti-scheepskannonen met middelgroot bereik.",
+        "description": "units:basic_artillery_equipped_with_medium_range_anti_land_and_anti_ship_gun:(no description)"
+    },
+    "pelican": {
+        "message": "Pelikaan (Pelican)",
+        "description": "units:pelican:(no description)"
+    },
+    "basic_manufacturing_builds_and_launches_satellites_and_other_units": {
+        "message": "Eenvoudige productie- Bouwt en lanceert satellieten en andere ruimte-eenheden.",
+        "description": "units:basic_manufacturing_builds_and_launches_satellites_and_other_units:(no description)"
+    },
+    "wall": {
+        "message": "Muur",
+        "description": "units:wall:(no description)"
+    },
+    "advanced_metal_extractor": {
+        "message": "Geavanceerde Metaalextractor",
+        "description": "units:advanced_metal_extractor:(no description)"
+    },
+    "fabrication_ship": {
+        "message": "Fabricageschip",
+        "description": "units:fabrication_ship:(no description)"
+    },
+    "orbital_fighter_fast_moving_orbital_fighter_for_offense_and_defense": {
+        "message": "Ruimtejager- Snel bewegende ruimtejager voor de aanval en de verdediging.",
+        "description": "units:orbital_fighter_fast_moving_orbital_fighter_for_offense_and_defense:(no description)"
+    },
+    "land_mine_detonates_when_enemy_units_are_in_proximity": {
+        "message": "Landmijn- Ontploft wanneer vijandige eenheden in de buurt komen.",
+        "description": "units:land_mine_detonates_when_enemy_units_are_in_proximity:(no description)"
+    },
+    "sea_mine_detonates_when_ships_are_in_proximity": {
+        "message": "Zeemijn- Ontploft wanneer schepen in de buurt komen.",
+        "description": "units:sea_mine_detonates_when_ships_are_in_proximity:(no description)"
+    },
+    "advanced_manufacturing_produces_energy": {
+        "message": "Geavanceerde productie- Produceert energie.",
+        "description": "units:advanced_manufacturing_produces_energy:(no description)"
+    },
+    "holkins": {
+        "message": "Holkins",
+        "description": "units:holkins:(no description)"
+    },
+    "analysis_controls_things_big_things": {
+        "message": "Analyse: Bedient dingen. Grote dingen.",
+        "description": "units:analysis_controls_things_big_things:(no description)"
+    },
+    "spinner": {
+        "message": "Draaier (Spinner)",
+        "description": "units:spinner:(no description)"
+    },
+    "bomber_equipped_with_advanced_anti_land_and_anti_naval_tactical_missiles": {
+        "message": "Bommenwerper- Uitgerust met geavanceerde tactische anti-grond en anti-scheepsraketten.",
+        "description": "units:bomber_equipped_with_advanced_anti_land_and_anti_naval_tactical_missiles:(no description)"
+    },
+    "orbital_launcher": {
+        "message": "Satelliet-lanceerinstallatie",
+        "description": "units:orbital_launcher:(no description)"
+    },
+    "advanced_fabrication_vehicle": {
+        "message": "Geavanceerd Fabricagevoertuig",
+        "description": "units:advanced_fabrication_vehicle:(no description)"
+    },
+    "bumblebee": {
+        "message": "Hommel (Bumblebee)",
+        "description": "units:bumblebee:(no description)"
+    },
+    "arkyd": {
+        "message": "ARKYD",
+        "description": "units:arkyd:(no description)"
+    },
+    "bluehawk": {
+        "message": "Havik (Bluehawk)",
+        "description": "units:bluehawk:(no description)"
+    },
+    "advanced_laser_defense_tower": {
+        "message": "Geavanceerde Laser-verdedigingstoren",
+        "description": "units:advanced_laser_defense_tower:(no description)"
+    },
+    "inferno": {
+        "message": "Inferno",
+        "description": "units:inferno:(no description)"
+    },
+    "basic_radar_satellite_detects_a_large_area_for_enemy_land_sea_and_air_units": {
+        "message": "Eenvoudige radarsatelliet- Controleert een groot oppervlak op vijandige grond-, zee- en luchteenheden.",
+        "description": "units:basic_radar_satellite_detects_a_large_area_for_enemy_land_sea_and_air_units:(no description)"
+    },
+    "bomber_equipped_with_basic_anti_land_and_anti_naval_bombs": {
+        "message": "Bommenwerper- Uitgerust met eenvoudige anti-grond en anti-scheepsbommen.",
+        "description": "units:bomber_equipped_with_basic_anti_land_and_anti_naval_bombs:(no description)"
+    },
+    "catapult": {
+        "message": "Katapult (Catapult)",
+        "description": "units:catapult:(no description)"
+    },
+    "ion_defense_platform_designed_to_take_out_orbital_units_above_it": {
+        "message": "Ion-verdedigingsplatform- Ontworpen om ruimte eenheden erboven uit te schakelen.",
+        "description": "units:ion_defense_platform_designed_to_take_out_orbital_units_above_it:(no description)"
+    },
+    "nuclear_missile_long_range_large_area_damage_projectile": {
+        "message": "Nucleaire raket - Groot bereik, grote omgevingsschade, projectiel",
+        "description": "units:nuclear_missile_long_range_large_area_damage_projectile:(no description)"
+    },
+    "artillery_ship_long_range_advanced_guided_missiles": {
+        "message": "Artillerieschip- Geavanceerde geleide langeafstandsraketten.",
+        "description": "units:artillery_ship_long_range_advanced_guided_missiles:(no description)"
+    },
+    "advanced_air_factory": {
+        "message": "Geavanceerde Vliegtuigfabriek",
+        "description": "units:advanced_air_factory:(no description)"
+    },
+    "orbital_laser_platform_rains_death_from_above": {
+        "message": "Ruimtelaser-platform- Laat de dood van boven neerdalen.",
+        "description": "units:orbital_laser_platform_rains_death_from_above:(no description)"
+    },
+    "basic_manufacturing_builds_air_units": {
+        "message": "Eenvoudige productie- Bouwt luchteenheden.",
+        "description": "units:basic_manufacturing_builds_air_units:(no description)"
+    },
+    "basic_manufacturing_produces_energy": {
+        "message": "Eenvoudige productie- Produceert energie.",
+        "description": "units:basic_manufacturing_produces_energy:(no description)"
+    },
+    "basic_fabricator_wired_to_build_structures": {
+        "message": "Eenvoudige fabricage-eenheid- Bouwt gebouwen",
+        "description": "units:basic_fabricator_wired_to_build_structures:(no description)"
+    },
+    "catalyst": {
+        "message": "Katalysator (Catalyst)",
+        "description": "units:catalyst:(no description)"
+    },
+    "basic_turret_equipped_with_direct_fire_anti_land_and_anti_ship_defenses": {
+        "message": "Eenvoudige geschutskoepel- Uitgerust met directe anti-grond-  en anti-scheepsverdediging.",
+        "description": "units:basic_turret_equipped_with_direct_fire_anti_land_and_anti_ship_defenses:(no description)"
+    },
+    "basic_manufacturing_builds_naval_units": {
+        "message": "Eenvoudige productie- Bouwt marine-eenheden.",
+        "description": "units:basic_manufacturing_builds_naval_units:(no description)"
+    },
+    "gas_mining_and_metal_creation_satellite_only_works_above_gas_giant_planets": {
+        "message": "Gaswinnings- en metaalfabricagesatelliet. Werkt enkel boven gasreuzen.",
+        "description": "units:gas_mining_and_metal_creation_satellite_only_works_above_gas_giant_planets:(no description)"
+    },
+    "energy_storage": {
+        "message": "Energie-opslag",
+        "description": "units:energy_storage:(no description)"
+    },
+    "flame_tank_short_ranged_heavy_armored_vehicle": {
+        "message": "Vlammentank- Zwaar bepanserd voortuig met klein bereik.",
+        "description": "units:flame_tank_short_ranged_heavy_armored_vehicle:(no description)"
+    },
+    "combat_vehicle_equipped_with_basic_anti_air_missiles": {
+        "message": "Gevechtsvoertuig- Uitgerust met eenvoudige luchtdoelraketten.",
+        "description": "units:combat_vehicle_equipped_with_basic_anti_air_missiles:(no description)"
+    },
+    "anti_nuke_launcher_equipped_with_advanced_anti_nuclear_missile_weapon": {
+        "message": "Anti-nuke-lanceerstation- Uitgerust met raketten om nucleaire raketten uit de lucht te halen.",
+        "description": "units:anti_nuke_launcher_equipped_with_advanced_anti_nuclear_missile_weapon:(no description)"
+    },
+    "unit_cannon": {
+        "message": "Eenhedenkanon (Unit Cannon)",
+        "description": "units:unit_cannon:(no description)"
+    },
+    "fabrication_aircraft": {
+        "message": "Fabricagevliegtuig",
+        "description": "units:fabrication_aircraft:(no description)"
+    },
+    "advanced_fabricator_wired_to_build_structures": {
+        "message": "Geavanceerde fabricage-eenheid- Bouwt gebouwen",
+        "description": "units:advanced_fabricator_wired_to_build_structures:(no description)"
+    },
+    "vanguard": {
+        "message": "Spits (Vanguard)",
+        "description": "units:vanguard:(no description)"
+    },
+    "halley": {
+        "message": "Halley",
+        "description": "units:halley:(no description)"
+    },
+    "advanced_manufacturing_builds_bots": {
+        "message": "Geavanceerde productie- Bouwt robots.",
+        "description": "units:advanced_manufacturing_builds_bots:(no description)"
+    },
+    "anchor": {
+        "message": "Anker (Anchor)",
+        "description": "units:anchor:(no description)"
+    },
+    "hornet": {
+        "message": "Horzel (Hornet)",
+        "description": "units:hornet:(no description)"
+    },
+    "advanced_manufacturing_builds_land_vehicles": {
+        "message": "Geavanceerde productie- Bouwt grondvoertuigen.",
+        "description": "units:advanced_manufacturing_builds_land_vehicles:(no description)"
+    },
+    "advanced_manufacturing_builds_air_units": {
+        "message": "Geavanceerde productie- Bouwt luchteenheden.",
+        "description": "units:advanced_manufacturing_builds_air_units:(no description)"
+    },
+    "advanced_combat_fabrication_bot": {
+        "message": "Geavanceerde Gevechts-fabricagerobot",
+        "description": "units:advanced_combat_fabrication_bot:(no description)"
+    },
+    "laser_defense_tower": {
+        "message": "Laser-verdedigingstoren",
+        "description": "units:laser_defense_tower:(no description)"
+    },
+    "land_mine": {
+        "message": "Landmijn",
+        "description": "units:land_mine:(no description)"
+    },
+    "dolphin": {
+        "message": "Dolfijn (Dolphin)",
+        "description": "units:dolphin:(no description)"
+    },
+    "ant": {
+        "message": "Mier (Ant)",
+        "description": "units:ant:(no description)"
+    },
+    "pelter": {
+        "message": "Werper (Pelter)",
+        "description": "units:pelter:(no description)"
+    },
+    "assault_anti_land_and_anti_ship_lasers": {
+        "message": "Aanval: Anti-grond- en anti-scheepslasers",
+        "description": "units:assault_anti_land_and_anti_ship_lasers:(no description)"
+    },
+    "advanced_torpedo_launcher": {
+        "message": "Geavanceerd Torpedo-lanceerstation",
+        "description": "units:advanced_torpedo_launcher:(no description)"
+    },
+    "orbital_lander_load_it_up_get_units_to_other_planets": {
+        "message": "Maanlander- Laad 'm vol en stuur eenheden naar andere planeten.",
+        "description": "units:orbital_lander_load_it_up_get_units_to_other_planets:(no description)"
+    },
+    "orbital_fabrication_bot": {
+        "message": "Ruimte-fabricagerobot",
+        "description": "units:orbital_fabrication_bot:(no description)"
+    },
+    "slammer": {
+        "message": "Smijter (Slammer)",
+        "description": "units:slammer:(no description)"
+    },
+    "assault_bot_equipped_with_basic_anti_land_and_anti_ship_lasers": {
+        "message": "Aanvalsrobot- Uitgerust met eenvoudige anti-grond en anti-scheepslasers.",
+        "description": "units:assault_bot_equipped_with_basic_anti_land_and_anti_ship_lasers:(no description)"
+    },
+    "peregrine": {
+        "message": "Slechtvalk (Peregrine)",
+        "description": "units:peregrine:(no description)"
+    },
+    "dox": {
+        "message": "Dox",
+        "description": "units:dox:(no description)"
+    },
+    "manufacturing_increases_maximum_metal_storage_capacity": {
+        "message": "Productie- Verhoogt de metaal-opslagcapaciteit.",
+        "description": "units:manufacturing_increases_maximum_metal_storage_capacity:(no description)"
+    },
+    "hummingbird": {
+        "message": "Kolibrie (Hummingbird)",
+        "description": "units:hummingbird:(no description)"
+    },
+    "advanced_fabricator_wired_to_build_naval_structures": {
+        "message": "Geavanceerde fabricage-eenheid- Bouwt marinewerken",
+        "description": "units:advanced_fabricator_wired_to_build_naval_structures:(no description)"
+    },
+    "boom": {
+        "message": "Boem (Boom)",
+        "description": "units:boom:(no description)"
+    },
+    "heavy_tank_advanced_short_range_heavily_armored_vehicle": {
+        "message": "Zware tank- Geavanceerd, zwaar gepantserd voertuig met kort bereik.",
+        "description": "units:heavy_tank_advanced_short_range_heavily_armored_vehicle:(no description)"
+    },
+    "combat_bot_equipped_with_basic_anti_air_missiles": {
+        "message": "Gevechtsrobot- Uitgerust met eenvoudige luchtdoelraketten.",
+        "description": "units:combat_bot_equipped_with_basic_anti_air_missiles:(no description)"
+    },
+    "gil_e": {
+        "message": "Gil-E",
+        "description": "units:gil_e:(no description)"
+    },
+    "sub_class_anti_sub_and_anti_ship_torpedoes_long_range_ballistic_nuclear_missile": {
+        "message": "Onderzeeër: Anti-onderzeeër en anti-scheepstorpedo's, balastische nucleaire raket met groot bereik",
+        "description": "units:sub_class_anti_sub_and_anti_ship_torpedoes_long_range_ballistic_nuclear_missile:(no description)"
+    },
+    "basic_defense_no_weapon_high_health": {
+        "message": "Eenvoudige verdediging- Geen wapens, heel sterk.",
+        "description": "units:basic_defense_no_weapon_high_health:(no description)"
+    },
+    "barracuda": {
+        "message": "Barracuda",
+        "description": "units:barracuda:(no description)"
+    },
+    "basic_manufacturing_builds_bots": {
+        "message": "Eenvoudige productie- Bouwt robots.",
+        "description": "units:basic_manufacturing_builds_bots:(no description)"
+    },
+    "teleporter": {
+        "message": "Teleporter",
+        "description": "units:teleporter:(no description)"
+    },
+    "bot_factory": {
+        "message": "Robotfabriek",
+        "description": "units:bot_factory:(no description)"
+    },
+    "torpedo_launcher": {
+        "message": "Torpedo-lanceerstation",
+        "description": "units:torpedo_launcher:(no description)"
+    },
+    "advanced_tank_anti_land_and_anti_ship_guns": {
+        "message": "Geavanceerde tank: Anti-grond- en anti-scheepskannonen",
+        "description": "units:advanced_tank_anti_land_and_anti_ship_guns:(no description)"
+    },
+    "nuclear_missile_launcher_equipped_with_advanced_long_range_large_area_damage_nuclear_missile": {
+        "message": "Nucleaire raket-lanceerstation- Uitgerust met een geavanceerde nucleaire raketten met groot bereik en veel omgevingsschade.",
+        "description": "units:nuclear_missile_launcher_equipped_with_advanced_long_range_large_area_damage_nuclear_missile:(no description)"
+    },
+    "advanced_manufacturing_builds_orbital_satellites": {
+        "message": "Geavanceerde productie- Bouwt satellieten.",
+        "description": "units:advanced_manufacturing_builds_orbital_satellites:(no description)"
+    },
+    "flak_cannon": {
+        "message": "Luchtafweergeschut (Flak)",
+        "description": "units:flak_cannon:(no description)"
+    },
+    "basic_sonar_detects_underwater_units": {
+        "message": "Eenvoudige sonar- Detecteert onderwatereenheden.",
+        "description": "units:basic_sonar_detects_underwater_units:(no description)"
+    },
+    "solar_array": {
+        "message": "Zonnepaneel",
+        "description": "units:solar_array:(no description)"
+    },
+    "narwhal": {
+        "message": "Narwal (Narwhal)",
+        "description": "units:narwhal:(no description)"
+    }
+}

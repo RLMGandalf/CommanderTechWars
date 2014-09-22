@@ -1,0 +1,122 @@
+{
+    "appear_offline": {
+        "message": "Appear Offline",
+        "description": "uberbar:appear_offline:(no description)"
+    },
+    "accept_request": {
+        "message": "Accept Request",
+        "description": "uberbar:accept_request:(no description)"
+    },
+    "_tags": {
+        "message": "[Tags:",
+        "description": "uberbar:_tags:(no description)"
+    },
+    "unblock": {
+        "message": "Unblock",
+        "description": "uberbar:unblock:(no description)"
+    },
+    "chat": {
+        "message": "Chatt",
+        "description": "uberbar:chat:(no description)"
+    },
+    "users": {
+        "message": "Users",
+        "description": "uberbar:users:(no description)"
+    },
+    "_remove": {
+        "message": "[REMOVE]",
+        "description": "uberbar:_remove:(no description)"
+    },
+    "away": {
+        "message": "Away",
+        "description": "uberbar:away:(no description)"
+    },
+    "wants_to_be_your_friend": {
+        "message": "wants to be your friend.",
+        "description": "uberbar:wants_to_be_your_friend:(no description)"
+    },
+    "invite_to_game": {
+        "message": "Invite to game",
+        "description": "uberbar:invite_to_game:(no description)"
+    },
+    "uberbar": {
+        "message": "UBERBAR",
+        "description": "uberbar:uberbar:(no description)"
+    },
+    "_i": {
+        "message": "[I]",
+        "description": "uberbar:_i:(no description)"
+    },
+    "online": {
+        "message": "Online",
+        "description": "uberbar:online:(no description)"
+    },
+    "_f": {
+        "message": "[F]",
+        "description": "uberbar:_f:(no description)"
+    },
+    "offline": {
+        "message": "Offline",
+        "description": "uberbar:offline:(no description)"
+    },
+    "_b": {
+        "message": "[B]",
+        "description": "uberbar:_b:(no description)"
+    },
+    "unfriend": {
+        "message": "Unfriend",
+        "description": "uberbar:unfriend:(no description)"
+    },
+    "no_pending_notifications": {
+        "message": "No pending notifications.",
+        "description": "uberbar:no_pending_notifications:(no description)"
+    },
+    "join_game": {
+        "message": "ANSLUT TILL SPEL",
+        "description": "uberbar:join_game:(no description)"
+    },
+    "friends": {
+        "message": "Vänner",
+        "description": "uberbar:friends:(no description)"
+    },
+    "recent": {
+        "message": "Recent",
+        "description": "uberbar:recent:(no description)"
+    },
+    "b": {
+        "message": "B",
+        "description": "uberbar:b:(no description)"
+    },
+    "do_not_disturb": {
+        "message": "Do Not Disturb",
+        "description": "uberbar:do_not_disturb:(no description)"
+    },
+    "remove": {
+        "message": "Ta Bort",
+        "description": "uberbar:remove:(no description)"
+    },
+    "ignore": {
+        "message": "Ignore",
+        "description": "uberbar:ignore:(no description)"
+    },
+    "r": {
+        "message": "R",
+        "description": "uberbar:r:(no description)"
+    },
+    "_chat": {
+        "message": "[CHAT]",
+        "description": "uberbar:_chat:(no description)"
+    },
+    "friend_request": {
+        "message": "Friend request",
+        "description": "uberbar:friend_request:(no description)"
+    },
+    "invited_you_to_a_game": {
+        "message": "invited you to a game.",
+        "description": "uberbar:invited_you_to_a_game:(no description)"
+    },
+    "block": {
+        "message": "Block",
+        "description": "uberbar:block:(no description)"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "___aicount___ai": {
+        "description": "replay_browser:___aicount___ai:(no description)", 
+        "message": "(+ __aiCount__ AI)"
+    }, 
+    "_no_info_available": {
+        "description": "replay_browser:_no_info_available:(no description)", 
+        "message": "(no info available)"
+    }, 
+    "_updating": {
+        "description": "replay_browser:_updating:(no description)", 
+        "message": "(UPDATING...)"
+    }, 
+    "failed_to_retrieve_replay_list": {
+        "description": "replay_browser:failed_to_retrieve_replay_list:(no description)", 
+        "message": "FAILED TO RETRIEVE REPLAY LIST"
+    }, 
+    "replays": {
+        "description": "replay_browser:replays:(no description)", 
+        "message": "REPLAYS"
+    }, 
+    "returning_to_main_menu": {
+        "description": "replay_browser:returning_to_main_menu:(no description)", 
+        "message": "Returning to Main Menu"
+    }, 
+    "search": {
+        "description": "replay_browser:search:(no description)", 
+        "message": "Search"
+    }, 
+    "view_replay": {
+        "description": "replay_browser:view_replay:(no description)", 
+        "message": "View Replay"
+    }
+}

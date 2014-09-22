@@ -1,0 +1,122 @@
+{
+    "designed_in_collaboration_with": {
+        "message": "Создан при участии ",
+        "description": "armory:designed_in_collaboration_with:(no description)"
+    },
+    "remove": {
+        "message": "УДАЛИТЬ",
+        "description": "armory:remove:(no description)"
+    },
+    "cancel": {
+        "message": "Отмена",
+        "description": "armory:cancel:(no description)"
+    },
+    "continue_shopping": {
+        "message": "Продолжить покупки",
+        "description": "armory:continue_shopping:(no description)"
+    },
+    "account_name": {
+        "message": "Имя аккуанта:",
+        "description": "armory:account_name:(no description)"
+    },
+    "badges": {
+        "message": "Значки",
+        "description": "armory:badges:(no description)"
+    },
+    "here_s_your_receipt": {
+        "message": "Ваша квитанция.",
+        "description": "armory:here_s_your_receipt:(no description)"
+    },
+    "set_as_default_commander": {
+        "message": "Сделать коммандером по умолчанию",
+        "description": "armory:set_as_default_commander:(no description)"
+    },
+    "total": {
+        "message": "Всего:",
+        "description": "armory:total:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Код подтверждения:",
+        "description": "armory:confirmation_code:(no description)"
+    },
+    "kickstarter_backer": {
+        "message": "Kickstarter Backer",
+        "description": "armory:kickstarter_backer:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below": {
+        "message": "Подтверждение покупки приводится ниже.",
+        "description": "armory:confirmation_of_your_purchase_is_provided_below:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "Купленные товары зарегистрированны на вашем аккуанте и доступны в игре.",
+        "description": "armory:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "item_is_already_in_cart": {
+        "message": "Товар уже в корзине",
+        "description": "armory:item_is_already_in_cart:(no description)"
+    },
+    "add_to_cart": {
+        "message": "Добавить в корзину",
+        "description": "armory:add_to_cart:(no description)"
+    },
+    "armory": {
+        "message": "Арсенал",
+        "description": "armory:armory:(no description)"
+    },
+    "checkout": {
+        "message": "ПРОВЕРКА",
+        "description": "armory:checkout:(no description)"
+    },
+    "price": {
+        "message": "Цена",
+        "description": "armory:price:(no description)"
+    },
+    "cart": {
+        "message": "Корзина",
+        "description": "armory:cart:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Спасибо за покупку!",
+        "description": "armory:thank_you_for_your_purchase:(no description)"
+    },
+    "redeem": {
+        "message": "Активировать",
+        "description": "armory:redeem:(no description)"
+    },
+    "total_price": {
+        "message": "Всего:",
+        "description": "armory:total_price:(no description)"
+    },
+    "updating": {
+        "message": "Обновление...",
+        "description": "armory:updating:(no description)"
+    },
+    "credit_applied": {
+        "message": "Кредит применён",
+        "description": "armory:credit_applied:(no description)"
+    },
+    "go_to_main_menu": {
+        "message": "Перейти в Главное меню",
+        "description": "armory:go_to_main_menu:(no description)"
+    },
+    "cart_empty": {
+        "message": "Ваша корзина пуста.",
+        "description": "armory:cart_empty:(no description)"
+    },
+    "commanders": {
+        "message": "Коммандеры",
+        "description": "armory:commanders:(no description)"
+    },
+    "refresh": {
+        "message": "Обновить",
+        "description": "armory:refresh:(no description)"
+    },
+    "item": {
+        "message": "Товар",
+        "description": "armory:item:(no description)"
+    },
+    "return_to_armory": {
+        "message": "Вернуться в Арсенал",
+        "description": "armory:return_to_armory:(no description)"
+    }
+}

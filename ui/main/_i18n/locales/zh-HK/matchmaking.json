@@ -1,0 +1,22 @@
+{
+    "returning_to_main_menu": {
+        "message": "正在返回主目錄",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "matchmaking:gamma_v:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "橫掃千星新遊戲 ALPHA",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "正在等待配對",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "無法進行配對",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

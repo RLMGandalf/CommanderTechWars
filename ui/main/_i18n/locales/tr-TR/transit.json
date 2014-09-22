@@ -1,0 +1,10 @@
+{
+    "returning_to_main_menu": {
+        "message": "Ana Menüye Geri Dönülüyor",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "error": {
+        "message": "Hata",
+        "description": "transit:error:(no description)"
+    }
+}

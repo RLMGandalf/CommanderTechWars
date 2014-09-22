@@ -1,0 +1,42 @@
+{
+    "spectators": {
+        "message": "观众",
+        "description": "new_lobby:spectators:(no description)"
+    },
+    "roster": {
+        "message": "名录",
+        "description": "new_lobby:roster:(no description)"
+    },
+    "ready_cancel": {
+        "message": "准备/取消",
+        "description": "new_lobby:ready_cancel:(no description)"
+    },
+    "manage": {
+        "message": "管理",
+        "description": "new_lobby:manage:(no description)"
+    },
+    "game_type": {
+        "message": "游戏类型",
+        "description": "new_lobby:game_type:(no description)"
+    },
+    "system": {
+        "message": "星系",
+        "description": "new_lobby:system:(no description)"
+    },
+    "options": {
+        "message": "设置",
+        "description": "new_lobby:options:(no description)"
+    },
+    "chat": {
+        "message": "聊天",
+        "description": "new_lobby:chat:(no description)"
+    },
+    "section": {
+        "message": "区域",
+        "description": "new_lobby:section:(no description)"
+    },
+    "new_lobby": {
+        "message": "新建房间",
+        "description": "new_lobby:new_lobby:(no description)"
+    }
+}

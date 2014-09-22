@@ -1,0 +1,210 @@
+{
+    "my_planets": {
+        "message": "MES PLANÈTES",
+        "description": "system_editor:my_planets:(no description)"
+    },
+    "preview_all": {
+        "message": "TOUT PREVISUALISER",
+        "description": "system_editor:preview_all:(no description)"
+    },
+    "show": {
+        "message": "MONTRER",
+        "description": "system_editor:show:(no description)"
+    },
+    "water_height": {
+        "message": "NIVEAU DE LA MER",
+        "description": "system_editor:water_height:(no description)"
+    },
+    "accept": {
+        "message": "Accepter",
+        "description": "system_editor:accept:(no description)"
+    },
+    "height": {
+        "message": "Altitude",
+        "description": "system_editor:height:(no description)"
+    },
+    "seed": {
+        "message": "ALÉAS",
+        "description": "system_editor:seed:(no description)"
+    },
+    "radius": {
+        "message": "RAYON",
+        "description": "system_editor:radius:(no description)"
+    },
+    "cancel": {
+        "message": "Annuler",
+        "description": "system_editor:cancel:(no description)"
+    },
+    "close": {
+        "message": "FERMER",
+        "description": "system_editor:close:(no description)"
+    },
+    "metal_clusters": {
+        "message": "AMAS DE MÉTAL",
+        "description": "system_editor:metal_clusters:(no description)"
+    },
+    "the_system_has_not_been_saved": {
+        "message": "Le système n'a pas été sauvegardé",
+        "description": "system_editor:the_system_has_not_been_saved:(no description)"
+    },
+    "the_planet_is_loading_this_can_take_a_long_time": {
+        "message": "La planète est en cours de chargement. Ceci peut prendre un long moment.",
+        "description": "system_editor:the_planet_is_loading_this_can_take_a_long_time:(no description)"
+    },
+    "biome": {
+        "message": "BIOME",
+        "description": "system_editor:biome:(no description)"
+    },
+    "starting_planet": {
+        "message": "Planète de départ",
+        "description": "system_editor:starting_planet:(no description)"
+    },
+    "hide": {
+        "message": "MASQUER",
+        "description": "system_editor:hide:(no description)"
+    },
+    "temperature": {
+        "message": "TEMPERATURE",
+        "description": "system_editor:temperature:(no description)"
+    },
+    "discard": {
+        "message": "Abandonner",
+        "description": "system_editor:discard:(no description)"
+    },
+    "save_mixed_case": {
+        "message": "Sauvegarder",
+        "description": "system_editor:save_mixed_case:(no description)"
+    },
+    "clear_system": {
+        "message": "EFFACER LE SYSTEME",
+        "description": "system_editor:clear_system:(no description)"
+    },
+    "system_radius_is_too_small": {
+        "message": "Le rayon du système est trop petit.",
+        "description": "system_editor:system_radius_is_too_small:(no description)"
+    },
+    "x": {
+        "message": "X:",
+        "description": "system_editor:x:(no description)"
+    },
+    "system_editor": {
+        "message": "CONCEPTEUR DE SYSTÈME",
+        "description": "system_editor:system_editor:(no description)"
+    },
+    "preview": {
+        "message": "PRÉVISUALISER",
+        "description": "system_editor:preview:(no description)"
+    },
+    "templates": {
+        "message": "MODÈLES",
+        "description": "system_editor:templates:(no description)"
+    },
+    "biome_scale": {
+        "message": "TAILLE DU BIOME",
+        "description": "system_editor:biome_scale:(no description)"
+    },
+    "save_system": {
+        "message": "SAUVEGARDER",
+        "description": "system_editor:save_system:(no description)"
+    },
+    "water": {
+        "message": "Eau",
+        "description": "system_editor:water:(no description)"
+    },
+    "metal_density": {
+        "message": "DENSITÉ DE MÉTAL",
+        "description": "system_editor:metal_density:(no description)"
+    },
+    "velocity": {
+        "message": "VITESSE",
+        "description": "system_editor:velocity:(no description)"
+    },
+    "edit_planet": {
+        "message": "ÉDITER LA PLANÈTE",
+        "description": "system_editor:edit_planet:(no description)"
+    },
+    "simulate": {
+        "message": "SIMULER",
+        "description": "system_editor:simulate:(no description)"
+    },
+    "planet_name": {
+        "message": "NOM DE LA PLANÈTE",
+        "description": "system_editor:planet_name:(no description)"
+    },
+    "required_thrust_to_move": {
+        "message": "PROPULSEURS",
+        "description": "system_editor:required_thrust_to_move:(no description)"
+    },
+    "system_radius_is_too_large": {
+        "message": "Le rayon du système est trop grand.",
+        "description": "system_editor:system_radius_is_too_large:(no description)"
+    },
+    "properties": {
+        "message": "PROPRIÉTÉS",
+        "description": "system_editor:properties:(no description)"
+    },
+    "recent": {
+        "message": "RÉCENTS",
+        "description": "system_editor:recent:(no description)"
+    },
+    "system_name": {
+        "message": "NOM :",
+        "description": "system_editor:system_name:(no description)"
+    },
+    "e": {
+        "message": "E:",
+        "description": "system_editor:e:(no description)"
+    },
+    "temp": {
+        "message": "Temp",
+        "description": "system_editor:temp:(no description)"
+    },
+    "do_you_want_to_save_this_system": {
+        "message": "Voulez-vous sauvegarder ce système?",
+        "description": "system_editor:do_you_want_to_save_this_system:(no description)"
+    },
+    "height_range": {
+        "message": "FACTEUR D'ELEVATION",
+        "description": "system_editor:height_range:(no description)"
+    },
+    "remove": {
+        "message": "ENLEVER",
+        "description": "system_editor:remove:(no description)"
+    },
+    "planet": {
+        "message": "PLANÈTE",
+        "description": "system_editor:planet:(no description)"
+    },
+    "system_has_no_starting_planet": {
+        "message": "Le système n'a pas de planète de départ.",
+        "description": "system_editor:system_has_no_starting_planet:(no description)"
+    },
+    "random_name": {
+        "message": "NOM ALÉATOIRE",
+        "description": "system_editor:random_name:(no description)"
+    },
+    "mass": {
+        "message": "MASSE",
+        "description": "system_editor:mass:(no description)"
+    },
+    "save_template": {
+        "message": "SAUVER LE MODÈLE",
+        "description": "system_editor:save_template:(no description)"
+    },
+    "the_program_will_be_unresponsive_until_the_planet_has_finished": {
+        "message": "Le programme ne répondra pas jusqu'à ce que la planète ait été générée.",
+        "description": "system_editor:the_program_will_be_unresponsive_until_the_planet_has_finished:(no description)"
+    },
+    "y": {
+        "message": "Y:",
+        "description": "system_editor:y:(no description)"
+    },
+    "position": {
+        "message": "POSITION",
+        "description": "system_editor:position:(no description)"
+    },
+    "the_system_has_been_changed_since_it_was_last_saved": {
+        "message": "Le système à été modifié depuis sa dernière sauvegarde.",
+        "description": "system_editor:the_system_has_been_changed_since_it_was_last_saved:(no description)"
+    }
+}

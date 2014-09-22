@@ -1,0 +1,174 @@
+{
+    "add_slot": {
+        "message": "Добавить слот",
+        "description": "new_game:add_slot:(no description)"
+    },
+    "full_planet_landing": {
+        "message": "Высадка в любой точке планеты",
+        "description": "new_game:full_planet_landing:(no description)"
+    },
+    "private": {
+        "message": "Личный",
+        "description": "new_game:private:(no description)"
+    },
+    "system": {
+        "message": "Система",
+        "description": "new_game:system:(no description)"
+    },
+    "ready": {
+        "message": "Готов",
+        "description": "new_game:ready:(no description)"
+    },
+    "cheats": {
+        "message": "Читы",
+        "description": "new_game:cheats:(no description)"
+    },
+    "tag": {
+        "message": "Метка:",
+        "description": "new_game:tag:(no description)"
+    },
+    "chat": {
+        "message": "Чат",
+        "description": "new_game:chat:(no description)"
+    },
+    "_host": {
+        "message": "- Хост",
+        "description": "new_game:_host:(no description)"
+    },
+    "game_mode": {
+        "message": "Режим игры",
+        "description": "new_game:game_mode:(no description)"
+    },
+    "you_must_have_a_player_slot_before_publishing": {
+        "message": "Вы должны иметь слот игрока перед публикацией.",
+        "description": "new_game:you_must_have_a_player_slot_before_publishing:(no description)"
+    },
+    "share_army": {
+        "message": "ПОДЕЛИТЬСЯ АРМИЕЙ",
+        "description": "new_game:share_army:(no description)"
+    },
+    "title": {
+        "message": "Название",
+        "description": "new_game:title:(no description)"
+    },
+    "browse": {
+        "message": "Выбрать...",
+        "description": "new_game:browse:(no description)"
+    },
+    "alliance_victory": {
+        "message": "Победа союза",
+        "description": "new_game:alliance_victory:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Возвращение в главное меню",
+        "description": "new_game:returning_to_main_menu:(no description)"
+    },
+    "game_lobby": {
+        "message": "Игровое Лобби",
+        "description": "new_game:game_lobby:(no description)"
+    },
+    "public": {
+        "message": "Публичный",
+        "description": "new_game:public:(no description)"
+    },
+    "kick": {
+        "message": "Выгнать",
+        "description": "new_game:kick:(no description)"
+    },
+    "spectators": {
+        "message": "Наблюдатели",
+        "description": "new_game:spectators:(no description)"
+    },
+    "player_slot": {
+        "message": "Слот игрока",
+        "description": "new_game:player_slot:(no description)"
+    },
+    "you_need_friends": {
+        "message": "У вас должен быть кто-то в списке друзей, чтобы создать игру только для них.",
+        "description": "new_game:you_need_friends:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "ПОТЕРЯНО СОЕДИНЕНИЕ С СЕРВЕРОМ",
+        "description": "new_game:connection_to_server_lost:(no description)"
+    },
+    "player_chooses_spot_on_starting_planet": {
+        "message": "Игрок выберает место высадки на стартовой планете",
+        "description": "new_game:player_chooses_spot_on_starting_planet:(no description)"
+    },
+    "dynamic_alliances": {
+        "message": "Динамичные союзы",
+        "description": "new_game:dynamic_alliances:(no description)"
+    },
+    "server_mods": {
+        "message": "Моды сервера",
+        "description": "new_game:server_mods:(no description)"
+    },
+    "friends": {
+        "message": "Друзья",
+        "description": "new_game:friends:(no description)"
+    },
+    "team_armies": {
+        "message": "Командные армии",
+        "description": "new_game:team_armies:(no description)"
+    },
+    "add_ai": {
+        "message": "Добавить бота",
+        "description": "new_game:add_ai:(no description)"
+    },
+    "ai_commander": {
+        "message": "ИИ Коммандер",
+        "description": "new_game:ai_commander:(no description)"
+    },
+    "join": {
+        "message": "Присоединиться",
+        "description": "new_game:join:(no description)"
+    },
+    "global_spectator_chat": {
+        "message": "Общий чат зрителей",
+        "description": "new_game:global_spectator_chat:(no description)"
+    },
+    "free_for_all": {
+        "message": "Все против всех",
+        "description": "new_game:free_for_all:(no description)"
+    },
+    "add_ai_commander": {
+        "message": "Добавить ИИ Коммандера",
+        "description": "new_game:add_ai_commander:(no description)"
+    },
+    "start_game": {
+        "message": "Начать игру",
+        "description": "new_game:start_game:(no description)"
+    },
+    "spectate": {
+        "message": "Наблюдать",
+        "description": "new_game:spectate:(no description)"
+    },
+    "remove": {
+        "message": "Удалить",
+        "description": "new_game:remove:(no description)"
+    },
+    "leave": {
+        "message": "Покинуть",
+        "description": "new_game:leave:(no description)"
+    },
+    "players": {
+        "message": "Игроки)",
+        "description": "new_game:players:(no description)"
+    },
+    "new_system": {
+        "message": "Новая система",
+        "description": "new_game:new_system:(no description)"
+    },
+    "empty": {
+        "message": "Пусто",
+        "description": "new_game:empty:(no description)"
+    },
+    "you_must_add_an_extra_slot_before_publishing": {
+        "message": "Вы должны добавить еще слот перед публикацией.",
+        "description": "new_game:you_must_add_an_extra_slot_before_publishing:(no description)"
+    },
+    "open_to": {
+        "message": "Открыто для:",
+        "description": "new_game:open_to:(no description)"
+    }
+}

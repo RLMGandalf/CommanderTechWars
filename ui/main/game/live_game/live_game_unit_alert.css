@@ -1,0 +1,383 @@
+body {
+    white-space: nowrap;
+}
+
+.body_panel {
+    height: 65px;
+    width: 640px;
+    margin: 0px 0px 0px 0px;
+}
+
+/* UTILITY */
+.receiveMouse {
+    pointer-events: all;
+}
+
+.ignoreMouse {
+    pointer-events: none;
+}
+
+/* UNIT ALERT PANEL   */
+
+.div_alert_panel {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    overflow: hidden;
+    text-align: left;
+}
+
+.div_unit_alert {
+    height:64px;
+    border-width: 12px 27px 25px 27px;
+    margin: 0px 0px 0px -10px;
+    color: #FFF;
+    position: relative;
+    float:left;
+    -webkit-transition: all 2s ease-in-out;
+}
+
+.div_unit_alert_container {
+    display: flex;
+    align-items: center;
+    margin: -4px 0px 0px 0px;
+}
+
+    .div_unit_alert .close {
+        height: 7px;
+        width: 7px;
+        float: right;
+        margin: 0px -15px 0px 0px;
+        background: url('img/alerts/icon_alert_close_white.png');
+        opacity: .15;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+    }
+
+        .div_unit_alert .close:hover {
+            opacity: 1;
+        }
+
+        .div_unit_alert .close:hover {
+            opacity: .8;
+        }
+
+
+.div_unit_alert_commander {
+    border-image: url('img/alerts/bground_alert_red_rest.png') 12 27 25 27 fill;
+    -webkit-animation: fadeout;
+    -webkit-transition: .3s ease-out;
+}
+
+    .div_unit_alert_commander:hover {
+        border-image: url('img/alerts/bground_alert_red_hover.png') 12 27 25 27 fill;
+        -webkit-animation: none;
+        -webkit-transition: none;
+    }
+
+    .div_unit_alert_commander:active {
+        border-image: url('img/alerts/bground_alert_red_active.png') 12 27 25 27 fill;
+    }
+
+    .div_unit_alert_commander img {
+        -webkit-filter: url(#xfrm_red);
+    }
+
+.div_unit_alert_ready {
+    border-image: url('img/alerts/bground_alert_green_rest.png') 12 27 25 27 fill;
+    -webkit-animation: fadeout;
+    -webkit-transition: .3s ease-out;
+}
+
+    .div_unit_alert_ready:hover {
+        border-image: url('img/alerts/bground_alert_green_hover.png') 12 27 25 27 fill;
+        -webkit-animation: none;
+        -webkit-transition: none;
+    }
+
+    .div_unit_alert_ready img {
+        -webkit-filter: url(#xfrm_green);
+    }
+
+    .div_unit_alert_ready:active {
+        border-image: url('img/alerts/bground_alert_green_active.png') 12 27 25 27 fill;
+    }
+
+.div_unit_alert_death {
+    border-image: url('img/alerts/bground_alert_black_rest.png') 12 27 25 27 fill;
+    -webkit-animation: fadeout;
+    -webkit-transition: .3s ease-out;
+}
+
+    .div_unit_alert_death:hover {
+        border-image: url('img/alerts/bground_alert_black_hover.png') 12 27 25 27 fill;
+        -webkit-animation: none;
+        -webkit-transition: none;
+    }
+
+    .div_unit_alert_death:active {
+        border-image: url('img/alerts/bground_alert_black_active.png') 12 27 25 27 fill;
+    }
+
+    .div_unit_alert_death img {
+        -webkit-filter: url(#xfrm_black);
+    }
+
+.div_unit_alert_misc {
+    border-image: url('img/alerts/bground_alert_black_rest.png') 12 27 25 27 fill;
+    -webkit-animation: fadeout;
+    -webkit-transition: .3s ease-out;
+}
+
+    .div_unit_alert_misc:hover {
+        border-image: url('img/alerts/bground_alert_black_hover.png') 12 27 25 27 fill;
+        -webkit-animation: none;
+        -webkit-transition: none;
+    }
+
+    .div_unit_alert_misc:active {
+        border-image: url('img/alerts/bground_alert_black_active.png') 12 27 25 27 fill;
+    }
+
+    .div_unit_alert_misc img {
+        -webkit-filter: url(#xfrm_white);
+    }
+
+.div_unit_alert .icon_alert {
+    height: 52px;
+    width: 52px;
+    display: block;
+    margin: -4px -16px 0px;
+}
+
+
+
+.div_unit_alert .text_alert {
+    width: 220px;
+    margin: 0px 0px 0px 20px;
+    padding: 0px 0px;
+    font-family: "Sansation Bold";
+    font-weight:normal;
+    font-size: 16px;
+    text-align: left;
+    text-shadow: 0px 0px 10px rgba(255,255,255,.5);
+    white-space: normal;
+    color: #fff;
+    display:flex;
+    align-items:center;
+    -webkit-animation: labelappear .5s ease-out forwards;
+}
+
+.text_center {
+    line-height: 1;
+    display:block;
+}
+
+@-webkit-keyframes labelopen {
+    from {
+        max-width:0;
+    }
+
+    to {
+        max-width: 290px;
+    }
+}
+
+@-webkit-keyframes labelappear {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes labelclose {
+    0% {
+        max-width: 290px;
+    }
+
+    100% {
+        max-width: 0px;
+    }
+}
+
+@-webkit-keyframes labeldisappear {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes containerdisappear {
+    0% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: .5;
+    }
+
+    40% {
+        opacity: 1;
+    }
+
+    60% {
+        opacity: .5;
+    }
+
+    80% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+
+.container {
+    -webkit-animation: labelopen .5s ease-out forwards;
+}
+
+.text {
+    color: white;
+    white-space: nowrap;
+    float:left;
+    border:1px solid yellow;
+    -webkit-animation: labelappear .5s ease-out forwards;
+}
+
+.container_close {
+    max-width: 300px;
+    -webkit-animation: labelclose 10000.0s ease-out forwards;
+}
+
+.container_disappear {
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    -webkit-animation: containerdisappear .5s ease-out forwards;
+}
+
+.text_close {
+    height: 20px;
+    text-wrap: none;
+    white-space: nowrap;
+    color: white;
+    -webkit-animation: labeldisappear .2s ease-out forwards;
+}
+
+@-webkit-keyframes animated_flash_red {
+    0% {
+        border-image: url('img/alerts/bground_alert_red_rest.png') 12 27 25 27 fill;
+    }
+
+    100% {
+        border-image: url('img/alerts/bground_alert_red_hover.png') 12 27 25 27 fill;
+    }
+}
+
+@-webkit-keyframes animated_flash_green {
+    0% {
+        border-image: url('img/alerts/bground_alert_green_rest.png') 12 27 25 27 fill;
+    }
+
+    100% {
+        border-image: url('img/alerts/bground_alert_green_hover.png') 12 27 25 27 fill;
+    }
+}
+
+@-webkit-keyframes animated_flash_black {
+    0% {
+        border-image: url('img/alerts/bground_alert_black_rest.png') 12 27 25 27 fill;
+    }
+
+    100% {
+        border-image: url('img/alerts/bground_alert_black_hover.png') 12 27 25 27 fill;
+    }
+}
+
+@-webkit-keyframes animated_flash_white {
+    0% {
+        border-image: url('img/alerts/bground_alert_black_rest.png') 12 27 25 27 fill;
+    }
+
+    100% {
+        border-image: url('img/alerts/bground_alert_black_hover.png') 12 27 25 27 fill;
+    }
+}
+
+
+@-webkit-keyframes animated_flash_cyan {
+    from {
+        background-color: transparent;
+    }
+
+    to {
+        background-color: #00ffff;
+    }
+}
+
+
+.div_animated_flash_red {
+    -webkit-animation-name: animated_flash_red;
+    -webkit-animation-duration: 0.4s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 4;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
+}
+
+.div_animated_flash_green {
+    -webkit-animation-name: animated_flash_green;
+    -webkit-animation-duration: 0.4s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 4;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
+}
+
+.div_animated_flash_black {
+    -webkit-animation-name: animated_flash_black;
+    -webkit-animation-duration: 0.4s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 4;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
+}
+
+.div_animated_flash_white {
+    -webkit-animation-name: animated_flash_white;
+    -webkit-animation-duration: 0.4s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 4;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
+}
+
+.div_animated_flash_cyan {
+    -webkit-animation-name: animated_flash_cyan;
+    -webkit-animation-duration: 0.4s;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-iteration-count: 4;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-play-state: running;
+}
+
+
+.div_animated_expand_label {
+    -webkit-animation: labelopen 2s;
+}
+

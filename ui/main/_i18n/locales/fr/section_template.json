@@ -1,0 +1,26 @@
+{
+    "roster": {
+        "message": "Tableau de Service",
+        "description": "section_template:roster:(no description)"
+    },
+    "section": {
+        "message": "Section",
+        "description": "section_template:section:(no description)"
+    },
+    "game_lobby": {
+        "message": "Hall de jeu",
+        "description": "section_template:game_lobby:(no description)"
+    },
+    "ready_cancel": {
+        "message": "Prêt/Annuler",
+        "description": "section_template:ready_cancel:(no description)"
+    },
+    "game_options": {
+        "message": "Paramètres de jeu",
+        "description": "section_template:game_options:(no description)"
+    },
+    "new_lobby": {
+        "message": "Nouvelle Partie",
+        "description": "section_template:new_lobby:(no description)"
+    }
+}

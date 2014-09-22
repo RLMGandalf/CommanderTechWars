@@ -1,0 +1,70 @@
+{
+    "on": {
+        "message": "AÇIK",
+        "description": "settings:on:(no description)"
+    },
+    "stuff": {
+        "message": "Araç",
+        "description": "settings:stuff:(no description)"
+    },
+    "off": {
+        "message": "KAPALI",
+        "description": "settings:off:(no description)"
+    },
+    "modal_title": {
+        "message": "Sermaye Başlığı",
+        "description": "settings:modal_title:(no description)"
+    },
+    "twitchStreamingDesired": {
+        "message": "AKIMI ETKİNLEŞTİR (Hemen uygulanır)",
+        "description": "settings:twitchStreamingDesired:(no description)"
+    },
+    "signed_in_as": {
+        "message": "Olarak giriş yapıldı",
+        "description": "settings:signed_in_as:(no description)"
+    },
+    "settings": {
+        "message": "AYARLAR",
+        "description": "settings:settings:(no description)"
+    },
+    "submit": {
+        "message": "Onayla",
+        "description": "settings:submit:(no description)"
+    },
+    "restore_defaults": {
+        "message": "VARSAYILAN AYARLARA GERİ DÖN",
+        "description": "settings:restore_defaults:(no description)"
+    },
+    "twitchPassword": {
+        "message": "Şifre",
+        "description": "settings:twitchPassword:(no description)"
+    },
+    "twitchEnableMicrophone": {
+        "message": "MİKROFONU AKTİFLEŞTİR",
+        "description": "settings:twitchEnableMicrophone:(no description)"
+    },
+    "twitchName": {
+        "message": "Twitch ID niz ile Giriş Yapınız",
+        "description": "settings:twitchName:(no description)"
+    },
+    "uberNetRegion": {
+        "message": "SUNUCU",
+        "description": "settings:uberNetRegion:(no description)"
+    },
+    "twitchIngestServer": {
+        "message": "SUNUCU",
+        "description": "settings:twitchIngestServer:(no description)"
+    },
+    "save": {
+        "message": "Kaydet",
+        "description": "settings:save:(no description)"
+    },
+    "save_and_exit": {
+        "message": "Kaydet ve Çık",
+        "description": "settings:save_and_exit:(no description)"
+    },
+    "twitchEnablePlayback": {
+        "message": "SİSTEM SESLERİNİ ETKİNLEŞTİR",
+        "description": "settings:twitchEnablePlayback:(no description)"
+    }
+}

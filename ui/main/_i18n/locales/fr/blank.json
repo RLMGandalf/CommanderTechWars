@@ -1,0 +1,74 @@
+{
+    "filter_by_dropdown": {
+        "message": "Filtrer par liste déroulante",
+        "description": "blank:filter_by_dropdown:(no description)"
+    },
+    "blank_screen": {
+        "message": "ÉCRAN VIDE",
+        "description": "blank:blank_screen:(no description)"
+    },
+    "search": {
+        "message": "Chercher",
+        "description": "blank:search:(no description)"
+    },
+    "a_command": {
+        "message": "BOUTON DE COMMANDE",
+        "description": "blank:a_command:(no description)"
+    },
+    "modal_title": {
+        "message": "Titre de boîte de dialogue",
+        "description": "blank:modal_title:(no description)"
+    },
+    "tab3": {
+        "message": "Onglet 3",
+        "description": "blank:tab3:(no description)"
+    },
+    "tab2": {
+        "message": "Onglet 2",
+        "description": "blank:tab2:(no description)"
+    },
+    "tab1": {
+        "message": "Onglet 1",
+        "description": "blank:tab1:(no description)"
+    },
+    "submit": {
+        "message": "Soumettre",
+        "description": "blank:submit:(no description)"
+    },
+    "in_lobby": {
+        "message": "Dans le hall",
+        "description": "blank:in_lobby:(no description)"
+    },
+    "second": {
+        "message": "Deuxième bouton",
+        "description": "blank:second:(no description)"
+    },
+    "stuff": {
+        "message": "Choses",
+        "description": "blank:stuff:(no description)"
+    },
+    "tab_3_content": {
+        "message": "Contenu de l'onglet 3",
+        "description": "blank:tab_3_content:(no description)"
+    },
+    "tab_1_content": {
+        "message": "Contenu de l'onglet 1",
+        "description": "blank:tab_1_content:(no description)"
+    },
+    "tab_2_content": {
+        "message": "Contenu de l'onglet 2",
+        "description": "blank:tab_2_content:(no description)"
+    },
+    "in_progress": {
+        "message": "En cours",
+        "description": "blank:in_progress:(no description)"
+    },
+    "pa_blank": {
+        "message": "ÉCRAN VIDE",
+        "description": "blank:pa_blank:(no description)"
+    },
+    "first": {
+        "message": "Premier bouton",
+        "description": "blank:first:(no description)"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "spectators": {
+        "message": "Obserwatorzy",
+        "description": "new_lobby:spectators:(no description)"
+    },
+    "roster": {
+        "message": "Lista",
+        "description": "new_lobby:roster:(no description)"
+    },
+    "ready_cancel": {
+        "message": "Gotowe/Anuluj",
+        "description": "new_lobby:ready_cancel:(no description)"
+    },
+    "manage": {
+        "message": "Zarządzaj",
+        "description": "new_lobby:manage:(no description)"
+    },
+    "game_type": {
+        "message": "Typ gry",
+        "description": "new_lobby:game_type:(no description)"
+    },
+    "system": {
+        "message": "System",
+        "description": "new_lobby:system:(no description)"
+    },
+    "options": {
+        "message": "Opcje",
+        "description": "new_lobby:options:(no description)"
+    },
+    "chat": {
+        "message": "Czat",
+        "description": "new_lobby:chat:(no description)"
+    },
+    "section": {
+        "message": "Sekcja",
+        "description": "new_lobby:section:(no description)"
+    },
+    "new_lobby": {
+        "message": "Nowe Lobby",
+        "description": "new_lobby:new_lobby:(no description)"
+    }
+}

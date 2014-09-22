@@ -1,0 +1,38 @@
+{
+    "ready": {
+        "message": "gotowy",
+        "description": "live_game_unit_alert:ready:(no description)"
+    },
+    "lost": {
+        "message": "znisczonych.",
+        "description": "live_game_unit_alert:lost:(no description)"
+    },
+    "ping": {
+        "message": "Ping!",
+        "description": "live_game_unit_alert:ping:(no description)"
+    },
+    "under_attack": {
+        "message": "pod ostrzałem.",
+        "description": "live_game_unit_alert:under_attack:(no description)"
+    },
+    "destroyed": {
+        "message": "zniszczony",
+        "description": "live_game_unit_alert:destroyed:(no description)"
+    },
+    "located": {
+        "message": "zlokalizowano",
+        "description": "live_game_unit_alert:located:(no description)"
+    },
+    "allied": {
+        "message": "W sojuszu z:",
+        "description": "live_game_unit_alert:allied:(no description)"
+    },
+    "enemy_contact": {
+        "message": "Zlokalizowano nieprzyjaciela!",
+        "description": "live_game_unit_alert:enemy_contact:(no description)"
+    },
+    "launched": {
+        "message": "wystrzelono!",
+        "description": "live_game_unit_alert:launched:(no description)"
+    }
+}

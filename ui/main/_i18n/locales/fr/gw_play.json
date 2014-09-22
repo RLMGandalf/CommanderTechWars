@@ -1,0 +1,102 @@
+{
+    "give_tech": {
+        "message": "Donner Tech",
+        "description": "gw_play:give_tech:(no description)"
+    },
+    "ai": {
+        "message": "IA :",
+        "description": "gw_play:ai:(no description)"
+    },
+    "win": {
+        "message": "victoire /",
+        "description": "gw_play:win:(no description)"
+    },
+    "abandon_war": {
+        "message": "Abandonner la guerre",
+        "description": "gw_play:abandon_war:(no description)"
+    },
+    "jump": {
+        "message": "Sauter",
+        "description": "gw_play:jump:(no description)"
+    },
+    "date": {
+        "message": "Date :",
+        "description": "gw_play:date:(no description)"
+    },
+    "preparing_for_battle": {
+        "message": "Préparation au combat",
+        "description": "gw_play:preparing_for_battle:(no description)"
+    },
+    "techs": {
+        "message": "TECHS",
+        "description": "gw_play:techs:(no description)"
+    },
+    "unlock_commander": {
+        "message": "Débloquer le Commandant",
+        "description": "gw_play:unlock_commander:(no description)"
+    },
+    "fight": {
+        "message": "Combattre",
+        "description": "gw_play:fight:(no description)"
+    },
+    "exit": {
+        "message": "Quitter",
+        "description": "gw_play:exit:(no description)"
+    },
+    "reject_tech": {
+        "message": "Rejeter Tech",
+        "description": "gw_play:reject_tech:(no description)"
+    },
+    "save": {
+        "message": "Sauvegarder",
+        "description": "gw_play:save:(no description)"
+    },
+    "download_tech": {
+        "message": "Télécharger Tech",
+        "description": "gw_play:download_tech:(no description)"
+    },
+    "delete_tech": {
+        "message": "Supprimer Tech",
+        "description": "gw_play:delete_tech:(no description)"
+    },
+    "dismiss": {
+        "message": "Ignorer",
+        "description": "gw_play:dismiss:(no description)"
+    },
+    "explore": {
+        "message": "Explorer",
+        "description": "gw_play:explore:(no description)"
+    },
+    "scanning_system": {
+        "message": "Analyse du Système",
+        "description": "gw_play:scanning_system:(no description)"
+    },
+    "card": {
+        "message": "Carte :",
+        "description": "gw_play:card:(no description)"
+    },
+    "loss": {
+        "message": "défaite",
+        "description": "gw_play:loss:(no description)"
+    },
+    "settings": {
+        "message": "Paramètres",
+        "description": "gw_play:settings:(no description)"
+    },
+    "record": {
+        "message": "Enregistrement:",
+        "description": "gw_play:record:(no description)"
+    },
+    "load_game": {
+        "message": "Charger partie",
+        "description": "gw_play:load_game:(no description)"
+    },
+    "turn_state": {
+        "message": "Etat du Tour :",
+        "description": "gw_play:turn_state:(no description)"
+    },
+    "history": {
+        "message": "Histoire :",
+        "description": "gw_play:history:(no description)"
+    }
+}

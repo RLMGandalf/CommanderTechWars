@@ -1,0 +1,10 @@
+{
+    "building_planets": {
+        "message": "Створення планет",
+        "description": "building_planets:building_planets:(no description)"
+    },
+    "generating_planets": {
+        "message": "ГЕНЕРУВАННЯ ПЛАНЕТ",
+        "description": "building_planets:generating_planets:(no description)"
+    }
+}

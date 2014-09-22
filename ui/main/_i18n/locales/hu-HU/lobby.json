@@ -1,0 +1,166 @@
+{
+    "planets": {
+        "message": "BOLYGÓK:",
+        "description": "lobby:planets:(no description)"
+    },
+    "ai": {
+        "message": "AI",
+        "description": "lobby:ai:(no description)"
+    },
+    "starting_game": {
+        "message": "JÁTÉK INDÍTÁSA",
+        "description": "lobby:starting_game:(no description)"
+    },
+    "ai_economy_rate": {
+        "message": "AI GAZDASÁGI ARÁNY:",
+        "description": "lobby:ai_economy_rate:(no description)"
+    },
+    "ready": {
+        "message": "kész",
+        "description": "lobby:ready:(no description)"
+    },
+    "vs": {
+        "message": "vs",
+        "description": "lobby:vs:(no description)"
+    },
+    "chat": {
+        "message": "CSEVEGÉS",
+        "description": "lobby:chat:(no description)"
+    },
+    "cancel": {
+        "message": "Mégse",
+        "description": "lobby:cancel:(no description)"
+    },
+    "yes": {
+        "message": "Igen",
+        "description": "lobby:yes:(no description)"
+    },
+    "leave_game": {
+        "message": "JÁTÉK ELHAGYÁSA",
+        "description": "lobby:leave_game:(no description)"
+    },
+    "starting_planet": {
+        "message": "KEZDŐ BOLYGÓ:",
+        "description": "lobby:starting_planet:(no description)"
+    },
+    "promote": {
+        "message": "ELŐLÉPTETÉS",
+        "description": "lobby:promote:(no description)"
+    },
+    "player_economy_rate": {
+        "message": "JÁTÉKOS GAZDASÁGI ARÁNY:",
+        "description": "lobby:player_economy_rate:(no description)"
+    },
+    "army": {
+        "message": "SEREG",
+        "description": "lobby:army:(no description)"
+    },
+    "connecting_to_server": {
+        "message": "CSATLAKOZÁS A SZERVERHEZ",
+        "description": "lobby:connecting_to_server:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Visszatérés a főmenübe",
+        "description": "lobby:returning_to_main_menu:(no description)"
+    },
+    "add_an_army": {
+        "message": "SEREG HOZZÁADÁSA",
+        "description": "lobby:add_an_army:(no description)"
+    },
+    "system": {
+        "message": "NAPRENDSZER",
+        "description": "lobby:system:(no description)"
+    },
+    "waiting": {
+        "message": "várakozás",
+        "description": "lobby:waiting:(no description)"
+    },
+    "partner_up_and_share_control_of_one_army_and_economy": {
+        "message": "Társuljatok és osztozzatok egyetlen közös sereg és gazdaság irányításán.",
+        "description": "lobby:partner_up_and_share_control_of_one_army_and_economy:(no description)"
+    },
+    "ready_caps": {
+        "message": "KÉSZ",
+        "description": "lobby:ready_caps:(no description)"
+    },
+    "offline": {
+        "message": "offline",
+        "description": "lobby:offline:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "lobby:gamma_v:(no description)"
+    },
+    "kick": {
+        "message": "KIRÚGÁS",
+        "description": "lobby:kick:(no description)"
+    },
+    "armies": {
+        "message": "HADERŐK",
+        "description": "lobby:armies:(no description)"
+    },
+    "format": {
+        "message": "FORMÁTUM",
+        "description": "lobby:format:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "MEGSZAKADT A KAPCSOLAT A SZERVERREL",
+        "description": "lobby:connection_to_server_lost:(no description)"
+    },
+    "you": {
+        "message": "TE",
+        "description": "lobby:you:(no description)"
+    },
+    "scale": {
+        "message": "MÉRTÉK",
+        "description": "lobby:scale:(no description)"
+    },
+    "join": {
+        "message": "Csatlakozás",
+        "description": "lobby:join:(no description)"
+    },
+    "game_will_start_when_all_players_select_a_slot_and_click_ready": {
+        "message": "A játék elindul amint minden játékos választott egy helyet és készen áll.",
+        "description": "lobby:game_will_start_when_all_players_select_a_slot_and_click_ready:(no description)"
+    },
+    "exit_game": {
+        "message": "Kilépsz a játékból?",
+        "description": "lobby:exit_game:(no description)"
+    },
+    "lobby": {
+        "message": "VÁRÓTEREM",
+        "description": "lobby:lobby:(no description)"
+    },
+    "team_armies": {
+        "message": "Csapat Seregek",
+        "description": "lobby:team_armies:(no description)"
+    },
+    "one_player_per_army": {
+        "message": "Egy játékos seregenként.",
+        "description": "lobby:one_player_per_army:(no description)"
+    },
+    "ai_commander": {
+        "message": "AI Parancsnok",
+        "description": "lobby:ai_commander:(no description)"
+    },
+    "game_will_start_when_the_server_has_finished_generating_the_solar_system": {
+        "message": "A játék elindul, miután a szerver befejezte a naprendszer generálását",
+        "description": "lobby:game_will_start_when_the_server_has_finished_generating_the_solar_system:(no description)"
+    },
+    "free_for_all": {
+        "message": "Mindenki mindenki ellen",
+        "description": "lobby:free_for_all:(no description)"
+    },
+    "lobby_beta": {
+        "message": "VÁRÓTEREM BÉTA",
+        "description": "lobby:lobby_beta:(no description)"
+    },
+    "battle_solo_against_armies_commanded_by_the_ai": {
+        "message": "Csatázz egyedül az AI által vezényelt sereg ellen.",
+        "description": "lobby:battle_solo_against_armies_commanded_by_the_ai:(no description)"
+    },
+    "players": {
+        "message": "JÁTÉKOSOK",
+        "description": "lobby:players:(no description)"
+    }
+}

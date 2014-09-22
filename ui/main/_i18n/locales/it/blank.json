@@ -1,0 +1,74 @@
+{
+    "filter_by_dropdown": {
+        "message": "Filtra tramite lista a cascata",
+        "description": "blank:filter_by_dropdown:(no description)"
+    },
+    "blank_screen": {
+        "message": "SCHERMATA VUOTA",
+        "description": "blank:blank_screen:(no description)"
+    },
+    "search": {
+        "message": "Cerca",
+        "description": "blank:search:(no description)"
+    },
+    "a_command": {
+        "message": "PULSANTE",
+        "description": "blank:a_command:(no description)"
+    },
+    "modal_title": {
+        "message": "Titolo",
+        "description": "blank:modal_title:(no description)"
+    },
+    "tab3": {
+        "message": "Scheda 3",
+        "description": "blank:tab3:(no description)"
+    },
+    "tab2": {
+        "message": "Scheda 2",
+        "description": "blank:tab2:(no description)"
+    },
+    "tab1": {
+        "message": "Scheda 1",
+        "description": "blank:tab1:(no description)"
+    },
+    "submit": {
+        "message": "Invia",
+        "description": "blank:submit:(no description)"
+    },
+    "in_lobby": {
+        "message": "In Sala d'attesa",
+        "description": "blank:in_lobby:(no description)"
+    },
+    "second": {
+        "message": "Secondo Pulsante",
+        "description": "blank:second:(no description)"
+    },
+    "stuff": {
+        "message": "Cose",
+        "description": "blank:stuff:(no description)"
+    },
+    "tab_3_content": {
+        "message": "Contenuto Scheda 3",
+        "description": "blank:tab_3_content:(no description)"
+    },
+    "tab_1_content": {
+        "message": "Contenuto Scheda 1",
+        "description": "blank:tab_1_content:(no description)"
+    },
+    "tab_2_content": {
+        "message": "Contenuto Scheda 2",
+        "description": "blank:tab_2_content:(no description)"
+    },
+    "in_progress": {
+        "message": "In corso",
+        "description": "blank:in_progress:(no description)"
+    },
+    "pa_blank": {
+        "message": "SCHERMATA VUOTA",
+        "description": "blank:pa_blank:(no description)"
+    },
+    "first": {
+        "message": "Primo Pulsante",
+        "description": "blank:first:(no description)"
+    }
+}

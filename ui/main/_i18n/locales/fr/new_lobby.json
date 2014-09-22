@@ -1,0 +1,42 @@
+{
+    "spectators": {
+        "message": "Spectateurs",
+        "description": "new_lobby:spectators:(no description)"
+    },
+    "roster": {
+        "message": "Tableau de Service",
+        "description": "new_lobby:roster:(no description)"
+    },
+    "ready_cancel": {
+        "message": "Prêt/Annuler",
+        "description": "new_lobby:ready_cancel:(no description)"
+    },
+    "manage": {
+        "message": "Gérer",
+        "description": "new_lobby:manage:(no description)"
+    },
+    "game_type": {
+        "message": "Type de Jeu",
+        "description": "new_lobby:game_type:(no description)"
+    },
+    "system": {
+        "message": "Système",
+        "description": "new_lobby:system:(no description)"
+    },
+    "options": {
+        "message": "Options",
+        "description": "new_lobby:options:(no description)"
+    },
+    "chat": {
+        "message": "Discussion",
+        "description": "new_lobby:chat:(no description)"
+    },
+    "section": {
+        "message": "Section",
+        "description": "new_lobby:section:(no description)"
+    },
+    "new_lobby": {
+        "message": "Nouvelle Partie",
+        "description": "new_lobby:new_lobby:(no description)"
+    }
+}

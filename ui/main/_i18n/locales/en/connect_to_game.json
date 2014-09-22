@@ -1,0 +1,38 @@
+{
+    "connection_to_server_failed": {
+        "description": "connect_to_game:connection_to_server_failed:(no description)", 
+        "message": "CONNECTION TO SERVER FAILED"
+    }, 
+    "connection_to_server_lost": {
+        "description": "connect_to_game:connection_to_server_lost:(no description)", 
+        "message": "CONNECTION TO SERVER LOST"
+    }, 
+    "failed_to_join_game": {
+        "description": "connect_to_game:failed_to_join_game:(no description)", 
+        "message": "FAILED TO JOIN GAME"
+    }, 
+    "failed_to_start_game": {
+        "description": "connect_to_game:failed_to_start_game:(no description)", 
+        "message": "FAILED TO START GAME"
+    }, 
+    "failed_to_start_replay": {
+        "description": "connect_to_game:failed_to_start_replay:(no description)", 
+        "message": "FAILED TO START REPLAY"
+    }, 
+    "gamma_v": {
+        "description": "connect_to_game:gamma_v:(no description)", 
+        "message": "GAMMA v."
+    }, 
+    "login_accepted": {
+        "description": "connect_to_game:login_accepted:(no description)", 
+        "message": "LOGIN ACCEPTED"
+    }, 
+    "login_to_server_rejected": {
+        "description": "connect_to_game:login_to_server_rejected:(no description)", 
+        "message": "LOGIN TO SERVER REJECTED"
+    }, 
+    "returning_to_main_menu": {
+        "description": "connect_to_game:returning_to_main_menu:(no description)", 
+        "message": "Returning to Main Menu"
+    }
+}

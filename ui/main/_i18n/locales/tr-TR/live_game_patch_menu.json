@@ -1,0 +1,30 @@
+{
+    "quit": {
+        "message": "ÇIK",
+        "description": "live_game_patch_menu:quit:(no description)"
+    },
+    "game_settings": {
+        "message": "OYUN AYARLARI",
+        "description": "live_game_patch_menu:game_settings:(no description)"
+    },
+    "pauseGame": {
+        "message": "OYUNU DURDUR",
+        "description": "live_game_patch_menu:pauseGame:(no description)"
+    },
+    "chrono_cam": {
+        "message": "Krono kamera",
+        "description": "live_game_patch_menu:chrono_cam:(no description)"
+    },
+    "abandon_war": {
+        "message": "SAVAŞTAN VAZGEÇ",
+        "description": "live_game_patch_menu:abandon_war:(no description)"
+    },
+    "return_to_war": {
+        "message": "SAVAŞA GERİ DÖN",
+        "description": "live_game_patch_menu:return_to_war:(no description)"
+    },
+    "pa": {
+        "message": "PA",
+        "description": "live_game_patch_menu:pa:(no description)"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "rename": {
+        "message": "PŘEJMENOVAT",
+        "description": "social:rename:(no description)"
+    },
+    "refresh_friends": {
+        "message": "Obnovit kontakty",
+        "description": "social:refresh_friends:(no description)"
+    },
+    "remove": {
+        "message": "ODSTRANIT",
+        "description": "social:remove:(no description)"
+    },
+    "tag": {
+        "message": "Označit",
+        "description": "social:tag:(no description)"
+    },
+    "add_friend": {
+        "message": "Přidat Přítele",
+        "description": "social:add_friend:(no description)"
+    },
+    "cancel": {
+        "message": "Zrušit",
+        "description": "social:cancel:(no description)"
+    },
+    "close": {
+        "message": "Zavřít",
+        "description": "social:close:(no description)"
+    },
+    "ubernet_friends": {
+        "message": "UBERDEX",
+        "description": "social:ubernet_friends:(no description)"
+    },
+    "friend_not_found": {
+        "message": "Kontakt nenalezen",
+        "description": "social:friend_not_found:(no description)"
+    },
+    "new_nickname": {
+        "message": "Nová přezdívka:",
+        "description": "social:new_nickname:(no description)"
+    },
+    "approved_users": {
+        "message": "POVOLENÍ UŽIVATELÉ",
+        "description": "social:approved_users:(no description)"
+    },
+    "add": {
+        "message": "Přidat",
+        "description": "social:add:(no description)"
+    },
+    "recent": {
+        "message": "NEDÁVNÉ",
+        "description": "social:recent:(no description)"
+    },
+    "blocked_users": {
+        "message": "BLOKOVANÍ UŽIVATELÉ",
+        "description": "social:blocked_users:(no description)"
+    },
+    "tag_friend": {
+        "message": "Označ Přítele:",
+        "description": "social:tag_friend:(no description)"
+    },
+    "private_games_you_make_will_only_be_visible_to_these_players": {
+        "message": "Vámi vytvořené soukromé hry budou viditelné jen těmto hráčům.",
+        "description": "social:private_games_you_make_will_only_be_visible_to_these_players:(no description)"
+    },
+    "contact_list_updated": {
+        "message": "Kontakty upraveny",
+        "description": "social:contact_list_updated:(no description)"
+    },
+    "dismiss": {
+        "message": "Rozpustit",
+        "description": "social:dismiss:(no description)"
+    },
+    "uberid": {
+        "message": "UberId:",
+        "description": "social:uberid:(no description)"
+    },
+    "games_you_make_will_be_hidden_to_these_players": {
+        "message": "Vámi vytvořené hry nebudou viditelné těmto hráčům.",
+        "description": "social:games_you_make_will_be_hidden_to_these_players:(no description)"
+    },
+    "screen_name": {
+        "message": "Uber jméno",
+        "description": "social:screen_name:(no description)"
+    },
+    "players_you_have_encountered_recently": {
+        "message": "Hráči, které jste potkali v poslední době.",
+        "description": "social:players_you_have_encountered_recently:(no description)"
+    },
+    "tags": {
+        "message": "Znaky:",
+        "description": "social:tags:(no description)"
+    },
+    "refreshing": {
+        "message": "Obnovuji kontakty.....",
+        "description": "social:refreshing:(no description)"
+    },
+    "name": {
+        "message": "Jméno:",
+        "description": "social:name:(no description)"
+    },
+    "filter_list": {
+        "message": "Filtrovat kontakty podle:",
+        "description": "social:filter_list:(no description)"
+    },
+    "social": {
+        "message": "SOCIAL",
+        "description": "social:social:(no description)"
+    },
+    "approve": {
+        "message": "SCHVÁLIT",
+        "description": "social:approve:(no description)"
+    },
+    "or": {
+        "message": "nebo",
+        "description": "social:or:(no description)"
+    },
+    "block": {
+        "message": "BLOKOVAT",
+        "description": "social:block:(no description)"
+    }
+}

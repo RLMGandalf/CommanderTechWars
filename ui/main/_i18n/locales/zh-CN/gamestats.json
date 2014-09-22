@@ -1,0 +1,114 @@
+{
+    "total_apm": {
+        "message": "总体APM",
+        "description": "gamestats:total_apm:(no description)"
+    },
+    "produced": {
+        "message": "产量",
+        "description": "gamestats:produced:(no description)"
+    },
+    "wasted": {
+        "message": "浪费掉的",
+        "description": "gamestats:wasted:(no description)"
+    },
+    "total_efficiency": {
+        "message": "总体效能",
+        "description": "gamestats:total_efficiency:(no description)"
+    },
+    "retrieving_stats": {
+        "message": "获取统计数据中……",
+        "description": "gamestats:retrieving_stats:(no description)"
+    },
+    "total": {
+        "message": "总计",
+        "description": "gamestats:total:(no description)"
+    },
+    "avg": {
+        "message": "平均",
+        "description": "gamestats:avg:(no description)"
+    },
+    "total_metal": {
+        "message": "金属总计",
+        "description": "gamestats:total_metal:(no description)"
+    },
+    "current_units": {
+        "message": "当前单位",
+        "description": "gamestats:current_units:(no description)"
+    },
+    "game_summary": {
+        "message": "游戏统计",
+        "description": "gamestats:game_summary:(no description)"
+    },
+    "winner": {
+        "message": "胜利者: ",
+        "description": "gamestats:winner:(no description)"
+    },
+    "factory": {
+        "message": "工厂",
+        "description": "gamestats:factory:(no description)"
+    },
+    "current": {
+        "message": "当前",
+        "description": "gamestats:current:(no description)"
+    },
+    "current_apm": {
+        "message": "当前APM",
+        "description": "gamestats:current_apm:(no description)"
+    },
+    "winners": {
+        "message": "胜利者: ",
+        "description": "gamestats:winners:(no description)"
+    },
+    "total_energy": {
+        "message": "能量总计",
+        "description": "gamestats:total_energy:(no description)"
+    },
+    "current_efficiency": {
+        "message": "当前效能",
+        "description": "gamestats:current_efficiency:(no description)"
+    },
+    "draw": {
+        "message": "平局",
+        "description": "gamestats:draw:(no description)"
+    },
+    "opp_killed": {
+        "message": "消灭对手",
+        "description": "gamestats:opp_killed:(no description)"
+    },
+    "total_units": {
+        "message": "全部单位",
+        "description": "gamestats:total_units:(no description)"
+    },
+    "fab": {
+        "message": "Fab",
+        "description": "gamestats:fab:(no description)"
+    },
+    "in_progress": {
+        "message": "进行中",
+        "description": "gamestats:in_progress:(no description)"
+    },
+    "lost": {
+        "message": "Lost",
+        "description": "gamestats:lost:(no description)"
+    },
+    "created": {
+        "message": "Created",
+        "description": "gamestats:created:(no description)"
+    },
+    "mobile": {
+        "message": "机动单位",
+        "description": "gamestats:mobile:(no description)"
+    },
+    "consumed": {
+        "message": "Consumed",
+        "description": "gamestats:consumed:(no description)"
+    },
+    "current_metal": {
+        "message": "当前金属",
+        "description": "gamestats:current_metal:(no description)"
+    },
+    "current_energy": {
+        "message": "当前能量",
+        "description": "gamestats:current_energy:(no description)"
+    }
+}

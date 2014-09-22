@@ -1,0 +1,74 @@
+{
+    "filter_by_dropdown": {
+        "message": "Filter by Dropdown",
+        "description": "blank:filter_by_dropdown:(no description)"
+    },
+    "blank_screen": {
+        "message": "BLANK SCREEN",
+        "description": "blank:blank_screen:(no description)"
+    },
+    "search": {
+        "message": "Search",
+        "description": "blank:search:(no description)"
+    },
+    "a_command": {
+        "message": "COMMAND BUTTON",
+        "description": "blank:a_command:(no description)"
+    },
+    "modal_title": {
+        "message": "Modal Title",
+        "description": "blank:modal_title:(no description)"
+    },
+    "tab3": {
+        "message": "Tab 3",
+        "description": "blank:tab3:(no description)"
+    },
+    "tab2": {
+        "message": "Tab 2",
+        "description": "blank:tab2:(no description)"
+    },
+    "tab1": {
+        "message": "Tab 1",
+        "description": "blank:tab1:(no description)"
+    },
+    "submit": {
+        "message": "Submit",
+        "description": "blank:submit:(no description)"
+    },
+    "in_lobby": {
+        "message": "În Lobby",
+        "description": "blank:in_lobby:(no description)"
+    },
+    "second": {
+        "message": "Second Button",
+        "description": "blank:second:(no description)"
+    },
+    "stuff": {
+        "message": "Stuff",
+        "description": "blank:stuff:(no description)"
+    },
+    "tab_3_content": {
+        "message": "Tab 3 Content",
+        "description": "blank:tab_3_content:(no description)"
+    },
+    "tab_1_content": {
+        "message": "Tab 1 Content",
+        "description": "blank:tab_1_content:(no description)"
+    },
+    "tab_2_content": {
+        "message": "Tab 2 Content",
+        "description": "blank:tab_2_content:(no description)"
+    },
+    "in_progress": {
+        "message": "În Progres",
+        "description": "blank:in_progress:(no description)"
+    },
+    "pa_blank": {
+        "message": "BLANK SCREEN",
+        "description": "blank:pa_blank:(no description)"
+    },
+    "first": {
+        "message": "First Button",
+        "description": "blank:first:(no description)"
+    }
+}

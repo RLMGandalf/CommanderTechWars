@@ -1,0 +1,62 @@
+{
+    "_model_orderid": {
+        "description": "purchase_complete:_model_orderid:(no description)", 
+        "message": "@\u039c\u020f\u0257\u1f73\u230a.\u0472\u0213\u0257\u1f73\u0213\u03aa\u0257", 
+        "original": "@Model.OrderId"
+    }, 
+    "_model_purchaseprice": {
+        "description": "purchase_complete:_model_purchaseprice:(no description)", 
+        "message": "@\u039c\u020f\u0257\u1f73\u230a.\u1e54\u0574\u0213\u03f2\u043d\u0203\u01a8\u1f73\u1e54\u0213\u0457\u03f2\u1f73", 
+        "original": "@Model.PurchasePrice"
+    }, 
+    "account_name": {
+        "description": "purchase_complete:account_name:(no description)", 
+        "message": "\u0202\u03f2\u03f2\u020f\u0574\u019e\u04ad \u019d\u0203\u028d\u1f73:", 
+        "original": "Account Name:"
+    }, 
+    "confirmation_code": {
+        "description": "purchase_complete:confirmation_code:(no description)", 
+        "message": "\u04aa\u020f\u019e\u0493\u0457\u0213\u028d\u0203\u04ad\u0457\u020f\u019e \u03f2\u020f\u0257\u1f73:", 
+        "original": "Confirmation code:"
+    }, 
+    "confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email": {
+        "description": "purchase_complete:confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email:(no description)", 
+        "message": "\u04aa\u020f\u019e\u0493\u0457\u0213\u028d\u0203\u04ad\u0457\u020f\u019e \u020f\u0493 \u0443\u020f\u0574\u0213 \u2374\u0574\u0213\u03f2\u043d\u0203\u01a8\u1f73 \u0457\u01a8 \u2374\u0213\u020f\u0477\u0457\u0257\u1f73\u0257 \u0411\u1f73\u230a\u020f\u1ff4. \u0202 \u0213\u1f73\u03f2\u1f73\u0457\u2374\u04ad \u1ff4\u0457\u230a\u230a \u0411\u1f73 \u1f73\u028d\u0203\u0457\u230a\u1f73\u0257 \u04ad\u020f @\u039c\u020f\u0257\u1f73\u230a.\u0190\u028d\u0203\u0457\u230a.", 
+        "original": "Confirmation of your purchase is provided below. A receipt will be emailed to @Model.Email."
+    }, 
+    "here_s_your_receipt": {
+        "description": "purchase_complete:here_s_your_receipt:(no description)", 
+        "message": "\u04c7\u1f73\u0213\u1f73'\u01a8 \u0443\u020f\u0574\u0213 \u0213\u1f73\u03f2\u1f73\u0457\u2374\u04ad.", 
+        "original": "Here's your receipt."
+    }, 
+    "thank_you_for_your_purchase": {
+        "description": "purchase_complete:thank_you_for_your_purchase:(no description)", 
+        "message": "\u4e01\u043d\u0203\u019e\u045c \u0443\u020f\u0574 \u0493\u020f\u0213 \u0443\u020f\u0574\u0213 \u2374\u0574\u0213\u03f2\u043d\u0203\u01a8\u1f73.", 
+        "original": "Thank you for your purchase."
+    }, 
+    "there_was_an_error_in_the_purchase_process_please_try_again": {
+        "description": "purchase_complete:there_was_an_error_in_the_purchase_process_please_try_again:(no description)", 
+        "message": "\u4e01\u043d\u1f73\u0213\u1f73 \u1ff4\u0203\u01a8 \u0203\u019e \u1f73\u0213\u0213\u020f\u0213 \u0457\u019e \u04ad\u043d\u1f73 \u2374\u0574\u0213\u03f2\u043d\u0203\u01a8\u1f73 \u2374\u0213\u020f\u03f2\u1f73\u01a8\u01a8. \u1e54\u230a\u1f73\u0203\u01a8\u1f73 \u04ad\u0213\u0443 \u0203\u0260\u0203\u0457\u019e.", 
+        "original": "There was an error in the purchase process. Please try again."
+    }, 
+    "total": {
+        "description": "purchase_complete:total:(no description)", 
+        "message": "\u4e01\u020f\u04ad\u0203\u230a:", 
+        "original": "Total:"
+    }, 
+    "username": {
+        "description": "purchase_complete:username:(no description)", 
+        "message": "\u1ee6\u01a8\u1f73\u0213\u019e\u0203\u028d\u1f73", 
+        "original": "Username"
+    }, 
+    "your_purchase_was_not_completed": {
+        "description": "purchase_complete:your_purchase_was_not_completed:(no description)", 
+        "message": "\u0423\u020f\u0574\u0213 \u2374\u0574\u0213\u03f2\u043d\u0203\u01a8\u1f73 \u1ff4\u0203\u01a8 \u019e\u020f\u04ad \u03f2\u020f\u028d\u2374\u230a\u1f73\u04ad\u1f73\u0257.", 
+        "original": "Your purchase was not completed."
+    }, 
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "description": "purchase_complete:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)", 
+        "message": "\u0423\u020f\u0574\u0213 \u2374\u0574\u0213\u03f2\u043d\u0203\u01a8\u1f73\u0257 \u0457\u04ad\u1f73\u028d\u01a8 \u0203\u0213\u1f73 \u019e\u020f\u1ff4 \u0213\u1f73\u0260\u0457\u01a8\u04ad\u1f73\u0213\u1f73\u0257 \u04ad\u020f \u0443\u020f\u0574\u0213 \u0203\u03f2\u03f2\u020f\u0574\u019e\u04ad \u0203\u019e\u0257 \u0203\u0213\u1f73 \u0203\u03f2\u03f2\u1f73\u01a8\u01a8\u0457\u0411\u230a\u1f73 \u0457\u019e \u04ad\u043d\u1f73 \u0260\u0203\u028d\u1f73.", 
+        "original": "Your purchased items are now registered to your account and are accessible in the game."
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "filter_by_dropdown": {
+        "message": "تصفية بواسطة قائمة منسدلة",
+        "description": "blank:filter_by_dropdown:(no description)"
+    },
+    "blank_screen": {
+        "message": "شاشة فارغة",
+        "description": "blank:blank_screen:(no description)"
+    },
+    "search": {
+        "message": "البحث",
+        "description": "blank:search:(no description)"
+    },
+    "a_command": {
+        "message": "زر القيادة",
+        "description": "blank:a_command:(no description)"
+    },
+    "modal_title": {
+        "message": "عنوان مشروط",
+        "description": "blank:modal_title:(no description)"
+    },
+    "tab3": {
+        "message": "تبويب 3",
+        "description": "blank:tab3:(no description)"
+    },
+    "tab2": {
+        "message": "تبويب 2",
+        "description": "blank:tab2:(no description)"
+    },
+    "tab1": {
+        "message": "تبويب 1",
+        "description": "blank:tab1:(no description)"
+    },
+    "submit": {
+        "message": "تقديم",
+        "description": "blank:submit:(no description)"
+    },
+    "in_lobby": {
+        "message": "في الردهة",
+        "description": "blank:in_lobby:(no description)"
+    },
+    "second": {
+        "message": "الزر الثاني",
+        "description": "blank:second:(no description)"
+    },
+    "stuff": {
+        "message": "اشياء",
+        "description": "blank:stuff:(no description)"
+    },
+    "tab_3_content": {
+        "message": "محتوى تبويب 3",
+        "description": "blank:tab_3_content:(no description)"
+    },
+    "tab_1_content": {
+        "message": "محتوى تبويب 1",
+        "description": "blank:tab_1_content:(no description)"
+    },
+    "tab_2_content": {
+        "message": "محتوى تبويب 2",
+        "description": "blank:tab_2_content:(no description)"
+    },
+    "in_progress": {
+        "message": "قيد الإنجاز",
+        "description": "blank:in_progress:(no description)"
+    },
+    "pa_blank": {
+        "message": "شاشة فارغة",
+        "description": "blank:pa_blank:(no description)"
+    },
+    "first": {
+        "message": "الزر الأول",
+        "description": "blank:first:(no description)"
+    }
+}

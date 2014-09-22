@@ -1,0 +1,74 @@
+{
+    "a_command": {
+        "description": "blank:a_command:(no description)", 
+        "message": "COMMAND BUTTON"
+    }, 
+    "blank_screen": {
+        "description": "blank:blank_screen:(no description)", 
+        "message": "BLANK SCREEN"
+    }, 
+    "filter_by_dropdown": {
+        "description": "blank:filter_by_dropdown:(no description)", 
+        "message": "Filter by Dropdown"
+    }, 
+    "first": {
+        "description": "blank:first:(no description)", 
+        "message": "First Button"
+    }, 
+    "in_lobby": {
+        "description": "blank:in_lobby:(no description)", 
+        "message": "In Lobby"
+    }, 
+    "in_progress": {
+        "description": "blank:in_progress:(no description)", 
+        "message": "In Progress"
+    }, 
+    "modal_title": {
+        "description": "blank:modal_title:(no description)", 
+        "message": "Modal Title"
+    }, 
+    "pa_blank": {
+        "description": "blank:pa_blank:(no description)", 
+        "message": "BLANK SCREEN"
+    }, 
+    "search": {
+        "description": "blank:search:(no description)", 
+        "message": "Search"
+    }, 
+    "second": {
+        "description": "blank:second:(no description)", 
+        "message": "Second Button"
+    }, 
+    "stuff": {
+        "description": "blank:stuff:(no description)", 
+        "message": "Stuff"
+    }, 
+    "submit": {
+        "description": "blank:submit:(no description)", 
+        "message": "Submit"
+    }, 
+    "tab1": {
+        "description": "blank:tab1:(no description)", 
+        "message": "Tab 1"
+    }, 
+    "tab2": {
+        "description": "blank:tab2:(no description)", 
+        "message": "Tab 2"
+    }, 
+    "tab3": {
+        "description": "blank:tab3:(no description)", 
+        "message": "Tab 3"
+    }, 
+    "tab_1_content": {
+        "description": "blank:tab_1_content:(no description)", 
+        "message": "Tab 1 Content"
+    }, 
+    "tab_2_content": {
+        "description": "blank:tab_2_content:(no description)", 
+        "message": "Tab 2 Content"
+    }, 
+    "tab_3_content": {
+        "description": "blank:tab_3_content:(no description)", 
+        "message": "Tab 3 Content"
+    }
+}

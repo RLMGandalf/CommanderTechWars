@@ -1,0 +1,138 @@
+{
+    "number_of_players": {
+        "message": "Numero giocatori",
+        "description": "server_browser:number_of_players:(no description)"
+    },
+    "locked_game": {
+        "message": "Gioco privato",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "testing": {
+        "message": "Test in corso",
+        "description": "server_browser:testing:(no description)"
+    },
+    "game_state": {
+        "message": "Stato del gioco",
+        "description": "server_browser:game_state:(no description)"
+    },
+    "competitive": {
+        "message": "Competitivo",
+        "description": "server_browser:competitive:(no description)"
+    },
+    "tag": {
+        "message": "Tag",
+        "description": "server_browser:tag:(no description)"
+    },
+    "planets": {
+        "message": "Pianeti",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "Slot",
+        "description": "server_browser:slots:(no description)"
+    },
+    "casual": {
+        "message": "Casuale",
+        "description": "server_browser:casual:(no description)"
+    },
+    "can_join": {
+        "message": "Puoi unirti",
+        "description": "server_browser:can_join:(no description)"
+    },
+    "multiplayer": {
+        "message": "Multigiocatore",
+        "description": "server_browser:multiplayer:(no description)"
+    },
+    "any": {
+        "message": "Tutti",
+        "description": "server_browser:any:(no description)"
+    },
+    "can_spectate": {
+        "message": "Puoi osservare",
+        "description": "server_browser:can_spectate:(no description)"
+    },
+    "no_min": {
+        "message": "Num. minuti",
+        "description": "server_browser:no_min:(no description)"
+    },
+    "number_of_planets": {
+        "message": "Numero pianeti",
+        "description": "server_browser:number_of_planets:(no description)"
+    },
+    "status": {
+        "message": "Stato",
+        "description": "server_browser:status:(no description)"
+    },
+    "create_game": {
+        "message": "Crea partita",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "Spettatori",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "join_game": {
+        "message": "Unisciti alla Partita",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "game": {
+        "message": "Partita",
+        "description": "server_browser:game:(no description)"
+    },
+    "in_progress": {
+        "message": "In Corso",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "Password",
+        "description": "server_browser:password:(no description)"
+    },
+    "team_armies": {
+        "message": "Armate Alleate",
+        "description": "server_browser:team_armies:(no description)"
+    },
+    "mod": {
+        "message": "Mod",
+        "description": "server_browser:mod:(no description)"
+    },
+    "mods": {
+        "message": "Mod",
+        "description": "server_browser:mods:(no description)"
+    },
+    "free_for_all": {
+        "message": "Tutti Contro Tutti",
+        "description": "server_browser:free_for_all:(no description)"
+    },
+    "no_max": {
+        "message": "Num. max",
+        "description": "server_browser:no_max:(no description)"
+    },
+    "region": {
+        "message": "Regione",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "Osserva",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "can_play": {
+        "message": "Puoi giocare",
+        "description": "server_browser:can_play:(no description)"
+    },
+    "in_lobby": {
+        "message": "In Sala d'attesa",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "Giocatori",
+        "description": "server_browser:players:(no description)"
+    },
+    "ai_battle": {
+        "message": "Battaglia IA",
+        "description": "server_browser:ai_battle:(no description)"
+    },
+    "mode": {
+        "message": "Modalità",
+        "description": "server_browser:mode:(no description)"
+    }
+}

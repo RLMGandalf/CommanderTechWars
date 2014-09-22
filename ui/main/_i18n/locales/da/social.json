@@ -1,0 +1,122 @@
+{
+    "rename": {
+        "message": "OMDØB",
+        "description": "social:rename:(no description)"
+    },
+    "refresh_friends": {
+        "message": "Opdater kontakter",
+        "description": "social:refresh_friends:(no description)"
+    },
+    "remove": {
+        "message": "FJERN",
+        "description": "social:remove:(no description)"
+    },
+    "tag": {
+        "message": "Tag",
+        "description": "social:tag:(no description)"
+    },
+    "add_friend": {
+        "message": "Tilføj en Ven",
+        "description": "social:add_friend:(no description)"
+    },
+    "cancel": {
+        "message": "Annullér",
+        "description": "social:cancel:(no description)"
+    },
+    "close": {
+        "message": "Luk",
+        "description": "social:close:(no description)"
+    },
+    "ubernet_friends": {
+        "message": "UBERDEX",
+        "description": "social:ubernet_friends:(no description)"
+    },
+    "friend_not_found": {
+        "message": "Kontakt ikke fundet",
+        "description": "social:friend_not_found:(no description)"
+    },
+    "new_nickname": {
+        "message": "Nyt Kaldenavn:",
+        "description": "social:new_nickname:(no description)"
+    },
+    "approved_users": {
+        "message": "GODKENDTE BRUGERE",
+        "description": "social:approved_users:(no description)"
+    },
+    "add": {
+        "message": "Tilføj",
+        "description": "social:add:(no description)"
+    },
+    "recent": {
+        "message": "NYLIGT",
+        "description": "social:recent:(no description)"
+    },
+    "blocked_users": {
+        "message": "BLOKEREDE BRUGERE",
+        "description": "social:blocked_users:(no description)"
+    },
+    "tag_friend": {
+        "message": "Tag en ven:",
+        "description": "social:tag_friend:(no description)"
+    },
+    "private_games_you_make_will_only_be_visible_to_these_players": {
+        "message": "Private spil du laver kan kun ses af disse spillere.",
+        "description": "social:private_games_you_make_will_only_be_visible_to_these_players:(no description)"
+    },
+    "contact_list_updated": {
+        "message": "Kontaktliste opdateret",
+        "description": "social:contact_list_updated:(no description)"
+    },
+    "dismiss": {
+        "message": "Afvis",
+        "description": "social:dismiss:(no description)"
+    },
+    "uberid": {
+        "message": "Uber Id:",
+        "description": "social:uberid:(no description)"
+    },
+    "games_you_make_will_be_hidden_to_these_players": {
+        "message": "Spil du laver kan ikke ses af disse spillere.",
+        "description": "social:games_you_make_will_be_hidden_to_these_players:(no description)"
+    },
+    "screen_name": {
+        "message": "Uber Brugernavn",
+        "description": "social:screen_name:(no description)"
+    },
+    "players_you_have_encountered_recently": {
+        "message": "Spillere du har mødt for nyligt.",
+        "description": "social:players_you_have_encountered_recently:(no description)"
+    },
+    "tags": {
+        "message": "Tags:",
+        "description": "social:tags:(no description)"
+    },
+    "refreshing": {
+        "message": "Genopfrisker venneliste.....",
+        "description": "social:refreshing:(no description)"
+    },
+    "name": {
+        "message": "Navn:",
+        "description": "social:name:(no description)"
+    },
+    "filter_list": {
+        "message": "Filtrer kontakter efter mærke",
+        "description": "social:filter_list:(no description)"
+    },
+    "social": {
+        "message": "SOCIAL",
+        "description": "social:social:(no description)"
+    },
+    "approve": {
+        "message": "TILLAD",
+        "description": "social:approve:(no description)"
+    },
+    "or": {
+        "message": "eller",
+        "description": "social:or:(no description)"
+    },
+    "block": {
+        "message": "BLOKER",
+        "description": "social:block:(no description)"
+    }
+}

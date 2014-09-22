@@ -1,0 +1,142 @@
+{
+    "avg": {
+        "description": "gamestats:avg:(no description)", 
+        "message": "\u0202\u0477\u0260", 
+        "original": "Avg"
+    }, 
+    "consumed": {
+        "description": "gamestats:consumed:(no description)", 
+        "message": "\u04aa\u020f\u019e\u01a8\u0574\u028d\u1f73\u0257", 
+        "original": "Consumed"
+    }, 
+    "created": {
+        "description": "gamestats:created:(no description)", 
+        "message": "\u04aa\u0213\u1f73\u0203\u04ad\u1f73\u0257", 
+        "original": "Created"
+    }, 
+    "current": {
+        "description": "gamestats:current:(no description)", 
+        "message": "\u04aa\u0574\u0213\u0213\u1f73\u019e\u04ad", 
+        "original": "Current"
+    }, 
+    "current_apm": {
+        "description": "gamestats:current_apm:(no description)", 
+        "message": "\u04aa\u0574\u0213\u0213\u1f73\u019e\u04ad \u0202\u1e54\u039c", 
+        "original": "Current APM"
+    }, 
+    "current_efficiency": {
+        "description": "gamestats:current_efficiency:(no description)", 
+        "message": "\u04aa\u0574\u0213\u0213\u1f73\u019e\u04ad \u0190\u0493\u0493\u0457\u03f2\u0457\u1f73\u019e\u03f2\u0443", 
+        "original": "Current Efficiency"
+    }, 
+    "current_energy": {
+        "description": "gamestats:current_energy:(no description)", 
+        "message": "\u04aa\u0574\u0213\u0213\u1f73\u019e\u04ad \u0190\u019e\u1f73\u0213\u0260\u0443", 
+        "original": "Current Energy"
+    }, 
+    "current_metal": {
+        "description": "gamestats:current_metal:(no description)", 
+        "message": "\u04aa\u0574\u0213\u0213\u1f73\u019e\u04ad \u039c\u1f73\u04ad\u0203\u230a", 
+        "original": "Current Metal"
+    }, 
+    "current_units": {
+        "description": "gamestats:current_units:(no description)", 
+        "message": "\u04aa\u0574\u0213\u0213\u1f73\u019e\u04ad \u1ee6\u019e\u0457\u04ad\u01a8", 
+        "original": "Current Units"
+    }, 
+    "draw": {
+        "description": "gamestats:draw:(no description)", 
+        "message": "\u0189\u0213\u0203\u1ff4", 
+        "original": "Draw"
+    }, 
+    "fab": {
+        "description": "gamestats:fab:(no description)", 
+        "message": "\u03dc\u0203\u0411", 
+        "original": "Fab"
+    }, 
+    "factory": {
+        "description": "gamestats:factory:(no description)", 
+        "message": "\u03dc\u0203\u03f2\u04ad\u020f\u0213\u0443", 
+        "original": "Factory"
+    }, 
+    "game_summary": {
+        "description": "gamestats:game_summary:(no description)", 
+        "message": "\u01f4\u0202\u039c\u0190 \u1e60\u1ee6\u039c\u039c\u0202\u211d\u0423", 
+        "original": "GAME SUMMARY"
+    }, 
+    "in_progress": {
+        "description": "gamestats:in_progress:(no description)", 
+        "message": "\u03aa\u019e \u1e54\u0213\u020f\u0260\u0213\u1f73\u01a8\u01a8", 
+        "original": "In Progress"
+    }, 
+    "lost": {
+        "description": "gamestats:lost:(no description)", 
+        "message": "\u20a4\u020f\u01a8\u04ad", 
+        "original": "Lost"
+    }, 
+    "mobile": {
+        "description": "gamestats:mobile:(no description)", 
+        "message": "\u039c\u020f\u0411\u0457\u230a\u1f73", 
+        "original": "Mobile"
+    }, 
+    "opp_killed": {
+        "description": "gamestats:opp_killed:(no description)", 
+        "message": "\u0472\u2374\u2374 \u04a0\u0457\u230a\u230a\u1f73\u0257", 
+        "original": "Opp Killed"
+    }, 
+    "produced": {
+        "description": "gamestats:produced:(no description)", 
+        "message": "\u1e54\u0213\u020f\u0257\u0574\u03f2\u1f73\u0257", 
+        "original": "Produced"
+    }, 
+    "retrieving_stats": {
+        "description": "gamestats:retrieving_stats:(no description)", 
+        "message": "\u211d\u1f73\u04ad\u0213\u0457\u1f73\u0477\u0457\u019e\u0260 \u1e60\u04ad\u0203\u04ad\u01a8...", 
+        "original": "Retrieving Stats..."
+    }, 
+    "total": {
+        "description": "gamestats:total:(no description)", 
+        "message": "\u4e01\u020f\u04ad\u0203\u230a", 
+        "original": "Total"
+    }, 
+    "total_apm": {
+        "description": "gamestats:total_apm:(no description)", 
+        "message": "\u4e01\u020f\u04ad\u0203\u230a \u0202\u1e54\u039c", 
+        "original": "Total APM"
+    }, 
+    "total_efficiency": {
+        "description": "gamestats:total_efficiency:(no description)", 
+        "message": "\u4e01\u020f\u04ad\u0203\u230a \u0190\u0493\u0493\u0457\u03f2\u0457\u1f73\u019e\u03f2\u0443", 
+        "original": "Total Efficiency"
+    }, 
+    "total_energy": {
+        "description": "gamestats:total_energy:(no description)", 
+        "message": "\u4e01\u020f\u04ad\u0203\u230a \u0190\u019e\u1f73\u0213\u0260\u0443", 
+        "original": "Total Energy"
+    }, 
+    "total_metal": {
+        "description": "gamestats:total_metal:(no description)", 
+        "message": "\u4e01\u020f\u04ad\u0203\u230a \u039c\u1f73\u04ad\u0203\u230a", 
+        "original": "Total Metal"
+    }, 
+    "total_units": {
+        "description": "gamestats:total_units:(no description)", 
+        "message": "\u4e01\u020f\u04ad\u0203\u230a \u1ee6\u019e\u0457\u04ad\u01a8", 
+        "original": "Total Units"
+    }, 
+    "wasted": {
+        "description": "gamestats:wasted:(no description)", 
+        "message": "\u20a9\u0203\u01a8\u04ad\u1f73\u0257", 
+        "original": "Wasted"
+    }, 
+    "winner": {
+        "description": "gamestats:winner:(no description)", 
+        "message": "\u20a9\u0457\u019e\u019e\u1f73\u0213:", 
+        "original": "Winner:"
+    }, 
+    "winners": {
+        "description": "gamestats:winners:(no description)", 
+        "message": "\u20a9\u0457\u019e\u019e\u1f73\u0213\u01a8:", 
+        "original": "Winners:"
+    }
+}

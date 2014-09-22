@@ -1,0 +1,210 @@
+{
+    "my_planets": {
+        "message": "MIJN PLANETEN",
+        "description": "system_editor:my_planets:(no description)"
+    },
+    "preview_all": {
+        "message": "ALLES VOORVERTONEN",
+        "description": "system_editor:preview_all:(no description)"
+    },
+    "show": {
+        "message": "TONEN",
+        "description": "system_editor:show:(no description)"
+    },
+    "water_height": {
+        "message": "WATERHOOGTE",
+        "description": "system_editor:water_height:(no description)"
+    },
+    "accept": {
+        "message": "Accepteren",
+        "description": "system_editor:accept:(no description)"
+    },
+    "height": {
+        "message": "Hoogte",
+        "description": "system_editor:height:(no description)"
+    },
+    "seed": {
+        "message": "STARTWAARDE",
+        "description": "system_editor:seed:(no description)"
+    },
+    "radius": {
+        "message": "RADIUS",
+        "description": "system_editor:radius:(no description)"
+    },
+    "cancel": {
+        "message": "Annuleren",
+        "description": "system_editor:cancel:(no description)"
+    },
+    "close": {
+        "message": "SLUITEN",
+        "description": "system_editor:close:(no description)"
+    },
+    "metal_clusters": {
+        "message": "METAALCLUSTERS",
+        "description": "system_editor:metal_clusters:(no description)"
+    },
+    "the_system_has_not_been_saved": {
+        "message": "Het stelsel is niet opgeslagen.",
+        "description": "system_editor:the_system_has_not_been_saved:(no description)"
+    },
+    "the_planet_is_loading_this_can_take_a_long_time": {
+        "message": "De planeet is aan het laden. Dit kan lang duren.",
+        "description": "system_editor:the_planet_is_loading_this_can_take_a_long_time:(no description)"
+    },
+    "biome": {
+        "message": "BIOOM",
+        "description": "system_editor:biome:(no description)"
+    },
+    "starting_planet": {
+        "message": "Startplaneet",
+        "description": "system_editor:starting_planet:(no description)"
+    },
+    "hide": {
+        "message": "VERBERG",
+        "description": "system_editor:hide:(no description)"
+    },
+    "temperature": {
+        "message": "TEMPERATUUR",
+        "description": "system_editor:temperature:(no description)"
+    },
+    "discard": {
+        "message": "Verwerpen",
+        "description": "system_editor:discard:(no description)"
+    },
+    "save_mixed_case": {
+        "message": "Opslaan",
+        "description": "system_editor:save_mixed_case:(no description)"
+    },
+    "clear_system": {
+        "message": "STELSEL LEEGMAKEN",
+        "description": "system_editor:clear_system:(no description)"
+    },
+    "system_radius_is_too_small": {
+        "message": "Stelselradius is te klein.",
+        "description": "system_editor:system_radius_is_too_small:(no description)"
+    },
+    "x": {
+        "message": "X:",
+        "description": "system_editor:x:(no description)"
+    },
+    "system_editor": {
+        "message": "STELSELONTWERPER",
+        "description": "system_editor:system_editor:(no description)"
+    },
+    "preview": {
+        "message": "VOORVERTONING",
+        "description": "system_editor:preview:(no description)"
+    },
+    "templates": {
+        "message": "SJABLONEN",
+        "description": "system_editor:templates:(no description)"
+    },
+    "biome_scale": {
+        "message": "BIOOMSCHAAL",
+        "description": "system_editor:biome_scale:(no description)"
+    },
+    "save_system": {
+        "message": "STELSEL OPSLAAN",
+        "description": "system_editor:save_system:(no description)"
+    },
+    "water": {
+        "message": "Water",
+        "description": "system_editor:water:(no description)"
+    },
+    "metal_density": {
+        "message": "METAALDICHTHEID",
+        "description": "system_editor:metal_density:(no description)"
+    },
+    "velocity": {
+        "message": "SNELHEID",
+        "description": "system_editor:velocity:(no description)"
+    },
+    "edit_planet": {
+        "message": "PLANEET BEWERKEN",
+        "description": "system_editor:edit_planet:(no description)"
+    },
+    "simulate": {
+        "message": "SIMULEREN",
+        "description": "system_editor:simulate:(no description)"
+    },
+    "planet_name": {
+        "message": "PLANEETNAAM",
+        "description": "system_editor:planet_name:(no description)"
+    },
+    "required_thrust_to_move": {
+        "message": "MOTOREN",
+        "description": "system_editor:required_thrust_to_move:(no description)"
+    },
+    "system_radius_is_too_large": {
+        "message": "Stelselradius is te groot.",
+        "description": "system_editor:system_radius_is_too_large:(no description)"
+    },
+    "properties": {
+        "message": "EIGENSCHAPPEN",
+        "description": "system_editor:properties:(no description)"
+    },
+    "recent": {
+        "message": "RECENT",
+        "description": "system_editor:recent:(no description)"
+    },
+    "system_name": {
+        "message": "NAAM:",
+        "description": "system_editor:system_name:(no description)"
+    },
+    "e": {
+        "message": "E:",
+        "description": "system_editor:e:(no description)"
+    },
+    "temp": {
+        "message": "Temp",
+        "description": "system_editor:temp:(no description)"
+    },
+    "do_you_want_to_save_this_system": {
+        "message": "Wil je dit stelsel opslaan?",
+        "description": "system_editor:do_you_want_to_save_this_system:(no description)"
+    },
+    "height_range": {
+        "message": "HOOGTEBEREIK",
+        "description": "system_editor:height_range:(no description)"
+    },
+    "remove": {
+        "message": "VERWIJDEREN",
+        "description": "system_editor:remove:(no description)"
+    },
+    "planet": {
+        "message": "PLANEET",
+        "description": "system_editor:planet:(no description)"
+    },
+    "system_has_no_starting_planet": {
+        "message": "Stelsel heeft geen startplaneet.",
+        "description": "system_editor:system_has_no_starting_planet:(no description)"
+    },
+    "random_name": {
+        "message": "WILLEKEURIGE NAAM",
+        "description": "system_editor:random_name:(no description)"
+    },
+    "mass": {
+        "message": "MASSA",
+        "description": "system_editor:mass:(no description)"
+    },
+    "save_template": {
+        "message": "SJABLOON OPSLAAN",
+        "description": "system_editor:save_template:(no description)"
+    },
+    "the_program_will_be_unresponsive_until_the_planet_has_finished": {
+        "message": "Het programma zal nergens op reageren totdat de planeet af is.",
+        "description": "system_editor:the_program_will_be_unresponsive_until_the_planet_has_finished:(no description)"
+    },
+    "y": {
+        "message": "Y:",
+        "description": "system_editor:y:(no description)"
+    },
+    "position": {
+        "message": "POSITIE",
+        "description": "system_editor:position:(no description)"
+    },
+    "the_system_has_been_changed_since_it_was_last_saved": {
+        "message": "Het stelsel is veranderd sinds het was opgeslagen.",
+        "description": "system_editor:the_system_has_been_changed_since_it_was_last_saved:(no description)"
+    }
+}

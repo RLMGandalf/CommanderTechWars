@@ -1,0 +1,158 @@
+{
+    "uber": {
+        "message": "UBER",
+        "description": "gw_start:uber:(no description)"
+    },
+    "move_from_star_system_to_star_system_collecting_techs_use_those_techs_to_defeat_the_enemy_faction_leaders_and_conquer_the_galaxy": {
+        "message": "انتقل من نظام نجمي إلى نظام نجمي واجمع التقنيات. استخدم تلك التقنيات لهزيمة قادة الفصائل المعادية وسيطر على المجرة!",
+        "description": "gw_start:move_from_star_system_to_star_system_collecting_techs_use_those_techs_to_defeat_the_enemy_faction_leaders_and_conquer_the_galaxy:(no description)"
+    },
+    "some_systems_have_hidden_commander_loadouts_recover_them_for_future_galactic_wars": {
+        "message": "بعض الأنظمة لديها تسليحات للقادة مخبئة. استعدها من اجل حرب مجرات مستقبلية",
+        "description": "gw_start:some_systems_have_hidden_commander_loadouts_recover_them_for_future_galactic_wars:(no description)"
+    },
+    "annihilation_is_final": {
+        "message": "الإبادة هو نهائي.",
+        "description": "gw_start:annihilation_is_final:(no description)"
+    },
+    "navigate_the_galaxy_map_by_jumping_from_system_to_system": {
+        "message": "تنقل في خريطة المجرة بالقفز من نظام إلى نظام.",
+        "description": "gw_start:navigate_the_galaxy_map_by_jumping_from_system_to_system:(no description)"
+    },
+    "hard": {
+        "message": "صعب",
+        "description": "gw_start:hard:(no description)"
+    },
+    "explore_unclaimed_systems_to_recover_tech": {
+        "message": "اكتشف أنظمة لم يستولي عليها احد لتستعيد التقنيات.",
+        "description": "gw_start:explore_unclaimed_systems_to_recover_tech:(no description)"
+    },
+    "commander": {
+        "message": "القائد",
+        "description": "gw_start:commander:(no description)"
+    },
+    "archived_wars": {
+        "message": "أرشيف الحروب",
+        "description": "gw_start:archived_wars:(no description)"
+    },
+    "medium": {
+        "message": "متوسط",
+        "description": "gw_start:medium:(no description)"
+    },
+    "small": {
+        "message": "الصغير",
+        "description": "gw_start:small:(no description)"
+    },
+    "size": {
+        "message": "الحجم:",
+        "description": "gw_start:size:(no description)"
+    },
+    "loadout": {
+        "message": "التسليح",
+        "description": "gw_start:loadout:(no description)"
+    },
+    "tech_can_be_deleted_to_make_room_for_new_ones_to_download_deleted_and_rejected_techs_are_lost_for_the_remainder_of_the_galactic_war": {
+        "message": "يمكن حذف التقنيات لإفساح المجال لتقنيات جديدة يمكن تحميلها. التقنيات المحذوفة أو المرفوضة ستفقد للفترة المتبقية من حرب المجرة.",
+        "description": "gw_start:tech_can_be_deleted_to_make_room_for_new_ones_to_download_deleted_and_rejected_techs_are_lost_for_the_remainder_of_the_galactic_war:(no description)"
+    },
+    "tip": {
+        "message": "تلميح:",
+        "description": "gw_start:tip:(no description)"
+    },
+    "annihilate_enemies_on_claimed_systems_to_collect_their_tech": {
+        "message": "اهلك الأعداء على الأنظمة المزعومة لجمع تقنياتهم",
+        "description": "gw_start:annihilate_enemies_on_claimed_systems_to_collect_their_tech:(no description)"
+    },
+    "how_to_play": {
+        "message": "كيفية اللعب",
+        "description": "gw_start:how_to_play:(no description)"
+    },
+    "details": {
+        "message": "التفاصيل",
+        "description": "gw_start:details:(no description)"
+    },
+    "player_faction": {
+        "message": "فصيل",
+        "description": "gw_start:player_faction:(no description)"
+    },
+    "tips": {
+        "message": "نصائح",
+        "description": "gw_start:tips:(no description)"
+    },
+    "epic": {
+        "message": "ملحمي",
+        "description": "gw_start:epic:(no description)"
+    },
+    "victory": {
+        "message": "النصر",
+        "description": "gw_start:victory:(no description)"
+    },
+    "active_wars": {
+        "message": "حروب نشطة",
+        "description": "gw_start:active_wars:(no description)"
+    },
+    "normal": {
+        "message": "عادي",
+        "description": "gw_start:normal:(no description)"
+    },
+    "difficulty": {
+        "message": "الصعوبة:",
+        "description": "gw_start:difficulty:(no description)"
+    },
+    "new_war": {
+        "message": "حرب جديدة",
+        "description": "gw_start:new_war:(no description)"
+    },
+    "game_seed": {
+        "message": "قيمة البذرة",
+        "description": "gw_start:game_seed:(no description)"
+    },
+    "choose_a_loadout_to_give_your_commander_different_starting_tech_configurations": {
+        "message": "اختر التسليح لتعطي القائد الخاص بك تقنيات بدء مختلفة.",
+        "description": "gw_start:choose_a_loadout_to_give_your_commander_different_starting_tech_configurations:(no description)"
+    },
+    "annihilated": {
+        "message": "تَلاَشَى",
+        "description": "gw_start:annihilated:(no description)"
+    },
+    "locked": {
+        "message": "مغلق",
+        "description": "gw_start:locked:(no description)"
+    },
+    "name": {
+        "message": "الأسم",
+        "description": "gw_start:name:(no description)"
+    },
+    "turns": {
+        "message": "الأدوار:",
+        "description": "gw_start:turns:(no description)"
+    },
+    "setup": {
+        "message": "الإعداد",
+        "description": "gw_start:setup:(no description)"
+    },
+    "large": {
+        "message": "ضخم",
+        "description": "gw_start:large:(no description)"
+    },
+    "new_data_banks_to_store_techs_can_be_found_by_exploring_systems": {
+        "message": "بنوك التقنيات الجديدة لتخزين التقنيات يمكن العثور عليها عبر استكشاف الأنظمة.",
+        "description": "gw_start:new_data_banks_to_store_techs_can_be_found_by_exploring_systems:(no description)"
+    },
+    "absurd": {
+        "message": "لا معقول",
+        "description": "gw_start:absurd:(no description)"
+    },
+    "wins": {
+        "message": "فاز:",
+        "description": "gw_start:wins:(no description)"
+    },
+    "load_game": {
+        "message": "الذهاب إلى الحرب",
+        "description": "gw_start:load_game:(no description)"
+    },
+    "relentless": {
+        "message": "لا هوادة فيها",
+        "description": "gw_start:relentless:(no description)"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "accept": {
+        "description": "live_game_players:accept:(no description)", 
+        "message": "Accept"
+    }, 
+    "alliance_request": {
+        "description": "live_game_players:alliance_request:(no description)", 
+        "message": "Alliance Request"
+    }, 
+    "alliance_requested": {
+        "description": "live_game_players:alliance_requested:(no description)", 
+        "message": "Alliance requested"
+    }, 
+    "allied_with": {
+        "description": "live_game_players:allied_with:(no description)", 
+        "message": "Allied with:"
+    }, 
+    "ally": {
+        "description": "live_game_players:ally:(no description)", 
+        "message": "ALLY"
+    }, 
+    "army": {
+        "description": "live_game_players:army:(no description)", 
+        "message": "ARMY"
+    }, 
+    "army_fabber_value": {
+        "description": "live_game_players:army_fabber_value:(no description)", 
+        "message": "Fabber"
+    }, 
+    "army_factory_value": {
+        "description": "live_game_players:army_factory_value:(no description)", 
+        "message": "Factory"
+    }, 
+    "army_mobile_value": {
+        "description": "live_game_players:army_mobile_value:(no description)", 
+        "message": "Mobile"
+    }, 
+    "army_unit_count": {
+        "description": "live_game_players:army_unit_count:(no description)", 
+        "message": "Count"
+    }, 
+    "build_efficiency": {
+        "description": "live_game_players:build_efficiency:(no description)", 
+        "message": "Efficiency"
+    }, 
+    "economy": {
+        "description": "live_game_players:economy:(no description)", 
+        "message": "ECONOMY"
+    }, 
+    "ignore": {
+        "description": "live_game_players:ignore:(no description)", 
+        "message": "Ignore"
+    }, 
+    "player": {
+        "description": "live_game_players:player:(no description)", 
+        "message": "PLAYER"
+    }, 
+    "request_pending": {
+        "description": "live_game_players:request_pending:(no description)", 
+        "message": "Request pending"
+    }, 
+    "resc": {
+        "description": "live_game_players:resc:(no description)", 
+        "message": "RESC"
+    }
+}

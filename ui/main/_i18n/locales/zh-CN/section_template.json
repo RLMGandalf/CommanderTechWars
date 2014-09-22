@@ -1,0 +1,26 @@
+{
+    "roster": {
+        "message": "名录",
+        "description": "section_template:roster:(no description)"
+    },
+    "section": {
+        "message": "区域",
+        "description": "section_template:section:(no description)"
+    },
+    "game_lobby": {
+        "message": "游戏大厅",
+        "description": "section_template:game_lobby:(no description)"
+    },
+    "ready_cancel": {
+        "message": "准备/取消",
+        "description": "section_template:ready_cancel:(no description)"
+    },
+    "game_options": {
+        "message": "游戏设置",
+        "description": "section_template:game_options:(no description)"
+    },
+    "new_lobby": {
+        "message": "新建房间",
+        "description": "section_template:new_lobby:(no description)"
+    }
+}

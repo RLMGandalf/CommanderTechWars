@@ -1,0 +1,58 @@
+{
+    "manuever": {
+        "message": "MANŐVER",
+        "description": "live_game_action_bar:manuever:(no description)"
+    },
+    "hold": {
+        "message": "TART",
+        "description": "live_game_action_bar:hold:(no description)"
+    },
+    "move_orders": {
+        "message": "MOZGÁSI PARANCSOK",
+        "description": "live_game_action_bar:move_orders:(no description)"
+    },
+    "hold_position": {
+        "message": "POZÍCIÓ TARTÁSA",
+        "description": "live_game_action_bar:hold_position:(no description)"
+    },
+    "normal": {
+        "message": "NORMÁL",
+        "description": "live_game_action_bar:normal:(no description)"
+    },
+    "continuous": {
+        "message": "FOLYTONOS",
+        "description": "live_game_action_bar:continuous:(no description)"
+    },
+    "return_fire": {
+        "message": "TŰZ VISZONOZÁS",
+        "description": "live_game_action_bar:return_fire:(no description)"
+    },
+    "energy_on": {
+        "message": "BE",
+        "description": "live_game_action_bar:energy_on:(no description)"
+    },
+    "build_mode": {
+        "message": "ÉPÍTÉSI MÓD",
+        "description": "live_game_action_bar:build_mode:(no description)"
+    },
+    "at_will": {
+        "message": "TETSZÉS SZERINT",
+        "description": "live_game_action_bar:at_will:(no description)"
+    },
+    "roam": {
+        "message": "KÓBORLÁS",
+        "description": "live_game_action_bar:roam:(no description)"
+    },
+    "energy_off": {
+        "message": "KI",
+        "description": "live_game_action_bar:energy_off:(no description)"
+    },
+    "fire_orders": {
+        "message": "TŰZ PARANCSOK",
+        "description": "live_game_action_bar:fire_orders:(no description)"
+    },
+    "energy_orders": {
+        "message": "ENERGIA PARANCSOK",
+        "description": "live_game_action_bar:energy_orders:(no description)"
+    }
+}

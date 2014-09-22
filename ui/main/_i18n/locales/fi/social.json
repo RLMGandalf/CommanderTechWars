@@ -1,0 +1,122 @@
+{
+    "rename": {
+        "message": "UUDELLEENNIMEÄ",
+        "description": "social:rename:(no description)"
+    },
+    "refresh_friends": {
+        "message": "Päivitä kontaktit",
+        "description": "social:refresh_friends:(no description)"
+    },
+    "remove": {
+        "message": "POISTA",
+        "description": "social:remove:(no description)"
+    },
+    "tag": {
+        "message": "Tag",
+        "description": "social:tag:(no description)"
+    },
+    "add_friend": {
+        "message": "Lisää kaveri",
+        "description": "social:add_friend:(no description)"
+    },
+    "cancel": {
+        "message": "Peruuta",
+        "description": "social:cancel:(no description)"
+    },
+    "close": {
+        "message": "Sulje",
+        "description": "social:close:(no description)"
+    },
+    "ubernet_friends": {
+        "message": "UBERDEX",
+        "description": "social:ubernet_friends:(no description)"
+    },
+    "friend_not_found": {
+        "message": "Kontaktia Ei Löytynyt",
+        "description": "social:friend_not_found:(no description)"
+    },
+    "new_nickname": {
+        "message": "Uusi Lempinimi",
+        "description": "social:new_nickname:(no description)"
+    },
+    "approved_users": {
+        "message": "HYVÄKSYTYT KÄYTTÄJÄT",
+        "description": "social:approved_users:(no description)"
+    },
+    "add": {
+        "message": "Lisää",
+        "description": "social:add:(no description)"
+    },
+    "recent": {
+        "message": "VIIMEISIN",
+        "description": "social:recent:(no description)"
+    },
+    "blocked_users": {
+        "message": "TORJUTUT KÄYTTÄJÄT",
+        "description": "social:blocked_users:(no description)"
+    },
+    "tag_friend": {
+        "message": "Merkitse Kaveri:",
+        "description": "social:tag_friend:(no description)"
+    },
+    "private_games_you_make_will_only_be_visible_to_these_players": {
+        "message": "Tekemäsi yksityiset pelit näkyvät vain näille pelaajille.",
+        "description": "social:private_games_you_make_will_only_be_visible_to_these_players:(no description)"
+    },
+    "contact_list_updated": {
+        "message": "Kontaktilista päivitetty",
+        "description": "social:contact_list_updated:(no description)"
+    },
+    "dismiss": {
+        "message": "Ohita",
+        "description": "social:dismiss:(no description)"
+    },
+    "uberid": {
+        "message": "Uber-ID:",
+        "description": "social:uberid:(no description)"
+    },
+    "games_you_make_will_be_hidden_to_these_players": {
+        "message": "Perustamasi pelit piilotetaan näiltä pelaajilta.",
+        "description": "social:games_you_make_will_be_hidden_to_these_players:(no description)"
+    },
+    "screen_name": {
+        "message": "Uber-nimi",
+        "description": "social:screen_name:(no description)"
+    },
+    "players_you_have_encountered_recently": {
+        "message": "Hiljattain kohtaamiasi pelaajia.",
+        "description": "social:players_you_have_encountered_recently:(no description)"
+    },
+    "tags": {
+        "message": "Merkit:",
+        "description": "social:tags:(no description)"
+    },
+    "refreshing": {
+        "message": "Päivitetään kaverilistaa...",
+        "description": "social:refreshing:(no description)"
+    },
+    "name": {
+        "message": "Nimi:",
+        "description": "social:name:(no description)"
+    },
+    "filter_list": {
+        "message": "Näytä kontaktit merkinnän mukaan:",
+        "description": "social:filter_list:(no description)"
+    },
+    "social": {
+        "message": "YHTEISÖ",
+        "description": "social:social:(no description)"
+    },
+    "approve": {
+        "message": "HYVÄKSY",
+        "description": "social:approve:(no description)"
+    },
+    "or": {
+        "message": "tai",
+        "description": "social:or:(no description)"
+    },
+    "block": {
+        "message": "TORJU",
+        "description": "social:block:(no description)"
+    }
+}

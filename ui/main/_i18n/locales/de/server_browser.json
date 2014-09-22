@@ -1,0 +1,138 @@
+{
+    "number_of_players": {
+        "message": "Anzahl der Spieler",
+        "description": "server_browser:number_of_players:(no description)"
+    },
+    "locked_game": {
+        "message": "Gesperrtes Spiel",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "testing": {
+        "message": "Test",
+        "description": "server_browser:testing:(no description)"
+    },
+    "game_state": {
+        "message": "Spielstatus",
+        "description": "server_browser:game_state:(no description)"
+    },
+    "competitive": {
+        "message": "Wettkampf",
+        "description": "server_browser:competitive:(no description)"
+    },
+    "tag": {
+        "message": "Markierung",
+        "description": "server_browser:tag:(no description)"
+    },
+    "planets": {
+        "message": "Planeten",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "Slots",
+        "description": "server_browser:slots:(no description)"
+    },
+    "casual": {
+        "message": "Casual",
+        "description": "server_browser:casual:(no description)"
+    },
+    "can_join": {
+        "message": "Kann breitreten",
+        "description": "server_browser:can_join:(no description)"
+    },
+    "multiplayer": {
+        "message": "Mehrspielermodus",
+        "description": "server_browser:multiplayer:(no description)"
+    },
+    "any": {
+        "message": "Alle",
+        "description": "server_browser:any:(no description)"
+    },
+    "can_spectate": {
+        "message": "Kann zuschauen",
+        "description": "server_browser:can_spectate:(no description)"
+    },
+    "no_min": {
+        "message": "Kein Min.",
+        "description": "server_browser:no_min:(no description)"
+    },
+    "number_of_planets": {
+        "message": "Anzahl der Planeten",
+        "description": "server_browser:number_of_planets:(no description)"
+    },
+    "status": {
+        "message": "Status",
+        "description": "server_browser:status:(no description)"
+    },
+    "create_game": {
+        "message": "Spiel erstellen",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "Zuschauer",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "join_game": {
+        "message": "Spiel beitreten",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "game": {
+        "message": "Spiel",
+        "description": "server_browser:game:(no description)"
+    },
+    "in_progress": {
+        "message": "Spiel läuft",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "Passwort",
+        "description": "server_browser:password:(no description)"
+    },
+    "team_armies": {
+        "message": "Team Armeen",
+        "description": "server_browser:team_armies:(no description)"
+    },
+    "mod": {
+        "message": "Mod",
+        "description": "server_browser:mod:(no description)"
+    },
+    "mods": {
+        "message": "Mods",
+        "description": "server_browser:mods:(no description)"
+    },
+    "free_for_all": {
+        "message": "Frei für Alle",
+        "description": "server_browser:free_for_all:(no description)"
+    },
+    "no_max": {
+        "message": "Kein Max.",
+        "description": "server_browser:no_max:(no description)"
+    },
+    "region": {
+        "message": "Region",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "Zuschauen",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "can_play": {
+        "message": "Kann spielen",
+        "description": "server_browser:can_play:(no description)"
+    },
+    "in_lobby": {
+        "message": "In der Lobby",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "Spieler",
+        "description": "server_browser:players:(no description)"
+    },
+    "ai_battle": {
+        "message": "KI Schlacht",
+        "description": "server_browser:ai_battle:(no description)"
+    },
+    "mode": {
+        "message": "Modus",
+        "description": "server_browser:mode:(no description)"
+    }
+}

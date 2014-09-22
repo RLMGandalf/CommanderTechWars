@@ -1,0 +1,102 @@
+{
+    "give_tech": {
+        "message": "Dát technologii",
+        "description": "gw_play:give_tech:(no description)"
+    },
+    "ai": {
+        "message": "AI:",
+        "description": "gw_play:ai:(no description)"
+    },
+    "win": {
+        "message": "Vítězství /",
+        "description": "gw_play:win:(no description)"
+    },
+    "abandon_war": {
+        "message": "Opustit válku",
+        "description": "gw_play:abandon_war:(no description)"
+    },
+    "jump": {
+        "message": "Skočit",
+        "description": "gw_play:jump:(no description)"
+    },
+    "date": {
+        "message": "Datum:",
+        "description": "gw_play:date:(no description)"
+    },
+    "preparing_for_battle": {
+        "message": "Přípraven k boji",
+        "description": "gw_play:preparing_for_battle:(no description)"
+    },
+    "techs": {
+        "message": "TECH.",
+        "description": "gw_play:techs:(no description)"
+    },
+    "unlock_commander": {
+        "message": "Odemknout Komandéra",
+        "description": "gw_play:unlock_commander:(no description)"
+    },
+    "fight": {
+        "message": "Boj",
+        "description": "gw_play:fight:(no description)"
+    },
+    "exit": {
+        "message": "Konec",
+        "description": "gw_play:exit:(no description)"
+    },
+    "reject_tech": {
+        "message": "Odmítnout technologii",
+        "description": "gw_play:reject_tech:(no description)"
+    },
+    "save": {
+        "message": "Uložit",
+        "description": "gw_play:save:(no description)"
+    },
+    "download_tech": {
+        "message": "Stáhnout technologii",
+        "description": "gw_play:download_tech:(no description)"
+    },
+    "delete_tech": {
+        "message": "Smazat technologii",
+        "description": "gw_play:delete_tech:(no description)"
+    },
+    "dismiss": {
+        "message": "Rozpustit",
+        "description": "gw_play:dismiss:(no description)"
+    },
+    "explore": {
+        "message": "Prozkoumat",
+        "description": "gw_play:explore:(no description)"
+    },
+    "scanning_system": {
+        "message": "Skenování systemu",
+        "description": "gw_play:scanning_system:(no description)"
+    },
+    "card": {
+        "message": "Karta:",
+        "description": "gw_play:card:(no description)"
+    },
+    "loss": {
+        "message": "Prohra",
+        "description": "gw_play:loss:(no description)"
+    },
+    "settings": {
+        "message": "Nastavení",
+        "description": "gw_play:settings:(no description)"
+    },
+    "record": {
+        "message": "Záznam:",
+        "description": "gw_play:record:(no description)"
+    },
+    "load_game": {
+        "message": "Načíst hru",
+        "description": "gw_play:load_game:(no description)"
+    },
+    "turn_state": {
+        "message": "Otočit budovu:",
+        "description": "gw_play:turn_state:(no description)"
+    },
+    "history": {
+        "message": "Historie:",
+        "description": "gw_play:history:(no description)"
+    }
+}

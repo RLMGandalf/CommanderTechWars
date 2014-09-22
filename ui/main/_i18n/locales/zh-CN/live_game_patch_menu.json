@@ -1,0 +1,30 @@
+{
+    "quit": {
+        "message": "退出",
+        "description": "live_game_patch_menu:quit:(no description)"
+    },
+    "game_settings": {
+        "message": "游戏设定",
+        "description": "live_game_patch_menu:game_settings:(no description)"
+    },
+    "pauseGame": {
+        "message": "暂停游戏",
+        "description": "live_game_patch_menu:pauseGame:(no description)"
+    },
+    "chrono_cam": {
+        "message": "回放模式",
+        "description": "live_game_patch_menu:chrono_cam:(no description)"
+    },
+    "abandon_war": {
+        "message": "放弃战争",
+        "description": "live_game_patch_menu:abandon_war:(no description)"
+    },
+    "return_to_war": {
+        "message": "回到战争",
+        "description": "live_game_patch_menu:return_to_war:(no description)"
+    },
+    "pa": {
+        "message": "PA",
+        "description": "live_game_patch_menu:pa:(no description)"
+    }
+}

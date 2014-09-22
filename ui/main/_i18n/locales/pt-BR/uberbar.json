@@ -1,0 +1,146 @@
+{
+    "appear_offline": {
+        "message": "Mostrar como desconectado",
+        "description": "uberbar:appear_offline:(no description)"
+    },
+    "wants_to_be_your_friend": {
+        "message": "gostaria de ser seu amigo.",
+        "description": "uberbar:wants_to_be_your_friend:(no description)"
+    },
+    "_tags": {
+        "message": "Marcas:",
+        "description": "uberbar:_tags:(no description)"
+    },
+    "accept": {
+        "message": "Aceitar",
+        "description": "uberbar:accept:(no description)"
+    },
+    "send_friend_request": {
+        "message": "Enviar solicitação a um amigo",
+        "description": "uberbar:send_friend_request:(no description)"
+    },
+    "unblock": {
+        "message": "Desbloquear",
+        "description": "uberbar:unblock:(no description)"
+    },
+    "invite_to_chat": {
+        "message": "Convidar para bater papo",
+        "description": "uberbar:invite_to_chat:(no description)"
+    },
+    "chat": {
+        "message": "Chat",
+        "description": "uberbar:chat:(no description)"
+    },
+    "cancel": {
+        "message": "CANCELAR",
+        "description": "uberbar:cancel:(no description)"
+    },
+    "users": {
+        "message": "Usuários",
+        "description": "uberbar:users:(no description)"
+    },
+    "_remove": {
+        "message": "[REMOVER]",
+        "description": "uberbar:_remove:(no description)"
+    },
+    "search_results": {
+        "message": "Resultados da pesquisa",
+        "description": "uberbar:search_results:(no description)"
+    },
+    "away": {
+        "message": "Ausente",
+        "description": "uberbar:away:(no description)"
+    },
+    "invited_you_to_chat": {
+        "message": "convidou você para o bate-papo.",
+        "description": "uberbar:invited_you_to_chat:(no description)"
+    },
+    "invite_to_game": {
+        "message": "Convidar para jogo.",
+        "description": "uberbar:invite_to_game:(no description)"
+    },
+    "_i": {
+        "message": "[I]",
+        "description": "uberbar:_i:(no description)"
+    },
+    "online": {
+        "message": "Conectado",
+        "description": "uberbar:online:(no description)"
+    },
+    "_f": {
+        "message": "[F]",
+        "description": "uberbar:_f:(no description)"
+    },
+    "offline": {
+        "message": "Desconectado",
+        "description": "uberbar:offline:(no description)"
+    },
+    "_b": {
+        "message": "[B]",
+        "description": "uberbar:_b:(no description)"
+    },
+    "unfriend": {
+        "message": "Remover dos amigos",
+        "description": "uberbar:unfriend:(no description)"
+    },
+    "no_pending_notifications": {
+        "message": "Não existem notificações pendentes.",
+        "description": "uberbar:no_pending_notifications:(no description)"
+    },
+    "join_game": {
+        "message": "Juntar-se ao Jogo",
+        "description": "uberbar:join_game:(no description)"
+    },
+    "pending_invite": {
+        "message": "Convite pendente",
+        "description": "uberbar:pending_invite:(no description)"
+    },
+    "friends": {
+        "message": "Amigos",
+        "description": "uberbar:friends:(no description)"
+    },
+    "change": {
+        "message": "ALTERAR",
+        "description": "uberbar:change:(no description)"
+    },
+    "recent": {
+        "message": "Recente",
+        "description": "uberbar:recent:(no description)"
+    },
+    "change_your_display_name": {
+        "message": "Alterar o seu nome a ser exibido?",
+        "description": "uberbar:change_your_display_name:(no description)"
+    },
+    "new_display_name": {
+        "message": "Novo nome a ser exibido:",
+        "description": "uberbar:new_display_name:(no description)"
+    },
+    "do_not_disturb": {
+        "message": "Não Perturbe",
+        "description": "uberbar:do_not_disturb:(no description)"
+    },
+    "remove": {
+        "message": "Remover",
+        "description": "uberbar:remove:(no description)"
+    },
+    "ignore": {
+        "message": "Ignorar",
+        "description": "uberbar:ignore:(no description)"
+    },
+    "_chat": {
+        "message": "[BATE-PAPO]",
+        "description": "uberbar:_chat:(no description)"
+    },
+    "invited_you_to_a_game": {
+        "message": "te convidou para um jogo.",
+        "description": "uberbar:invited_you_to_a_game:(no description)"
+    },
+    "change_display_name": {
+        "message": "Alterar o nome a ser exibido",
+        "description": "uberbar:change_display_name:(no description)"
+    },
+    "block": {
+        "message": "Bloquear",
+        "description": "uberbar:block:(no description)"
+    }
+}

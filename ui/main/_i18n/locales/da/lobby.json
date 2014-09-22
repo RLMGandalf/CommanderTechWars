@@ -1,0 +1,166 @@
+{
+    "planets": {
+        "message": "PLANETER:",
+        "description": "lobby:planets:(no description)"
+    },
+    "ai": {
+        "message": "VIRTUEL MODSTANDER",
+        "description": "lobby:ai:(no description)"
+    },
+    "starting_game": {
+        "message": "STARTER SPIL",
+        "description": "lobby:starting_game:(no description)"
+    },
+    "ai_economy_rate": {
+        "message": "COMPUTERSPILLERS ØKONOMI",
+        "description": "lobby:ai_economy_rate:(no description)"
+    },
+    "ready": {
+        "message": "klar",
+        "description": "lobby:ready:(no description)"
+    },
+    "vs": {
+        "message": "mod",
+        "description": "lobby:vs:(no description)"
+    },
+    "chat": {
+        "message": "CHAT",
+        "description": "lobby:chat:(no description)"
+    },
+    "cancel": {
+        "message": "Annullér",
+        "description": "lobby:cancel:(no description)"
+    },
+    "yes": {
+        "message": "Ja",
+        "description": "lobby:yes:(no description)"
+    },
+    "leave_game": {
+        "message": "FORLAD SPIL",
+        "description": "lobby:leave_game:(no description)"
+    },
+    "starting_planet": {
+        "message": "STARTPLANET:",
+        "description": "lobby:starting_planet:(no description)"
+    },
+    "promote": {
+        "message": "FORFREM",
+        "description": "lobby:promote:(no description)"
+    },
+    "player_economy_rate": {
+        "message": "SPILLERENS ØKONOMI",
+        "description": "lobby:player_economy_rate:(no description)"
+    },
+    "army": {
+        "message": "HÆR",
+        "description": "lobby:army:(no description)"
+    },
+    "connecting_to_server": {
+        "message": "FORBINDER TIL SERVER",
+        "description": "lobby:connecting_to_server:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Går tilbage til Hovedmenu",
+        "description": "lobby:returning_to_main_menu:(no description)"
+    },
+    "add_an_army": {
+        "message": "TILFØJ EN HÆR",
+        "description": "lobby:add_an_army:(no description)"
+    },
+    "system": {
+        "message": "SYSTEM",
+        "description": "lobby:system:(no description)"
+    },
+    "waiting": {
+        "message": "venter",
+        "description": "lobby:waiting:(no description)"
+    },
+    "partner_up_and_share_control_of_one_army_and_economy": {
+        "message": "Arbejd sammen og del kontrollen over én hær og økonomi.",
+        "description": "lobby:partner_up_and_share_control_of_one_army_and_economy:(no description)"
+    },
+    "ready_caps": {
+        "message": "KLAR",
+        "description": "lobby:ready_caps:(no description)"
+    },
+    "offline": {
+        "message": "offline",
+        "description": "lobby:offline:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "lobby:gamma_v:(no description)"
+    },
+    "kick": {
+        "message": "SMID UD",
+        "description": "lobby:kick:(no description)"
+    },
+    "armies": {
+        "message": "HÆRE",
+        "description": "lobby:armies:(no description)"
+    },
+    "format": {
+        "message": "FORMAT",
+        "description": "lobby:format:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "FORBINDELSE TIL SERVEREN ER TABT",
+        "description": "lobby:connection_to_server_lost:(no description)"
+    },
+    "you": {
+        "message": "DIG",
+        "description": "lobby:you:(no description)"
+    },
+    "scale": {
+        "message": "SKALA",
+        "description": "lobby:scale:(no description)"
+    },
+    "join": {
+        "message": "Deltag",
+        "description": "lobby:join:(no description)"
+    },
+    "game_will_start_when_all_players_select_a_slot_and_click_ready": {
+        "message": "Spillet begynder når alle spillere har valgt hold og trykker Klar.",
+        "description": "lobby:game_will_start_when_all_players_select_a_slot_and_click_ready:(no description)"
+    },
+    "exit_game": {
+        "message": "Afslut spillet?",
+        "description": "lobby:exit_game:(no description)"
+    },
+    "lobby": {
+        "message": "LOBBY",
+        "description": "lobby:lobby:(no description)"
+    },
+    "team_armies": {
+        "message": "Hold",
+        "description": "lobby:team_armies:(no description)"
+    },
+    "one_player_per_army": {
+        "message": "Én spiller pr. hær.",
+        "description": "lobby:one_player_per_army:(no description)"
+    },
+    "ai_commander": {
+        "message": "COMPUTERSPILLER",
+        "description": "lobby:ai_commander:(no description)"
+    },
+    "game_will_start_when_the_server_has_finished_generating_the_solar_system": {
+        "message": "Spillet starter når serveren har genereret solsystemet.",
+        "description": "lobby:game_will_start_when_the_server_has_finished_generating_the_solar_system:(no description)"
+    },
+    "free_for_all": {
+        "message": "Alle mod alle",
+        "description": "lobby:free_for_all:(no description)"
+    },
+    "lobby_beta": {
+        "message": "LOBBY BETA",
+        "description": "lobby:lobby_beta:(no description)"
+    },
+    "battle_solo_against_armies_commanded_by_the_ai": {
+        "message": "Spil alene mod hære styret af computerspillere.",
+        "description": "lobby:battle_solo_against_armies_commanded_by_the_ai:(no description)"
+    },
+    "players": {
+        "message": "SPILLERE",
+        "description": "lobby:players:(no description)"
+    }
+}

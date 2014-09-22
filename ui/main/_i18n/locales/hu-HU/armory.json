@@ -1,0 +1,122 @@
+{
+    "designed_in_collaboration_with": {
+        "message": "Készült a következő személy együttműködésével:",
+        "description": "armory:designed_in_collaboration_with:(no description)"
+    },
+    "remove": {
+        "message": "ELTÁVOLÍTÁS",
+        "description": "armory:remove:(no description)"
+    },
+    "cancel": {
+        "message": "Mégse",
+        "description": "armory:cancel:(no description)"
+    },
+    "continue_shopping": {
+        "message": "Vásárlás Folytatása",
+        "description": "armory:continue_shopping:(no description)"
+    },
+    "account_name": {
+        "message": "Számla Megnevezése:",
+        "description": "armory:account_name:(no description)"
+    },
+    "badges": {
+        "message": "Jelvények",
+        "description": "armory:badges:(no description)"
+    },
+    "here_s_your_receipt": {
+        "message": "Itt a számlád.",
+        "description": "armory:here_s_your_receipt:(no description)"
+    },
+    "set_as_default_commander": {
+        "message": "Beállítás Alapértelmezett Parancsnokként",
+        "description": "armory:set_as_default_commander:(no description)"
+    },
+    "total": {
+        "message": "Végösszeg:",
+        "description": "armory:total:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Megerősítő kód:",
+        "description": "armory:confirmation_code:(no description)"
+    },
+    "kickstarter_backer": {
+        "message": "Kickstarteres Támogató",
+        "description": "armory:kickstarter_backer:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below": {
+        "message": "A vásárlásodról szóló nyugtát alább olvashatod.",
+        "description": "armory:confirmation_of_your_purchase_is_provided_below:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "A vásárolt tételeidet regisztráltuk a számládra és elérhetőek játékon belül.",
+        "description": "armory:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "item_is_already_in_cart": {
+        "message": "Az árucikk már a kosárban van.",
+        "description": "armory:item_is_already_in_cart:(no description)"
+    },
+    "add_to_cart": {
+        "message": "Kosárba.",
+        "description": "armory:add_to_cart:(no description)"
+    },
+    "armory": {
+        "message": "Fegyvertár",
+        "description": "armory:armory:(no description)"
+    },
+    "checkout": {
+        "message": "PÉNZTÁR",
+        "description": "armory:checkout:(no description)"
+    },
+    "price": {
+        "message": "Ár",
+        "description": "armory:price:(no description)"
+    },
+    "cart": {
+        "message": "Kosár",
+        "description": "armory:cart:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Köszönjük a vásárlást.",
+        "description": "armory:thank_you_for_your_purchase:(no description)"
+    },
+    "redeem": {
+        "message": "Bevált",
+        "description": "armory:redeem:(no description)"
+    },
+    "total_price": {
+        "message": "Végösszeg:",
+        "description": "armory:total_price:(no description)"
+    },
+    "updating": {
+        "message": "Frissítés...",
+        "description": "armory:updating:(no description)"
+    },
+    "credit_applied": {
+        "message": "Jóváírás a következőnek:",
+        "description": "armory:credit_applied:(no description)"
+    },
+    "go_to_main_menu": {
+        "message": "Kilépés a Főmenübe",
+        "description": "armory:go_to_main_menu:(no description)"
+    },
+    "cart_empty": {
+        "message": "A kosarad üres.",
+        "description": "armory:cart_empty:(no description)"
+    },
+    "commanders": {
+        "message": "Parancsnokok",
+        "description": "armory:commanders:(no description)"
+    },
+    "refresh": {
+        "message": "Újratöltés",
+        "description": "armory:refresh:(no description)"
+    },
+    "item": {
+        "message": "Tétel",
+        "description": "armory:item:(no description)"
+    },
+    "return_to_armory": {
+        "message": "Visszatérés a fegyvertárba.",
+        "description": "armory:return_to_armory:(no description)"
+    }
+}

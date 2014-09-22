@@ -1,0 +1,146 @@
+{
+    "_b": {
+        "description": "uberbar:_b:(no description)", 
+        "message": "[B]"
+    }, 
+    "_chat": {
+        "description": "uberbar:_chat:(no description)", 
+        "message": "[CHAT]"
+    }, 
+    "_f": {
+        "description": "uberbar:_f:(no description)", 
+        "message": "[F]"
+    }, 
+    "_i": {
+        "description": "uberbar:_i:(no description)", 
+        "message": "[I]"
+    }, 
+    "_remove": {
+        "description": "uberbar:_remove:(no description)", 
+        "message": "[REMOVE]"
+    }, 
+    "_tags": {
+        "description": "uberbar:_tags:(no description)", 
+        "message": "[Tags:"
+    }, 
+    "accept": {
+        "description": "uberbar:accept:(no description)", 
+        "message": "Accept"
+    }, 
+    "appear_offline": {
+        "description": "uberbar:appear_offline:(no description)", 
+        "message": "Appear Offline"
+    }, 
+    "away": {
+        "description": "uberbar:away:(no description)", 
+        "message": "Away"
+    }, 
+    "block": {
+        "description": "uberbar:block:(no description)", 
+        "message": "Block"
+    }, 
+    "cancel": {
+        "description": "uberbar:cancel:(no description)", 
+        "message": "CANCEL"
+    }, 
+    "change": {
+        "description": "uberbar:change:(no description)", 
+        "message": "CHANGE"
+    }, 
+    "change_display_name": {
+        "description": "uberbar:change_display_name:(no description)", 
+        "message": "Change Display Name"
+    }, 
+    "change_your_display_name": {
+        "description": "uberbar:change_your_display_name:(no description)", 
+        "message": "Change your display name?"
+    }, 
+    "chat": {
+        "description": "uberbar:chat:(no description)", 
+        "message": "Chat"
+    }, 
+    "do_not_disturb": {
+        "description": "uberbar:do_not_disturb:(no description)", 
+        "message": "Do Not Disturb"
+    }, 
+    "friends": {
+        "description": "uberbar:friends:(no description)", 
+        "message": "Friends"
+    }, 
+    "ignore": {
+        "description": "uberbar:ignore:(no description)", 
+        "message": "Ignore"
+    }, 
+    "invite_to_chat": {
+        "description": "uberbar:invite_to_chat:(no description)", 
+        "message": "Invite to Chat"
+    }, 
+    "invite_to_game": {
+        "description": "uberbar:invite_to_game:(no description)", 
+        "message": "Invite to game"
+    }, 
+    "invited_you_to_a_game": {
+        "description": "uberbar:invited_you_to_a_game:(no description)", 
+        "message": "invited you to a game."
+    }, 
+    "invited_you_to_chat": {
+        "description": "uberbar:invited_you_to_chat:(no description)", 
+        "message": "invited you to chat."
+    }, 
+    "join_game": {
+        "description": "uberbar:join_game:(no description)", 
+        "message": "Join Game"
+    }, 
+    "new_display_name": {
+        "description": "uberbar:new_display_name:(no description)", 
+        "message": "New Display Name:"
+    }, 
+    "no_pending_notifications": {
+        "description": "uberbar:no_pending_notifications:(no description)", 
+        "message": "No pending notifications."
+    }, 
+    "offline": {
+        "description": "uberbar:offline:(no description)", 
+        "message": "Offline"
+    }, 
+    "online": {
+        "description": "uberbar:online:(no description)", 
+        "message": "Online"
+    }, 
+    "pending_invite": {
+        "description": "uberbar:pending_invite:(no description)", 
+        "message": "Pending Invite"
+    }, 
+    "recent": {
+        "description": "uberbar:recent:(no description)", 
+        "message": "Recent"
+    }, 
+    "remove": {
+        "description": "uberbar:remove:(no description)", 
+        "message": "Remove"
+    }, 
+    "search_results": {
+        "description": "uberbar:search_results:(no description)", 
+        "message": "Search Results"
+    }, 
+    "send_friend_request": {
+        "description": "uberbar:send_friend_request:(no description)", 
+        "message": "Send Friend Request"
+    }, 
+    "unblock": {
+        "description": "uberbar:unblock:(no description)", 
+        "message": "Unblock"
+    }, 
+    "unfriend": {
+        "description": "uberbar:unfriend:(no description)", 
+        "message": "Unfriend"
+    }, 
+    "users": {
+        "description": "uberbar:users:(no description)", 
+        "message": "Users"
+    }, 
+    "wants_to_be_your_friend": {
+        "description": "uberbar:wants_to_be_your_friend:(no description)", 
+        "message": "wants to be your friend."
+    }
+}

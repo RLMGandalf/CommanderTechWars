@@ -1,0 +1,58 @@
+{
+    "manuever": {
+        "message": "制动",
+        "description": "live_game_action_bar:manuever:(no description)"
+    },
+    "hold": {
+        "message": "原地待命",
+        "description": "live_game_action_bar:hold:(no description)"
+    },
+    "move_orders": {
+        "message": "移动命令",
+        "description": "live_game_action_bar:move_orders:(no description)"
+    },
+    "hold_position": {
+        "message": "原地待命",
+        "description": "live_game_action_bar:hold_position:(no description)"
+    },
+    "normal": {
+        "message": "正常",
+        "description": "live_game_action_bar:normal:(no description)"
+    },
+    "continuous": {
+        "message": "循环",
+        "description": "live_game_action_bar:continuous:(no description)"
+    },
+    "return_fire": {
+        "message": "还击",
+        "description": "live_game_action_bar:return_fire:(no description)"
+    },
+    "energy_on": {
+        "message": "开启",
+        "description": "live_game_action_bar:energy_on:(no description)"
+    },
+    "build_mode": {
+        "message": "生产模式",
+        "description": "live_game_action_bar:build_mode:(no description)"
+    },
+    "at_will": {
+        "message": "自由攻击",
+        "description": "live_game_action_bar:at_will:(no description)"
+    },
+    "roam": {
+        "message": "循环线路",
+        "description": "live_game_action_bar:roam:(no description)"
+    },
+    "energy_off": {
+        "message": "关闭",
+        "description": "live_game_action_bar:energy_off:(no description)"
+    },
+    "fire_orders": {
+        "message": "攻击指令",
+        "description": "live_game_action_bar:fire_orders:(no description)"
+    },
+    "energy_orders": {
+        "message": "能量状态",
+        "description": "live_game_action_bar:energy_orders:(no description)"
+    }
+}

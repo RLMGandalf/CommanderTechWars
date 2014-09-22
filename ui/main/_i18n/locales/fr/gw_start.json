@@ -1,0 +1,158 @@
+{
+    "uber": {
+        "message": "UBER",
+        "description": "gw_start:uber:(no description)"
+    },
+    "move_from_star_system_to_star_system_collecting_techs_use_those_techs_to_defeat_the_enemy_faction_leaders_and_conquer_the_galaxy": {
+        "message": "Voyagez d'un système solaire à un autre et récupérez des technologies. Utilisez ces technologies pour vaincre le chef de la faction ennemie et conquérir la galaxie !",
+        "description": "gw_start:move_from_star_system_to_star_system_collecting_techs_use_those_techs_to_defeat_the_enemy_faction_leaders_and_conquer_the_galaxy:(no description)"
+    },
+    "some_systems_have_hidden_commander_loadouts_recover_them_for_future_galactic_wars": {
+        "message": "Certains systèmes possèdent des Equipement de Commandant cachés. Récupérez-les pour vos futures Guerres Galactiques.",
+        "description": "gw_start:some_systems_have_hidden_commander_loadouts_recover_them_for_future_galactic_wars:(no description)"
+    },
+    "annihilation_is_final": {
+        "message": "L'Annihilation est définitive.",
+        "description": "gw_start:annihilation_is_final:(no description)"
+    },
+    "navigate_the_galaxy_map_by_jumping_from_system_to_system": {
+        "message": "Naviguez dans la galaxie en sautant d'un système à un autre.",
+        "description": "gw_start:navigate_the_galaxy_map_by_jumping_from_system_to_system:(no description)"
+    },
+    "hard": {
+        "message": "DIFFICILE",
+        "description": "gw_start:hard:(no description)"
+    },
+    "explore_unclaimed_systems_to_recover_tech": {
+        "message": "Explorez des systèmes libres pour récupérer des technologies.",
+        "description": "gw_start:explore_unclaimed_systems_to_recover_tech:(no description)"
+    },
+    "commander": {
+        "message": "Commandant",
+        "description": "gw_start:commander:(no description)"
+    },
+    "archived_wars": {
+        "message": "Guerres archivées",
+        "description": "gw_start:archived_wars:(no description)"
+    },
+    "medium": {
+        "message": "MOYEN",
+        "description": "gw_start:medium:(no description)"
+    },
+    "small": {
+        "message": "PETIT",
+        "description": "gw_start:small:(no description)"
+    },
+    "size": {
+        "message": "Taille :",
+        "description": "gw_start:size:(no description)"
+    },
+    "loadout": {
+        "message": "Équipement",
+        "description": "gw_start:loadout:(no description)"
+    },
+    "tech_can_be_deleted_to_make_room_for_new_ones_to_download_deleted_and_rejected_techs_are_lost_for_the_remainder_of_the_galactic_war": {
+        "message": "Une technologie peut-être supprimée pour laisser la place à une nouvelle. Les technologies supprimées ou rejetées sont perdues pour le reste de la Guerre Galactique.",
+        "description": "gw_start:tech_can_be_deleted_to_make_room_for_new_ones_to_download_deleted_and_rejected_techs_are_lost_for_the_remainder_of_the_galactic_war:(no description)"
+    },
+    "tip": {
+        "message": "Conseil :",
+        "description": "gw_start:tip:(no description)"
+    },
+    "annihilate_enemies_on_claimed_systems_to_collect_their_tech": {
+        "message": "Anéantissez les ennemis des systèmes occupés pour récupérer leurs technologies.",
+        "description": "gw_start:annihilate_enemies_on_claimed_systems_to_collect_their_tech:(no description)"
+    },
+    "how_to_play": {
+        "message": "Comment jouer",
+        "description": "gw_start:how_to_play:(no description)"
+    },
+    "details": {
+        "message": "Détails",
+        "description": "gw_start:details:(no description)"
+    },
+    "player_faction": {
+        "message": "Faction",
+        "description": "gw_start:player_faction:(no description)"
+    },
+    "tips": {
+        "message": "Conseils",
+        "description": "gw_start:tips:(no description)"
+    },
+    "epic": {
+        "message": "ÉPIQUE",
+        "description": "gw_start:epic:(no description)"
+    },
+    "victory": {
+        "message": "Victoire",
+        "description": "gw_start:victory:(no description)"
+    },
+    "active_wars": {
+        "message": "Guerres en cours",
+        "description": "gw_start:active_wars:(no description)"
+    },
+    "normal": {
+        "message": "NORMAL",
+        "description": "gw_start:normal:(no description)"
+    },
+    "difficulty": {
+        "message": "Difficulté :",
+        "description": "gw_start:difficulty:(no description)"
+    },
+    "new_war": {
+        "message": "Nouvelle guerre",
+        "description": "gw_start:new_war:(no description)"
+    },
+    "game_seed": {
+        "message": "Graine aléatoire",
+        "description": "gw_start:game_seed:(no description)"
+    },
+    "choose_a_loadout_to_give_your_commander_different_starting_tech_configurations": {
+        "message": "Choisissez  l'équipement de votre Commandant pour lui donner différentes configurations technologiques de départ.",
+        "description": "gw_start:choose_a_loadout_to_give_your_commander_different_starting_tech_configurations:(no description)"
+    },
+    "annihilated": {
+        "message": "Annihilé",
+        "description": "gw_start:annihilated:(no description)"
+    },
+    "locked": {
+        "message": "VERROUILLÉ",
+        "description": "gw_start:locked:(no description)"
+    },
+    "name": {
+        "message": "Nom",
+        "description": "gw_start:name:(no description)"
+    },
+    "turns": {
+        "message": "Tours :",
+        "description": "gw_start:turns:(no description)"
+    },
+    "setup": {
+        "message": "Configuration",
+        "description": "gw_start:setup:(no description)"
+    },
+    "large": {
+        "message": "GRAND",
+        "description": "gw_start:large:(no description)"
+    },
+    "new_data_banks_to_store_techs_can_be_found_by_exploring_systems": {
+        "message": "De nouveaux emplacements de tech peuvent être débloqués en explorant des systèmes.",
+        "description": "gw_start:new_data_banks_to_store_techs_can_be_found_by_exploring_systems:(no description)"
+    },
+    "absurd": {
+        "message": "ABSURDE",
+        "description": "gw_start:absurd:(no description)"
+    },
+    "wins": {
+        "message": "Victoires :",
+        "description": "gw_start:wins:(no description)"
+    },
+    "load_game": {
+        "message": "Partir en Guerre",
+        "description": "gw_start:load_game:(no description)"
+    },
+    "relentless": {
+        "message": "IMPLACABLE",
+        "description": "gw_start:relentless:(no description)"
+    }
+}

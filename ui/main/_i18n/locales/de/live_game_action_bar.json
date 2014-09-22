@@ -1,0 +1,58 @@
+{
+    "manuever": {
+        "message": "MANÖVER",
+        "description": "live_game_action_bar:manuever:(no description)"
+    },
+    "hold": {
+        "message": "HALTEN",
+        "description": "live_game_action_bar:hold:(no description)"
+    },
+    "move_orders": {
+        "message": "BEWEGUNGSBEFEHLE",
+        "description": "live_game_action_bar:move_orders:(no description)"
+    },
+    "hold_position": {
+        "message": "POSITION HALTEN",
+        "description": "live_game_action_bar:hold_position:(no description)"
+    },
+    "normal": {
+        "message": "NORMAL",
+        "description": "live_game_action_bar:normal:(no description)"
+    },
+    "continuous": {
+        "message": "KONTINUIERLICH",
+        "description": "live_game_action_bar:continuous:(no description)"
+    },
+    "return_fire": {
+        "message": "FEUER ERWIDERN",
+        "description": "live_game_action_bar:return_fire:(no description)"
+    },
+    "energy_on": {
+        "message": "AN",
+        "description": "live_game_action_bar:energy_on:(no description)"
+    },
+    "build_mode": {
+        "message": "BAUMODUS",
+        "description": "live_game_action_bar:build_mode:(no description)"
+    },
+    "at_will": {
+        "message": "FEUER FREI",
+        "description": "live_game_action_bar:at_will:(no description)"
+    },
+    "roam": {
+        "message": "WANDERN",
+        "description": "live_game_action_bar:roam:(no description)"
+    },
+    "energy_off": {
+        "message": "AUS",
+        "description": "live_game_action_bar:energy_off:(no description)"
+    },
+    "fire_orders": {
+        "message": "FEUERBEFEHLE",
+        "description": "live_game_action_bar:fire_orders:(no description)"
+    },
+    "energy_orders": {
+        "message": "ENERGIEBEFEHLE",
+        "description": "live_game_action_bar:energy_orders:(no description)"
+    }
+}

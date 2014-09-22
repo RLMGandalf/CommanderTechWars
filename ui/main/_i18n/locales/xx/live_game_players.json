@@ -1,0 +1,82 @@
+{
+    "accept": {
+        "description": "live_game_players:accept:(no description)", 
+        "message": "\u0202\u03f2\u03f2\u1f73\u2374\u04ad", 
+        "original": "Accept"
+    }, 
+    "alliance_request": {
+        "description": "live_game_players:alliance_request:(no description)", 
+        "message": "\u0202\u230a\u230a\u0457\u0203\u019e\u03f2\u1f73 \u211d\u1f73\u0533\u0574\u1f73\u01a8\u04ad", 
+        "original": "Alliance Request"
+    }, 
+    "alliance_requested": {
+        "description": "live_game_players:alliance_requested:(no description)", 
+        "message": "\u0202\u230a\u230a\u0457\u0203\u019e\u03f2\u1f73 \u0213\u1f73\u0533\u0574\u1f73\u01a8\u04ad\u1f73\u0257", 
+        "original": "Alliance requested"
+    }, 
+    "allied_with": {
+        "description": "live_game_players:allied_with:(no description)", 
+        "message": "\u0202\u230a\u230a\u0457\u1f73\u0257 \u1ff4\u0457\u04ad\u043d:", 
+        "original": "Allied with:"
+    }, 
+    "ally": {
+        "description": "live_game_players:ally:(no description)", 
+        "message": "\u0202\u20a4\u20a4\u0423", 
+        "original": "ALLY"
+    }, 
+    "army": {
+        "description": "live_game_players:army:(no description)", 
+        "message": "\u0202\u211d\u039c\u0423", 
+        "original": "ARMY"
+    }, 
+    "army_fabber_value": {
+        "description": "live_game_players:army_fabber_value:(no description)", 
+        "message": "\u03dc\u0203\u0411\u0411\u1f73\u0213", 
+        "original": "Fabber"
+    }, 
+    "army_factory_value": {
+        "description": "live_game_players:army_factory_value:(no description)", 
+        "message": "\u03dc\u0203\u03f2\u04ad\u020f\u0213\u0443", 
+        "original": "Factory"
+    }, 
+    "army_mobile_value": {
+        "description": "live_game_players:army_mobile_value:(no description)", 
+        "message": "\u039c\u020f\u0411\u0457\u230a\u1f73", 
+        "original": "Mobile"
+    }, 
+    "army_unit_count": {
+        "description": "live_game_players:army_unit_count:(no description)", 
+        "message": "\u04aa\u020f\u0574\u019e\u04ad", 
+        "original": "Count"
+    }, 
+    "build_efficiency": {
+        "description": "live_game_players:build_efficiency:(no description)", 
+        "message": "\u0190\u0493\u0493\u0457\u03f2\u0457\u1f73\u019e\u03f2\u0443", 
+        "original": "Efficiency"
+    }, 
+    "economy": {
+        "description": "live_game_players:economy:(no description)", 
+        "message": "\u0190\u04aa\u0472\u019d\u0472\u039c\u0423", 
+        "original": "ECONOMY"
+    }, 
+    "ignore": {
+        "description": "live_game_players:ignore:(no description)", 
+        "message": "\u03aa\u0260\u019e\u020f\u0213\u1f73", 
+        "original": "Ignore"
+    }, 
+    "player": {
+        "description": "live_game_players:player:(no description)", 
+        "message": "\u1e54\u20a4\u0202\u0423\u0190\u211d", 
+        "original": "PLAYER"
+    }, 
+    "request_pending": {
+        "description": "live_game_players:request_pending:(no description)", 
+        "message": "\u211d\u1f73\u0533\u0574\u1f73\u01a8\u04ad \u2374\u1f73\u019e\u0257\u0457\u019e\u0260", 
+        "original": "Request pending"
+    }, 
+    "resc": {
+        "description": "live_game_players:resc:(no description)", 
+        "message": "\u211d\u0190\u1e60\u04aa", 
+        "original": "RESC"
+    }
+}

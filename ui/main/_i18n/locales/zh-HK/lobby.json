@@ -1,0 +1,166 @@
+{
+    "planets": {
+        "message": "星球:",
+        "description": "lobby:planets:(no description)"
+    },
+    "ai": {
+        "message": "AI",
+        "description": "lobby:ai:(no description)"
+    },
+    "starting_game": {
+        "message": "開始遊戲中",
+        "description": "lobby:starting_game:(no description)"
+    },
+    "ai_economy_rate": {
+        "message": "AI 經濟速率:",
+        "description": "lobby:ai_economy_rate:(no description)"
+    },
+    "ready": {
+        "message": "準備",
+        "description": "lobby:ready:(no description)"
+    },
+    "vs": {
+        "message": "vs",
+        "description": "lobby:vs:(no description)"
+    },
+    "chat": {
+        "message": "交談",
+        "description": "lobby:chat:(no description)"
+    },
+    "cancel": {
+        "message": "取消",
+        "description": "lobby:cancel:(no description)"
+    },
+    "yes": {
+        "message": "是",
+        "description": "lobby:yes:(no description)"
+    },
+    "leave_game": {
+        "message": "離開遊戲",
+        "description": "lobby:leave_game:(no description)"
+    },
+    "starting_planet": {
+        "message": "起始星球:",
+        "description": "lobby:starting_planet:(no description)"
+    },
+    "promote": {
+        "message": "晉升",
+        "description": "lobby:promote:(no description)"
+    },
+    "player_economy_rate": {
+        "message": "玩家經濟速率:",
+        "description": "lobby:player_economy_rate:(no description)"
+    },
+    "army": {
+        "message": "軍團",
+        "description": "lobby:army:(no description)"
+    },
+    "connecting_to_server": {
+        "message": "正在連接伺服器",
+        "description": "lobby:connecting_to_server:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "正式返回主目綠",
+        "description": "lobby:returning_to_main_menu:(no description)"
+    },
+    "add_an_army": {
+        "message": "新增一個軍團",
+        "description": "lobby:add_an_army:(no description)"
+    },
+    "system": {
+        "message": "星系",
+        "description": "lobby:system:(no description)"
+    },
+    "waiting": {
+        "message": "等待中",
+        "description": "lobby:waiting:(no description)"
+    },
+    "partner_up_and_share_control_of_one_army_and_economy": {
+        "message": "結夥並共用同一個軍團的經濟及控制權.",
+        "description": "lobby:partner_up_and_share_control_of_one_army_and_economy:(no description)"
+    },
+    "ready_caps": {
+        "message": "準備",
+        "description": "lobby:ready_caps:(no description)"
+    },
+    "offline": {
+        "message": "離線",
+        "description": "lobby:offline:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "lobby:gamma_v:(no description)"
+    },
+    "kick": {
+        "message": "踢除",
+        "description": "lobby:kick:(no description)"
+    },
+    "armies": {
+        "message": "軍團",
+        "description": "lobby:armies:(no description)"
+    },
+    "format": {
+        "message": "格式",
+        "description": "lobby:format:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "與伺服器的連線已中斷",
+        "description": "lobby:connection_to_server_lost:(no description)"
+    },
+    "you": {
+        "message": "你",
+        "description": "lobby:you:(no description)"
+    },
+    "scale": {
+        "message": "規模",
+        "description": "lobby:scale:(no description)"
+    },
+    "join": {
+        "message": "加入",
+        "description": "lobby:join:(no description)"
+    },
+    "game_will_start_when_all_players_select_a_slot_and_click_ready": {
+        "message": "遊戲將會在所有玩家選擇好位置並按下準備後開始。",
+        "description": "lobby:game_will_start_when_all_players_select_a_slot_and_click_ready:(no description)"
+    },
+    "exit_game": {
+        "message": "離開遊戲?",
+        "description": "lobby:exit_game:(no description)"
+    },
+    "lobby": {
+        "message": "大廳",
+        "description": "lobby:lobby:(no description)"
+    },
+    "team_armies": {
+        "message": "團隊軍團",
+        "description": "lobby:team_armies:(no description)"
+    },
+    "one_player_per_army": {
+        "message": "一個軍團一個玩家.",
+        "description": "lobby:one_player_per_army:(no description)"
+    },
+    "ai_commander": {
+        "message": "AI 指揮官",
+        "description": "lobby:ai_commander:(no description)"
+    },
+    "game_will_start_when_the_server_has_finished_generating_the_solar_system": {
+        "message": "遊戲將會在伺服器完成生成星系後開始。",
+        "description": "lobby:game_will_start_when_the_server_has_finished_generating_the_solar_system:(no description)"
+    },
+    "free_for_all": {
+        "message": "自由交戰",
+        "description": "lobby:free_for_all:(no description)"
+    },
+    "lobby_beta": {
+        "message": "BETA 大廳",
+        "description": "lobby:lobby_beta:(no description)"
+    },
+    "battle_solo_against_armies_commanded_by_the_ai": {
+        "message": "單人與由 AI 指揮的軍團作戰。",
+        "description": "lobby:battle_solo_against_armies_commanded_by_the_ai:(no description)"
+    },
+    "players": {
+        "message": "玩家",
+        "description": "lobby:players:(no description)"
+    }
+}

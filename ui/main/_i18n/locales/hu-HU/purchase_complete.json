@@ -1,0 +1,50 @@
+{
+    "here_s_your_receipt": {
+        "message": "Itt a számlád.",
+        "description": "purchase_complete:here_s_your_receipt:(no description)"
+    },
+    "username": {
+        "message": "Felhasználónév",
+        "description": "purchase_complete:username:(no description)"
+    },
+    "_model_purchaseprice": {
+        "message": "@Model.PurchasePrice",
+        "description": "purchase_complete:_model_purchaseprice:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Megerősítő kód:",
+        "description": "purchase_complete:confirmation_code:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Köszönjük a vásárlást.",
+        "description": "purchase_complete:thank_you_for_your_purchase:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "A vásárolt tételeidet regisztráltuk a számládra és elérhetőek játékon belül.",
+        "description": "purchase_complete:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email": {
+        "message": "A vásárlásodról szóló nyugtát alább olvashatod. A következő címre fogunk számlázni: @Model.Email.",
+        "description": "purchase_complete:confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email:(no description)"
+    },
+    "_model_orderid": {
+        "message": "@Model.OrderId",
+        "description": "purchase_complete:_model_orderid:(no description)"
+    },
+    "total": {
+        "message": "Végösszeg:",
+        "description": "purchase_complete:total:(no description)"
+    },
+    "there_was_an_error_in_the_purchase_process_please_try_again": {
+        "message": "Hiba történt a vásárlás során. Kérlek próbáld újra.",
+        "description": "purchase_complete:there_was_an_error_in_the_purchase_process_please_try_again:(no description)"
+    },
+    "account_name": {
+        "message": "Számla megnevezése:",
+        "description": "purchase_complete:account_name:(no description)"
+    },
+    "your_purchase_was_not_completed": {
+        "message": "A vásárlás nem fejeződött be.",
+        "description": "purchase_complete:your_purchase_was_not_completed:(no description)"
+    }
+}

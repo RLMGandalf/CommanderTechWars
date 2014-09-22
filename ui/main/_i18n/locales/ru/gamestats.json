@@ -1,0 +1,114 @@
+{
+    "total_apm": {
+        "message": "Всего Д.в Мин.",
+        "description": "gamestats:total_apm:(no description)"
+    },
+    "produced": {
+        "message": "Произведено",
+        "description": "gamestats:produced:(no description)"
+    },
+    "wasted": {
+        "message": "Потрачено",
+        "description": "gamestats:wasted:(no description)"
+    },
+    "total_efficiency": {
+        "message": "Общая Эффективность",
+        "description": "gamestats:total_efficiency:(no description)"
+    },
+    "retrieving_stats": {
+        "message": "Получение Статистики...",
+        "description": "gamestats:retrieving_stats:(no description)"
+    },
+    "total": {
+        "message": "Всего",
+        "description": "gamestats:total:(no description)"
+    },
+    "avg": {
+        "message": "Средне",
+        "description": "gamestats:avg:(no description)"
+    },
+    "total_metal": {
+        "message": "Всего Металла",
+        "description": "gamestats:total_metal:(no description)"
+    },
+    "current_units": {
+        "message": "Текущие Единицы",
+        "description": "gamestats:current_units:(no description)"
+    },
+    "game_summary": {
+        "message": "ПРОТОКОЛ ИГРЫ",
+        "description": "gamestats:game_summary:(no description)"
+    },
+    "winner": {
+        "message": "Победитель:",
+        "description": "gamestats:winner:(no description)"
+    },
+    "factory": {
+        "message": "Фабрика",
+        "description": "gamestats:factory:(no description)"
+    },
+    "current": {
+        "message": "Текущее",
+        "description": "gamestats:current:(no description)"
+    },
+    "current_apm": {
+        "message": "Текущие Действия В Минуту",
+        "description": "gamestats:current_apm:(no description)"
+    },
+    "winners": {
+        "message": "Победители:",
+        "description": "gamestats:winners:(no description)"
+    },
+    "total_energy": {
+        "message": "Всего Энергии",
+        "description": "gamestats:total_energy:(no description)"
+    },
+    "current_efficiency": {
+        "message": "Текущая эффективность",
+        "description": "gamestats:current_efficiency:(no description)"
+    },
+    "draw": {
+        "message": "Чертить",
+        "description": "gamestats:draw:(no description)"
+    },
+    "opp_killed": {
+        "message": "Опп Убито",
+        "description": "gamestats:opp_killed:(no description)"
+    },
+    "total_units": {
+        "message": "Всего Юнитов",
+        "description": "gamestats:total_units:(no description)"
+    },
+    "fab": {
+        "message": "Строен.",
+        "description": "gamestats:fab:(no description)"
+    },
+    "in_progress": {
+        "message": "В Процессе",
+        "description": "gamestats:in_progress:(no description)"
+    },
+    "lost": {
+        "message": "Потеряно",
+        "description": "gamestats:lost:(no description)"
+    },
+    "created": {
+        "message": "Создано",
+        "description": "gamestats:created:(no description)"
+    },
+    "mobile": {
+        "message": "Мобильный",
+        "description": "gamestats:mobile:(no description)"
+    },
+    "consumed": {
+        "message": "Потрачено",
+        "description": "gamestats:consumed:(no description)"
+    },
+    "current_metal": {
+        "message": "Текущий Металл",
+        "description": "gamestats:current_metal:(no description)"
+    },
+    "current_energy": {
+        "message": "Текущая Энергия",
+        "description": "gamestats:current_energy:(no description)"
+    }
+}

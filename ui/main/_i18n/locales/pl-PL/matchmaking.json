@@ -1,0 +1,18 @@
+{
+    "returning_to_main_menu": {
+        "message": "Powrót do Menu Głównego",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "PA NEW GAME ALPHA",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "OCZEKIWANIE NA GRĘ",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "NIE UDAŁO SIĘ ZNALEŹĆ GRY",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

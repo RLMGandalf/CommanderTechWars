@@ -1,0 +1,6 @@
+{
+    "draw": {
+        "message": "НИЧЬЯ",
+        "description": "gw_game_over:draw:(no description)"
+    }
+}

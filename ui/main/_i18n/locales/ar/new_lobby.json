@@ -1,0 +1,42 @@
+{
+    "spectators": {
+        "message": "مراقبون",
+        "description": "new_lobby:spectators:(no description)"
+    },
+    "roster": {
+        "message": "قائمة",
+        "description": "new_lobby:roster:(no description)"
+    },
+    "ready_cancel": {
+        "message": "جاهز/إلغاء الأمر",
+        "description": "new_lobby:ready_cancel:(no description)"
+    },
+    "manage": {
+        "message": "إدارة",
+        "description": "new_lobby:manage:(no description)"
+    },
+    "game_type": {
+        "message": "نوع اللعبة",
+        "description": "new_lobby:game_type:(no description)"
+    },
+    "system": {
+        "message": "النظام",
+        "description": "new_lobby:system:(no description)"
+    },
+    "options": {
+        "message": "خيارات",
+        "description": "new_lobby:options:(no description)"
+    },
+    "chat": {
+        "message": "دردشة",
+        "description": "new_lobby:chat:(no description)"
+    },
+    "section": {
+        "message": "قسم",
+        "description": "new_lobby:section:(no description)"
+    },
+    "new_lobby": {
+        "message": "ردهة جديدة",
+        "description": "new_lobby:new_lobby:(no description)"
+    }
+}

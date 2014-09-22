@@ -1,0 +1,70 @@
+{
+    "on": {
+        "message": "PÅ",
+        "description": "settings:on:(no description)"
+    },
+    "stuff": {
+        "message": "Ting",
+        "description": "settings:stuff:(no description)"
+    },
+    "off": {
+        "message": "AV",
+        "description": "settings:off:(no description)"
+    },
+    "modal_title": {
+        "message": "Modal tittel",
+        "description": "settings:modal_title:(no description)"
+    },
+    "twitchStreamingDesired": {
+        "message": "KLARGJØR FOR STREAMING (effektueres umiddelbart)",
+        "description": "settings:twitchStreamingDesired:(no description)"
+    },
+    "signed_in_as": {
+        "message": "Logget på som",
+        "description": "settings:signed_in_as:(no description)"
+    },
+    "settings": {
+        "message": "INNSTILLINGER",
+        "description": "settings:settings:(no description)"
+    },
+    "submit": {
+        "message": "Send",
+        "description": "settings:submit:(no description)"
+    },
+    "restore_defaults": {
+        "message": "GJENOPPRETT STANDARDINNSTILLINGER",
+        "description": "settings:restore_defaults:(no description)"
+    },
+    "twitchPassword": {
+        "message": "Passord",
+        "description": "settings:twitchPassword:(no description)"
+    },
+    "twitchEnableMicrophone": {
+        "message": "AKTIVER MIKROFON",
+        "description": "settings:twitchEnableMicrophone:(no description)"
+    },
+    "twitchName": {
+        "message": "Logg inn med din Twitch-ID",
+        "description": "settings:twitchName:(no description)"
+    },
+    "uberNetRegion": {
+        "message": "SERVER",
+        "description": "settings:uberNetRegion:(no description)"
+    },
+    "twitchIngestServer": {
+        "message": "SERVER",
+        "description": "settings:twitchIngestServer:(no description)"
+    },
+    "save": {
+        "message": "Lagre",
+        "description": "settings:save:(no description)"
+    },
+    "save_and_exit": {
+        "message": "Lagre og avslutt",
+        "description": "settings:save_and_exit:(no description)"
+    },
+    "twitchEnablePlayback": {
+        "message": "SKRU PÅ SYSTEMLYDER",
+        "description": "settings:twitchEnablePlayback:(no description)"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "give_tech": {
+        "message": "اعطي التقنية",
+        "description": "gw_play:give_tech:(no description)"
+    },
+    "ai": {
+        "message": "حاسوب:",
+        "description": "gw_play:ai:(no description)"
+    },
+    "win": {
+        "message": "فوز /",
+        "description": "gw_play:win:(no description)"
+    },
+    "abandon_war": {
+        "message": "التخلي عن الحرب",
+        "description": "gw_play:abandon_war:(no description)"
+    },
+    "jump": {
+        "message": "اقفز",
+        "description": "gw_play:jump:(no description)"
+    },
+    "date": {
+        "message": "التاريخ:",
+        "description": "gw_play:date:(no description)"
+    },
+    "preparing_for_battle": {
+        "message": "الاستعداد للمعركة",
+        "description": "gw_play:preparing_for_battle:(no description)"
+    },
+    "techs": {
+        "message": "تقنيات",
+        "description": "gw_play:techs:(no description)"
+    },
+    "unlock_commander": {
+        "message": "إفتح القائد",
+        "description": "gw_play:unlock_commander:(no description)"
+    },
+    "fight": {
+        "message": "حارب",
+        "description": "gw_play:fight:(no description)"
+    },
+    "exit": {
+        "message": "خروج",
+        "description": "gw_play:exit:(no description)"
+    },
+    "reject_tech": {
+        "message": "رفض التقنية",
+        "description": "gw_play:reject_tech:(no description)"
+    },
+    "save": {
+        "message": "إحفظ",
+        "description": "gw_play:save:(no description)"
+    },
+    "download_tech": {
+        "message": "تحميل التقنية",
+        "description": "gw_play:download_tech:(no description)"
+    },
+    "delete_tech": {
+        "message": "حذف التقنية",
+        "description": "gw_play:delete_tech:(no description)"
+    },
+    "dismiss": {
+        "message": "انصراف",
+        "description": "gw_play:dismiss:(no description)"
+    },
+    "explore": {
+        "message": "استكشاف",
+        "description": "gw_play:explore:(no description)"
+    },
+    "scanning_system": {
+        "message": "فحص النظام",
+        "description": "gw_play:scanning_system:(no description)"
+    },
+    "card": {
+        "message": "بطاقة:",
+        "description": "gw_play:card:(no description)"
+    },
+    "loss": {
+        "message": "خسارة",
+        "description": "gw_play:loss:(no description)"
+    },
+    "settings": {
+        "message": "إعدادات",
+        "description": "gw_play:settings:(no description)"
+    },
+    "record": {
+        "message": "سجل:",
+        "description": "gw_play:record:(no description)"
+    },
+    "load_game": {
+        "message": "تحميل اللعبة",
+        "description": "gw_play:load_game:(no description)"
+    },
+    "turn_state": {
+        "message": "حالة الدورة:",
+        "description": "gw_play:turn_state:(no description)"
+    },
+    "history": {
+        "message": "التاريخ:",
+        "description": "gw_play:history:(no description)"
+    }
+}

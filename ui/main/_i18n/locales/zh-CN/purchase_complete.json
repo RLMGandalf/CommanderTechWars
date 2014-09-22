@@ -1,0 +1,50 @@
+{
+    "here_s_your_receipt": {
+        "message": "您的收据。",
+        "description": "purchase_complete:here_s_your_receipt:(no description)"
+    },
+    "username": {
+        "message": "用户名",
+        "description": "purchase_complete:username:(no description)"
+    },
+    "_model_purchaseprice": {
+        "message": "@Model.价格",
+        "description": "purchase_complete:_model_purchaseprice:(no description)"
+    },
+    "confirmation_code": {
+        "message": "确认码：",
+        "description": "purchase_complete:confirmation_code:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "感谢您的购买！",
+        "description": "purchase_complete:thank_you_for_your_purchase:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "您购买的物品已注册到您的账号并可在游戏中使用了。",
+        "description": "purchase_complete:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email": {
+        "message": "下方为您的购物确认信息，同时也将发送到您的邮箱@Model.Email。",
+        "description": "purchase_complete:confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email:(no description)"
+    },
+    "_model_orderid": {
+        "message": "@Model.OrderId",
+        "description": "purchase_complete:_model_orderid:(no description)"
+    },
+    "total": {
+        "message": "合计：",
+        "description": "purchase_complete:total:(no description)"
+    },
+    "there_was_an_error_in_the_purchase_process_please_try_again": {
+        "message": "支付过程出现错误，请重试。",
+        "description": "purchase_complete:there_was_an_error_in_the_purchase_process_please_try_again:(no description)"
+    },
+    "account_name": {
+        "message": "账户名称：",
+        "description": "purchase_complete:account_name:(no description)"
+    },
+    "your_purchase_was_not_completed": {
+        "message": "您的支付未完成。",
+        "description": "purchase_complete:your_purchase_was_not_completed:(no description)"
+    }
+}

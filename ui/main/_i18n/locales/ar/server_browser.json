@@ -1,0 +1,138 @@
+{
+    "number_of_players": {
+        "message": "عدد الاعبين",
+        "description": "server_browser:number_of_players:(no description)"
+    },
+    "locked_game": {
+        "message": "(لعبة مغلقة)",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "testing": {
+        "message": "يتم الإختبار",
+        "description": "server_browser:testing:(no description)"
+    },
+    "game_state": {
+        "message": "حالة اللعبة",
+        "description": "server_browser:game_state:(no description)"
+    },
+    "competitive": {
+        "message": "منافسة",
+        "description": "server_browser:competitive:(no description)"
+    },
+    "tag": {
+        "message": "العلامة",
+        "description": "server_browser:tag:(no description)"
+    },
+    "planets": {
+        "message": "كواكب",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "أماكن لاعبين",
+        "description": "server_browser:slots:(no description)"
+    },
+    "casual": {
+        "message": "عابر",
+        "description": "server_browser:casual:(no description)"
+    },
+    "can_join": {
+        "message": "يمكن الإنضمام",
+        "description": "server_browser:can_join:(no description)"
+    },
+    "multiplayer": {
+        "message": "متعدد اللاعبين",
+        "description": "server_browser:multiplayer:(no description)"
+    },
+    "any": {
+        "message": "أي",
+        "description": "server_browser:any:(no description)"
+    },
+    "can_spectate": {
+        "message": "يمكن المشاهدة",
+        "description": "server_browser:can_spectate:(no description)"
+    },
+    "no_min": {
+        "message": "لا دقيقة",
+        "description": "server_browser:no_min:(no description)"
+    },
+    "number_of_planets": {
+        "message": "عدد الكواكب",
+        "description": "server_browser:number_of_planets:(no description)"
+    },
+    "status": {
+        "message": "الحالة",
+        "description": "server_browser:status:(no description)"
+    },
+    "create_game": {
+        "message": "ابدأ لعبة جديدة",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "مراقبون",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "join_game": {
+        "message": "الانضمام إلى لعبة",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "game": {
+        "message": "لعبة",
+        "description": "server_browser:game:(no description)"
+    },
+    "in_progress": {
+        "message": "قيد الإنجاز",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "كلمة المرور",
+        "description": "server_browser:password:(no description)"
+    },
+    "team_armies": {
+        "message": "جيوش الفريق",
+        "description": "server_browser:team_armies:(no description)"
+    },
+    "mod": {
+        "message": "تعديل",
+        "description": "server_browser:mod:(no description)"
+    },
+    "mods": {
+        "message": "تعاديل",
+        "description": "server_browser:mods:(no description)"
+    },
+    "free_for_all": {
+        "message": "متوفر للجميع",
+        "description": "server_browser:free_for_all:(no description)"
+    },
+    "no_max": {
+        "message": "لا يوجد حد أقصى",
+        "description": "server_browser:no_max:(no description)"
+    },
+    "region": {
+        "message": "منطقة",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "راقب",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "can_play": {
+        "message": "يمكن اللعب",
+        "description": "server_browser:can_play:(no description)"
+    },
+    "in_lobby": {
+        "message": "في الردهة",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "الاعبون",
+        "description": "server_browser:players:(no description)"
+    },
+    "ai_battle": {
+        "message": "معركة الذكاء الإصطناعي",
+        "description": "server_browser:ai_battle:(no description)"
+    },
+    "mode": {
+        "message": "وضع",
+        "description": "server_browser:mode:(no description)"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "activate_planetary_laser": {
+        "description": "live_game_celestial_control:activate_planetary_laser:(no description)", 
+        "message": "Activate planetary laser"
+    }, 
+    "change_orbit": {
+        "description": "live_game_celestial_control:change_orbit:(no description)", 
+        "message": "Change orbit"
+    }, 
+    "select_a_new_gravity_well": {
+        "description": "live_game_celestial_control:select_a_new_gravity_well:(no description)", 
+        "message": "Select a new gravity well."
+    }, 
+    "select_a_planet_to_attack": {
+        "description": "live_game_celestial_control:select_a_planet_to_attack:(no description)", 
+        "message": "Select a planet to attack."
+    }, 
+    "select_a_planet_to_destroy": {
+        "description": "live_game_celestial_control:select_a_planet_to_destroy:(no description)", 
+        "message": "Select a planet to destroy."
+    }, 
+    "set_course_for_annihilation": {
+        "description": "live_game_celestial_control:set_course_for_annihilation:(no description)", 
+        "message": "Set course for annihilation"
+    }, 
+    "set_target_spot": {
+        "description": "live_game_celestial_control:set_target_spot:(no description)", 
+        "message": "Set target spot"
+    }, 
+    "then_confirm_destination_to_set_course": {
+        "description": "live_game_celestial_control:then_confirm_destination_to_set_course:(no description)", 
+        "message": "Then confirm destination to set course."
+    }
+}

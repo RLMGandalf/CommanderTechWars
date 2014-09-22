@@ -1,0 +1,74 @@
+{
+    "filter_by_dropdown": {
+        "message": "Legördülés szerinti szűrés",
+        "description": "blank:filter_by_dropdown:(no description)"
+    },
+    "blank_screen": {
+        "message": "ÜRES KÉPERNYŐ",
+        "description": "blank:blank_screen:(no description)"
+    },
+    "search": {
+        "message": "Keresés",
+        "description": "blank:search:(no description)"
+    },
+    "a_command": {
+        "message": "PARANCS GOMB",
+        "description": "blank:a_command:(no description)"
+    },
+    "modal_title": {
+        "message": "Modális Cím",
+        "description": "blank:modal_title:(no description)"
+    },
+    "tab3": {
+        "message": "Harmadik fül",
+        "description": "blank:tab3:(no description)"
+    },
+    "tab2": {
+        "message": "Második fül",
+        "description": "blank:tab2:(no description)"
+    },
+    "tab1": {
+        "message": "Első fül",
+        "description": "blank:tab1:(no description)"
+    },
+    "submit": {
+        "message": "Elküld",
+        "description": "blank:submit:(no description)"
+    },
+    "in_lobby": {
+        "message": "Váróteremben",
+        "description": "blank:in_lobby:(no description)"
+    },
+    "second": {
+        "message": "Második Gomb",
+        "description": "blank:second:(no description)"
+    },
+    "stuff": {
+        "message": "Stuff\\n",
+        "description": "blank:stuff:(no description)"
+    },
+    "tab_3_content": {
+        "message": "Harmadik fül Tartalma",
+        "description": "blank:tab_3_content:(no description)"
+    },
+    "tab_1_content": {
+        "message": "Első fül Tartalma",
+        "description": "blank:tab_1_content:(no description)"
+    },
+    "tab_2_content": {
+        "message": "Második fül Tartalma",
+        "description": "blank:tab_2_content:(no description)"
+    },
+    "in_progress": {
+        "message": "Folyamatban",
+        "description": "blank:in_progress:(no description)"
+    },
+    "pa_blank": {
+        "message": "ÜRES KÉPERNYŐ",
+        "description": "blank:pa_blank:(no description)"
+    },
+    "first": {
+        "message": "Első Gomb",
+        "description": "blank:first:(no description)"
+    }
+}

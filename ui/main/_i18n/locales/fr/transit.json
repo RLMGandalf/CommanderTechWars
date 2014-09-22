@@ -1,0 +1,10 @@
+{
+    "returning_to_main_menu": {
+        "message": "Retour au Menu Principal",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "error": {
+        "message": "Erreur",
+        "description": "transit:error:(no description)"
+    }
+}

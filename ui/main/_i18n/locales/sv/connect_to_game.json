@@ -1,0 +1,38 @@
+{
+    "failed_to_start_replay": {
+        "message": "FAILED TO START REPLAY",
+        "description": "connect_to_game:failed_to_start_replay:(no description)"
+    },
+    "failed_to_start_game": {
+        "message": "MISSLYCKADES MED ATT STARTA SPELET",
+        "description": "connect_to_game:failed_to_start_game:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "ANSLUTNING TILL SERVER FÖRLORAD",
+        "description": "connect_to_game:connection_to_server_lost:(no description)"
+    },
+    "login_to_server_rejected": {
+        "message": "INLOGGNING TILL SERVER NEKAD",
+        "description": "connect_to_game:login_to_server_rejected:(no description)"
+    },
+    "login_accepted": {
+        "message": "INLOGGNING ACCEPTERAD",
+        "description": "connect_to_game:login_accepted:(no description)"
+    },
+    "connection_to_server_failed": {
+        "message": "ANSLUTNING TILL SERVER MISSLYCKADES",
+        "description": "connect_to_game:connection_to_server_failed:(no description)"
+    },
+    "failed_to_join_game": {
+        "message": "MISSLYCKADES MED ATT ANSLUTA TILL SPELET",
+        "description": "connect_to_game:failed_to_join_game:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "connect_to_game:gamma_v:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Återgår till Huvudmeny",
+        "description": "connect_to_game:returning_to_main_menu:(no description)"
+    }
+}

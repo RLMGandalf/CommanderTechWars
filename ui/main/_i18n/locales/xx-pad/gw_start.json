@@ -1,0 +1,197 @@
+{
+    "absurd": {
+        "description": "gw_start:absurd:(no description)", 
+        "message": "\u0202\u0e3f\u1e60\u1ee6\u211d\u0189\u03a9\u03a9\u03a9", 
+        "original": "ABSURD"
+    }, 
+    "active_wars": {
+        "description": "gw_start:active_wars:(no description)", 
+        "message": "\u0202\u03f2\u04ad\u0457\u0477\u1f73 \u20a9\u0203\u0213\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Active Wars"
+    }, 
+    "annihilate_enemies_on_claimed_systems_to_collect_their_tech": {
+        "description": "gw_start:annihilate_enemies_on_claimed_systems_to_collect_their_tech:(no description)", 
+        "message": "\u0202\u019e\u019e\u0457\u043d\u0457\u230a\u0203\u04ad\u1f73 \u1f73\u019e\u1f73\u028d\u0457\u1f73\u01a8 \u020f\u019e \u03f2\u230a\u0203\u0457\u028d\u1f73\u0257 \u01a8\u0443\u01a8\u04ad\u1f73\u028d\u01a8 \u04ad\u020f \u03f2\u020f\u230a\u230a\u1f73\u03f2\u04ad \u04ad\u043d\u1f73\u0457\u0213 \u4e01\u1f73\u03f2\u043d.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Annihilate enemies on claimed systems to collect their Tech."
+    }, 
+    "annihilated": {
+        "description": "gw_start:annihilated:(no description)", 
+        "message": "\u0202\u019e\u019e\u0457\u043d\u0457\u230a\u0203\u04ad\u1f73\u0257\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Annihilated"
+    }, 
+    "annihilation_is_final": {
+        "description": "gw_start:annihilation_is_final:(no description)", 
+        "message": "\u0202\u019e\u019e\u0457\u043d\u0457\u230a\u0203\u04ad\u0457\u020f\u019e \u0457\u01a8 \u0493\u0457\u019e\u0203\u230a.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Annihilation is final."
+    }, 
+    "archived_wars": {
+        "description": "gw_start:archived_wars:(no description)", 
+        "message": "\u0202\u0213\u03f2\u043d\u0457\u0477\u1f73\u0257 \u20a9\u0203\u0213\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Archived Wars"
+    }, 
+    "choose_a_loadout_to_give_your_commander_different_starting_tech_configurations": {
+        "description": "gw_start:choose_a_loadout_to_give_your_commander_different_starting_tech_configurations:(no description)", 
+        "message": "\u04aa\u043d\u020f\u020f\u01a8\u1f73 \u0203 \u230a\u020f\u0203\u0257\u020f\u0574\u04ad \u04ad\u020f \u0260\u0457\u0477\u1f73 \u0443\u020f\u0574\u0213 \u04aa\u020f\u028d\u028d\u0203\u019e\u0257\u1f73\u0213 \u0257\u0457\u0493\u0493\u1f73\u0213\u1f73\u019e\u04ad \u01a8\u04ad\u0203\u0213\u04ad\u0457\u019e\u0260 \u4e01\u1f73\u03f2\u043d \u03f2\u020f\u019e\u0493\u0457\u0260\u0574\u0213\u0203\u04ad\u0457\u020f\u019e\u01a8.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Choose a loadout to give your Commander different starting Tech configurations."
+    }, 
+    "commander": {
+        "description": "gw_start:commander:(no description)", 
+        "message": "\u04aa\u020f\u028d\u028d\u0203\u019e\u0257\u1f73\u0213\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Commander"
+    }, 
+    "details": {
+        "description": "gw_start:details:(no description)", 
+        "message": "\u0189\u1f73\u04ad\u0203\u0457\u230a\u01a8\u03a9\u03a9\u03a9", 
+        "original": "Details"
+    }, 
+    "difficulty": {
+        "description": "gw_start:difficulty:(no description)", 
+        "message": "\u0189\u0457\u0493\u0493\u0457\u03f2\u0574\u230a\u04ad\u0443:\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Difficulty:"
+    }, 
+    "epic": {
+        "description": "gw_start:epic:(no description)", 
+        "message": "\u0190\u1e54\u03aa\u04aa\u03a9\u03a9", 
+        "original": "EPIC"
+    }, 
+    "explore_unclaimed_systems_to_recover_tech": {
+        "description": "gw_start:explore_unclaimed_systems_to_recover_tech:(no description)", 
+        "message": "\u0190\u2327\u2374\u230a\u020f\u0213\u1f73 \u0574\u019e\u03f2\u230a\u0203\u0457\u028d\u1f73\u0257 \u01a8\u0443\u01a8\u04ad\u1f73\u028d\u01a8 \u04ad\u020f \u0213\u1f73\u03f2\u020f\u0477\u1f73\u0213 \u4e01\u1f73\u03f2\u043d.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Explore unclaimed systems to recover Tech."
+    }, 
+    "game_seed": {
+        "description": "gw_start:game_seed:(no description)", 
+        "message": "\u1e60\u1f73\u1f73\u0257 \u0476\u0203\u230a\u0574\u1f73\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Seed Value"
+    }, 
+    "hard": {
+        "description": "gw_start:hard:(no description)", 
+        "message": "\u04c7\u0202\u211d\u0189\u03a9\u03a9", 
+        "original": "HARD"
+    }, 
+    "how_to_play": {
+        "description": "gw_start:how_to_play:(no description)", 
+        "message": "\u04c7\u020f\u1ff4 \u04ad\u020f \u1e54\u230a\u0203\u0443\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "How to Play"
+    }, 
+    "large": {
+        "description": "gw_start:large:(no description)", 
+        "message": "\u20a4\u0202\u211d\u01f4\u0190\u03a9\u03a9", 
+        "original": "LARGE"
+    }, 
+    "load_game": {
+        "description": "gw_start:load_game:(no description)", 
+        "message": "\u01f4\u020f \u04ad\u020f \u20a9\u0203\u0213\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Go to War"
+    }, 
+    "loadout": {
+        "description": "gw_start:loadout:(no description)", 
+        "message": "\u20a4\u020f\u0203\u0257\u020f\u0574\u04ad\u03a9\u03a9\u03a9", 
+        "original": "Loadout"
+    }, 
+    "locked": {
+        "description": "gw_start:locked:(no description)", 
+        "message": "\u20a4\u0472\u04aa\u04a0\u0190\u0189\u03a9\u03a9\u03a9", 
+        "original": "LOCKED"
+    }, 
+    "medium": {
+        "description": "gw_start:medium:(no description)", 
+        "message": "\u039c\u0190\u0189\u03aa\u1ee6\u039c\u03a9\u03a9\u03a9", 
+        "original": "MEDIUM"
+    }, 
+    "move_from_star_system_to_star_system_collecting_techs_use_those_techs_to_defeat_the_enemy_faction_leaders_and_conquer_the_galaxy": {
+        "description": "gw_start:move_from_star_system_to_star_system_collecting_techs_use_those_techs_to_defeat_the_enemy_faction_leaders_and_conquer_the_galaxy:(no description)", 
+        "message": "\u039c\u020f\u0477\u1f73 \u0493\u0213\u020f\u028d \u01a8\u04ad\u0203\u0213 \u01a8\u0443\u01a8\u04ad\u1f73\u028d \u04ad\u020f \u01a8\u04ad\u0203\u0213 \u01a8\u0443\u01a8\u04ad\u1f73\u028d \u03f2\u020f\u230a\u230a\u1f73\u03f2\u04ad\u0457\u019e\u0260 \u4e01\u1f73\u03f2\u043d\u01a8. \u1ee6\u01a8\u1f73 \u04ad\u043d\u020f\u01a8\u1f73 \u4e01\u1f73\u03f2\u043d\u01a8 \u04ad\u020f \u0257\u1f73\u0493\u1f73\u0203\u04ad \u04ad\u043d\u1f73 \u1f73\u019e\u1f73\u028d\u0443 \u0493\u0203\u03f2\u04ad\u0457\u020f\u019e \u230a\u1f73\u0203\u0257\u1f73\u0213\u01a8 \u0203\u019e\u0257 \u03f2\u020f\u019e\u0533\u0574\u1f73\u0213 \u04ad\u043d\u1f73 \u0260\u0203\u230a\u0203\u2327\u0443!\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Move from star system to star system collecting Techs. Use those Techs to defeat the enemy faction leaders and conquer the galaxy!"
+    }, 
+    "name": {
+        "description": "gw_start:name:(no description)", 
+        "message": "\u019d\u0203\u028d\u1f73\u03a9\u03a9", 
+        "original": "Name"
+    }, 
+    "navigate_the_galaxy_map_by_jumping_from_system_to_system": {
+        "description": "gw_start:navigate_the_galaxy_map_by_jumping_from_system_to_system:(no description)", 
+        "message": "\u019d\u0203\u0477\u0457\u0260\u0203\u04ad\u1f73 \u04ad\u043d\u1f73 \u0260\u0203\u230a\u0203\u2327\u0443 \u028d\u0203\u2374 \u0411\u0443 \u0644\u0574\u028d\u2374\u0457\u019e\u0260 \u0493\u0213\u020f\u028d \u01a8\u0443\u01a8\u04ad\u1f73\u028d \u04ad\u020f \u01a8\u0443\u01a8\u04ad\u1f73\u028d.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Navigate the galaxy map by jumping from system to system."
+    }, 
+    "new_data_banks_to_store_techs_can_be_found_by_exploring_systems": {
+        "description": "gw_start:new_data_banks_to_store_techs_can_be_found_by_exploring_systems:(no description)", 
+        "message": "\u019d\u1f73\u1ff4 \u0189\u0203\u04ad\u0203 \u0e3f\u0203\u019e\u045c\u01a8 \u04ad\u020f \u01a8\u04ad\u020f\u0213\u1f73 \u4e01\u1f73\u03f2\u043d\u01a8 \u03f2\u0203\u019e \u0411\u1f73 \u0493\u020f\u0574\u019e\u0257 \u0411\u0443 \u1f73\u2327\u2374\u230a\u020f\u0213\u0457\u019e\u0260 \u01a8\u0443\u01a8\u04ad\u1f73\u028d\u01a8.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "New Data Banks to store Techs can be found by exploring systems."
+    }, 
+    "new_war": {
+        "description": "gw_start:new_war:(no description)", 
+        "message": "\u019d\u1f73\u1ff4 \u20a9\u0203\u0213\u03a9\u03a9\u03a9", 
+        "original": "New War"
+    }, 
+    "normal": {
+        "description": "gw_start:normal:(no description)", 
+        "message": "\u019d\u0472\u211d\u039c\u0202\u20a4\u03a9\u03a9\u03a9", 
+        "original": "NORMAL"
+    }, 
+    "player_faction": {
+        "description": "gw_start:player_faction:(no description)", 
+        "message": "\u03dc\u0203\u03f2\u04ad\u0457\u020f\u019e\u03a9\u03a9\u03a9", 
+        "original": "Faction"
+    }, 
+    "relentless": {
+        "description": "gw_start:relentless:(no description)", 
+        "message": "\u211d\u0190\u20a4\u0190\u019d\u4e01\u20a4\u0190\u1e60\u1e60\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "RELENTLESS"
+    }, 
+    "setup": {
+        "description": "gw_start:setup:(no description)", 
+        "message": "\u1e60\u1f73\u04ad\u0574\u2374\u03a9\u03a9", 
+        "original": "Setup"
+    }, 
+    "size": {
+        "description": "gw_start:size:(no description)", 
+        "message": "\u1e60\u0457\u2124\u1f73:\u03a9\u03a9", 
+        "original": "Size:"
+    }, 
+    "small": {
+        "description": "gw_start:small:(no description)", 
+        "message": "\u1e60\u039c\u0202\u20a4\u20a4\u03a9\u03a9", 
+        "original": "SMALL"
+    }, 
+    "some_systems_have_hidden_commander_loadouts_recover_them_for_future_galactic_wars": {
+        "description": "gw_start:some_systems_have_hidden_commander_loadouts_recover_them_for_future_galactic_wars:(no description)", 
+        "message": "\u1e60\u020f\u028d\u1f73 \u01a8\u0443\u01a8\u04ad\u1f73\u028d\u01a8 \u043d\u0203\u0477\u1f73 \u043d\u0457\u0257\u0257\u1f73\u019e \u04aa\u020f\u028d\u028d\u0203\u019e\u0257\u1f73\u0213 \u230a\u020f\u0203\u0257\u020f\u0574\u04ad\u01a8. \u211d\u1f73\u03f2\u020f\u0477\u1f73\u0213 \u04ad\u043d\u1f73\u028d \u0493\u020f\u0213 \u0493\u0574\u04ad\u0574\u0213\u1f73 \u01f4\u0203\u230a\u0203\u03f2\u04ad\u0457\u03f2 \u20a9\u0203\u0213\u01a8.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Some systems have hidden Commander loadouts. Recover them for future Galactic Wars."
+    }, 
+    "tech_can_be_deleted_to_make_room_for_new_ones_to_download_deleted_and_rejected_techs_are_lost_for_the_remainder_of_the_galactic_war": {
+        "description": "gw_start:tech_can_be_deleted_to_make_room_for_new_ones_to_download_deleted_and_rejected_techs_are_lost_for_the_remainder_of_the_galactic_war:(no description)", 
+        "message": "\u4e01\u1f73\u03f2\u043d \u03f2\u0203\u019e \u0411\u1f73 \u0257\u1f73\u230a\u1f73\u04ad\u1f73\u0257 \u04ad\u020f \u028d\u0203\u045c\u1f73 \u0213\u020f\u020f\u028d \u0493\u020f\u0213 \u019e\u1f73\u1ff4 \u020f\u019e\u1f73\u01a8 \u04ad\u020f \u0257\u020f\u1ff4\u019e\u230a\u020f\u0203\u0257. \u0189\u1f73\u230a\u1f73\u04ad\u1f73\u0257 \u0203\u019e\u0257 \u0213\u1f73\u0644\u1f73\u03f2\u04ad\u1f73\u0257 \u4e01\u1f73\u03f2\u043d\u01a8 \u0203\u0213\u1f73 \u230a\u020f\u01a8\u04ad \u0493\u020f\u0213 \u04ad\u043d\u1f73 \u0213\u1f73\u028d\u0203\u0457\u019e\u0257\u1f73\u0213 \u020f\u0493 \u04ad\u043d\u1f73 \u01f4\u0203\u230a\u0203\u03f2\u04ad\u0457\u03f2 \u20a9\u0203\u0213.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Tech can be deleted to make room for new ones to download. Deleted and rejected Techs are lost for the remainder of the Galactic War."
+    }, 
+    "tip": {
+        "description": "gw_start:tip:(no description)", 
+        "message": "\u4e01\u0457\u2374:\u03a9\u03a9", 
+        "original": "Tip:"
+    }, 
+    "tips": {
+        "description": "gw_start:tips:(no description)", 
+        "message": "\u4e01\u0457\u2374\u01a8\u03a9\u03a9", 
+        "original": "Tips"
+    }, 
+    "turns": {
+        "description": "gw_start:turns:(no description)", 
+        "message": "\u4e01\u0574\u0213\u019e\u01a8:\u03a9\u03a9\u03a9", 
+        "original": "Turns:"
+    }, 
+    "uber": {
+        "description": "gw_start:uber:(no description)", 
+        "message": "\u1ee6\u0e3f\u0190\u211d\u03a9\u03a9", 
+        "original": "UBER"
+    }, 
+    "victory": {
+        "description": "gw_start:victory:(no description)", 
+        "message": "\u0476\u0457\u03f2\u04ad\u020f\u0213\u0443\u03a9\u03a9\u03a9", 
+        "original": "Victory"
+    }, 
+    "wins": {
+        "description": "gw_start:wins:(no description)", 
+        "message": "\u20a9\u0457\u019e\u01a8:\u03a9\u03a9", 
+        "original": "Wins:"
+    }
+}

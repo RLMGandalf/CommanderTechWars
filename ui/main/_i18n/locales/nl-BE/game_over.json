@@ -1,0 +1,78 @@
+{
+    "produced": {
+        "message": "Geproduceerd",
+        "description": "game_over:produced:(no description)"
+    },
+    "draw": {
+        "message": "Gelijk spel",
+        "description": "game_over:draw:(no description)"
+    },
+    "units": {
+        "message": "Eenheden",
+        "description": "game_over:units:(no description)"
+    },
+    "built": {
+        "message": "Gebouwd",
+        "description": "game_over:built:(no description)"
+    },
+    "you_ve_been_annihilated": {
+        "message": "JE BENT VERNIETIGD",
+        "description": "game_over:you_ve_been_annihilated:(no description)"
+    },
+    "average": {
+        "message": "Gemiddelde",
+        "description": "game_over:average:(no description)"
+    },
+    "pa_game_over": {
+        "message": "GW GAME OVER",
+        "description": "game_over:pa_game_over:(no description)"
+    },
+    "metal": {
+        "message": "Metaal",
+        "description": "game_over:metal:(no description)"
+    },
+    "winners": {
+        "message": "Winnaars:",
+        "description": "game_over:winners:(no description)"
+    },
+    "the_game_has_ended": {
+        "message": "Het is beëindigd.",
+        "description": "game_over:the_game_has_ended:(no description)"
+    },
+    "annihilation_complete": {
+        "message": "VERNIETIGING VOLTOOID",
+        "description": "game_over:annihilation_complete:(no description)"
+    },
+    "destroyed": {
+        "message": "Vernietigd.",
+        "description": "game_over:destroyed:(no description)"
+    },
+    "efficiency": {
+        "message": "Efficiëntie",
+        "description": "game_over:efficiency:(no description)"
+    },
+    "used": {
+        "message": "Gebruikt",
+        "description": "game_over:used:(no description)"
+    },
+    "winner": {
+        "message": "Winnaar:",
+        "description": "game_over:winner:(no description)"
+    },
+    "apm": {
+        "message": "APM",
+        "description": "game_over:apm:(no description)"
+    },
+    "duration": {
+        "message": "Spelduur:",
+        "description": "game_over:duration:(no description)"
+    },
+    "energy": {
+        "message": "Energie",
+        "description": "game_over:energy:(no description)"
+    },
+    "victory_is_yours": {
+        "message": "U BENT DE WINNAAR",
+        "description": "game_over:victory_is_yours:(no description)"
+    }
+}

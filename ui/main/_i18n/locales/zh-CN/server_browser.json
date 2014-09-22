@@ -1,0 +1,138 @@
+{
+    "number_of_players": {
+        "message": "玩家数量",
+        "description": "server_browser:number_of_players:(no description)"
+    },
+    "locked_game": {
+        "message": "锁定的游戏",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "testing": {
+        "message": "正在测试",
+        "description": "server_browser:testing:(no description)"
+    },
+    "game_state": {
+        "message": "游戏状态",
+        "description": "server_browser:game_state:(no description)"
+    },
+    "competitive": {
+        "message": "竞技",
+        "description": "server_browser:competitive:(no description)"
+    },
+    "tag": {
+        "message": "表情",
+        "description": "server_browser:tag:(no description)"
+    },
+    "planets": {
+        "message": "行星",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "位置",
+        "description": "server_browser:slots:(no description)"
+    },
+    "casual": {
+        "message": "休闲",
+        "description": "server_browser:casual:(no description)"
+    },
+    "can_join": {
+        "message": "可以参加",
+        "description": "server_browser:can_join:(no description)"
+    },
+    "multiplayer": {
+        "message": "多人游戏",
+        "description": "server_browser:multiplayer:(no description)"
+    },
+    "any": {
+        "message": "任意",
+        "description": "server_browser:any:(no description)"
+    },
+    "can_spectate": {
+        "message": "可以观战",
+        "description": "server_browser:can_spectate:(no description)"
+    },
+    "no_min": {
+        "message": "无最小限制",
+        "description": "server_browser:no_min:(no description)"
+    },
+    "number_of_planets": {
+        "message": "行星数量",
+        "description": "server_browser:number_of_planets:(no description)"
+    },
+    "status": {
+        "message": "状态",
+        "description": "server_browser:status:(no description)"
+    },
+    "create_game": {
+        "message": "创建游戏",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "观众",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "join_game": {
+        "message": "加入游戏",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "game": {
+        "message": "游戏",
+        "description": "server_browser:game:(no description)"
+    },
+    "in_progress": {
+        "message": "进行中",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "密码",
+        "description": "server_browser:password:(no description)"
+    },
+    "team_armies": {
+        "message": "组队模式",
+        "description": "server_browser:team_armies:(no description)"
+    },
+    "mod": {
+        "message": "插件",
+        "description": "server_browser:mod:(no description)"
+    },
+    "mods": {
+        "message": "插件",
+        "description": "server_browser:mods:(no description)"
+    },
+    "free_for_all": {
+        "message": "自由模式",
+        "description": "server_browser:free_for_all:(no description)"
+    },
+    "no_max": {
+        "message": "无最大限制",
+        "description": "server_browser:no_max:(no description)"
+    },
+    "region": {
+        "message": "地区",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "观众",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "can_play": {
+        "message": "可以游戏",
+        "description": "server_browser:can_play:(no description)"
+    },
+    "in_lobby": {
+        "message": "大厅",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "玩家",
+        "description": "server_browser:players:(no description)"
+    },
+    "ai_battle": {
+        "message": "AI战争",
+        "description": "server_browser:ai_battle:(no description)"
+    },
+    "mode": {
+        "message": "模式",
+        "description": "server_browser:mode:(no description)"
+    }
+}

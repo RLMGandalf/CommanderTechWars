@@ -1,0 +1,202 @@
+{
+    "my_planets": {
+        "message": "МОЇ ПЛАНЕТИ",
+        "description": "system_editor:my_planets:(no description)"
+    },
+    "preview_all": {
+        "message": "ПЕРЕДОГЛЯНУТИ ВСІХ",
+        "description": "system_editor:preview_all:(no description)"
+    },
+    "show": {
+        "message": "ПОКАЗАТИ",
+        "description": "system_editor:show:(no description)"
+    },
+    "water_height": {
+        "message": "РІВЕНЬ ВОДИ",
+        "description": "system_editor:water_height:(no description)"
+    },
+    "accept": {
+        "message": "Прийняти",
+        "description": "system_editor:accept:(no description)"
+    },
+    "height": {
+        "message": "Висота",
+        "description": "system_editor:height:(no description)"
+    },
+    "seed": {
+        "message": "SEED",
+        "description": "system_editor:seed:(no description)"
+    },
+    "radius": {
+        "message": "Радіус",
+        "description": "system_editor:radius:(no description)"
+    },
+    "cancel": {
+        "message": "Скасувати",
+        "description": "system_editor:cancel:(no description)"
+    },
+    "close": {
+        "message": "ЗАКРИТИ",
+        "description": "system_editor:close:(no description)"
+    },
+    "metal_clusters": {
+        "message": "КЛАСТЕРИ МЕТАЛУ",
+        "description": "system_editor:metal_clusters:(no description)"
+    },
+    "the_system_has_not_been_saved": {
+        "message": "Система не була збережена.",
+        "description": "system_editor:the_system_has_not_been_saved:(no description)"
+    },
+    "the_planet_is_loading_this_can_take_a_long_time": {
+        "message": "Планета завантажується. Це може зайняти довгий час.",
+        "description": "system_editor:the_planet_is_loading_this_can_take_a_long_time:(no description)"
+    },
+    "biome": {
+        "message": "БІОМ",
+        "description": "system_editor:biome:(no description)"
+    },
+    "starting_planet": {
+        "message": "Стартова планета",
+        "description": "system_editor:starting_planet:(no description)"
+    },
+    "hide": {
+        "message": "ПРИХОВАТИ",
+        "description": "system_editor:hide:(no description)"
+    },
+    "temperature": {
+        "message": "ТЕМПЕРАТУРА",
+        "description": "system_editor:temperature:(no description)"
+    },
+    "discard": {
+        "message": "Відмовитись",
+        "description": "system_editor:discard:(no description)"
+    },
+    "save_mixed_case": {
+        "message": "Зберегти",
+        "description": "system_editor:save_mixed_case:(no description)"
+    },
+    "clear_system": {
+        "message": "ОЧИСТИТИ СИСТЕМУ",
+        "description": "system_editor:clear_system:(no description)"
+    },
+    "x": {
+        "message": "X:",
+        "description": "system_editor:x:(no description)"
+    },
+    "system_editor": {
+        "message": "РЕДАКТОР СИСТЕМ",
+        "description": "system_editor:system_editor:(no description)"
+    },
+    "preview": {
+        "message": "ПЕРЕДОГЛЯД",
+        "description": "system_editor:preview:(no description)"
+    },
+    "templates": {
+        "message": "ШАБЛОНИ",
+        "description": "system_editor:templates:(no description)"
+    },
+    "biome_scale": {
+        "message": "МАСШТАБ БІОМУ",
+        "description": "system_editor:biome_scale:(no description)"
+    },
+    "save_system": {
+        "message": "ЗБЕРЕГТИ СИСТЕМУ",
+        "description": "system_editor:save_system:(no description)"
+    },
+    "water": {
+        "message": "Вода",
+        "description": "system_editor:water:(no description)"
+    },
+    "metal_density": {
+        "message": "ГУСТИНА МЕТАЛУ",
+        "description": "system_editor:metal_density:(no description)"
+    },
+    "velocity": {
+        "message": "ШВИДКІСТЬ",
+        "description": "system_editor:velocity:(no description)"
+    },
+    "edit_planet": {
+        "message": "РЕДАГУВАТИ ПЛАНЕТУ",
+        "description": "system_editor:edit_planet:(no description)"
+    },
+    "simulate": {
+        "message": "СИМУЛЯЦІЯ",
+        "description": "system_editor:simulate:(no description)"
+    },
+    "planet_name": {
+        "message": "НАЗВА ПЛАНЕТИ",
+        "description": "system_editor:planet_name:(no description)"
+    },
+    "required_thrust_to_move": {
+        "message": "ДВИГУНИ",
+        "description": "system_editor:required_thrust_to_move:(no description)"
+    },
+    "properties": {
+        "message": "ВЛАСТИВОСТІ",
+        "description": "system_editor:properties:(no description)"
+    },
+    "recent": {
+        "message": "НЕДАВНІ",
+        "description": "system_editor:recent:(no description)"
+    },
+    "system_name": {
+        "message": "НАЗВА:",
+        "description": "system_editor:system_name:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "system_editor:gamma_v:(no description)"
+    },
+    "e": {
+        "message": "E:",
+        "description": "system_editor:e:(no description)"
+    },
+    "temp": {
+        "message": "Темпер.",
+        "description": "system_editor:temp:(no description)"
+    },
+    "do_you_want_to_save_this_system": {
+        "message": "Зберегти цю систему?",
+        "description": "system_editor:do_you_want_to_save_this_system:(no description)"
+    },
+    "height_range": {
+        "message": "ДІАПАЗОН ВИСОТ",
+        "description": "system_editor:height_range:(no description)"
+    },
+    "remove": {
+        "message": "ВИДАЛИТИ",
+        "description": "system_editor:remove:(no description)"
+    },
+    "planet": {
+        "message": "ПЛАНЕТА",
+        "description": "system_editor:planet:(no description)"
+    },
+    "random_name": {
+        "message": "ВИПАДКОВА НАЗВА",
+        "description": "system_editor:random_name:(no description)"
+    },
+    "mass": {
+        "message": "МАСА",
+        "description": "system_editor:mass:(no description)"
+    },
+    "save_template": {
+        "message": "ЗБЕРЕГТИ ШАБЛОН",
+        "description": "system_editor:save_template:(no description)"
+    },
+    "the_program_will_be_unresponsive_until_the_planet_has_finished": {
+        "message": "Програма не буде відповідати доки планета не згенерується.",
+        "description": "system_editor:the_program_will_be_unresponsive_until_the_planet_has_finished:(no description)"
+    },
+    "y": {
+        "message": "Y:",
+        "description": "system_editor:y:(no description)"
+    },
+    "position": {
+        "message": "ПОЗИЦІЯ",
+        "description": "system_editor:position:(no description)"
+    },
+    "the_system_has_been_changed_since_it_was_last_saved": {
+        "message": "Система була змінена з часу останнього збереження.",
+        "description": "system_editor:the_system_has_been_changed_since_it_was_last_saved:(no description)"
+    }
+}

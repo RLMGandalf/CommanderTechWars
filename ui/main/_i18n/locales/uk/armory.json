@@ -1,0 +1,38 @@
+{
+    "my_badges": {
+        "message": "My Badges",
+        "description": "armory:my_badges:(no description)"
+    },
+    "my_commanders": {
+        "message": "My Commanders",
+        "description": "armory:my_commanders:(no description)"
+    },
+    "modal_title": {
+        "message": "Modal Title",
+        "description": "armory:modal_title:(no description)"
+    },
+    "commanders": {
+        "message": "Commanders",
+        "description": "armory:commanders:(no description)"
+    },
+    "submit": {
+        "message": "Submit",
+        "description": "armory:submit:(no description)"
+    },
+    "redeem": {
+        "message": "Redeem",
+        "description": "armory:redeem:(no description)"
+    },
+    "stuff": {
+        "message": "Stuff",
+        "description": "armory:stuff:(no description)"
+    },
+    "set_default": {
+        "message": "Set Default Commander",
+        "description": "armory:set_default:(no description)"
+    },
+    "badges": {
+        "message": "Badges",
+        "description": "armory:badges:(no description)"
+    }
+}

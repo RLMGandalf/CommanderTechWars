@@ -1,0 +1,58 @@
+{
+    "delete_this_planet": {
+        "message": "Eliminare questo pianeta?",
+        "description": "load_planet:delete_this_planet:(no description)"
+    },
+    "planets": {
+        "message": "Pianeti",
+        "description": "load_planet:planets:(no description)"
+    },
+    "delete_this_system": {
+        "message": "Eliminare questo sistema?",
+        "description": "load_planet:delete_this_system:(no description)"
+    },
+    "delete_planet": {
+        "message": "Elimina pianeta",
+        "description": "load_planet:delete_planet:(no description)"
+    },
+    "delete_system": {
+        "message": "Elimina Sistema",
+        "description": "load_planet:delete_system:(no description)"
+    },
+    "show_planets": {
+        "message": "MOSTRA PIANETI",
+        "description": "load_planet:show_planets:(no description)"
+    },
+    "load_system": {
+        "message": "Carica Sistema",
+        "description": "load_planet:load_system:(no description)"
+    },
+    "new_system": {
+        "message": "Nuovo sistema",
+        "description": "load_planet:new_system:(no description)"
+    },
+    "systems": {
+        "message": "Sistemi",
+        "description": "load_planet:systems:(no description)"
+    },
+    "load_planet": {
+        "message": "Carica Pianeta",
+        "description": "load_planet:load_planet:(no description)"
+    },
+    "cancel": {
+        "message": "ANNULLA",
+        "description": "load_planet:cancel:(no description)"
+    },
+    "show_systems": {
+        "message": "MOSTRA SISTEMI",
+        "description": "load_planet:show_systems:(no description)"
+    },
+    "system_designer": {
+        "message": "EDITOR SISTEMI SOLARI",
+        "description": "load_planet:system_designer:(no description)"
+    },
+    "delete": {
+        "message": "ELIMINA",
+        "description": "load_planet:delete:(no description)"
+    }
+}

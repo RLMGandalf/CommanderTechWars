@@ -1,0 +1,32 @@
+{
+    "game_lobby": {
+        "description": "section_template:game_lobby:(no description)", 
+        "message": "\u01f4\u0203\u028d\u1f73 \u20a4\u020f\u0411\u0411\u0443", 
+        "original": "Game Lobby"
+    }, 
+    "game_options": {
+        "description": "section_template:game_options:(no description)", 
+        "message": "\u01f4\u0203\u028d\u1f73 \u020f\u2374\u04ad\u0457\u020f\u019e\u01a8", 
+        "original": "Game options"
+    }, 
+    "new_lobby": {
+        "description": "section_template:new_lobby:(no description)", 
+        "message": "\u019d\u1f73\u1ff4 \u20a4\u020f\u0411\u0411\u0443", 
+        "original": "New Lobby"
+    }, 
+    "ready_cancel": {
+        "description": "section_template:ready_cancel:(no description)", 
+        "message": "\u211d\u1f73\u0203\u0257\u0443/\u04aa\u0203\u019e\u03f2\u1f73\u230a", 
+        "original": "Ready/Cancel"
+    }, 
+    "roster": {
+        "description": "section_template:roster:(no description)", 
+        "message": "\u211d\u020f\u01a8\u04ad\u1f73\u0213", 
+        "original": "Roster"
+    }, 
+    "section": {
+        "description": "section_template:section:(no description)", 
+        "message": "\u1e60\u1f73\u03f2\u04ad\u0457\u020f\u019e", 
+        "original": "Section"
+    }
+}

@@ -1,0 +1,1206 @@
+{
+    "load": {
+        "message": "Charger",
+        "description": "settings:load:(no description)"
+    },
+    "all": {
+        "message": "TOUS",
+        "description": "settings:all:(no description)"
+    },
+    "select_all_idle_factories_on_screen": {
+        "message": "Sélectionner toutes les usines inactives à l'écran",
+        "description": "settings:select_all_idle_factories_on_screen:(no description)"
+    },
+    "free_move_down": {
+        "message": "Mouvement libre vers le bas",
+        "description": "settings:free_move_down:(no description)"
+    },
+    "toggle_twitch_microphone": {
+        "message": "Basculer le micro Twitch",
+        "description": "settings:toggle_twitch_microphone:(no description)"
+    },
+    "move": {
+        "message": "Déplacer",
+        "description": "settings:move:(no description)"
+    },
+    "resume_at_latest_time": {
+        "message": "Reprendre au dernier temps",
+        "description": "settings:resume_at_latest_time:(no description)"
+    },
+    "navigate_back_exit": {
+        "message": "Retour/Quitter",
+        "description": "settings:navigate_back_exit:(no description)"
+    },
+    "special_move": {
+        "message": "Déplacement spécial",
+        "description": "settings:special_move:(no description)"
+    },
+    "reclaim": {
+        "message": "recycler",
+        "description": "settings:reclaim:(no description)"
+    },
+    "show_hide_ui": {
+        "message": "Afficher/Masquer l'interface",
+        "description": "settings:show_hide_ui:(no description)"
+    },
+    "select_all_naval_combat_units_on_screen": {
+        "message": "Sélectionner toutes les unités navales à l'écran",
+        "description": "settings:select_all_naval_combat_units_on_screen:(no description)"
+    },
+    "select_all_naval_combat_units": {
+        "message": "Sélectionner toutes les unités navales",
+        "description": "settings:select_all_naval_combat_units:(no description)"
+    },
+    "hold_fire": {
+        "message": "Cesser-le-feu",
+        "description": "settings:hold_fire:(no description)"
+    },
+    "1100_recommended_for_480p": {
+        "message": "1100 (recommandé pour le 480p)",
+        "description": "settings:1100_recommended_for_480p:(no description)"
+    },
+    "tracking_alignment": {
+        "message": "Poursuite & Alignement",
+        "description": "settings:tracking_alignment:(no description)"
+    },
+    "move_up": {
+        "message": "Mouvement vers le haut",
+        "description": "settings:move_up:(no description)"
+    },
+    "roam": {
+        "message": "Patrouiller",
+        "description": "settings:roam:(no description)"
+    },
+    "smooth_zoom_in": {
+        "message": "Zoom doux",
+        "description": "settings:smooth_zoom_in:(no description)"
+    },
+    "range_dependent": {
+        "message": "DÉPENDANT DE LA DISTANCE",
+        "description": "settings:range_dependent:(no description)"
+    },
+    "play_forward_at_100": {
+        "message": "En avant à 100%",
+        "description": "settings:play_forward_at_100:(no description)"
+    },
+    "value_dependent": {
+        "message": "DÉPENDANT DE LA VALEUR",
+        "description": "settings:value_dependent:(no description)"
+    },
+    "select_bot_group": {
+        "message": "Sélectionner le groupe robot",
+        "description": "settings:select_bot_group:(no description)"
+    },
+    "supersample_110": {
+        "message": "SURÉCHANTILLONAGE (175%)",
+        "description": "settings:supersample_110:(no description)"
+    },
+    "twitchPassword": {
+        "message": "Mot de passe",
+        "description": "settings:twitchPassword:(no description)"
+    },
+    "select_all_matching_units_on_screen": {
+        "message": "Sélectionner toutes les unités identiques à l'écran",
+        "description": "settings:select_all_matching_units_on_screen:(no description)"
+    },
+    "save": {
+        "message": "Sauvegarder",
+        "description": "settings:save:(no description)"
+    },
+    "toggle_energy_orders": {
+        "message": "Basculer Ordres d'alimentation",
+        "description": "settings:toggle_energy_orders:(no description)"
+    },
+    "zoom_to_orbital": {
+        "message": "Zoomer sur le niveau orbital",
+        "description": "settings:zoom_to_orbital:(no description)"
+    },
+    "recall_anchor_7": {
+        "message": "Rappel ancre 7",
+        "description": "settings:recall_anchor_7:(no description)"
+    },
+    "play_backwards_at_50": {
+        "message": "En arrière à 50%",
+        "description": "settings:play_backwards_at_50:(no description)"
+    },
+    "recall_anchor_5": {
+        "message": "Rappel ancre 5",
+        "description": "settings:recall_anchor_5:(no description)"
+    },
+    "recall_anchor_4": {
+        "message": "Rappel ancre 4",
+        "description": "settings:recall_anchor_4:(no description)"
+    },
+    "crash": {
+        "message": "Crash",
+        "description": "settings:crash:(no description)"
+    },
+    "livestream_settings": {
+        "message": "Paramètres de la diffusion",
+        "description": "settings:livestream_settings:(no description)"
+    },
+    "recall_anchor_1": {
+        "message": "Rappel ancre 1",
+        "description": "settings:recall_anchor_1:(no description)"
+    },
+    "recall_anchor_0": {
+        "message": "Rappel ancre 0",
+        "description": "settings:recall_anchor_0:(no description)"
+    },
+    "pole_lock": {
+        "message": "Verrouillage des Pôles",
+        "description": "settings:pole_lock:(no description)"
+    },
+    "master_volume": {
+        "message": "Volume général",
+        "description": "settings:master_volume:(no description)"
+    },
+    "align_to_pole": {
+        "message": "Aligner au pôle",
+        "description": "settings:align_to_pole:(no description)"
+    },
+    "stop": {
+        "message": "Stop",
+        "description": "settings:stop:(no description)"
+    },
+    "resolution_scaling": {
+        "message": "Echelle résolution",
+        "description": "settings:resolution_scaling:(no description)"
+    },
+    "recall_anchor_9": {
+        "message": "Rappel ancre 9",
+        "description": "settings:recall_anchor_9:(no description)"
+    },
+    "recall_anchor_8": {
+        "message": "Rappel ancre 8",
+        "description": "settings:recall_anchor_8:(no description)"
+    },
+    "recall_anchor_3": {
+        "message": "Rappel ancre 3",
+        "description": "settings:recall_anchor_3:(no description)"
+    },
+    "units": {
+        "message": "Unités",
+        "description": "settings:units:(no description)"
+    },
+    "unit_recall_groups": {
+        "message": "Groupes rappel d'unité",
+        "description": "settings:unit_recall_groups:(no description)"
+    },
+    "set_army_from_hover": {
+        "message": "mettre l'armée en état stationnaire",
+        "description": "settings:set_army_from_hover:(no description)"
+    },
+    "play_forward_at_50": {
+        "message": "En avant à 50%",
+        "description": "settings:play_forward_at_50:(no description)"
+    },
+    "twitchName": {
+        "message": "Connectez-vous avec votre compte Twitch",
+        "description": "settings:twitchName:(no description)"
+    },
+    "twitchIngestServer": {
+        "message": "SERVEUR",
+        "description": "settings:twitchIngestServer:(no description)"
+    },
+    "dismiss_alert_notification": {
+        "message": "Effacer la notification",
+        "description": "settings:dismiss_alert_notification:(no description)"
+    },
+    "play_backwards_at_100": {
+        "message": "En arrière à 100%",
+        "description": "settings:play_backwards_at_100:(no description)"
+    },
+    "build_avatar_factory": {
+        "message": "Construire l'usine d'avatar",
+        "description": "settings:build_avatar_factory:(no description)"
+    },
+    "shadows": {
+        "message": "Ombres",
+        "description": "settings:shadows:(no description)"
+    },
+    "quick_profile": {
+        "message": "Profil rapide",
+        "description": "settings:quick_profile:(no description)"
+    },
+    "supersample_150": {
+        "message": "AGRANDISSEMENT (150%)",
+        "description": "settings:supersample_150:(no description)"
+    },
+    "capture_anchor": {
+        "message": "Capturer ancre",
+        "description": "settings:capture_anchor:(no description)"
+    },
+    "pause_game": {
+        "message": "Jeu en pause",
+        "description": "settings:pause_game:(no description)"
+    },
+    "settings": {
+        "message": "Paramètres",
+        "description": "settings:settings:(no description)"
+    },
+    "build_preview_behavior": {
+        "message": "Comportement aperçu des constructions",
+        "description": "settings:build_preview_behavior:(no description)"
+    },
+    "always": {
+        "message": "TOUJOURS",
+        "description": "settings:always:(no description)"
+    },
+    "zoom": {
+        "message": "Zoom",
+        "description": "settings:zoom:(no description)"
+    },
+    "music_volume": {
+        "message": "Volume musique",
+        "description": "settings:music_volume:(no description)"
+    },
+    "server": {
+        "message": "Serveur",
+        "description": "settings:server:(no description)"
+    },
+    "bug_report": {
+        "message": "Rapport de bug",
+        "description": "settings:bug_report:(no description)"
+    },
+    "select_all_factories": {
+        "message": "Sélectionner toutes les usines",
+        "description": "settings:select_all_factories:(no description)"
+    },
+    "capture_group_8": {
+        "message": "Groupe de capture 8",
+        "description": "settings:capture_group_8:(no description)"
+    },
+    "capture_group_9": {
+        "message": "Groupe de capture 9",
+        "description": "settings:capture_group_9:(no description)"
+    },
+    "show_build_previews": {
+        "message": "Afficher les aperçus de construction",
+        "description": "settings:show_build_previews:(no description)"
+    },
+    "capture_group_4": {
+        "message": "Groupe de capture 4",
+        "description": "settings:capture_group_4:(no description)"
+    },
+    "capture_group_5": {
+        "message": "Groupe de capture 5",
+        "description": "settings:capture_group_5:(no description)"
+    },
+    "capture_group_6": {
+        "message": "Groupe de capture 6",
+        "description": "settings:capture_group_6:(no description)"
+    },
+    "capture_group_7": {
+        "message": "Groupe de capture 7",
+        "description": "settings:capture_group_7:(no description)"
+    },
+    "capture_group_0": {
+        "message": "Groupe de capture 0",
+        "description": "settings:capture_group_0:(no description)"
+    },
+    "capture_group_1": {
+        "message": "Groupe de capture 1",
+        "description": "settings:capture_group_1:(no description)"
+    },
+    "capture_group_2": {
+        "message": "Groupe de capture 2",
+        "description": "settings:capture_group_2:(no description)"
+    },
+    "capture_group_3": {
+        "message": "Groupe de capture 3",
+        "description": "settings:capture_group_3:(no description)"
+    },
+    "toggle_build_orders": {
+        "message": "Activer ordre de construction",
+        "description": "settings:toggle_build_orders:(no description)"
+    },
+    "select_sea_group": {
+        "message": "Sélectionner le naval",
+        "description": "settings:select_sea_group:(no description)"
+    },
+    "select_all_land_combat_units": {
+        "message": "Sélectionner toutes les unités de combat terrestres",
+        "description": "settings:select_all_land_combat_units:(no description)"
+    },
+    "toggle_move_orders": {
+        "message": "Activer ordres de déplacement",
+        "description": "settings:toggle_move_orders:(no description)"
+    },
+    "hold_position": {
+        "message": "Garder la position",
+        "description": "settings:hold_position:(no description)"
+    },
+    "chronocam": {
+        "message": "Chronocam",
+        "description": "settings:chronocam:(no description)"
+    },
+    "show_order_previews": {
+        "message": "Afficher l'aperçu des ordres",
+        "description": "settings:show_order_previews:(no description)"
+    },
+    "keyboard": {
+        "message": "Clavier",
+        "description": "settings:keyboard:(no description)"
+    },
+    "cancel": {
+        "message": "Annuler",
+        "description": "settings:cancel:(no description)"
+    },
+    "free_zoom_in": {
+        "message": "Zoom avant libre",
+        "description": "settings:free_zoom_in:(no description)"
+    },
+    "unit_selection": {
+        "message": "Sélection d'unité",
+        "description": "settings:unit_selection:(no description)"
+    },
+    "publish_server_mods": {
+        "message": "Publier mods serveur",
+        "description": "settings:publish_server_mods:(no description)"
+    },
+    "select_air_group": {
+        "message": "Sélectionner le groupe aérien",
+        "description": "settings:select_air_group:(no description)"
+    },
+    "fxaa": {
+        "message": "FXAA",
+        "description": "settings:fxaa:(no description)"
+    },
+    "show_hide_visual_aid_overlays": {
+        "message": "Afficher/masquer la surcouche visuelle d'aide",
+        "description": "settings:show_hide_visual_aid_overlays:(no description)"
+    },
+    "paste_unit": {
+        "message": "Coller l'unité",
+        "description": "settings:paste_unit:(no description)"
+    },
+    "unit_commands": {
+        "message": "Commandes des unités",
+        "description": "settings:unit_commands:(no description)"
+    },
+    "toggle_twitch_streaming": {
+        "message": "Basculer la diffusion Twitch",
+        "description": "settings:toggle_twitch_streaming:(no description)"
+    },
+    "fullscreen": {
+        "message": "PLEIN ECRAN",
+        "description": "settings:fullscreen:(no description)"
+    },
+    "fov": {
+        "message": "FOV",
+        "description": "settings:fov:(no description)"
+    },
+    "sound_effects_volume": {
+        "message": "Volume Effets Sonores",
+        "description": "settings:sound_effects_volume:(no description)"
+    },
+    "free_roll_right": {
+        "message": "Tangage droit libre",
+        "description": "settings:free_roll_right:(no description)"
+    },
+    "restore_all_defaults": {
+        "message": "TOUT PAR DÉFAUT",
+        "description": "settings:restore_all_defaults:(no description)"
+    },
+    "select_idle_fabbers": {
+        "message": "Sélectionner les constructeurs inactifs",
+        "description": "settings:select_idle_fabbers:(no description)"
+    },
+    "select_orbital_group_buildings": {
+        "message": "Sélectionner le groupe orbital (bâtiments)",
+        "description": "settings:select_orbital_group_buildings:(no description)"
+    },
+    "selected": {
+        "message": "SÉLECTION",
+        "description": "settings:selected:(no description)"
+    },
+    "select_utility_group": {
+        "message": "Sélectionner le groupe utilitaire",
+        "description": "settings:select_utility_group:(no description)"
+    },
+    "normal_chat": {
+        "message": "Chat normal",
+        "description": "settings:normal_chat:(no description)"
+    },
+    "twitchEnableMicrophone": {
+        "message": "ACTIVER LE MICRO",
+        "description": "settings:twitchEnableMicrophone:(no description)"
+    },
+    "select_all_idle_factories": {
+        "message": "Sélectionner toutes les usines inactives",
+        "description": "settings:select_all_idle_factories:(no description)"
+    },
+    "toggle_audio_logging": {
+        "message": "Activer le logging audio",
+        "description": "settings:toggle_audio_logging:(no description)"
+    },
+    "save_and_close": {
+        "message": "Sauvegarder et fermer",
+        "description": "settings:save_and_close:(no description)"
+    },
+    "move_down": {
+        "message": "Déplacement vers le bas",
+        "description": "settings:move_down:(no description)"
+    },
+    "show_hide_game_stats": {
+        "message": "Afficher/Masquer les statistiques",
+        "description": "settings:show_hide_game_stats:(no description)"
+    },
+    "edge_scroll_options": {
+        "message": "Options de Défilement sur les Bords",
+        "description": "settings:edge_scroll_options:(no description)"
+    },
+    "windowed": {
+        "message": "FENÊTRÉ",
+        "description": "settings:windowed:(no description)"
+    },
+    "build_loop": {
+        "message": "Production en boucle",
+        "description": "settings:build_loop:(no description)"
+    },
+    "native_100": {
+        "message": "NATIF (100%)",
+        "description": "settings:native_100:(no description)"
+    },
+    "select_all_factories_on_screen": {
+        "message": "Sélectionner toutes les usines à l'écran",
+        "description": "settings:select_all_factories_on_screen:(no description)"
+    },
+    "dev_mode": {
+        "message": "Mode développeur",
+        "description": "settings:dev_mode:(no description)"
+    },
+    "virtual_texture": {
+        "message": "Texture Virtuelle",
+        "description": "settings:virtual_texture:(no description)"
+    },
+    "assist": {
+        "message": "Assister",
+        "description": "settings:assist:(no description)"
+    },
+    "never": {
+        "message": "JAMAIS",
+        "description": "settings:never:(no description)"
+    },
+    "subsample_50": {
+        "message": "RÉDUCTION (50%)",
+        "description": "settings:subsample_50:(no description)"
+    },
+    "toggle_pip_mirror": {
+        "message": "Activer / Désactiver le mode miroir",
+        "description": "settings:toggle_pip_mirror:(no description)"
+    },
+    "zoom_to_surface": {
+        "message": "Zoomer sur la surface",
+        "description": "settings:zoom_to_surface:(no description)"
+    },
+    "alt_fire": {
+        "message": "Attaque alternative",
+        "description": "settings:alt_fire:(no description)"
+    },
+    "set_debug_camera": {
+        "message": "Définir la caméra de débogage",
+        "description": "settings:set_debug_camera:(no description)"
+    },
+    "free_move_right": {
+        "message": "Mouvement libre à droite",
+        "description": "settings:free_move_right:(no description)"
+    },
+    "icon_display_distance": {
+        "message": "DISTANCE D'AFFICHAGE DES ICÔNES",
+        "description": "settings:icon_display_distance:(no description)"
+    },
+    "supersample_175": {
+        "message": "AGRANDISSEMENT (175%)",
+        "description": "settings:supersample_175:(no description)"
+    },
+    "unit_capture_groups": {
+        "message": "Groupes capture d'unité",
+        "description": "settings:unit_capture_groups:(no description)"
+    },
+    "bitrate": {
+        "message": "Débit",
+        "description": "settings:bitrate:(no description)"
+    },
+    "toggle_nav_debug": {
+        "message": "Activer debug navigation",
+        "description": "settings:toggle_nav_debug:(no description)"
+    },
+    "tuning": {
+        "message": "Réglage",
+        "description": "settings:tuning:(no description)"
+    },
+    "on": {
+        "message": "ACTIVÉ",
+        "description": "settings:on:(no description)"
+    },
+    "free_roll_left": {
+        "message": "Tangage gauche libre",
+        "description": "settings:free_roll_left:(no description)"
+    },
+    "zoom_in": {
+        "message": "Zoom avant",
+        "description": "settings:zoom_in:(no description)"
+    },
+    "language": {
+        "message": "Langage",
+        "description": "settings:language:(no description)"
+    },
+    "zoom_speed": {
+        "message": "Vitesse zoom",
+        "description": "settings:zoom_speed:(no description)"
+    },
+    "build_avatar": {
+        "message": "Créer avatar",
+        "description": "settings:build_avatar:(no description)"
+    },
+    "key_pan_speed": {
+        "message": "Vitesse de Défilement du clavier",
+        "description": "settings:key_pan_speed:(no description)"
+    },
+    "set_free_camera": {
+        "message": "Activer la Caméra libre",
+        "description": "settings:set_free_camera:(no description)"
+    },
+    "increase_camera_pan_speed": {
+        "message": "Augmenter la vitesse de défilement de la caméra",
+        "description": "settings:increase_camera_pan_speed:(no description)"
+    },
+    "free_move_backward": {
+        "message": "Mouvement libre en arrière",
+        "description": "settings:free_move_backward:(no description)"
+    },
+    "smooth_zoom_out": {
+        "message": "Dézoom doux",
+        "description": "settings:smooth_zoom_out:(no description)"
+    },
+    "build_item_9": {
+        "message": "Construire Objet 9",
+        "description": "settings:build_item_9:(no description)"
+    },
+    "build_item_8": {
+        "message": "Construire Objet 8",
+        "description": "settings:build_item_8:(no description)"
+    },
+    "build_item_7": {
+        "message": "Construire Objet 7",
+        "description": "settings:build_item_7:(no description)"
+    },
+    "build_item_6": {
+        "message": "Construire Objet 6",
+        "description": "settings:build_item_6:(no description)"
+    },
+    "build_item_5": {
+        "message": "Construire Objet 5",
+        "description": "settings:build_item_5:(no description)"
+    },
+    "build_item_4": {
+        "message": "Construire Objet 4",
+        "description": "settings:build_item_4:(no description)"
+    },
+    "build_item_3": {
+        "message": "Construire Objet 3",
+        "description": "settings:build_item_3:(no description)"
+    },
+    "build_item_2": {
+        "message": "Construire Objet 2",
+        "description": "settings:build_item_2:(no description)"
+    },
+    "build_once": {
+        "message": "Construire une seule fois",
+        "description": "settings:build_once:(no description)"
+    },
+    "build_orders": {
+        "message": "Ordres de construction",
+        "description": "settings:build_orders:(no description)"
+    },
+    "repair": {
+        "message": "réparer",
+        "description": "settings:repair:(no description)"
+    },
+    "communication": {
+        "message": "communication",
+        "description": "settings:communication:(no description)"
+    },
+    "show_stat_bars": {
+        "message": "Montrer Barre de Statistiques",
+        "description": "settings:show_stat_bars:(no description)"
+    },
+    "select_factory_group": {
+        "message": "Choisir groupe d'usines",
+        "description": "settings:select_factory_group:(no description)"
+    },
+    "toggle_music": {
+        "message": "Activer/désactiver la musique",
+        "description": "settings:toggle_music:(no description)"
+    },
+    "move_right": {
+        "message": "Mouvement vers la droite",
+        "description": "settings:move_right:(no description)"
+    },
+    "free_pitch_backward": {
+        "message": "Tangage libre en arrière",
+        "description": "settings:free_pitch_backward:(no description)"
+    },
+    "picture_in_picture": {
+        "message": "picture-in-picture",
+        "description": "settings:picture_in_picture:(no description)"
+    },
+    "toggle_fire_orders": {
+        "message": "Basculer Ordres de tir",
+        "description": "settings:toggle_fire_orders:(no description)"
+    },
+    "recall_group_2": {
+        "message": "Sélectionner Groupe 2",
+        "description": "settings:recall_group_2:(no description)"
+    },
+    "energy_off": {
+        "message": "Arrêter l'alimentation",
+        "description": "settings:energy_off:(no description)"
+    },
+    "enable_navigation_debug_info": {
+        "message": "Désactiver les informations de navigation de débogage",
+        "description": "settings:enable_navigation_debug_info:(no description)"
+    },
+    "select_all_combat_units": {
+        "message": "Sélectionner toutes les unités de combat",
+        "description": "settings:select_all_combat_units:(no description)"
+    },
+    "headlights": {
+        "message": "Phares",
+        "description": "settings:headlights:(no description)"
+    },
+    "sign_out": {
+        "message": "SE DÉCONNECTER",
+        "description": "settings:sign_out:(no description)"
+    },
+    "jump_to_previous_planet": {
+        "message": "Aller à la planète précédente",
+        "description": "settings:jump_to_previous_planet:(no description)"
+    },
+    "500_recommended_for_240p": {
+        "message": "500 (recommendé pour le 240p)",
+        "description": "settings:500_recommended_for_240p:(no description)"
+    },
+    "move_left": {
+        "message": "Mouvement vers la gauche",
+        "description": "settings:move_left:(no description)"
+    },
+    "free_zoom_out": {
+        "message": "Dézoom libre",
+        "description": "settings:free_zoom_out:(no description)"
+    },
+    "toggle_fow": {
+        "message": "Basculer le FOW",
+        "description": "settings:toggle_fow:(no description)"
+    },
+    "restore_defaults": {
+        "message": "RÉTABLIR LES PARAMÈTRES PAR DÉFAUT",
+        "description": "settings:restore_defaults:(no description)"
+    },
+    "reload_view": {
+        "message": "Recharger la vue",
+        "description": "settings:reload_view:(no description)"
+    },
+    "custom": {
+        "message": "PERSONNALISÉ",
+        "description": "settings:custom:(no description)"
+    },
+    "show_unit_icons": {
+        "message": "Afficher les Icônes des Unités",
+        "description": "settings:show_unit_icons:(no description)"
+    },
+    "attack": {
+        "message": "Attaquer",
+        "description": "settings:attack:(no description)"
+    },
+    "camera": {
+        "message": "Caméra",
+        "description": "settings:camera:(no description)"
+    },
+    "free_move_forward": {
+        "message": "Mouvement libre en avant",
+        "description": "settings:free_move_forward:(no description)"
+    },
+    "700_recommended_for_360p": {
+        "message": "700 (recommandé pour 360p)",
+        "description": "settings:700_recommended_for_360p:(no description)"
+    },
+    "next_pseudo_frame": {
+        "message": "prochaine pseudo image",
+        "description": "settings:next_pseudo_frame:(no description)"
+    },
+    "copy_to_pip": {
+        "message": "Copier dans le PIP",
+        "description": "settings:copy_to_pip:(no description)"
+    },
+    "toggle_debug_camera": {
+        "message": "Activer la caméra de debug",
+        "description": "settings:toggle_debug_camera:(no description)"
+    },
+    "low": {
+        "message": "BAS",
+        "description": "settings:low:(no description)"
+    },
+    "order_preview_behavior": {
+        "message": "Comportement de l'aperçu des ordres",
+        "description": "settings:order_preview_behavior:(no description)"
+    },
+    "direction": {
+        "message": "direction",
+        "description": "settings:direction:(no description)"
+    },
+    "medium": {
+        "message": "MOYEN",
+        "description": "settings:medium:(no description)"
+    },
+    "general": {
+        "message": "général",
+        "description": "settings:general:(no description)"
+    },
+    "return_fire": {
+        "message": "Riposter",
+        "description": "settings:return_fire:(no description)"
+    },
+    "twitch_chat": {
+        "message": "Chat Twitch",
+        "description": "settings:twitch_chat:(no description)"
+    },
+    "zoom_out": {
+        "message": "Dézoomer",
+        "description": "settings:zoom_out:(no description)"
+    },
+    "run_twitch_commercial": {
+        "message": "Montrer la publicité Twitch",
+        "description": "settings:run_twitch_commercial:(no description)"
+    },
+    "off_no_mouselock": {
+        "message": "OFF (PAS DE VERROUILLAGE DE LA SOURIS)",
+        "description": "settings:off_no_mouselock:(no description)"
+    },
+    "subsample_75": {
+        "message": "SOUS-ÉCHANTILLON (75%)",
+        "description": "settings:subsample_75:(no description)"
+    },
+    "twitchEnablePlayback": {
+        "message": "ACTIVER SONS SYSTÈME",
+        "description": "settings:twitchEnablePlayback:(no description)"
+    },
+    "select_all_land_combat_units_on_screen": {
+        "message": "Sélectionner toutes les unités terrestres de combat à l'écran",
+        "description": "settings:select_all_land_combat_units_on_screen:(no description)"
+    },
+    "free_yaw_right": {
+        "message": "Rotation droite libre",
+        "description": "settings:free_yaw_right:(no description)"
+    },
+    "quality_preset": {
+        "message": "Paramètres de Qualité Prédéfinis",
+        "description": "settings:quality_preset:(no description)"
+    },
+    "graphics": {
+        "message": "Graphismes",
+        "description": "settings:graphics:(no description)"
+    },
+    "pause_time": {
+        "message": "Mettre en pause",
+        "description": "settings:pause_time:(no description)"
+    },
+    "disable_navigation_debug_info": {
+        "message": "Désactiver les informations de navigation de déboggage",
+        "description": "settings:disable_navigation_debug_info:(no description)"
+    },
+    "mouse_pan_speed": {
+        "message": "Vitesse de Défilement de la Souris",
+        "description": "settings:mouse_pan_speed:(no description)"
+    },
+    "fire_at_will": {
+        "message": "Feu à volonté",
+        "description": "settings:fire_at_will:(no description)"
+    },
+    "toggle_fullscreen": {
+        "message": "Basculer en plein écran",
+        "description": "settings:toggle_fullscreen:(no description)"
+    },
+    "zoom_to_air": {
+        "message": "Zoomer sur le niveau aérien",
+        "description": "settings:zoom_to_air:(no description)"
+    },
+    "select_orbital_group_units": {
+        "message": "Sélectionner le groupe orbital (unités)",
+        "description": "settings:select_orbital_group_units:(no description)"
+    },
+    "free_move_up": {
+        "message": "Mouvement libre vers le haut",
+        "description": "settings:free_move_up:(no description)"
+    },
+    "hdr": {
+        "message": "HDR",
+        "description": "settings:hdr:(no description)"
+    },
+    "streaming": {
+        "message": "Streaming",
+        "description": "settings:streaming:(no description)"
+    },
+    "build_item_13": {
+        "message": "Construire Objet 13",
+        "description": "settings:build_item_13:(no description)"
+    },
+    "build_item_12": {
+        "message": "Construire Objet 12",
+        "description": "settings:build_item_12:(no description)"
+    },
+    "build_item_11": {
+        "message": "Construire Objet 11",
+        "description": "settings:build_item_11:(no description)"
+    },
+    "build_item_10": {
+        "message": "Construire Objet 10",
+        "description": "settings:build_item_10:(no description)"
+    },
+    "free_move_left": {
+        "message": "Mouvement libre vers la gauche",
+        "description": "settings:free_move_left:(no description)"
+    },
+    "unit_orders": {
+        "message": "Ordres des unités",
+        "description": "settings:unit_orders:(no description)"
+    },
+    "build_item_15": {
+        "message": "Construire Objet 15",
+        "description": "settings:build_item_15:(no description)"
+    },
+    "build_item_14": {
+        "message": "Construire Objet 14",
+        "description": "settings:build_item_14:(no description)"
+    },
+    "show_metal_spot_icons": {
+        "message": "Afficher les Icônes des Gisements de Métal",
+        "description": "settings:show_metal_spot_icons:(no description)"
+    },
+    "free_yaw_left": {
+        "message": "Rotation gauche libre",
+        "description": "settings:free_yaw_left:(no description)"
+    },
+    "ui": {
+        "message": "IU",
+        "description": "settings:ui:(no description)"
+    },
+    "select_all_air_combat_units_on_screen": {
+        "message": "Sélectionner toutes les unités aériennes à l'écran",
+        "description": "settings:select_all_air_combat_units_on_screen:(no description)"
+    },
+    "shift": {
+        "message": "MAJ",
+        "description": "settings:shift:(no description)"
+    },
+    "3200_recommended_for_1080p": {
+        "message": "3200 (recommandé pour 1080p)",
+        "description": "settings:3200_recommended_for_1080p:(no description)"
+    },
+    "voice_volume": {
+        "message": "Volume Voix",
+        "description": "settings:voice_volume:(no description)"
+    },
+    "energy_on": {
+        "message": "Alimenté",
+        "description": "settings:energy_on:(no description)"
+    },
+    "anti_aliasing": {
+        "message": "Anti-crénelage",
+        "description": "settings:anti_aliasing:(no description)"
+    },
+    "twitchStreamingDesired": {
+        "message": "ACTIVER LA DIFFUSION (Prends effet immédiatement)",
+        "description": "settings:twitchStreamingDesired:(no description)"
+    },
+    "uber": {
+        "message": "UBER",
+        "description": "settings:uber:(no description)"
+    },
+    "patrol": {
+        "message": "Patrouiller",
+        "description": "settings:patrol:(no description)"
+    },
+    "set_default_camera": {
+        "message": "Définir la caméra par défaut",
+        "description": "settings:set_default_camera:(no description)"
+    },
+    "recall_anchor_6": {
+        "message": "Rappel ancre 6",
+        "description": "settings:recall_anchor_6:(no description)"
+    },
+    "camera_friction": {
+        "message": "Friction de la caméra",
+        "description": "settings:camera_friction:(no description)"
+    },
+    "off_mouselock": {
+        "message": "OFF (VÉRROUILLAGE DE LA SOURIS)",
+        "description": "settings:off_mouselock:(no description)"
+    },
+    "build_bar_groups": {
+        "message": "Groupes de la barre de construction",
+        "description": "settings:build_bar_groups:(no description)"
+    },
+    "ambient_occlusion": {
+        "message": "Occlusion Ambiante",
+        "description": "settings:ambient_occlusion:(no description)"
+    },
+    "high": {
+        "message": "ÉLEVÉ",
+        "description": "settings:high:(no description)"
+    },
+    "set_planet_camera": {
+        "message": "Activer la Caméra planétaire",
+        "description": "settings:set_planet_camera:(no description)"
+    },
+    "abort": {
+        "message": "Annuler",
+        "description": "settings:abort:(no description)"
+    },
+    "recall_group_8": {
+        "message": "Sélectionner Groupe 8",
+        "description": "settings:recall_group_8:(no description)"
+    },
+    "recall_group_9": {
+        "message": "Sélectionner Groupe 9",
+        "description": "settings:recall_group_9:(no description)"
+    },
+    "recall_group_5": {
+        "message": "Sélectionner Groupe 5",
+        "description": "settings:recall_group_5:(no description)"
+    },
+    "recall_group_4": {
+        "message": "Sélectionner Groupe 4",
+        "description": "settings:recall_group_4:(no description)"
+    },
+    "copy_unit": {
+        "message": "Copier unité",
+        "description": "settings:copy_unit:(no description)"
+    },
+    "recall_group_6": {
+        "message": "Sélectionner Groupe 6",
+        "description": "settings:recall_group_6:(no description)"
+    },
+    "recall_group_7": {
+        "message": "Sélectionner Groupe 7",
+        "description": "settings:recall_group_7:(no description)"
+    },
+    "recall_group_0": {
+        "message": "Sélectionner Groupe 0",
+        "description": "settings:recall_group_0:(no description)"
+    },
+    "recall_group_1": {
+        "message": "Sélectionner Groupe 1",
+        "description": "settings:recall_group_1:(no description)"
+    },
+    "last_pseudo_frame": {
+        "message": "dernière pseudo image",
+        "description": "settings:last_pseudo_frame:(no description)"
+    },
+    "recall_anchor_2": {
+        "message": "Rappel ancre 2",
+        "description": "settings:recall_anchor_2:(no description)"
+    },
+    "toggle_twitch_system_audio_recording": {
+        "message": "Basculer l'enregistrement audio Twitch",
+        "description": "settings:toggle_twitch_system_audio_recording:(no description)"
+    },
+    "free_movement": {
+        "message": "Mouvement libre",
+        "description": "settings:free_movement:(no description)"
+    },
+    "build_items": {
+        "message": "Construires Objets",
+        "description": "settings:build_items:(no description)"
+    },
+    "signed_in_as": {
+        "message": "Connecté en tant que",
+        "description": "settings:signed_in_as:(no description)"
+    },
+    "track_selection_with_camera": {
+        "message": "Suivre la sélection avec la caméra",
+        "description": "settings:track_selection_with_camera:(no description)"
+    },
+    "alerts": {
+        "message": "Alertes",
+        "description": "settings:alerts:(no description)"
+    },
+    "ping": {
+        "message": "ping",
+        "description": "settings:ping:(no description)"
+    },
+    "recall_anchor": {
+        "message": "Rappeler Ancre",
+        "description": "settings:recall_anchor:(no description)"
+    },
+    "jump_to_next_planet": {
+        "message": "Passer à la planète suivante",
+        "description": "settings:jump_to_next_planet:(no description)"
+    },
+    "select_all_air_combat_units": {
+        "message": "Sélectionner toutes les unités aériennes",
+        "description": "settings:select_all_air_combat_units:(no description)"
+    },
+    "build": {
+        "message": "Construire",
+        "description": "settings:build:(no description)"
+    },
+    "fps": {
+        "message": "FPS",
+        "description": "settings:fps:(no description)"
+    },
+    "display_mode": {
+        "message": "Mode d'Affichage",
+        "description": "settings:display_mode:(no description)"
+    },
+    "recall_group_3": {
+        "message": "Sélectionner Groupe 3",
+        "description": "settings:recall_group_3:(no description)"
+    },
+    "show_hide_performance_panel": {
+        "message": "Afficher/Masquer le panneau des performances",
+        "description": "settings:show_hide_performance_panel:(no description)"
+    },
+    "capture_anchor_3": {
+        "message": "Capturer ancre 3",
+        "description": "settings:capture_anchor_3:(no description)"
+    },
+    "capture_anchor_2": {
+        "message": "Capturer ancre 2",
+        "description": "settings:capture_anchor_2:(no description)"
+    },
+    "capture_anchor_1": {
+        "message": "Capturer ancre 1",
+        "description": "settings:capture_anchor_1:(no description)"
+    },
+    "capture_anchor_7": {
+        "message": "Capturer ancre 7",
+        "description": "settings:capture_anchor_7:(no description)"
+    },
+    "capture_anchor_6": {
+        "message": "Capturer ancre 6",
+        "description": "settings:capture_anchor_6:(no description)"
+    },
+    "capture_anchor_5": {
+        "message": "Capturer ancre 5",
+        "description": "settings:capture_anchor_5:(no description)"
+    },
+    "capture_anchor_4": {
+        "message": "Capturer ancre 4",
+        "description": "settings:capture_anchor_4:(no description)"
+    },
+    "swap_pip": {
+        "message": "Échanger avec le PIP",
+        "description": "settings:swap_pip:(no description)"
+    },
+    "capture_anchor_9": {
+        "message": "Capturer ancre 9",
+        "description": "settings:capture_anchor_9:(no description)"
+    },
+    "capture_anchor_8": {
+        "message": "Capturer ancre 8",
+        "description": "settings:capture_anchor_8:(no description)"
+    },
+    "select_combat_group": {
+        "message": "Sélectionner le groupe de combat",
+        "description": "settings:select_combat_group:(no description)"
+    },
+    "team_chat": {
+        "message": "Chat d'équipe",
+        "description": "settings:team_chat:(no description)"
+    },
+    "toggle_free_camera": {
+        "message": "Basculer la Caméra libre",
+        "description": "settings:toggle_free_camera:(no description)"
+    },
+    "sign_in": {
+        "message": "SE CONNECTER",
+        "description": "settings:sign_in:(no description)"
+    },
+    "decrease_camera_pan_speed": {
+        "message": "Réduire la vitesse de défilement de la caméra",
+        "description": "settings:decrease_camera_pan_speed:(no description)"
+    },
+    "capture_anchor_10": {
+        "message": "Capturer ancre 10",
+        "description": "settings:capture_anchor_10:(no description)"
+    },
+    "planet_jump": {
+        "message": "Défiler les planètes",
+        "description": "settings:planet_jump:(no description)"
+    },
+    "uberNetRegion": {
+        "message": "SERVEUR",
+        "description": "settings:uberNetRegion:(no description)"
+    },
+    "free_pitch_forward": {
+        "message": "Tangage libre en avant",
+        "description": "settings:free_pitch_forward:(no description)"
+    },
+    "self_destruct_selected_unit": {
+        "message": "Auto-détruire l'unité sélectionnée",
+        "description": "settings:self_destruct_selected_unit:(no description)"
+    },
+    "2000_recommended_for_720p": {
+        "message": "2000 (recommandé pour le 720p)",
+        "description": "settings:2000_recommended_for_720p:(no description)"
+    },
+    "off": {
+        "message": "DÉSACTIVÉ",
+        "description": "settings:off:(no description)"
+    },
+    "modes": {
+        "message": "modes",
+        "description": "settings:modes:(no description)"
+    },
+    "unload": {
+        "message": "Décharger",
+        "description": "settings:unload:(no description)"
+    },
+    "select_commander": {
+        "message": "Sélectionner le Commandant",
+        "description": "settings:select_commander:(no description)"
+    },
+    "orbital_shell": {
+        "message": "Niveau Orbital",
+        "description": "settings:orbital_shell:(no description)"
+    },
+    "select_all_combat_units_on_screen": {
+        "message": "Sélectionner toutes les unités de combat à l'écran",
+        "description": "settings:select_all_combat_units_on_screen:(no description)"
+    },
+    "build_item_1": {
+        "message": "Construire Objet 1",
+        "description": "settings:build_item_1:(no description)"
+    },
+    "show_hide_pip": {
+        "message": "Afficher/Masquer le PIP",
+        "description": "settings:show_hide_pip:(no description)"
+    },
+    "zoom_to_celestial": {
+        "message": "Zoomer sur le niveau interplanétaire",
+        "description": "settings:zoom_to_celestial:(no description)"
+    },
+    "maneuver": {
+        "message": "Manœuvrer",
+        "description": "settings:maneuver:(no description)"
+    },
+    "audio": {
+        "message": "Audio",
+        "description": "settings:audio:(no description)"
+    },
+    "resolution": {
+        "message": "Résolution",
+        "description": "settings:resolution:(no description)"
+    },
+    "toggle_console": {
+        "message": "Basculer la Console",
+        "description": "settings:toggle_console:(no description)"
+    },
+    "select_vehicle_group": {
+        "message": "Sélectionner le groupe véhicule",
+        "description": "settings:select_vehicle_group:(no description)"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "locked_game": {
+        "message": "Kilitli Oyun",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "filter_modded": {
+        "message": "Değiştirilmiş Oyunları Filtrele",
+        "description": "server_browser:filter_modded:(no description)"
+    },
+    "single": {
+        "message": "Tekli",
+        "description": "server_browser:single:(no description)"
+    },
+    "planets": {
+        "message": "Gezegenler",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "Slotlar",
+        "description": "server_browser:slots:(no description)"
+    },
+    "filter_by_system_size": {
+        "message": "Sistem Büyüklüğüne Göre Filtrele",
+        "description": "server_browser:filter_by_system_size:(no description)"
+    },
+    "filter_by_game_state": {
+        "message": "Oyunun Durumuna Göre Filtrele",
+        "description": "server_browser:filter_by_game_state:(no description)"
+    },
+    "10_players": {
+        "message": "10+ oyuncular",
+        "description": "server_browser:10_players:(no description)"
+    },
+    "modded": {
+        "message": "Değiştirilmiş",
+        "description": "server_browser:modded:(no description)"
+    },
+    "create_game": {
+        "message": "Oyun Oluştur",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "İzleyiciler",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "small_system_2_3": {
+        "message": "Küçük sistem (2-3)",
+        "description": "server_browser:small_system_2_3:(no description)"
+    },
+    "medium_system_4_9": {
+        "message": "Orta büyüklükte sistem (4-9)",
+        "description": "server_browser:medium_system_4_9:(no description)"
+    },
+    "filter_by_player_count": {
+        "message": "Oyuncu Sayısına Göre Filtrele",
+        "description": "server_browser:filter_by_player_count:(no description)"
+    },
+    "join_game": {
+        "message": "Oyuna Katıl",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "filter_by_regions": {
+        "message": "Bölgelere Göre Filtrele",
+        "description": "server_browser:filter_by_regions:(no description)"
+    },
+    "game": {
+        "message": "Oyun",
+        "description": "server_browser:game:(no description)"
+    },
+    "modded_games": {
+        "message": "Değiştirilmiş Oyunlar",
+        "description": "server_browser:modded_games:(no description)"
+    },
+    "2_3_players": {
+        "message": "2-3 oyuncu",
+        "description": "server_browser:2_3_players:(no description)"
+    },
+    "in_progress": {
+        "message": "Devam Ediyor",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "Şifre",
+        "description": "server_browser:password:(no description)"
+    },
+    "4_9_players": {
+        "message": "4-9 oyuncu",
+        "description": "server_browser:4_9_players:(no description)"
+    },
+    "annihilate": {
+        "message": "OYNA",
+        "description": "server_browser:annihilate:(no description)"
+    },
+    "non_modded_games": {
+        "message": "Değiştirilmemiş Oyunlar",
+        "description": "server_browser:non_modded_games:(no description)"
+    },
+    "region": {
+        "message": "Bölge",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "İzle",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "in_lobby": {
+        "message": "Lobide",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "OYUNCULAR",
+        "description": "server_browser:players:(no description)"
+    },
+    "mode": {
+        "message": "Mod",
+        "description": "server_browser:mode:(no description)"
+    },
+    "large_system_10": {
+        "message": "Büyük sistem (10+)",
+        "description": "server_browser:large_system_10:(no description)"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "my_planets": {
+        "message": "My Planets",
+        "description": "load_planet:my_planets:(no description)"
+    },
+    "delete_this_planet": {
+        "message": "Delete this planet?",
+        "description": "load_planet:delete_this_planet:(no description)"
+    },
+    "planets": {
+        "message": "Планети",
+        "description": "load_planet:planets:(no description)"
+    },
+    "delete_this_system": {
+        "message": "Delete this system?",
+        "description": "load_planet:delete_this_system:(no description)"
+    },
+    "delete_system": {
+        "message": "Delete System",
+        "description": "load_planet:delete_system:(no description)"
+    },
+    "show_planets": {
+        "message": "ПОКАЗАТИ ПЛАНЕТИ",
+        "description": "load_planet:show_planets:(no description)"
+    },
+    "load_system": {
+        "message": "Load System",
+        "description": "load_planet:load_system:(no description)"
+    },
+    "show_systems": {
+        "message": "ПОКАЗАТИ СИСТЕМИ",
+        "description": "load_planet:show_systems:(no description)"
+    },
+    "systems": {
+        "message": "Systems",
+        "description": "load_planet:systems:(no description)"
+    },
+    "load_planet": {
+        "message": "Load Planet",
+        "description": "load_planet:load_planet:(no description)"
+    },
+    "my_systems": {
+        "message": "My Systems",
+        "description": "load_planet:my_systems:(no description)"
+    },
+    "cancel": {
+        "message": "СКАСУВАТИ",
+        "description": "load_planet:cancel:(no description)"
+    },
+    "create_new_system": {
+        "message": "СТВОРИТИ НОВУ СИСТЕМУ",
+        "description": "load_planet:create_new_system:(no description)"
+    },
+    "system_designer": {
+        "message": "SYSTEM DESIGNER",
+        "description": "load_planet:system_designer:(no description)"
+    },
+    "delete": {
+        "message": "ВИДАЛИТИ",
+        "description": "load_planet:delete:(no description)"
+    }
+}

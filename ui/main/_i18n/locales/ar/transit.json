@@ -1,0 +1,10 @@
+{
+    "returning_to_main_menu": {
+        "message": "جاري العودة للقائمة الرئيسة",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "error": {
+        "message": "خطأ",
+        "description": "transit:error:(no description)"
+    }
+}

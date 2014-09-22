@@ -1,0 +1,50 @@
+{
+    "here_s_your_receipt": {
+        "message": "Her er din kvittering.",
+        "description": "purchase_complete:here_s_your_receipt:(no description)"
+    },
+    "username": {
+        "message": "Brukernavn",
+        "description": "purchase_complete:username:(no description)"
+    },
+    "_model_purchaseprice": {
+        "message": "@Model.KjøpPris",
+        "description": "purchase_complete:_model_purchaseprice:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Bekreftelseskode:",
+        "description": "purchase_complete:confirmation_code:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Takk for handelen.",
+        "description": "purchase_complete:thank_you_for_your_purchase:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "Ditt kjøp er nå registrert på din konto og kan hentes i spillet.",
+        "description": "purchase_complete:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email": {
+        "message": "Bekreftelse på ditt kjøp finner du nedenfor. Kvittering vil bli sendt på epost til @Model.Email",
+        "description": "purchase_complete:confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email:(no description)"
+    },
+    "_model_orderid": {
+        "message": "@Model.OrderId",
+        "description": "purchase_complete:_model_orderid:(no description)"
+    },
+    "total": {
+        "message": "Totalt:",
+        "description": "purchase_complete:total:(no description)"
+    },
+    "there_was_an_error_in_the_purchase_process_please_try_again": {
+        "message": "Det oppsto en feil i kjøpsprosessen. Vennligst prøv igjen.",
+        "description": "purchase_complete:there_was_an_error_in_the_purchase_process_please_try_again:(no description)"
+    },
+    "account_name": {
+        "message": "Kontonavn:",
+        "description": "purchase_complete:account_name:(no description)"
+    },
+    "your_purchase_was_not_completed": {
+        "message": "Ditt kjøp ble ikke gjennomført.",
+        "description": "purchase_complete:your_purchase_was_not_completed:(no description)"
+    }
+}

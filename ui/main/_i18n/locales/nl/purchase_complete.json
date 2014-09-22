@@ -1,0 +1,50 @@
+{
+    "here_s_your_receipt": {
+        "message": "Hier is uw kwitantie.",
+        "description": "purchase_complete:here_s_your_receipt:(no description)"
+    },
+    "username": {
+        "message": "Gebruikersnaam",
+        "description": "purchase_complete:username:(no description)"
+    },
+    "_model_purchaseprice": {
+        "message": "@Model.PurchasePrice",
+        "description": "purchase_complete:_model_purchaseprice:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Bevestigingscode:",
+        "description": "purchase_complete:confirmation_code:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Bedankt voor uw aankoop.",
+        "description": "purchase_complete:thank_you_for_your_purchase:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "Uw aangeskochte producten zijn nu toegevoegd aan uw account en zijn beschikbaar in het spel.",
+        "description": "purchase_complete:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email": {
+        "message": "De bevestiging van uw bestelling vindt u hieronder. Een kwitantie wordt per email verstuurd aan @Model.Email.",
+        "description": "purchase_complete:confirmation_of_your_purchase_is_provided_below_a_receipt_will_be_emailed_to_model_email:(no description)"
+    },
+    "_model_orderid": {
+        "message": "@Model.OrderId",
+        "description": "purchase_complete:_model_orderid:(no description)"
+    },
+    "total": {
+        "message": "Totaal:",
+        "description": "purchase_complete:total:(no description)"
+    },
+    "there_was_an_error_in_the_purchase_process_please_try_again": {
+        "message": "Er is een fout opgetreden in het bestelproces. Probeer het a.u.b. opnieuw.",
+        "description": "purchase_complete:there_was_an_error_in_the_purchase_process_please_try_again:(no description)"
+    },
+    "account_name": {
+        "message": "Accountnaam:",
+        "description": "purchase_complete:account_name:(no description)"
+    },
+    "your_purchase_was_not_completed": {
+        "message": "Uw aankoop is niet afgerond.",
+        "description": "purchase_complete:your_purchase_was_not_completed:(no description)"
+    }
+}

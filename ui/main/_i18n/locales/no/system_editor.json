@@ -1,0 +1,198 @@
+{
+    "my_planets": {
+        "message": "MINE PLANETER",
+        "description": "system_editor:my_planets:(no description)"
+    },
+    "preview_all": {
+        "message": "FORHÅNDSVIS ALLE",
+        "description": "system_editor:preview_all:(no description)"
+    },
+    "show": {
+        "message": "VIS",
+        "description": "system_editor:show:(no description)"
+    },
+    "water_height": {
+        "message": "VANNHØYDE",
+        "description": "system_editor:water_height:(no description)"
+    },
+    "accept": {
+        "message": "Godta",
+        "description": "system_editor:accept:(no description)"
+    },
+    "height": {
+        "message": "Høyde",
+        "description": "system_editor:height:(no description)"
+    },
+    "seed": {
+        "message": "SEED",
+        "description": "system_editor:seed:(no description)"
+    },
+    "radius": {
+        "message": "Radius",
+        "description": "system_editor:radius:(no description)"
+    },
+    "cancel": {
+        "message": "Avbryt",
+        "description": "system_editor:cancel:(no description)"
+    },
+    "close": {
+        "message": "AVSLUTT",
+        "description": "system_editor:close:(no description)"
+    },
+    "metal_clusters": {
+        "message": "Metallklynger",
+        "description": "system_editor:metal_clusters:(no description)"
+    },
+    "the_system_has_not_been_saved": {
+        "message": "Systemet har ikke blitt lagret.",
+        "description": "system_editor:the_system_has_not_been_saved:(no description)"
+    },
+    "the_planet_is_loading_this_can_take_a_long_time": {
+        "message": "Planeten laster. Dette kan ta lang tid.",
+        "description": "system_editor:the_planet_is_loading_this_can_take_a_long_time:(no description)"
+    },
+    "biome": {
+        "message": "BIOME",
+        "description": "system_editor:biome:(no description)"
+    },
+    "starting_planet": {
+        "message": "Startplanet",
+        "description": "system_editor:starting_planet:(no description)"
+    },
+    "hide": {
+        "message": "SKJUL",
+        "description": "system_editor:hide:(no description)"
+    },
+    "temperature": {
+        "message": "TEMPERATUR",
+        "description": "system_editor:temperature:(no description)"
+    },
+    "discard": {
+        "message": "Forkast",
+        "description": "system_editor:discard:(no description)"
+    },
+    "save_mixed_case": {
+        "message": "Lagre",
+        "description": "system_editor:save_mixed_case:(no description)"
+    },
+    "clear_system": {
+        "message": "NULLSTILL SYSTEM",
+        "description": "system_editor:clear_system:(no description)"
+    },
+    "x": {
+        "message": "X:",
+        "description": "system_editor:x:(no description)"
+    },
+    "system_editor": {
+        "message": "SYSTEMBYGGER",
+        "description": "system_editor:system_editor:(no description)"
+    },
+    "preview": {
+        "message": "FORHÅNDSVIS",
+        "description": "system_editor:preview:(no description)"
+    },
+    "templates": {
+        "message": "MALER",
+        "description": "system_editor:templates:(no description)"
+    },
+    "biome_scale": {
+        "message": "BIOME SKALA",
+        "description": "system_editor:biome_scale:(no description)"
+    },
+    "save_system": {
+        "message": "LAGRE SYSTEM",
+        "description": "system_editor:save_system:(no description)"
+    },
+    "water": {
+        "message": "Vann",
+        "description": "system_editor:water:(no description)"
+    },
+    "metal_density": {
+        "message": "METALLTETTHET",
+        "description": "system_editor:metal_density:(no description)"
+    },
+    "velocity": {
+        "message": "HASTIGHET",
+        "description": "system_editor:velocity:(no description)"
+    },
+    "edit_planet": {
+        "message": "REDIGER PLANET",
+        "description": "system_editor:edit_planet:(no description)"
+    },
+    "simulate": {
+        "message": "SIMULER",
+        "description": "system_editor:simulate:(no description)"
+    },
+    "planet_name": {
+        "message": "PLANETNAVN",
+        "description": "system_editor:planet_name:(no description)"
+    },
+    "required_thrust_to_move": {
+        "message": "MOTORER",
+        "description": "system_editor:required_thrust_to_move:(no description)"
+    },
+    "properties": {
+        "message": "EGENSKAPER",
+        "description": "system_editor:properties:(no description)"
+    },
+    "recent": {
+        "message": "SISTE",
+        "description": "system_editor:recent:(no description)"
+    },
+    "system_name": {
+        "message": "NAVN:",
+        "description": "system_editor:system_name:(no description)"
+    },
+    "e": {
+        "message": "M:",
+        "description": "system_editor:e:(no description)"
+    },
+    "temp": {
+        "message": "Temp",
+        "description": "system_editor:temp:(no description)"
+    },
+    "do_you_want_to_save_this_system": {
+        "message": "Vil du lagre systemet?",
+        "description": "system_editor:do_you_want_to_save_this_system:(no description)"
+    },
+    "height_range": {
+        "message": "HØYDESPEKTER",
+        "description": "system_editor:height_range:(no description)"
+    },
+    "remove": {
+        "message": "FJERN",
+        "description": "system_editor:remove:(no description)"
+    },
+    "planet": {
+        "message": "PLANET",
+        "description": "system_editor:planet:(no description)"
+    },
+    "random_name": {
+        "message": "TILFELDIG NAVN",
+        "description": "system_editor:random_name:(no description)"
+    },
+    "mass": {
+        "message": "MASSE",
+        "description": "system_editor:mass:(no description)"
+    },
+    "save_template": {
+        "message": "LAGRE MAL",
+        "description": "system_editor:save_template:(no description)"
+    },
+    "the_program_will_be_unresponsive_until_the_planet_has_finished": {
+        "message": "Programmet vil henge inntil planeten er ferdig.",
+        "description": "system_editor:the_program_will_be_unresponsive_until_the_planet_has_finished:(no description)"
+    },
+    "y": {
+        "message": "Y:",
+        "description": "system_editor:y:(no description)"
+    },
+    "position": {
+        "message": "POSISJON",
+        "description": "system_editor:position:(no description)"
+    },
+    "the_system_has_been_changed_since_it_was_last_saved": {
+        "message": "Systemet er blitt endret siden siste lagring.",
+        "description": "system_editor:the_system_has_been_changed_since_it_was_last_saved:(no description)"
+    }
+}

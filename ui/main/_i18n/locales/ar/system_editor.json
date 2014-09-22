@@ -1,0 +1,210 @@
+{
+    "my_planets": {
+        "message": "كواكبي",
+        "description": "system_editor:my_planets:(no description)"
+    },
+    "preview_all": {
+        "message": "معاينة الجميع",
+        "description": "system_editor:preview_all:(no description)"
+    },
+    "show": {
+        "message": "إظهار",
+        "description": "system_editor:show:(no description)"
+    },
+    "water_height": {
+        "message": "ارتفاع المياه",
+        "description": "system_editor:water_height:(no description)"
+    },
+    "accept": {
+        "message": "قبول",
+        "description": "system_editor:accept:(no description)"
+    },
+    "height": {
+        "message": "الارتفاع",
+        "description": "system_editor:height:(no description)"
+    },
+    "seed": {
+        "message": "البذور",
+        "description": "system_editor:seed:(no description)"
+    },
+    "radius": {
+        "message": "قُطر",
+        "description": "system_editor:radius:(no description)"
+    },
+    "cancel": {
+        "message": "إلغاء",
+        "description": "system_editor:cancel:(no description)"
+    },
+    "close": {
+        "message": "إغلاق",
+        "description": "system_editor:close:(no description)"
+    },
+    "metal_clusters": {
+        "message": "مجموعات معدنية",
+        "description": "system_editor:metal_clusters:(no description)"
+    },
+    "the_system_has_not_been_saved": {
+        "message": "لم يتم حفظ النظام.",
+        "description": "system_editor:the_system_has_not_been_saved:(no description)"
+    },
+    "the_planet_is_loading_this_can_take_a_long_time": {
+        "message": "يتم تحميل هذا الكوكب. وهذا يمكن أن يستغرق وقتاً طويلاً.",
+        "description": "system_editor:the_planet_is_loading_this_can_take_a_long_time:(no description)"
+    },
+    "biome": {
+        "message": "بَيوم",
+        "description": "system_editor:biome:(no description)"
+    },
+    "starting_planet": {
+        "message": "كوكب البدء",
+        "description": "system_editor:starting_planet:(no description)"
+    },
+    "hide": {
+        "message": "إخفاء",
+        "description": "system_editor:hide:(no description)"
+    },
+    "temperature": {
+        "message": "درجة الحرارة",
+        "description": "system_editor:temperature:(no description)"
+    },
+    "discard": {
+        "message": "التخلص",
+        "description": "system_editor:discard:(no description)"
+    },
+    "save_mixed_case": {
+        "message": "إحفظ",
+        "description": "system_editor:save_mixed_case:(no description)"
+    },
+    "clear_system": {
+        "message": "إخلاء النظام",
+        "description": "system_editor:clear_system:(no description)"
+    },
+    "system_radius_is_too_small": {
+        "message": "قطر النظام صغير جداً",
+        "description": "system_editor:system_radius_is_too_small:(no description)"
+    },
+    "x": {
+        "message": "X:",
+        "description": "system_editor:x:(no description)"
+    },
+    "system_editor": {
+        "message": "مصمم النظام",
+        "description": "system_editor:system_editor:(no description)"
+    },
+    "preview": {
+        "message": "معاينة",
+        "description": "system_editor:preview:(no description)"
+    },
+    "templates": {
+        "message": "قوالب",
+        "description": "system_editor:templates:(no description)"
+    },
+    "biome_scale": {
+        "message": "نطاق المنطقة",
+        "description": "system_editor:biome_scale:(no description)"
+    },
+    "save_system": {
+        "message": "حفظ النظام",
+        "description": "system_editor:save_system:(no description)"
+    },
+    "water": {
+        "message": "ماء",
+        "description": "system_editor:water:(no description)"
+    },
+    "metal_density": {
+        "message": "كثافة المعادن",
+        "description": "system_editor:metal_density:(no description)"
+    },
+    "velocity": {
+        "message": "السرعة",
+        "description": "system_editor:velocity:(no description)"
+    },
+    "edit_planet": {
+        "message": "تحرير الكوكب",
+        "description": "system_editor:edit_planet:(no description)"
+    },
+    "simulate": {
+        "message": "محاكاة",
+        "description": "system_editor:simulate:(no description)"
+    },
+    "planet_name": {
+        "message": "اسم الكوكب",
+        "description": "system_editor:planet_name:(no description)"
+    },
+    "required_thrust_to_move": {
+        "message": "المحركات",
+        "description": "system_editor:required_thrust_to_move:(no description)"
+    },
+    "system_radius_is_too_large": {
+        "message": "قُطر النظام كبير جداً",
+        "description": "system_editor:system_radius_is_too_large:(no description)"
+    },
+    "properties": {
+        "message": "خصائص",
+        "description": "system_editor:properties:(no description)"
+    },
+    "recent": {
+        "message": "مؤخراً",
+        "description": "system_editor:recent:(no description)"
+    },
+    "system_name": {
+        "message": "الأسم:",
+        "description": "system_editor:system_name:(no description)"
+    },
+    "e": {
+        "message": "ث:",
+        "description": "system_editor:e:(no description)"
+    },
+    "temp": {
+        "message": "الدرجة",
+        "description": "system_editor:temp:(no description)"
+    },
+    "do_you_want_to_save_this_system": {
+        "message": "هل تريد حفظ هذا النظام؟",
+        "description": "system_editor:do_you_want_to_save_this_system:(no description)"
+    },
+    "height_range": {
+        "message": "نطاق الأرتفاع",
+        "description": "system_editor:height_range:(no description)"
+    },
+    "remove": {
+        "message": "إزالة",
+        "description": "system_editor:remove:(no description)"
+    },
+    "planet": {
+        "message": "كوكب",
+        "description": "system_editor:planet:(no description)"
+    },
+    "system_has_no_starting_planet": {
+        "message": "النظام ليس لديه كوكب البدء.",
+        "description": "system_editor:system_has_no_starting_planet:(no description)"
+    },
+    "random_name": {
+        "message": "اسم عشوائي",
+        "description": "system_editor:random_name:(no description)"
+    },
+    "mass": {
+        "message": "كتلة",
+        "description": "system_editor:mass:(no description)"
+    },
+    "save_template": {
+        "message": "حفظ القالب",
+        "description": "system_editor:save_template:(no description)"
+    },
+    "the_program_will_be_unresponsive_until_the_planet_has_finished": {
+        "message": "البرنامج سيكون غير مستجيب حتى انتهاء توليد هذا الكوكب",
+        "description": "system_editor:the_program_will_be_unresponsive_until_the_planet_has_finished:(no description)"
+    },
+    "y": {
+        "message": "غ:",
+        "description": "system_editor:y:(no description)"
+    },
+    "position": {
+        "message": "الموقف",
+        "description": "system_editor:position:(no description)"
+    },
+    "the_system_has_been_changed_since_it_was_last_saved": {
+        "message": "النظام تم تغييره منذ آخر مرة تم حفظه. ",
+        "description": "system_editor:the_system_has_been_changed_since_it_was_last_saved:(no description)"
+    }
+}

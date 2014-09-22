@@ -1,0 +1,138 @@
+{
+    "number_of_players": {
+        "message": "Aantal Spelers",
+        "description": "server_browser:number_of_players:(no description)"
+    },
+    "locked_game": {
+        "message": "Gesloten Spel",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "testing": {
+        "message": "Testen",
+        "description": "server_browser:testing:(no description)"
+    },
+    "game_state": {
+        "message": "Spel status",
+        "description": "server_browser:game_state:(no description)"
+    },
+    "competitive": {
+        "message": "Competetief",
+        "description": "server_browser:competitive:(no description)"
+    },
+    "tag": {
+        "message": "Tag",
+        "description": "server_browser:tag:(no description)"
+    },
+    "planets": {
+        "message": "Planeten",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "Slots",
+        "description": "server_browser:slots:(no description)"
+    },
+    "casual": {
+        "message": "Ongedwongen",
+        "description": "server_browser:casual:(no description)"
+    },
+    "can_join": {
+        "message": "Kan Meedoen",
+        "description": "server_browser:can_join:(no description)"
+    },
+    "multiplayer": {
+        "message": "Multiplayer",
+        "description": "server_browser:multiplayer:(no description)"
+    },
+    "any": {
+        "message": "Alles",
+        "description": "server_browser:any:(no description)"
+    },
+    "can_spectate": {
+        "message": "Kan Observeren",
+        "description": "server_browser:can_spectate:(no description)"
+    },
+    "no_min": {
+        "message": "Geen minimum",
+        "description": "server_browser:no_min:(no description)"
+    },
+    "number_of_planets": {
+        "message": "Aantal Planeten",
+        "description": "server_browser:number_of_planets:(no description)"
+    },
+    "status": {
+        "message": "Status",
+        "description": "server_browser:status:(no description)"
+    },
+    "create_game": {
+        "message": "Creëer Spel",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "Toeschouwers",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "join_game": {
+        "message": "Doe mee aan spel",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "game": {
+        "message": "Spel",
+        "description": "server_browser:game:(no description)"
+    },
+    "in_progress": {
+        "message": "Bezig",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "Paswoord",
+        "description": "server_browser:password:(no description)"
+    },
+    "team_armies": {
+        "message": "Team Legers",
+        "description": "server_browser:team_armies:(no description)"
+    },
+    "mod": {
+        "message": "Mod",
+        "description": "server_browser:mod:(no description)"
+    },
+    "mods": {
+        "message": "Mods",
+        "description": "server_browser:mods:(no description)"
+    },
+    "free_for_all": {
+        "message": "Free For All",
+        "description": "server_browser:free_for_all:(no description)"
+    },
+    "no_max": {
+        "message": "Geen maximum",
+        "description": "server_browser:no_max:(no description)"
+    },
+    "region": {
+        "message": "Regio",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "Toeschouwen",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "can_play": {
+        "message": "Kan Spelen",
+        "description": "server_browser:can_play:(no description)"
+    },
+    "in_lobby": {
+        "message": "In Lobby",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "SPELERS",
+        "description": "server_browser:players:(no description)"
+    },
+    "ai_battle": {
+        "message": "Gevecht tegen Computer",
+        "description": "server_browser:ai_battle:(no description)"
+    },
+    "mode": {
+        "message": "Modus",
+        "description": "server_browser:mode:(no description)"
+    }
+}

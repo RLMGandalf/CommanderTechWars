@@ -1,0 +1,34 @@
+{
+    "final_tech": {
+        "message": "最终科技",
+        "description": "gw_war_over:final_tech:(no description)"
+    },
+    "annihilated": {
+        "message": "已歼灭",
+        "description": "gw_war_over:annihilated:(no description)"
+    },
+    "discards": {
+        "message": "取消",
+        "description": "gw_war_over:discards:(no description)"
+    },
+    "turns": {
+        "message": "回合：",
+        "description": "gw_war_over:turns:(no description)"
+    },
+    "victory": {
+        "message": "胜利",
+        "description": "gw_war_over:victory:(no description)"
+    },
+    "wins": {
+        "message": "胜利：",
+        "description": "gw_war_over:wins:(no description)"
+    },
+    "delete_archive": {
+        "message": "删除档案",
+        "description": "gw_war_over:delete_archive:(no description)"
+    },
+    "close": {
+        "message": "关闭",
+        "description": "gw_war_over:close:(no description)"
+    }
+}

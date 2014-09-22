@@ -1,0 +1,182 @@
+{
+    "_b": {
+        "description": "uberbar:_b:(no description)", 
+        "message": "[\u0e3f]", 
+        "original": "[B]"
+    }, 
+    "_chat": {
+        "description": "uberbar:_chat:(no description)", 
+        "message": "[\u04aa\u04c7\u0202\u4e01]", 
+        "original": "[CHAT]"
+    }, 
+    "_f": {
+        "description": "uberbar:_f:(no description)", 
+        "message": "[\u03dc]", 
+        "original": "[F]"
+    }, 
+    "_i": {
+        "description": "uberbar:_i:(no description)", 
+        "message": "[\u03aa]", 
+        "original": "[I]"
+    }, 
+    "_remove": {
+        "description": "uberbar:_remove:(no description)", 
+        "message": "[\u211d\u0190\u039c\u0472\u0476\u0190]", 
+        "original": "[REMOVE]"
+    }, 
+    "_tags": {
+        "description": "uberbar:_tags:(no description)", 
+        "message": "[\u4e01\u0203\u0260\u01a8:", 
+        "original": "[Tags:"
+    }, 
+    "accept": {
+        "description": "uberbar:accept:(no description)", 
+        "message": "\u0202\u03f2\u03f2\u1f73\u2374\u04ad", 
+        "original": "Accept"
+    }, 
+    "appear_offline": {
+        "description": "uberbar:appear_offline:(no description)", 
+        "message": "\u0202\u2374\u2374\u1f73\u0203\u0213 \u0472\u0493\u0493\u230a\u0457\u019e\u1f73", 
+        "original": "Appear Offline"
+    }, 
+    "away": {
+        "description": "uberbar:away:(no description)", 
+        "message": "\u0202\u1ff4\u0203\u0443", 
+        "original": "Away"
+    }, 
+    "block": {
+        "description": "uberbar:block:(no description)", 
+        "message": "\u0e3f\u230a\u020f\u03f2\u045c", 
+        "original": "Block"
+    }, 
+    "cancel": {
+        "description": "uberbar:cancel:(no description)", 
+        "message": "\u04aa\u0202\u019d\u04aa\u0190\u20a4", 
+        "original": "CANCEL"
+    }, 
+    "change": {
+        "description": "uberbar:change:(no description)", 
+        "message": "\u04aa\u04c7\u0202\u019d\u01f4\u0190", 
+        "original": "CHANGE"
+    }, 
+    "change_display_name": {
+        "description": "uberbar:change_display_name:(no description)", 
+        "message": "\u04aa\u043d\u0203\u019e\u0260\u1f73 \u0189\u0457\u01a8\u2374\u230a\u0203\u0443 \u019d\u0203\u028d\u1f73", 
+        "original": "Change Display Name"
+    }, 
+    "change_your_display_name": {
+        "description": "uberbar:change_your_display_name:(no description)", 
+        "message": "\u04aa\u043d\u0203\u019e\u0260\u1f73 \u0443\u020f\u0574\u0213 \u0257\u0457\u01a8\u2374\u230a\u0203\u0443 \u019e\u0203\u028d\u1f73?", 
+        "original": "Change your display name?"
+    }, 
+    "chat": {
+        "description": "uberbar:chat:(no description)", 
+        "message": "\u04aa\u043d\u0203\u04ad", 
+        "original": "Chat"
+    }, 
+    "do_not_disturb": {
+        "description": "uberbar:do_not_disturb:(no description)", 
+        "message": "\u0189\u020f \u019d\u020f\u04ad \u0189\u0457\u01a8\u04ad\u0574\u0213\u0411", 
+        "original": "Do Not Disturb"
+    }, 
+    "friends": {
+        "description": "uberbar:friends:(no description)", 
+        "message": "\u03dc\u0213\u0457\u1f73\u019e\u0257\u01a8", 
+        "original": "Friends"
+    }, 
+    "ignore": {
+        "description": "uberbar:ignore:(no description)", 
+        "message": "\u03aa\u0260\u019e\u020f\u0213\u1f73", 
+        "original": "Ignore"
+    }, 
+    "invite_to_chat": {
+        "description": "uberbar:invite_to_chat:(no description)", 
+        "message": "\u03aa\u019e\u0477\u0457\u04ad\u1f73 \u04ad\u020f \u04aa\u043d\u0203\u04ad", 
+        "original": "Invite to Chat"
+    }, 
+    "invite_to_game": {
+        "description": "uberbar:invite_to_game:(no description)", 
+        "message": "\u03aa\u019e\u0477\u0457\u04ad\u1f73 \u04ad\u020f \u0260\u0203\u028d\u1f73", 
+        "original": "Invite to game"
+    }, 
+    "invited_you_to_a_game": {
+        "description": "uberbar:invited_you_to_a_game:(no description)", 
+        "message": "\u0457\u019e\u0477\u0457\u04ad\u1f73\u0257 \u0443\u020f\u0574 \u04ad\u020f \u0203 \u0260\u0203\u028d\u1f73.", 
+        "original": "invited you to a game."
+    }, 
+    "invited_you_to_chat": {
+        "description": "uberbar:invited_you_to_chat:(no description)", 
+        "message": "\u0457\u019e\u0477\u0457\u04ad\u1f73\u0257 \u0443\u020f\u0574 \u04ad\u020f \u03f2\u043d\u0203\u04ad.", 
+        "original": "invited you to chat."
+    }, 
+    "join_game": {
+        "description": "uberbar:join_game:(no description)", 
+        "message": "\u06b7\u020f\u0457\u019e \u01f4\u0203\u028d\u1f73", 
+        "original": "Join Game"
+    }, 
+    "new_display_name": {
+        "description": "uberbar:new_display_name:(no description)", 
+        "message": "\u019d\u1f73\u1ff4 \u0189\u0457\u01a8\u2374\u230a\u0203\u0443 \u019d\u0203\u028d\u1f73:", 
+        "original": "New Display Name:"
+    }, 
+    "no_pending_notifications": {
+        "description": "uberbar:no_pending_notifications:(no description)", 
+        "message": "\u019d\u020f \u2374\u1f73\u019e\u0257\u0457\u019e\u0260 \u019e\u020f\u04ad\u0457\u0493\u0457\u03f2\u0203\u04ad\u0457\u020f\u019e\u01a8.", 
+        "original": "No pending notifications."
+    }, 
+    "offline": {
+        "description": "uberbar:offline:(no description)", 
+        "message": "\u0472\u0493\u0493\u230a\u0457\u019e\u1f73", 
+        "original": "Offline"
+    }, 
+    "online": {
+        "description": "uberbar:online:(no description)", 
+        "message": "\u0472\u019e\u230a\u0457\u019e\u1f73", 
+        "original": "Online"
+    }, 
+    "pending_invite": {
+        "description": "uberbar:pending_invite:(no description)", 
+        "message": "\u1e54\u1f73\u019e\u0257\u0457\u019e\u0260 \u03aa\u019e\u0477\u0457\u04ad\u1f73", 
+        "original": "Pending Invite"
+    }, 
+    "recent": {
+        "description": "uberbar:recent:(no description)", 
+        "message": "\u211d\u1f73\u03f2\u1f73\u019e\u04ad", 
+        "original": "Recent"
+    }, 
+    "remove": {
+        "description": "uberbar:remove:(no description)", 
+        "message": "\u211d\u1f73\u028d\u020f\u0477\u1f73", 
+        "original": "Remove"
+    }, 
+    "search_results": {
+        "description": "uberbar:search_results:(no description)", 
+        "message": "\u1e60\u1f73\u0203\u0213\u03f2\u043d \u211d\u1f73\u01a8\u0574\u230a\u04ad\u01a8", 
+        "original": "Search Results"
+    }, 
+    "send_friend_request": {
+        "description": "uberbar:send_friend_request:(no description)", 
+        "message": "\u1e60\u1f73\u019e\u0257 \u03dc\u0213\u0457\u1f73\u019e\u0257 \u211d\u1f73\u0533\u0574\u1f73\u01a8\u04ad", 
+        "original": "Send Friend Request"
+    }, 
+    "unblock": {
+        "description": "uberbar:unblock:(no description)", 
+        "message": "\u1ee6\u019e\u0411\u230a\u020f\u03f2\u045c", 
+        "original": "Unblock"
+    }, 
+    "unfriend": {
+        "description": "uberbar:unfriend:(no description)", 
+        "message": "\u1ee6\u019e\u0493\u0213\u0457\u1f73\u019e\u0257", 
+        "original": "Unfriend"
+    }, 
+    "users": {
+        "description": "uberbar:users:(no description)", 
+        "message": "\u1ee6\u01a8\u1f73\u0213\u01a8", 
+        "original": "Users"
+    }, 
+    "wants_to_be_your_friend": {
+        "description": "uberbar:wants_to_be_your_friend:(no description)", 
+        "message": "\u1ff4\u0203\u019e\u04ad\u01a8 \u04ad\u020f \u0411\u1f73 \u0443\u020f\u0574\u0213 \u0493\u0213\u0457\u1f73\u019e\u0257.", 
+        "original": "wants to be your friend."
+    }
+}

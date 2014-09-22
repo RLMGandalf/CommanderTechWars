@@ -1,0 +1,170 @@
+{
+    "add_slot": {
+        "message": "Voeg slot toe",
+        "description": "new_game_old:add_slot:(no description)"
+    },
+    "load": {
+        "message": "Laden",
+        "description": "new_game_old:load:(no description)"
+    },
+    "ai": {
+        "message": "AI",
+        "description": "new_game_old:ai:(no description)"
+    },
+    "ready_cancel": {
+        "message": "Klaar/Annuleer",
+        "description": "new_game_old:ready_cancel:(no description)"
+    },
+    "manage": {
+        "message": "Beheer",
+        "description": "new_game_old:manage:(no description)"
+    },
+    "private": {
+        "message": "Prive",
+        "description": "new_game_old:private:(no description)"
+    },
+    "spectate": {
+        "message": "TOESCHOUWEN",
+        "description": "new_game_old:spectate:(no description)"
+    },
+    "ready": {
+        "message": "Klaar",
+        "description": "new_game_old:ready:(no description)"
+    },
+    "cheats": {
+        "message": "Cheatcodes",
+        "description": "new_game_old:cheats:(no description)"
+    },
+    "chat": {
+        "message": "Chat",
+        "description": "new_game_old:chat:(no description)"
+    },
+    "_host": {
+        "message": ": Host",
+        "description": "new_game_old:_host:(no description)"
+    },
+    "game_mode": {
+        "message": "Spel Modus:",
+        "description": "new_game_old:game_mode:(no description)"
+    },
+    "share_army": {
+        "message": "DEEL LEGER",
+        "description": "new_game_old:share_army:(no description)"
+    },
+    "listen_to_spectators": {
+        "message": "Luister Naar Toeschouwers",
+        "description": "new_game_old:listen_to_spectators:(no description)"
+    },
+    "section": {
+        "message": "Sectie",
+        "description": "new_game_old:section:(no description)"
+    },
+    "game_lobby": {
+        "message": "Spel Lobby",
+        "description": "new_game_old:game_lobby:(no description)"
+    },
+    "game_starts_in": {
+        "message": "Spel start over:",
+        "description": "new_game_old:game_starts_in:(no description)"
+    },
+    "new": {
+        "message": "Nieuw",
+        "description": "new_game_old:new:(no description)"
+    },
+    "public": {
+        "message": "Publiek",
+        "description": "new_game_old:public:(no description)"
+    },
+    "kick": {
+        "message": "Kick",
+        "description": "new_game_old:kick:(no description)"
+    },
+    "spectators": {
+        "message": "Toeschouwers",
+        "description": "new_game_old:spectators:(no description)"
+    },
+    "roster": {
+        "message": "Rooster",
+        "description": "new_game_old:roster:(no description)"
+    },
+    "allow_dynamic_alliances_victory": {
+        "message": "Dynamische Alliantie-Overwinning",
+        "description": "new_game_old:allow_dynamic_alliances_victory:(no description)"
+    },
+    "allow_dynamic_alliances": {
+        "message": "Dynamische Allianties",
+        "description": "new_game_old:allow_dynamic_alliances:(no description)"
+    },
+    "server_mods": {
+        "message": "Server mods",
+        "description": "new_game_old:server_mods:(no description)"
+    },
+    "friends": {
+        "message": "Vrienden",
+        "description": "new_game_old:friends:(no description)"
+    },
+    "team_armies": {
+        "message": "Team Legers",
+        "description": "new_game_old:team_armies:(no description)"
+    },
+    "add_ai": {
+        "message": "AI toevoegen",
+        "description": "new_game_old:add_ai:(no description)"
+    },
+    "join": {
+        "message": "Doe mee",
+        "description": "new_game_old:join:(no description)"
+    },
+    "free_for_all": {
+        "message": "Free For All",
+        "description": "new_game_old:free_for_all:(no description)"
+    },
+    "start_game": {
+        "message": "Start Spel",
+        "description": "new_game_old:start_game:(no description)"
+    },
+    "game_type": {
+        "message": "Speltype",
+        "description": "new_game_old:game_type:(no description)"
+    },
+    "game_options": {
+        "message": "Spelopties:",
+        "description": "new_game_old:game_options:(no description)"
+    },
+    "remove": {
+        "message": "Verwijder",
+        "description": "new_game_old:remove:(no description)"
+    },
+    "leave": {
+        "message": "Verlaat",
+        "description": "new_game_old:leave:(no description)"
+    },
+    "spectators_allowed": {
+        "message": "Toeschouwers Toegestaan:",
+        "description": "new_game_old:spectators_allowed:(no description)"
+    },
+    "invite_player": {
+        "message": "Nodig speler uit",
+        "description": "new_game_old:invite_player:(no description)"
+    },
+    "empty": {
+        "message": "Leeg",
+        "description": "new_game_old:empty:(no description)"
+    },
+    "x": {
+        "message": "X",
+        "description": "new_game_old:x:(no description)"
+    },
+    "open_to": {
+        "message": "Open voor:",
+        "description": "new_game_old:open_to:(no description)"
+    },
+    "options": {
+        "message": "Opties",
+        "description": "new_game_old:options:(no description)"
+    },
+    "system": {
+        "message": "Stelsel",
+        "description": "new_game_old:system:(no description)"
+    }
+}

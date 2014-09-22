@@ -1,0 +1,262 @@
+{
+    "accept": {
+        "description": "system_editor:accept:(no description)", 
+        "message": "\u0202\u03f2\u03f2\u1f73\u2374\u04ad", 
+        "original": "Accept"
+    }, 
+    "biome": {
+        "description": "system_editor:biome:(no description)", 
+        "message": "\u0e3f\u03aa\u0472\u039c\u0190", 
+        "original": "BIOME"
+    }, 
+    "biome_scale": {
+        "description": "system_editor:biome_scale:(no description)", 
+        "message": "\u0e3f\u03aa\u0472\u039c\u0190 \u1e60\u04aa\u0202\u20a4\u0190", 
+        "original": "BIOME SCALE"
+    }, 
+    "cancel": {
+        "description": "system_editor:cancel:(no description)", 
+        "message": "\u04aa\u0203\u019e\u03f2\u1f73\u230a", 
+        "original": "Cancel"
+    }, 
+    "clear_system": {
+        "description": "system_editor:clear_system:(no description)", 
+        "message": "\u04aa\u20a4\u0190\u0202\u211d \u1e60\u0423\u1e60\u4e01\u0190\u039c", 
+        "original": "CLEAR SYSTEM"
+    }, 
+    "close": {
+        "description": "system_editor:close:(no description)", 
+        "message": "\u04aa\u20a4\u0472\u1e60\u0190", 
+        "original": "CLOSE"
+    }, 
+    "discard": {
+        "description": "system_editor:discard:(no description)", 
+        "message": "\u0189\u0457\u01a8\u03f2\u0203\u0213\u0257", 
+        "original": "Discard"
+    }, 
+    "do_you_want_to_save_this_system": {
+        "description": "system_editor:do_you_want_to_save_this_system:(no description)", 
+        "message": "\u0189\u020f \u0443\u020f\u0574 \u1ff4\u0203\u019e\u04ad \u04ad\u020f \u01a8\u0203\u0477\u1f73 \u04ad\u043d\u0457\u01a8 \u01a8\u0443\u01a8\u04ad\u1f73\u028d?", 
+        "original": "Do you want to save this system?"
+    }, 
+    "e": {
+        "description": "system_editor:e:(no description)", 
+        "message": "\u0190:", 
+        "original": "E:"
+    }, 
+    "edit_planet": {
+        "description": "system_editor:edit_planet:(no description)", 
+        "message": "\u0190\u0189\u03aa\u4e01 \u1e54\u20a4\u0202\u019d\u0190\u4e01", 
+        "original": "EDIT PLANET"
+    }, 
+    "height": {
+        "description": "system_editor:height:(no description)", 
+        "message": "\u04c7\u1f73\u0457\u0260\u043d\u04ad", 
+        "original": "Height"
+    }, 
+    "height_range": {
+        "description": "system_editor:height_range:(no description)", 
+        "message": "\u04c7\u0190\u03aa\u01f4\u04c7\u4e01 \u211d\u0202\u019d\u01f4\u0190", 
+        "original": "HEIGHT RANGE"
+    }, 
+    "hide": {
+        "description": "system_editor:hide:(no description)", 
+        "message": "\u04c7\u03aa\u0189\u0190", 
+        "original": "HIDE"
+    }, 
+    "mass": {
+        "description": "system_editor:mass:(no description)", 
+        "message": "\u039c\u0202\u1e60\u1e60", 
+        "original": "MASS"
+    }, 
+    "metal_clusters": {
+        "description": "system_editor:metal_clusters:(no description)", 
+        "message": "\u039c\u0190\u4e01\u0202\u20a4 \u04aa\u20a4\u1ee6\u1e60\u4e01\u0190\u211d\u1e60", 
+        "original": "METAL CLUSTERS"
+    }, 
+    "metal_density": {
+        "description": "system_editor:metal_density:(no description)", 
+        "message": "\u039c\u0190\u4e01\u0202\u20a4 \u0189\u0190\u019d\u1e60\u03aa\u4e01\u0423", 
+        "original": "METAL DENSITY"
+    }, 
+    "my_planets": {
+        "description": "system_editor:my_planets:(no description)", 
+        "message": "\u039c\u0423 \u1e54\u20a4\u0202\u019d\u0190\u4e01\u1e60", 
+        "original": "MY PLANETS"
+    }, 
+    "planet": {
+        "description": "system_editor:planet:(no description)", 
+        "message": "\u1e54\u20a4\u0202\u019d\u0190\u4e01", 
+        "original": "PLANET"
+    }, 
+    "planet_name": {
+        "description": "system_editor:planet_name:(no description)", 
+        "message": "\u1e54\u20a4\u0202\u019d\u0190\u4e01 \u019d\u0202\u039c\u0190", 
+        "original": "PLANET NAME"
+    }, 
+    "position": {
+        "description": "system_editor:position:(no description)", 
+        "message": "\u1e54\u0472\u1e60\u03aa\u4e01\u03aa\u0472\u019d", 
+        "original": "POSITION"
+    }, 
+    "preview": {
+        "description": "system_editor:preview:(no description)", 
+        "message": "\u1e54\u211d\u0190\u0476\u03aa\u0190\u20a9", 
+        "original": "PREVIEW"
+    }, 
+    "preview_all": {
+        "description": "system_editor:preview_all:(no description)", 
+        "message": "\u1e54\u211d\u0190\u0476\u03aa\u0190\u20a9 \u0202\u20a4\u20a4", 
+        "original": "PREVIEW ALL"
+    }, 
+    "properties": {
+        "description": "system_editor:properties:(no description)", 
+        "message": "\u1e54\u211d\u0472\u1e54\u0190\u211d\u4e01\u03aa\u0190\u1e60", 
+        "original": "PROPERTIES"
+    }, 
+    "radius": {
+        "description": "system_editor:radius:(no description)", 
+        "message": "\u211d\u0202\u0189\u03aa\u1ee6\u1e60", 
+        "original": "RADIUS"
+    }, 
+    "random_name": {
+        "description": "system_editor:random_name:(no description)", 
+        "message": "\u211d\u0202\u019d\u0189\u0472\u039c \u019d\u0202\u039c\u0190", 
+        "original": "RANDOM NAME"
+    }, 
+    "recent": {
+        "description": "system_editor:recent:(no description)", 
+        "message": "\u211d\u0190\u04aa\u0190\u019d\u4e01", 
+        "original": "RECENT"
+    }, 
+    "remove": {
+        "description": "system_editor:remove:(no description)", 
+        "message": "\u211d\u0190\u039c\u0472\u0476\u0190", 
+        "original": "REMOVE"
+    }, 
+    "required_thrust_to_move": {
+        "description": "system_editor:required_thrust_to_move:(no description)", 
+        "message": "\u0190\u019d\u01f4\u03aa\u019d\u0190\u1e60", 
+        "original": "ENGINES"
+    }, 
+    "save_mixed_case": {
+        "description": "system_editor:save_mixed_case:(no description)", 
+        "message": "\u1e60\u0203\u0477\u1f73", 
+        "original": "Save"
+    }, 
+    "save_system": {
+        "description": "system_editor:save_system:(no description)", 
+        "message": "\u1e60\u0202\u0476\u0190 \u1e60\u0423\u1e60\u4e01\u0190\u039c", 
+        "original": "SAVE SYSTEM"
+    }, 
+    "save_template": {
+        "description": "system_editor:save_template:(no description)", 
+        "message": "\u1e60\u0202\u0476\u0190 \u4e01\u0190\u039c\u1e54\u20a4\u0202\u4e01\u0190", 
+        "original": "SAVE TEMPLATE"
+    }, 
+    "seed": {
+        "description": "system_editor:seed:(no description)", 
+        "message": "\u1e60\u0190\u0190\u0189", 
+        "original": "SEED"
+    }, 
+    "show": {
+        "description": "system_editor:show:(no description)", 
+        "message": "\u1e60\u04c7\u0472\u20a9", 
+        "original": "SHOW"
+    }, 
+    "simulate": {
+        "description": "system_editor:simulate:(no description)", 
+        "message": "\u1e60\u03aa\u039c\u1ee6\u20a4\u0202\u4e01\u0190", 
+        "original": "SIMULATE"
+    }, 
+    "starting_planet": {
+        "description": "system_editor:starting_planet:(no description)", 
+        "message": "\u1e60\u04ad\u0203\u0213\u04ad\u0457\u019e\u0260 \u1e54\u230a\u0203\u019e\u1f73\u04ad", 
+        "original": "Starting Planet"
+    }, 
+    "system_editor": {
+        "description": "system_editor:system_editor:(no description)", 
+        "message": "\u1e60\u0423\u1e60\u4e01\u0190\u039c \u0189\u0190\u1e60\u03aa\u01f4\u019d\u0190\u211d", 
+        "original": "SYSTEM DESIGNER"
+    }, 
+    "system_has_no_starting_planet": {
+        "description": "system_editor:system_has_no_starting_planet:(no description)", 
+        "message": "\u1e60\u0443\u01a8\u04ad\u1f73\u028d \u043d\u0203\u01a8 \u019e\u020f \u01a8\u04ad\u0203\u0213\u04ad\u0457\u019e\u0260 \u2374\u230a\u0203\u019e\u1f73\u04ad.", 
+        "original": "System has no starting planet."
+    }, 
+    "system_name": {
+        "description": "system_editor:system_name:(no description)", 
+        "message": "\u019d\u0202\u039c\u0190:", 
+        "original": "NAME:"
+    }, 
+    "system_radius_is_too_large": {
+        "description": "system_editor:system_radius_is_too_large:(no description)", 
+        "message": "\u1e60\u0443\u01a8\u04ad\u1f73\u028d \u0213\u0203\u0257\u0457\u0574\u01a8 \u0457\u01a8 \u04ad\u020f\u020f \u230a\u0203\u0213\u0260\u1f73.", 
+        "original": "System radius is too large."
+    }, 
+    "system_radius_is_too_small": {
+        "description": "system_editor:system_radius_is_too_small:(no description)", 
+        "message": "\u1e60\u0443\u01a8\u04ad\u1f73\u028d \u0213\u0203\u0257\u0457\u0574\u01a8 \u0457\u01a8 \u04ad\u020f\u020f \u01a8\u028d\u0203\u230a\u230a.", 
+        "original": "System radius is too small."
+    }, 
+    "temp": {
+        "description": "system_editor:temp:(no description)", 
+        "message": "\u4e01\u1f73\u028d\u2374", 
+        "original": "Temp"
+    }, 
+    "temperature": {
+        "description": "system_editor:temperature:(no description)", 
+        "message": "\u4e01\u0190\u039c\u1e54\u0190\u211d\u0202\u4e01\u1ee6\u211d\u0190", 
+        "original": "TEMPERATURE"
+    }, 
+    "templates": {
+        "description": "system_editor:templates:(no description)", 
+        "message": "\u4e01\u0190\u039c\u1e54\u20a4\u0202\u4e01\u0190\u1e60", 
+        "original": "TEMPLATES"
+    }, 
+    "the_planet_is_loading_this_can_take_a_long_time": {
+        "description": "system_editor:the_planet_is_loading_this_can_take_a_long_time:(no description)", 
+        "message": "\u4e01\u043d\u1f73 \u2374\u230a\u0203\u019e\u1f73\u04ad \u0457\u01a8 \u230a\u020f\u0203\u0257\u0457\u019e\u0260. \u4e01\u043d\u0457\u01a8 \u03f2\u0203\u019e \u04ad\u0203\u045c\u1f73 \u0203 \u230a\u020f\u019e\u0260 \u04ad\u0457\u028d\u1f73.", 
+        "original": "The planet is loading. This can take a long time."
+    }, 
+    "the_program_will_be_unresponsive_until_the_planet_has_finished": {
+        "description": "system_editor:the_program_will_be_unresponsive_until_the_planet_has_finished:(no description)", 
+        "message": "\u4e01\u043d\u1f73 \u2374\u0213\u020f\u0260\u0213\u0203\u028d \u1ff4\u0457\u230a\u230a \u0411\u1f73 \u0574\u019e\u0213\u1f73\u01a8\u2374\u020f\u019e\u01a8\u0457\u0477\u1f73 \u0574\u019e\u04ad\u0457\u230a \u04ad\u043d\u1f73 \u2374\u230a\u0203\u019e\u1f73\u04ad \u043d\u0203\u01a8 \u0493\u0457\u019e\u0457\u01a8\u043d\u1f73\u0257.", 
+        "original": "The program will be unresponsive until the planet has finished."
+    }, 
+    "the_system_has_been_changed_since_it_was_last_saved": {
+        "description": "system_editor:the_system_has_been_changed_since_it_was_last_saved:(no description)", 
+        "message": "\u4e01\u043d\u1f73 \u01a8\u0443\u01a8\u04ad\u1f73\u028d \u043d\u0203\u01a8 \u0411\u1f73\u1f73\u019e \u03f2\u043d\u0203\u019e\u0260\u1f73\u0257 \u01a8\u0457\u019e\u03f2\u1f73 \u0457\u04ad \u1ff4\u0203\u01a8 \u230a\u0203\u01a8\u04ad \u01a8\u0203\u0477\u1f73\u0257.", 
+        "original": "The system has been changed since it was last saved."
+    }, 
+    "the_system_has_not_been_saved": {
+        "description": "system_editor:the_system_has_not_been_saved:(no description)", 
+        "message": "\u4e01\u043d\u1f73 \u01a8\u0443\u01a8\u04ad\u1f73\u028d \u043d\u0203\u01a8 \u019e\u020f\u04ad \u0411\u1f73\u1f73\u019e \u01a8\u0203\u0477\u1f73\u0257.", 
+        "original": "The system has not been saved."
+    }, 
+    "velocity": {
+        "description": "system_editor:velocity:(no description)", 
+        "message": "\u0476\u0190\u20a4\u0472\u04aa\u03aa\u4e01\u0423", 
+        "original": "VELOCITY"
+    }, 
+    "water": {
+        "description": "system_editor:water:(no description)", 
+        "message": "\u20a9\u0203\u04ad\u1f73\u0213", 
+        "original": "Water"
+    }, 
+    "water_height": {
+        "description": "system_editor:water_height:(no description)", 
+        "message": "\u20a9\u0202\u4e01\u0190\u211d \u04c7\u0190\u03aa\u01f4\u04c7\u4e01", 
+        "original": "WATER HEIGHT"
+    }, 
+    "x": {
+        "description": "system_editor:x:(no description)", 
+        "message": "\u04b2:", 
+        "original": "X:"
+    }, 
+    "y": {
+        "description": "system_editor:y:(no description)", 
+        "message": "\u0423:", 
+        "original": "Y:"
+    }
+}

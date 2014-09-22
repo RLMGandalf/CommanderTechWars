@@ -1,0 +1,146 @@
+{
+    "appear_offline": {
+        "message": "Vis Som Offline",
+        "description": "uberbar:appear_offline:(no description)"
+    },
+    "wants_to_be_your_friend": {
+        "message": "vil gerne være din ven.",
+        "description": "uberbar:wants_to_be_your_friend:(no description)"
+    },
+    "_tags": {
+        "message": "Mærker",
+        "description": "uberbar:_tags:(no description)"
+    },
+    "accept": {
+        "message": "Accepter",
+        "description": "uberbar:accept:(no description)"
+    },
+    "send_friend_request": {
+        "message": "Send Friend Request",
+        "description": "uberbar:send_friend_request:(no description)"
+    },
+    "unblock": {
+        "message": "Unblock",
+        "description": "uberbar:unblock:(no description)"
+    },
+    "invite_to_chat": {
+        "message": "Inviter til Chat",
+        "description": "uberbar:invite_to_chat:(no description)"
+    },
+    "chat": {
+        "message": "Chat",
+        "description": "uberbar:chat:(no description)"
+    },
+    "cancel": {
+        "message": "LUK",
+        "description": "uberbar:cancel:(no description)"
+    },
+    "users": {
+        "message": "Brugere",
+        "description": "uberbar:users:(no description)"
+    },
+    "_remove": {
+        "message": "FJERN",
+        "description": "uberbar:_remove:(no description)"
+    },
+    "search_results": {
+        "message": "Search Results",
+        "description": "uberbar:search_results:(no description)"
+    },
+    "away": {
+        "message": "Væk",
+        "description": "uberbar:away:(no description)"
+    },
+    "invited_you_to_chat": {
+        "message": "inviterede dig til chat.",
+        "description": "uberbar:invited_you_to_chat:(no description)"
+    },
+    "invite_to_game": {
+        "message": "Inviter til spil",
+        "description": "uberbar:invite_to_game:(no description)"
+    },
+    "_i": {
+        "message": "I",
+        "description": "uberbar:_i:(no description)"
+    },
+    "online": {
+        "message": "Online",
+        "description": "uberbar:online:(no description)"
+    },
+    "_f": {
+        "message": "V",
+        "description": "uberbar:_f:(no description)"
+    },
+    "offline": {
+        "message": "Offline",
+        "description": "uberbar:offline:(no description)"
+    },
+    "_b": {
+        "message": "B",
+        "description": "uberbar:_b:(no description)"
+    },
+    "unfriend": {
+        "message": "Fjern fra venne-liste",
+        "description": "uberbar:unfriend:(no description)"
+    },
+    "no_pending_notifications": {
+        "message": "Ingen ventende notifikationer.",
+        "description": "uberbar:no_pending_notifications:(no description)"
+    },
+    "join_game": {
+        "message": "Deltag i Spil",
+        "description": "uberbar:join_game:(no description)"
+    },
+    "pending_invite": {
+        "message": "Pending Invite",
+        "description": "uberbar:pending_invite:(no description)"
+    },
+    "friends": {
+        "message": "Venner",
+        "description": "uberbar:friends:(no description)"
+    },
+    "change": {
+        "message": "CHANGE",
+        "description": "uberbar:change:(no description)"
+    },
+    "recent": {
+        "message": "Nyligt",
+        "description": "uberbar:recent:(no description)"
+    },
+    "change_your_display_name": {
+        "message": "Change your display name?",
+        "description": "uberbar:change_your_display_name:(no description)"
+    },
+    "new_display_name": {
+        "message": "Nyt Kaldenavn:",
+        "description": "uberbar:new_display_name:(no description)"
+    },
+    "do_not_disturb": {
+        "message": "Forstyr Venligst Ikke",
+        "description": "uberbar:do_not_disturb:(no description)"
+    },
+    "remove": {
+        "message": "Fjern",
+        "description": "uberbar:remove:(no description)"
+    },
+    "ignore": {
+        "message": "Ignorer",
+        "description": "uberbar:ignore:(no description)"
+    },
+    "_chat": {
+        "message": "Chat",
+        "description": "uberbar:_chat:(no description)"
+    },
+    "invited_you_to_a_game": {
+        "message": "inviterede dig til et spil.",
+        "description": "uberbar:invited_you_to_a_game:(no description)"
+    },
+    "change_display_name": {
+        "message": "Skift Kaldenavn",
+        "description": "uberbar:change_display_name:(no description)"
+    },
+    "block": {
+        "message": "Bloker",
+        "description": "uberbar:block:(no description)"
+    }
+}

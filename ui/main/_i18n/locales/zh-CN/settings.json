@@ -1,0 +1,1206 @@
+{
+    "load": {
+        "message": "搭载",
+        "description": "settings:load:(no description)"
+    },
+    "all": {
+        "message": "全部",
+        "description": "settings:all:(no description)"
+    },
+    "select_all_idle_factories_on_screen": {
+        "message": "选择当前屏幕中所有空闲工厂",
+        "description": "settings:select_all_idle_factories_on_screen:(no description)"
+    },
+    "free_move_down": {
+        "message": "向下自由移动",
+        "description": "settings:free_move_down:(no description)"
+    },
+    "toggle_twitch_microphone": {
+        "message": "切换Twitch麦克风录音",
+        "description": "settings:toggle_twitch_microphone:(no description)"
+    },
+    "move": {
+        "message": "移动",
+        "description": "settings:move:(no description)"
+    },
+    "resume_at_latest_time": {
+        "message": "恢复到实时",
+        "description": "settings:resume_at_latest_time:(no description)"
+    },
+    "navigate_back_exit": {
+        "message": "导航 后退/退出",
+        "description": "settings:navigate_back_exit:(no description)"
+    },
+    "special_move": {
+        "message": "特殊动作",
+        "description": "settings:special_move:(no description)"
+    },
+    "reclaim": {
+        "message": "占领",
+        "description": "settings:reclaim:(no description)"
+    },
+    "show_hide_ui": {
+        "message": "显示/隐藏 界面",
+        "description": "settings:show_hide_ui:(no description)"
+    },
+    "select_all_naval_combat_units_on_screen": {
+        "message": "选择当前屏幕中所有海军战斗单位",
+        "description": "settings:select_all_naval_combat_units_on_screen:(no description)"
+    },
+    "select_all_naval_combat_units": {
+        "message": "选择所有海军战斗单位",
+        "description": "settings:select_all_naval_combat_units:(no description)"
+    },
+    "hold_fire": {
+        "message": "停火",
+        "description": "settings:hold_fire:(no description)"
+    },
+    "1100_recommended_for_480p": {
+        "message": "1100 (480P推荐)",
+        "description": "settings:1100_recommended_for_480p:(no description)"
+    },
+    "tracking_alignment": {
+        "message": "跟踪与对齐",
+        "description": "settings:tracking_alignment:(no description)"
+    },
+    "move_up": {
+        "message": "向前移动",
+        "description": "settings:move_up:(no description)"
+    },
+    "roam": {
+        "message": "路径",
+        "description": "settings:roam:(no description)"
+    },
+    "smooth_zoom_in": {
+        "message": "平滑放大",
+        "description": "settings:smooth_zoom_in:(no description)"
+    },
+    "range_dependent": {
+        "message": "范围依赖",
+        "description": "settings:range_dependent:(no description)"
+    },
+    "play_forward_at_100": {
+        "message": "全速快进",
+        "description": "settings:play_forward_at_100:(no description)"
+    },
+    "value_dependent": {
+        "message": "数值依赖",
+        "description": "settings:value_dependent:(no description)"
+    },
+    "select_bot_group": {
+        "message": "选择机器人组",
+        "description": "settings:select_bot_group:(no description)"
+    },
+    "supersample_110": {
+        "message": "超级采样(100%)",
+        "description": "settings:supersample_110:(no description)"
+    },
+    "twitchPassword": {
+        "message": "密码",
+        "description": "settings:twitchPassword:(no description)"
+    },
+    "select_all_matching_units_on_screen": {
+        "message": "选择当前屏幕中所有匹配的单位",
+        "description": "settings:select_all_matching_units_on_screen:(no description)"
+    },
+    "save": {
+        "message": "保存",
+        "description": "settings:save:(no description)"
+    },
+    "toggle_energy_orders": {
+        "message": "切换耗能模式",
+        "description": "settings:toggle_energy_orders:(no description)"
+    },
+    "zoom_to_orbital": {
+        "message": "缩放至行星轨道",
+        "description": "settings:zoom_to_orbital:(no description)"
+    },
+    "recall_anchor_7": {
+        "message": "切换到视角位置 7",
+        "description": "settings:recall_anchor_7:(no description)"
+    },
+    "play_backwards_at_50": {
+        "message": "半速快倒",
+        "description": "settings:play_backwards_at_50:(no description)"
+    },
+    "recall_anchor_5": {
+        "message": "切换到视角位置 5",
+        "description": "settings:recall_anchor_5:(no description)"
+    },
+    "recall_anchor_4": {
+        "message": "切换到视角位置 4",
+        "description": "settings:recall_anchor_4:(no description)"
+    },
+    "crash": {
+        "message": "崩溃",
+        "description": "settings:crash:(no description)"
+    },
+    "livestream_settings": {
+        "message": "直播设定",
+        "description": "settings:livestream_settings:(no description)"
+    },
+    "recall_anchor_1": {
+        "message": "切换到视角位置 1",
+        "description": "settings:recall_anchor_1:(no description)"
+    },
+    "recall_anchor_0": {
+        "message": "切换到视角位置 0",
+        "description": "settings:recall_anchor_0:(no description)"
+    },
+    "pole_lock": {
+        "message": "行星轴心锁定",
+        "description": "settings:pole_lock:(no description)"
+    },
+    "master_volume": {
+        "message": "主音量",
+        "description": "settings:master_volume:(no description)"
+    },
+    "align_to_pole": {
+        "message": "行星轴心回位",
+        "description": "settings:align_to_pole:(no description)"
+    },
+    "stop": {
+        "message": "停止",
+        "description": "settings:stop:(no description)"
+    },
+    "resolution_scaling": {
+        "message": "分辨率",
+        "description": "settings:resolution_scaling:(no description)"
+    },
+    "recall_anchor_9": {
+        "message": "切换到视角位置 9",
+        "description": "settings:recall_anchor_9:(no description)"
+    },
+    "recall_anchor_8": {
+        "message": "切换到视角位置 8",
+        "description": "settings:recall_anchor_8:(no description)"
+    },
+    "recall_anchor_3": {
+        "message": "切换到视角位置 3",
+        "description": "settings:recall_anchor_3:(no description)"
+    },
+    "units": {
+        "message": "单位",
+        "description": "settings:units:(no description)"
+    },
+    "unit_recall_groups": {
+        "message": "单位编组选择",
+        "description": "settings:unit_recall_groups:(no description)"
+    },
+    "set_army_from_hover": {
+        "message": "set army from hover",
+        "description": "settings:set_army_from_hover:(no description)"
+    },
+    "play_forward_at_50": {
+        "message": "半速快进",
+        "description": "settings:play_forward_at_50:(no description)"
+    },
+    "twitchName": {
+        "message": "登陆你的Twitch ID",
+        "description": "settings:twitchName:(no description)"
+    },
+    "twitchIngestServer": {
+        "message": "服务器",
+        "description": "settings:twitchIngestServer:(no description)"
+    },
+    "dismiss_alert_notification": {
+        "message": "关闭信息提醒",
+        "description": "settings:dismiss_alert_notification:(no description)"
+    },
+    "play_backwards_at_100": {
+        "message": "全速快倒",
+        "description": "settings:play_backwards_at_100:(no description)"
+    },
+    "build_avatar_factory": {
+        "message": "建造指挥官工厂",
+        "description": "settings:build_avatar_factory:(no description)"
+    },
+    "shadows": {
+        "message": "阴影",
+        "description": "settings:shadows:(no description)"
+    },
+    "quick_profile": {
+        "message": "快速载入配置",
+        "description": "settings:quick_profile:(no description)"
+    },
+    "supersample_150": {
+        "message": "超级采样(150%)",
+        "description": "settings:supersample_150:(no description)"
+    },
+    "capture_anchor": {
+        "message": "设定视角位置",
+        "description": "settings:capture_anchor:(no description)"
+    },
+    "pause_game": {
+        "message": "暂停游戏",
+        "description": "settings:pause_game:(no description)"
+    },
+    "settings": {
+        "message": "设定",
+        "description": "settings:settings:(no description)"
+    },
+    "build_preview_behavior": {
+        "message": "建造进度显示模式",
+        "description": "settings:build_preview_behavior:(no description)"
+    },
+    "always": {
+        "message": "总是",
+        "description": "settings:always:(no description)"
+    },
+    "zoom": {
+        "message": "缩放",
+        "description": "settings:zoom:(no description)"
+    },
+    "music_volume": {
+        "message": "背景音乐音量",
+        "description": "settings:music_volume:(no description)"
+    },
+    "server": {
+        "message": "服务器",
+        "description": "settings:server:(no description)"
+    },
+    "bug_report": {
+        "message": "BUG反馈",
+        "description": "settings:bug_report:(no description)"
+    },
+    "select_all_factories": {
+        "message": "选择所有工厂",
+        "description": "settings:select_all_factories:(no description)"
+    },
+    "capture_group_8": {
+        "message": "设定单位分组 8",
+        "description": "settings:capture_group_8:(no description)"
+    },
+    "capture_group_9": {
+        "message": "设定单位分组 9",
+        "description": "settings:capture_group_9:(no description)"
+    },
+    "show_build_previews": {
+        "message": "显示建造预览",
+        "description": "settings:show_build_previews:(no description)"
+    },
+    "capture_group_4": {
+        "message": "设定单位分组 4",
+        "description": "settings:capture_group_4:(no description)"
+    },
+    "capture_group_5": {
+        "message": "设定单位分组 8",
+        "description": "settings:capture_group_5:(no description)"
+    },
+    "capture_group_6": {
+        "message": "设定单位分组 6",
+        "description": "settings:capture_group_6:(no description)"
+    },
+    "capture_group_7": {
+        "message": "设定单位分组 7",
+        "description": "settings:capture_group_7:(no description)"
+    },
+    "capture_group_0": {
+        "message": "设定单位分组 0",
+        "description": "settings:capture_group_0:(no description)"
+    },
+    "capture_group_1": {
+        "message": "设定单位分组 1",
+        "description": "settings:capture_group_1:(no description)"
+    },
+    "capture_group_2": {
+        "message": "设定单位分组 2",
+        "description": "settings:capture_group_2:(no description)"
+    },
+    "capture_group_3": {
+        "message": "设定单位分组 3",
+        "description": "settings:capture_group_3:(no description)"
+    },
+    "toggle_build_orders": {
+        "message": "切换建造模式",
+        "description": "settings:toggle_build_orders:(no description)"
+    },
+    "select_sea_group": {
+        "message": "选择海军单位",
+        "description": "settings:select_sea_group:(no description)"
+    },
+    "select_all_land_combat_units": {
+        "message": "选择所有陆军战斗单位",
+        "description": "settings:select_all_land_combat_units:(no description)"
+    },
+    "toggle_move_orders": {
+        "message": "切换移动模式",
+        "description": "settings:toggle_move_orders:(no description)"
+    },
+    "hold_position": {
+        "message": "保持原位",
+        "description": "settings:hold_position:(no description)"
+    },
+    "chronocam": {
+        "message": "回放模式",
+        "description": "settings:chronocam:(no description)"
+    },
+    "show_order_previews": {
+        "message": "显示命令预览",
+        "description": "settings:show_order_previews:(no description)"
+    },
+    "keyboard": {
+        "message": "键盘",
+        "description": "settings:keyboard:(no description)"
+    },
+    "cancel": {
+        "message": "取消",
+        "description": "settings:cancel:(no description)"
+    },
+    "free_zoom_in": {
+        "message": "自由放大",
+        "description": "settings:free_zoom_in:(no description)"
+    },
+    "unit_selection": {
+        "message": "单位选择",
+        "description": "settings:unit_selection:(no description)"
+    },
+    "publish_server_mods": {
+        "message": "发布服务器插件",
+        "description": "settings:publish_server_mods:(no description)"
+    },
+    "select_air_group": {
+        "message": "选择空军单位",
+        "description": "settings:select_air_group:(no description)"
+    },
+    "fxaa": {
+        "message": "FXAA",
+        "description": "settings:fxaa:(no description)"
+    },
+    "show_hide_visual_aid_overlays": {
+        "message": "显示/隐藏视觉帮助",
+        "description": "settings:show_hide_visual_aid_overlays:(no description)"
+    },
+    "paste_unit": {
+        "message": "粘贴单位",
+        "description": "settings:paste_unit:(no description)"
+    },
+    "unit_commands": {
+        "message": "单位指令",
+        "description": "settings:unit_commands:(no description)"
+    },
+    "toggle_twitch_streaming": {
+        "message": "切换Twitch直播状态",
+        "description": "settings:toggle_twitch_streaming:(no description)"
+    },
+    "fullscreen": {
+        "message": "全屏幕",
+        "description": "settings:fullscreen:(no description)"
+    },
+    "fov": {
+        "message": "战场迷雾",
+        "description": "settings:fov:(no description)"
+    },
+    "sound_effects_volume": {
+        "message": "音效音量",
+        "description": "settings:sound_effects_volume:(no description)"
+    },
+    "free_roll_right": {
+        "message": "free roll right",
+        "description": "settings:free_roll_right:(no description)"
+    },
+    "restore_all_defaults": {
+        "message": "全部初始化",
+        "description": "settings:restore_all_defaults:(no description)"
+    },
+    "select_idle_fabbers": {
+        "message": "选择空闲工程单位",
+        "description": "settings:select_idle_fabbers:(no description)"
+    },
+    "select_orbital_group_buildings": {
+        "message": "选择建造中的轨道单位",
+        "description": "settings:select_orbital_group_buildings:(no description)"
+    },
+    "selected": {
+        "message": "已选中",
+        "description": "settings:selected:(no description)"
+    },
+    "select_utility_group": {
+        "message": "选择功能组",
+        "description": "settings:select_utility_group:(no description)"
+    },
+    "normal_chat": {
+        "message": "正常聊天",
+        "description": "settings:normal_chat:(no description)"
+    },
+    "twitchEnableMicrophone": {
+        "message": "启用麦克风",
+        "description": "settings:twitchEnableMicrophone:(no description)"
+    },
+    "select_all_idle_factories": {
+        "message": "选择全部空闲工程单位",
+        "description": "settings:select_all_idle_factories:(no description)"
+    },
+    "toggle_audio_logging": {
+        "message": "切换语音记录",
+        "description": "settings:toggle_audio_logging:(no description)"
+    },
+    "save_and_close": {
+        "message": "保存并关闭",
+        "description": "settings:save_and_close:(no description)"
+    },
+    "move_down": {
+        "message": "下方移动",
+        "description": "settings:move_down:(no description)"
+    },
+    "show_hide_game_stats": {
+        "message": "显示/隐藏游戏状态",
+        "description": "settings:show_hide_game_stats:(no description)"
+    },
+    "edge_scroll_options": {
+        "message": "边缘滚动选项",
+        "description": "settings:edge_scroll_options:(no description)"
+    },
+    "windowed": {
+        "message": "窗口化",
+        "description": "settings:windowed:(no description)"
+    },
+    "build_loop": {
+        "message": "建造循环",
+        "description": "settings:build_loop:(no description)"
+    },
+    "native_100": {
+        "message": "原生(100%)",
+        "description": "settings:native_100:(no description)"
+    },
+    "select_all_factories_on_screen": {
+        "message": "选择当前屏幕中所有工厂",
+        "description": "settings:select_all_factories_on_screen:(no description)"
+    },
+    "dev_mode": {
+        "message": "开发模式",
+        "description": "settings:dev_mode:(no description)"
+    },
+    "virtual_texture": {
+        "message": "虚拟纹理",
+        "description": "settings:virtual_texture:(no description)"
+    },
+    "assist": {
+        "message": "协助",
+        "description": "settings:assist:(no description)"
+    },
+    "never": {
+        "message": "从不",
+        "description": "settings:never:(no description)"
+    },
+    "subsample_50": {
+        "message": "二次采用(50%)",
+        "description": "settings:subsample_50:(no description)"
+    },
+    "toggle_pip_mirror": {
+        "message": "切换画中画",
+        "description": "settings:toggle_pip_mirror:(no description)"
+    },
+    "zoom_to_surface": {
+        "message": "缩放至行星表面",
+        "description": "settings:zoom_to_surface:(no description)"
+    },
+    "alt_fire": {
+        "message": "强制攻击",
+        "description": "settings:alt_fire:(no description)"
+    },
+    "set_debug_camera": {
+        "message": "设定调试视角",
+        "description": "settings:set_debug_camera:(no description)"
+    },
+    "free_move_right": {
+        "message": "free move right",
+        "description": "settings:free_move_right:(no description)"
+    },
+    "icon_display_distance": {
+        "message": "图标显示范围",
+        "description": "settings:icon_display_distance:(no description)"
+    },
+    "supersample_175": {
+        "message": "超级采样(175%)",
+        "description": "settings:supersample_175:(no description)"
+    },
+    "unit_capture_groups": {
+        "message": "设置单位编组",
+        "description": "settings:unit_capture_groups:(no description)"
+    },
+    "bitrate": {
+        "message": "码率",
+        "description": "settings:bitrate:(no description)"
+    },
+    "toggle_nav_debug": {
+        "message": "切换原生调试",
+        "description": "settings:toggle_nav_debug:(no description)"
+    },
+    "tuning": {
+        "message": "转向",
+        "description": "settings:tuning:(no description)"
+    },
+    "on": {
+        "message": "开",
+        "description": "settings:on:(no description)"
+    },
+    "free_roll_left": {
+        "message": "free roll left",
+        "description": "settings:free_roll_left:(no description)"
+    },
+    "zoom_in": {
+        "message": "放大",
+        "description": "settings:zoom_in:(no description)"
+    },
+    "language": {
+        "message": "语言",
+        "description": "settings:language:(no description)"
+    },
+    "zoom_speed": {
+        "message": "缩放速度",
+        "description": "settings:zoom_speed:(no description)"
+    },
+    "build_avatar": {
+        "message": "建造指挥官",
+        "description": "settings:build_avatar:(no description)"
+    },
+    "key_pan_speed": {
+        "message": "键盘滚动速度",
+        "description": "settings:key_pan_speed:(no description)"
+    },
+    "set_free_camera": {
+        "message": "设定自由视角",
+        "description": "settings:set_free_camera:(no description)"
+    },
+    "increase_camera_pan_speed": {
+        "message": "增加视角移动速度",
+        "description": "settings:increase_camera_pan_speed:(no description)"
+    },
+    "free_move_backward": {
+        "message": "向后自由移动",
+        "description": "settings:free_move_backward:(no description)"
+    },
+    "smooth_zoom_out": {
+        "message": "平滑缩小",
+        "description": "settings:smooth_zoom_out:(no description)"
+    },
+    "build_item_9": {
+        "message": "建造项目 9",
+        "description": "settings:build_item_9:(no description)"
+    },
+    "build_item_8": {
+        "message": "建造项目 8",
+        "description": "settings:build_item_8:(no description)"
+    },
+    "build_item_7": {
+        "message": "建造项目 7",
+        "description": "settings:build_item_7:(no description)"
+    },
+    "build_item_6": {
+        "message": "建造项目 6",
+        "description": "settings:build_item_6:(no description)"
+    },
+    "build_item_5": {
+        "message": "建造项目 5",
+        "description": "settings:build_item_5:(no description)"
+    },
+    "build_item_4": {
+        "message": "建造项目 4",
+        "description": "settings:build_item_4:(no description)"
+    },
+    "build_item_3": {
+        "message": "建造项目 3",
+        "description": "settings:build_item_3:(no description)"
+    },
+    "build_item_2": {
+        "message": "建造项目 2",
+        "description": "settings:build_item_2:(no description)"
+    },
+    "build_once": {
+        "message": "单次建造",
+        "description": "settings:build_once:(no description)"
+    },
+    "build_orders": {
+        "message": "build orders",
+        "description": "settings:build_orders:(no description)"
+    },
+    "repair": {
+        "message": "维修",
+        "description": "settings:repair:(no description)"
+    },
+    "communication": {
+        "message": "通讯",
+        "description": "settings:communication:(no description)"
+    },
+    "show_stat_bars": {
+        "message": "显示状态栏",
+        "description": "settings:show_stat_bars:(no description)"
+    },
+    "select_factory_group": {
+        "message": "选择工厂组",
+        "description": "settings:select_factory_group:(no description)"
+    },
+    "toggle_music": {
+        "message": "切换音乐",
+        "description": "settings:toggle_music:(no description)"
+    },
+    "move_right": {
+        "message": "右移",
+        "description": "settings:move_right:(no description)"
+    },
+    "free_pitch_backward": {
+        "message": "自由倒退缩放",
+        "description": "settings:free_pitch_backward:(no description)"
+    },
+    "picture_in_picture": {
+        "message": "画中画",
+        "description": "settings:picture_in_picture:(no description)"
+    },
+    "toggle_fire_orders": {
+        "message": "切换攻击模式",
+        "description": "settings:toggle_fire_orders:(no description)"
+    },
+    "recall_group_2": {
+        "message": "选择组 2",
+        "description": "settings:recall_group_2:(no description)"
+    },
+    "energy_off": {
+        "message": "关门电源",
+        "description": "settings:energy_off:(no description)"
+    },
+    "enable_navigation_debug_info": {
+        "message": "开启导航导航信息",
+        "description": "settings:enable_navigation_debug_info:(no description)"
+    },
+    "select_all_combat_units": {
+        "message": "选择所有战斗单位",
+        "description": "settings:select_all_combat_units:(no description)"
+    },
+    "headlights": {
+        "message": "高亮",
+        "description": "settings:headlights:(no description)"
+    },
+    "sign_out": {
+        "message": "登出",
+        "description": "settings:sign_out:(no description)"
+    },
+    "jump_to_previous_planet": {
+        "message": "切换到上一行星",
+        "description": "settings:jump_to_previous_planet:(no description)"
+    },
+    "500_recommended_for_240p": {
+        "message": "500 (240P推荐)",
+        "description": "settings:500_recommended_for_240p:(no description)"
+    },
+    "move_left": {
+        "message": "左移",
+        "description": "settings:move_left:(no description)"
+    },
+    "free_zoom_out": {
+        "message": "自由缩小",
+        "description": "settings:free_zoom_out:(no description)"
+    },
+    "toggle_fow": {
+        "message": "切换战场迷雾",
+        "description": "settings:toggle_fow:(no description)"
+    },
+    "restore_defaults": {
+        "message": "初始化",
+        "description": "settings:restore_defaults:(no description)"
+    },
+    "reload_view": {
+        "message": "重载视图",
+        "description": "settings:reload_view:(no description)"
+    },
+    "custom": {
+        "message": "自定",
+        "description": "settings:custom:(no description)"
+    },
+    "show_unit_icons": {
+        "message": "显示单位图标",
+        "description": "settings:show_unit_icons:(no description)"
+    },
+    "attack": {
+        "message": "攻击",
+        "description": "settings:attack:(no description)"
+    },
+    "camera": {
+        "message": "视角",
+        "description": "settings:camera:(no description)"
+    },
+    "free_move_forward": {
+        "message": "向前自由移动",
+        "description": "settings:free_move_forward:(no description)"
+    },
+    "700_recommended_for_360p": {
+        "message": "700 (360P推荐)",
+        "description": "settings:700_recommended_for_360p:(no description)"
+    },
+    "next_pseudo_frame": {
+        "message": "下一帧",
+        "description": "settings:next_pseudo_frame:(no description)"
+    },
+    "copy_to_pip": {
+        "message": "粘贴到画中画",
+        "description": "settings:copy_to_pip:(no description)"
+    },
+    "toggle_debug_camera": {
+        "message": "切换调试视角",
+        "description": "settings:toggle_debug_camera:(no description)"
+    },
+    "low": {
+        "message": "低",
+        "description": "settings:low:(no description)"
+    },
+    "order_preview_behavior": {
+        "message": "命令线路显示模式",
+        "description": "settings:order_preview_behavior:(no description)"
+    },
+    "direction": {
+        "message": "方向",
+        "description": "settings:direction:(no description)"
+    },
+    "medium": {
+        "message": "中等",
+        "description": "settings:medium:(no description)"
+    },
+    "general": {
+        "message": "通用",
+        "description": "settings:general:(no description)"
+    },
+    "return_fire": {
+        "message": "还击",
+        "description": "settings:return_fire:(no description)"
+    },
+    "twitch_chat": {
+        "message": "Twitch聊天",
+        "description": "settings:twitch_chat:(no description)"
+    },
+    "zoom_out": {
+        "message": "放大",
+        "description": "settings:zoom_out:(no description)"
+    },
+    "run_twitch_commercial": {
+        "message": "显示Twitch直播广告",
+        "description": "settings:run_twitch_commercial:(no description)"
+    },
+    "off_no_mouselock": {
+        "message": "关闭 (无指针锁定)",
+        "description": "settings:off_no_mouselock:(no description)"
+    },
+    "subsample_75": {
+        "message": "二次采样 (75%)",
+        "description": "settings:subsample_75:(no description)"
+    },
+    "twitchEnablePlayback": {
+        "message": "启用系统音效",
+        "description": "settings:twitchEnablePlayback:(no description)"
+    },
+    "select_all_land_combat_units_on_screen": {
+        "message": "选择当前屏幕中所有陆军单位",
+        "description": "settings:select_all_land_combat_units_on_screen:(no description)"
+    },
+    "free_yaw_right": {
+        "message": "向右自由偏移",
+        "description": "settings:free_yaw_right:(no description)"
+    },
+    "quality_preset": {
+        "message": "图形质量",
+        "description": "settings:quality_preset:(no description)"
+    },
+    "graphics": {
+        "message": "图形",
+        "description": "settings:graphics:(no description)"
+    },
+    "pause_time": {
+        "message": "暂停时间",
+        "description": "settings:pause_time:(no description)"
+    },
+    "disable_navigation_debug_info": {
+        "message": "关闭导航调试信息",
+        "description": "settings:disable_navigation_debug_info:(no description)"
+    },
+    "mouse_pan_speed": {
+        "message": "鼠标滚动速度",
+        "description": "settings:mouse_pan_speed:(no description)"
+    },
+    "fire_at_will": {
+        "message": "自由攻击",
+        "description": "settings:fire_at_will:(no description)"
+    },
+    "toggle_fullscreen": {
+        "message": "切换全屏显示",
+        "description": "settings:toggle_fullscreen:(no description)"
+    },
+    "zoom_to_air": {
+        "message": "缩放至空中",
+        "description": "settings:zoom_to_air:(no description)"
+    },
+    "select_orbital_group_units": {
+        "message": "选择轨道单位",
+        "description": "settings:select_orbital_group_units:(no description)"
+    },
+    "free_move_up": {
+        "message": "向上自由移动",
+        "description": "settings:free_move_up:(no description)"
+    },
+    "hdr": {
+        "message": "HDR",
+        "description": "settings:hdr:(no description)"
+    },
+    "streaming": {
+        "message": "直播中",
+        "description": "settings:streaming:(no description)"
+    },
+    "build_item_13": {
+        "message": "建造项目 13",
+        "description": "settings:build_item_13:(no description)"
+    },
+    "build_item_12": {
+        "message": "建造项目 12",
+        "description": "settings:build_item_12:(no description)"
+    },
+    "build_item_11": {
+        "message": "建造项目 11",
+        "description": "settings:build_item_11:(no description)"
+    },
+    "build_item_10": {
+        "message": "建造项目 10",
+        "description": "settings:build_item_10:(no description)"
+    },
+    "free_move_left": {
+        "message": "free move left",
+        "description": "settings:free_move_left:(no description)"
+    },
+    "unit_orders": {
+        "message": "单位命令",
+        "description": "settings:unit_orders:(no description)"
+    },
+    "build_item_15": {
+        "message": "建造项目 15",
+        "description": "settings:build_item_15:(no description)"
+    },
+    "build_item_14": {
+        "message": "建造项目 14",
+        "description": "settings:build_item_14:(no description)"
+    },
+    "show_metal_spot_icons": {
+        "message": "显示金属矿图标",
+        "description": "settings:show_metal_spot_icons:(no description)"
+    },
+    "free_yaw_left": {
+        "message": "向左自由偏移",
+        "description": "settings:free_yaw_left:(no description)"
+    },
+    "ui": {
+        "message": "界面",
+        "description": "settings:ui:(no description)"
+    },
+    "select_all_air_combat_units_on_screen": {
+        "message": "选择当前屏幕中所有空军战斗单位",
+        "description": "settings:select_all_air_combat_units_on_screen:(no description)"
+    },
+    "shift": {
+        "message": "SHIFT键",
+        "description": "settings:shift:(no description)"
+    },
+    "3200_recommended_for_1080p": {
+        "message": "3200 (1080P推荐)",
+        "description": "settings:3200_recommended_for_1080p:(no description)"
+    },
+    "voice_volume": {
+        "message": "语音音量",
+        "description": "settings:voice_volume:(no description)"
+    },
+    "energy_on": {
+        "message": "耗能开启",
+        "description": "settings:energy_on:(no description)"
+    },
+    "anti_aliasing": {
+        "message": "抗锯齿(AA)",
+        "description": "settings:anti_aliasing:(no description)"
+    },
+    "twitchStreamingDesired": {
+        "message": "启动直播（即时生效）",
+        "description": "settings:twitchStreamingDesired:(no description)"
+    },
+    "uber": {
+        "message": "UBER",
+        "description": "settings:uber:(no description)"
+    },
+    "patrol": {
+        "message": "巡逻",
+        "description": "settings:patrol:(no description)"
+    },
+    "set_default_camera": {
+        "message": "设定默认视角",
+        "description": "settings:set_default_camera:(no description)"
+    },
+    "recall_anchor_6": {
+        "message": "切换到视角位置 6",
+        "description": "settings:recall_anchor_6:(no description)"
+    },
+    "camera_friction": {
+        "message": "阵营视角",
+        "description": "settings:camera_friction:(no description)"
+    },
+    "off_mouselock": {
+        "message": "关闭 (鼠标锁定)",
+        "description": "settings:off_mouselock:(no description)"
+    },
+    "build_bar_groups": {
+        "message": "建造栏位",
+        "description": "settings:build_bar_groups:(no description)"
+    },
+    "ambient_occlusion": {
+        "message": "环境光遮蔽",
+        "description": "settings:ambient_occlusion:(no description)"
+    },
+    "high": {
+        "message": "高",
+        "description": "settings:high:(no description)"
+    },
+    "set_planet_camera": {
+        "message": "设定行星视角",
+        "description": "settings:set_planet_camera:(no description)"
+    },
+    "abort": {
+        "message": "终止",
+        "description": "settings:abort:(no description)"
+    },
+    "recall_group_8": {
+        "message": "选择组 8",
+        "description": "settings:recall_group_8:(no description)"
+    },
+    "recall_group_9": {
+        "message": "选择组 9",
+        "description": "settings:recall_group_9:(no description)"
+    },
+    "recall_group_5": {
+        "message": "选择组 5",
+        "description": "settings:recall_group_5:(no description)"
+    },
+    "recall_group_4": {
+        "message": "选择组 4",
+        "description": "settings:recall_group_4:(no description)"
+    },
+    "copy_unit": {
+        "message": "复制单位",
+        "description": "settings:copy_unit:(no description)"
+    },
+    "recall_group_6": {
+        "message": "选择组 6",
+        "description": "settings:recall_group_6:(no description)"
+    },
+    "recall_group_7": {
+        "message": "选择组 7",
+        "description": "settings:recall_group_7:(no description)"
+    },
+    "recall_group_0": {
+        "message": "选择组 0",
+        "description": "settings:recall_group_0:(no description)"
+    },
+    "recall_group_1": {
+        "message": "选择组 1",
+        "description": "settings:recall_group_1:(no description)"
+    },
+    "last_pseudo_frame": {
+        "message": "最后一帧",
+        "description": "settings:last_pseudo_frame:(no description)"
+    },
+    "recall_anchor_2": {
+        "message": "切换到视角位置 2",
+        "description": "settings:recall_anchor_2:(no description)"
+    },
+    "toggle_twitch_system_audio_recording": {
+        "message": "Twitch系统音频录制",
+        "description": "settings:toggle_twitch_system_audio_recording:(no description)"
+    },
+    "free_movement": {
+        "message": "自由移动",
+        "description": "settings:free_movement:(no description)"
+    },
+    "build_items": {
+        "message": "建造项目",
+        "description": "settings:build_items:(no description)"
+    },
+    "signed_in_as": {
+        "message": "登录的帐号为",
+        "description": "settings:signed_in_as:(no description)"
+    },
+    "track_selection_with_camera": {
+        "message": "视角跟踪所选",
+        "description": "settings:track_selection_with_camera:(no description)"
+    },
+    "alerts": {
+        "message": "提示",
+        "description": "settings:alerts:(no description)"
+    },
+    "ping": {
+        "message": "扫描",
+        "description": "settings:ping:(no description)"
+    },
+    "recall_anchor": {
+        "message": "切换到视角",
+        "description": "settings:recall_anchor:(no description)"
+    },
+    "jump_to_next_planet": {
+        "message": "切换至下一行星",
+        "description": "settings:jump_to_next_planet:(no description)"
+    },
+    "select_all_air_combat_units": {
+        "message": "选择所有空军战斗单位",
+        "description": "settings:select_all_air_combat_units:(no description)"
+    },
+    "build": {
+        "message": "建造",
+        "description": "settings:build:(no description)"
+    },
+    "fps": {
+        "message": "FPS",
+        "description": "settings:fps:(no description)"
+    },
+    "display_mode": {
+        "message": "显示模式",
+        "description": "settings:display_mode:(no description)"
+    },
+    "recall_group_3": {
+        "message": "recall group 3",
+        "description": "settings:recall_group_3:(no description)"
+    },
+    "show_hide_performance_panel": {
+        "message": "显示/隐藏 性能面板",
+        "description": "settings:show_hide_performance_panel:(no description)"
+    },
+    "capture_anchor_3": {
+        "message": "设定到视角位置 3",
+        "description": "settings:capture_anchor_3:(no description)"
+    },
+    "capture_anchor_2": {
+        "message": "设定到视角位置 2",
+        "description": "settings:capture_anchor_2:(no description)"
+    },
+    "capture_anchor_1": {
+        "message": "设定到视角位置 1",
+        "description": "settings:capture_anchor_1:(no description)"
+    },
+    "capture_anchor_7": {
+        "message": "设定到视角位置 7",
+        "description": "settings:capture_anchor_7:(no description)"
+    },
+    "capture_anchor_6": {
+        "message": "设定到视角位置 6",
+        "description": "settings:capture_anchor_6:(no description)"
+    },
+    "capture_anchor_5": {
+        "message": "设定到视角位置 5",
+        "description": "settings:capture_anchor_5:(no description)"
+    },
+    "capture_anchor_4": {
+        "message": "设定到视角位置 4",
+        "description": "settings:capture_anchor_4:(no description)"
+    },
+    "swap_pip": {
+        "message": "切换画中画",
+        "description": "settings:swap_pip:(no description)"
+    },
+    "capture_anchor_9": {
+        "message": "设定到视角位置 9",
+        "description": "settings:capture_anchor_9:(no description)"
+    },
+    "capture_anchor_8": {
+        "message": "设定到视角位置 8",
+        "description": "settings:capture_anchor_8:(no description)"
+    },
+    "select_combat_group": {
+        "message": "选择战斗单位组",
+        "description": "settings:select_combat_group:(no description)"
+    },
+    "team_chat": {
+        "message": "团队聊天",
+        "description": "settings:team_chat:(no description)"
+    },
+    "toggle_free_camera": {
+        "message": "切换自由视角",
+        "description": "settings:toggle_free_camera:(no description)"
+    },
+    "sign_in": {
+        "message": "登录",
+        "description": "settings:sign_in:(no description)"
+    },
+    "decrease_camera_pan_speed": {
+        "message": "降低视角移动速度",
+        "description": "settings:decrease_camera_pan_speed:(no description)"
+    },
+    "capture_anchor_10": {
+        "message": "设定到视角位置 10",
+        "description": "settings:capture_anchor_10:(no description)"
+    },
+    "planet_jump": {
+        "message": "行星切换",
+        "description": "settings:planet_jump:(no description)"
+    },
+    "uberNetRegion": {
+        "message": "服务器",
+        "description": "settings:uberNetRegion:(no description)"
+    },
+    "free_pitch_forward": {
+        "message": "向前自由缩放",
+        "description": "settings:free_pitch_forward:(no description)"
+    },
+    "self_destruct_selected_unit": {
+        "message": "自毁所选单位",
+        "description": "settings:self_destruct_selected_unit:(no description)"
+    },
+    "2000_recommended_for_720p": {
+        "message": "2000 (720P推荐)",
+        "description": "settings:2000_recommended_for_720p:(no description)"
+    },
+    "off": {
+        "message": "关",
+        "description": "settings:off:(no description)"
+    },
+    "modes": {
+        "message": "模式",
+        "description": "settings:modes:(no description)"
+    },
+    "unload": {
+        "message": "卸下",
+        "description": "settings:unload:(no description)"
+    },
+    "select_commander": {
+        "message": "选择指挥官",
+        "description": "settings:select_commander:(no description)"
+    },
+    "orbital_shell": {
+        "message": "轨道坐标",
+        "description": "settings:orbital_shell:(no description)"
+    },
+    "select_all_combat_units_on_screen": {
+        "message": "选择当前屏幕中所有战斗单位",
+        "description": "settings:select_all_combat_units_on_screen:(no description)"
+    },
+    "build_item_1": {
+        "message": "建造项目 1",
+        "description": "settings:build_item_1:(no description)"
+    },
+    "show_hide_pip": {
+        "message": "显示/隐藏 画中画",
+        "description": "settings:show_hide_pip:(no description)"
+    },
+    "zoom_to_celestial": {
+        "message": "缩放至行星",
+        "description": "settings:zoom_to_celestial:(no description)"
+    },
+    "maneuver": {
+        "message": "制动",
+        "description": "settings:maneuver:(no description)"
+    },
+    "audio": {
+        "message": "音频",
+        "description": "settings:audio:(no description)"
+    },
+    "resolution": {
+        "message": "分辨率",
+        "description": "settings:resolution:(no description)"
+    },
+    "toggle_console": {
+        "message": "切换控制台",
+        "description": "settings:toggle_console:(no description)"
+    },
+    "select_vehicle_group": {
+        "message": "选择车辆组",
+        "description": "settings:select_vehicle_group:(no description)"
+    }
+}

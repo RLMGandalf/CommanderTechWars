@@ -1,0 +1,166 @@
+{
+    "planets": {
+        "message": "PLANETAS:",
+        "description": "lobby:planets:(no description)"
+    },
+    "ai": {
+        "message": "IA",
+        "description": "lobby:ai:(no description)"
+    },
+    "starting_game": {
+        "message": "COMENZANDO JUEGO",
+        "description": "lobby:starting_game:(no description)"
+    },
+    "ai_economy_rate": {
+        "message": "RATIO DE ECONOMÍA DE IA:",
+        "description": "lobby:ai_economy_rate:(no description)"
+    },
+    "ready": {
+        "message": "listo",
+        "description": "lobby:ready:(no description)"
+    },
+    "vs": {
+        "message": "vs",
+        "description": "lobby:vs:(no description)"
+    },
+    "chat": {
+        "message": "CHAT",
+        "description": "lobby:chat:(no description)"
+    },
+    "cancel": {
+        "message": "Cancelar",
+        "description": "lobby:cancel:(no description)"
+    },
+    "yes": {
+        "message": "Sí",
+        "description": "lobby:yes:(no description)"
+    },
+    "leave_game": {
+        "message": "DEJAR JUEGO",
+        "description": "lobby:leave_game:(no description)"
+    },
+    "starting_planet": {
+        "message": "PLANETA INICIAL:",
+        "description": "lobby:starting_planet:(no description)"
+    },
+    "promote": {
+        "message": "ASCENDER",
+        "description": "lobby:promote:(no description)"
+    },
+    "player_economy_rate": {
+        "message": "RATIO DE ECONOMÍA DEL JUGADOR",
+        "description": "lobby:player_economy_rate:(no description)"
+    },
+    "army": {
+        "message": "EJÉRCITO",
+        "description": "lobby:army:(no description)"
+    },
+    "connecting_to_server": {
+        "message": "CONECTANDO CON EL SERVIDOR",
+        "description": "lobby:connecting_to_server:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Regresando al Menú Principal",
+        "description": "lobby:returning_to_main_menu:(no description)"
+    },
+    "add_an_army": {
+        "message": "AÑADIR UN EJÉRCITO",
+        "description": "lobby:add_an_army:(no description)"
+    },
+    "system": {
+        "message": "SISTEMA",
+        "description": "lobby:system:(no description)"
+    },
+    "waiting": {
+        "message": "esperando",
+        "description": "lobby:waiting:(no description)"
+    },
+    "partner_up_and_share_control_of_one_army_and_economy": {
+        "message": "Asociar con un compañero y comparte control de un ejército y economía.",
+        "description": "lobby:partner_up_and_share_control_of_one_army_and_economy:(no description)"
+    },
+    "ready_caps": {
+        "message": "LISTO",
+        "description": "lobby:ready_caps:(no description)"
+    },
+    "offline": {
+        "message": "fuera de línea",
+        "description": "lobby:offline:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "lobby:gamma_v:(no description)"
+    },
+    "kick": {
+        "message": "ECHAR",
+        "description": "lobby:kick:(no description)"
+    },
+    "armies": {
+        "message": "EJÉRCITOS",
+        "description": "lobby:armies:(no description)"
+    },
+    "format": {
+        "message": "FORMATO",
+        "description": "lobby:format:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "CONEXIÓN CON EL SERVIDOR PERDIDA",
+        "description": "lobby:connection_to_server_lost:(no description)"
+    },
+    "you": {
+        "message": "TÚ",
+        "description": "lobby:you:(no description)"
+    },
+    "scale": {
+        "message": "ESCALA",
+        "description": "lobby:scale:(no description)"
+    },
+    "join": {
+        "message": "Unirse",
+        "description": "lobby:join:(no description)"
+    },
+    "game_will_start_when_all_players_select_a_slot_and_click_ready": {
+        "message": "El juego comenzará cuando todos los jugadores seleccionen una ranura y hagan clic en Listo.",
+        "description": "lobby:game_will_start_when_all_players_select_a_slot_and_click_ready:(no description)"
+    },
+    "exit_game": {
+        "message": "¿Salir del Juego?",
+        "description": "lobby:exit_game:(no description)"
+    },
+    "lobby": {
+        "message": "SALA DE ESPERA",
+        "description": "lobby:lobby:(no description)"
+    },
+    "team_armies": {
+        "message": "Ejércitos en equipo",
+        "description": "lobby:team_armies:(no description)"
+    },
+    "one_player_per_army": {
+        "message": "Un jugador por ejército.",
+        "description": "lobby:one_player_per_army:(no description)"
+    },
+    "ai_commander": {
+        "message": "Comandante de IA",
+        "description": "lobby:ai_commander:(no description)"
+    },
+    "game_will_start_when_the_server_has_finished_generating_the_solar_system": {
+        "message": "El juego comenzará cuando el servidor haya terminado de generar el sistema solar",
+        "description": "lobby:game_will_start_when_the_server_has_finished_generating_the_solar_system:(no description)"
+    },
+    "free_for_all": {
+        "message": "Todos Contra Todos",
+        "description": "lobby:free_for_all:(no description)"
+    },
+    "lobby_beta": {
+        "message": "SALA DE ESPERA BETA",
+        "description": "lobby:lobby_beta:(no description)"
+    },
+    "battle_solo_against_armies_commanded_by_the_ai": {
+        "message": "Lucha solo contra ejércitos comandados por la IA.",
+        "description": "lobby:battle_solo_against_armies_commanded_by_the_ai:(no description)"
+    },
+    "players": {
+        "message": "JUGADORES",
+        "description": "lobby:players:(no description)"
+    }
+}

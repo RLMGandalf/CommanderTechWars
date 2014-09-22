@@ -1,0 +1,126 @@
+{
+    "rename": {
+        "message": "重新命名",
+        "description": "social:rename:(no description)"
+    },
+    "refresh_friends": {
+        "message": "重新整理清單",
+        "description": "social:refresh_friends:(no description)"
+    },
+    "remove": {
+        "message": "移除",
+        "description": "social:remove:(no description)"
+    },
+    "tag": {
+        "message": "標籤",
+        "description": "social:tag:(no description)"
+    },
+    "add_friend": {
+        "message": "新增一個朋友",
+        "description": "social:add_friend:(no description)"
+    },
+    "cancel": {
+        "message": "取消",
+        "description": "social:cancel:(no description)"
+    },
+    "close": {
+        "message": "關閉",
+        "description": "social:close:(no description)"
+    },
+    "ubernet_friends": {
+        "message": "UBERDEX",
+        "description": "social:ubernet_friends:(no description)"
+    },
+    "friend_not_found": {
+        "message": "找不到連絡人",
+        "description": "social:friend_not_found:(no description)"
+    },
+    "new_nickname": {
+        "message": "新的暱稱:",
+        "description": "social:new_nickname:(no description)"
+    },
+    "approved_users": {
+        "message": "已批准的使用者",
+        "description": "social:approved_users:(no description)"
+    },
+    "add": {
+        "message": "增加",
+        "description": "social:add:(no description)"
+    },
+    "recent": {
+        "message": "最近",
+        "description": "social:recent:(no description)"
+    },
+    "blocked_users": {
+        "message": "已屏蔽的使用者",
+        "description": "social:blocked_users:(no description)"
+    },
+    "tag_friend": {
+        "message": "標籤好友:",
+        "description": "social:tag_friend:(no description)"
+    },
+    "private_games_you_make_will_only_be_visible_to_these_players": {
+        "message": "你建立的私人遊戲只能夠被這些玩家看到。",
+        "description": "social:private_games_you_make_will_only_be_visible_to_these_players:(no description)"
+    },
+    "contact_list_updated": {
+        "message": "連絡人列表已更新",
+        "description": "social:contact_list_updated:(no description)"
+    },
+    "dismiss": {
+        "message": "關閉",
+        "description": "social:dismiss:(no description)"
+    },
+    "uberid": {
+        "message": "UberId:",
+        "description": "social:uberid:(no description)"
+    },
+    "games_you_make_will_be_hidden_to_these_players": {
+        "message": "這些玩家將不能夠看見你建立的遊戲。",
+        "description": "social:games_you_make_will_be_hidden_to_these_players:(no description)"
+    },
+    "screen_name": {
+        "message": "Uber 名稱",
+        "description": "social:screen_name:(no description)"
+    },
+    "players_you_have_encountered_recently": {
+        "message": "你最近接觸到的玩家。",
+        "description": "social:players_you_have_encountered_recently:(no description)"
+    },
+    "tags": {
+        "message": "標籤:",
+        "description": "social:tags:(no description)"
+    },
+    "refreshing": {
+        "message": "正在重新整理好友列表.....",
+        "description": "social:refreshing:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "social:gamma_v:(no description)"
+    },
+    "name": {
+        "message": "名稱:",
+        "description": "social:name:(no description)"
+    },
+    "filter_list": {
+        "message": "以標籤過濾連絡人:",
+        "description": "social:filter_list:(no description)"
+    },
+    "social": {
+        "message": "社交",
+        "description": "social:social:(no description)"
+    },
+    "approve": {
+        "message": "批准",
+        "description": "social:approve:(no description)"
+    },
+    "or": {
+        "message": "或",
+        "description": "social:or:(no description)"
+    },
+    "block": {
+        "message": "屏蔽",
+        "description": "social:block:(no description)"
+    }
+}

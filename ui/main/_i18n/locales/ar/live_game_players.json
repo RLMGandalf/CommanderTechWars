@@ -1,0 +1,66 @@
+{
+    "alliance_requested": {
+        "message": "تم طلب التحالف",
+        "description": "live_game_players:alliance_requested:(no description)"
+    },
+    "build_efficiency": {
+        "message": "الكفاءة",
+        "description": "live_game_players:build_efficiency:(no description)"
+    },
+    "army_fabber_value": {
+        "message": "Fabber",
+        "description": "live_game_players:army_fabber_value:(no description)"
+    },
+    "army": {
+        "message": "جيش",
+        "description": "live_game_players:army:(no description)"
+    },
+    "army_unit_count": {
+        "message": "العد",
+        "description": "live_game_players:army_unit_count:(no description)"
+    },
+    "alliance_request": {
+        "message": "طلب تحالف",
+        "description": "live_game_players:alliance_request:(no description)"
+    },
+    "accept": {
+        "message": "قبول",
+        "description": "live_game_players:accept:(no description)"
+    },
+    "ignore": {
+        "message": "تجاهل",
+        "description": "live_game_players:ignore:(no description)"
+    },
+    "player": {
+        "message": "لاعب",
+        "description": "live_game_players:player:(no description)"
+    },
+    "allied_with": {
+        "message": "حليف مع:",
+        "description": "live_game_players:allied_with:(no description)"
+    },
+    "request_pending": {
+        "message": "الطلب معلق",
+        "description": "live_game_players:request_pending:(no description)"
+    },
+    "army_factory_value": {
+        "message": "مصنع",
+        "description": "live_game_players:army_factory_value:(no description)"
+    },
+    "resc": {
+        "message": "RESC",
+        "description": "live_game_players:resc:(no description)"
+    },
+    "army_mobile_value": {
+        "message": "متنقل",
+        "description": "live_game_players:army_mobile_value:(no description)"
+    },
+    "ally": {
+        "message": "حليف",
+        "description": "live_game_players:ally:(no description)"
+    },
+    "economy": {
+        "message": "الاقتصاد",
+        "description": "live_game_players:economy:(no description)"
+    }
+}

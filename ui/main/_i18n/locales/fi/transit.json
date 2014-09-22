@@ -1,0 +1,10 @@
+{
+    "returning_to_main_menu": {
+        "message": "Palataan päävalikkoon",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "error": {
+        "message": "Virhe",
+        "description": "transit:error:(no description)"
+    }
+}

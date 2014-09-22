@@ -1,0 +1,86 @@
+{
+    "anti_nuke_intercepts_incoming_nuclear_missiles": {
+        "description": "live_game:anti_nuke_intercepts_incoming_nuclear_missiles:(no description)", 
+        "message": "Anti-nuke - Intercepts incoming nuclear missiles."
+    }, 
+    "aps": {
+        "description": "live_game:aps:(no description)", 
+        "message": "APS:"
+    }, 
+    "attacking": {
+        "description": "live_game:attacking:(no description)", 
+        "message": "ATTACKING"
+    }, 
+    "cancel": {
+        "description": "live_game:cancel:(no description)", 
+        "message": "Cancel"
+    }, 
+    "connection_to_server_lost": {
+        "description": "live_game:connection_to_server_lost:(no description)", 
+        "message": "CONNECTION TO SERVER LOST"
+    }, 
+    "dmg": {
+        "description": "live_game:dmg:(no description)", 
+        "message": "DMG:"
+    }, 
+    "dps": {
+        "description": "live_game:dps:(no description)", 
+        "message": "DPS:"
+    }, 
+    "efficiency": {
+        "description": "live_game:efficiency:(no description)", 
+        "message": "Efficiency"
+    }, 
+    "exit_game": {
+        "description": "live_game:exit_game:(no description)", 
+        "message": "Exit Game?"
+    }, 
+    "fabricating": {
+        "description": "live_game:fabricating:(no description)", 
+        "message": "FABRICATING"
+    }, 
+    "lr_96_pacifier_missile": {
+        "description": "live_game:lr_96_pacifier_missile:(no description)", 
+        "message": "LR-96 -Pacifier- Missile"
+    }, 
+    "nuclear_missile_long_range_large_area_damage_projectile": {
+        "description": "live_game:nuclear_missile_long_range_large_area_damage_projectile:(no description)", 
+        "message": "Nuclear missile - Long range, large area damage, projectile."
+    }, 
+    "pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander": {
+        "description": "live_game:pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander:(no description)", 
+        "message": "Pick a location inside one of the green zones to spawn your Commander."
+    }, 
+    "position_targeted_click_to_confirm": {
+        "description": "live_game:position_targeted_click_to_confirm:(no description)", 
+        "message": "Position targeted. Click to confirm."
+    }, 
+    "reclaiming": {
+        "description": "live_game:reclaiming:(no description)", 
+        "message": "RECLAIMING"
+    }, 
+    "returning_to_main_menu": {
+        "description": "live_game:returning_to_main_menu:(no description)", 
+        "message": "Returning to Main Menu"
+    }, 
+    "sr_24_shield_missile_defense": {
+        "description": "live_game:sr_24_shield_missile_defense:(no description)", 
+        "message": "SR-24 -Shield- Missile Defense"
+    }, 
+    "start_annihilation": {
+        "description": "live_game:start_annihilation:(no description)", 
+        "message": "START ANNIHILATION"
+    }, 
+    "transport": {
+        "description": "live_game:transport:(no description)", 
+        "message": "TRANSPORT"
+    }, 
+    "waiting_for_other_players_to_select_a_spawn_location": {
+        "description": "live_game:waiting_for_other_players_to_select_a_spawn_location:(no description)", 
+        "message": "Waiting for other players to select a spawn location."
+    }, 
+    "yes": {
+        "description": "live_game:yes:(no description)", 
+        "message": "Yes"
+    }
+}

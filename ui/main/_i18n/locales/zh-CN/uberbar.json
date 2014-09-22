@@ -1,0 +1,146 @@
+{
+    "appear_offline": {
+        "message": "显示为离线",
+        "description": "uberbar:appear_offline:(no description)"
+    },
+    "wants_to_be_your_friend": {
+        "message": "想成为您的朋友",
+        "description": "uberbar:wants_to_be_your_friend:(no description)"
+    },
+    "_tags": {
+        "message": "[标签：",
+        "description": "uberbar:_tags:(no description)"
+    },
+    "accept": {
+        "message": "接受",
+        "description": "uberbar:accept:(no description)"
+    },
+    "send_friend_request": {
+        "message": "发送好友请求",
+        "description": "uberbar:send_friend_request:(no description)"
+    },
+    "unblock": {
+        "message": "解除屏蔽",
+        "description": "uberbar:unblock:(no description)"
+    },
+    "invite_to_chat": {
+        "message": "邀请聊天",
+        "description": "uberbar:invite_to_chat:(no description)"
+    },
+    "chat": {
+        "message": "聊天",
+        "description": "uberbar:chat:(no description)"
+    },
+    "cancel": {
+        "message": "取消",
+        "description": "uberbar:cancel:(no description)"
+    },
+    "users": {
+        "message": "玩家",
+        "description": "uberbar:users:(no description)"
+    },
+    "_remove": {
+        "message": "[移除]",
+        "description": "uberbar:_remove:(no description)"
+    },
+    "search_results": {
+        "message": "搜索结果",
+        "description": "uberbar:search_results:(no description)"
+    },
+    "away": {
+        "message": "离开",
+        "description": "uberbar:away:(no description)"
+    },
+    "invited_you_to_chat": {
+        "message": "您被邀请加入聊天",
+        "description": "uberbar:invited_you_to_chat:(no description)"
+    },
+    "invite_to_game": {
+        "message": "邀请加入游戏",
+        "description": "uberbar:invite_to_game:(no description)"
+    },
+    "_i": {
+        "message": "[I]",
+        "description": "uberbar:_i:(no description)"
+    },
+    "online": {
+        "message": "在线",
+        "description": "uberbar:online:(no description)"
+    },
+    "_f": {
+        "message": "[F]",
+        "description": "uberbar:_f:(no description)"
+    },
+    "offline": {
+        "message": "离线",
+        "description": "uberbar:offline:(no description)"
+    },
+    "_b": {
+        "message": "[B]",
+        "description": "uberbar:_b:(no description)"
+    },
+    "unfriend": {
+        "message": "解除好友",
+        "description": "uberbar:unfriend:(no description)"
+    },
+    "no_pending_notifications": {
+        "message": "暂无新通知.",
+        "description": "uberbar:no_pending_notifications:(no description)"
+    },
+    "join_game": {
+        "message": "加入游戏",
+        "description": "uberbar:join_game:(no description)"
+    },
+    "pending_invite": {
+        "message": "邀请中",
+        "description": "uberbar:pending_invite:(no description)"
+    },
+    "friends": {
+        "message": "好友",
+        "description": "uberbar:friends:(no description)"
+    },
+    "change": {
+        "message": "更改",
+        "description": "uberbar:change:(no description)"
+    },
+    "recent": {
+        "message": "最近",
+        "description": "uberbar:recent:(no description)"
+    },
+    "change_your_display_name": {
+        "message": "修改您的昵称？",
+        "description": "uberbar:change_your_display_name:(no description)"
+    },
+    "new_display_name": {
+        "message": "新昵称：",
+        "description": "uberbar:new_display_name:(no description)"
+    },
+    "do_not_disturb": {
+        "message": "请勿打扰",
+        "description": "uberbar:do_not_disturb:(no description)"
+    },
+    "remove": {
+        "message": "移除",
+        "description": "uberbar:remove:(no description)"
+    },
+    "ignore": {
+        "message": "忽略",
+        "description": "uberbar:ignore:(no description)"
+    },
+    "_chat": {
+        "message": "[聊天]",
+        "description": "uberbar:_chat:(no description)"
+    },
+    "invited_you_to_a_game": {
+        "message": "您收到游戏邀请.",
+        "description": "uberbar:invited_you_to_a_game:(no description)"
+    },
+    "change_display_name": {
+        "message": "更改昵称",
+        "description": "uberbar:change_display_name:(no description)"
+    },
+    "block": {
+        "message": "屏蔽",
+        "description": "uberbar:block:(no description)"
+    }
+}

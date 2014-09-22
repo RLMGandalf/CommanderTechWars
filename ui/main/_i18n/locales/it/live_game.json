@@ -1,0 +1,86 @@
+{
+    "yes": {
+        "message": "Si",
+        "description": "live_game:yes:(no description)"
+    },
+    "lr_96_pacifier_missile": {
+        "message": "LR-96 -Pacificatore- Missile",
+        "description": "live_game:lr_96_pacifier_missile:(no description)"
+    },
+    "dps": {
+        "message": "DPS:",
+        "description": "live_game:dps:(no description)"
+    },
+    "start_annihilation": {
+        "message": "AVVIA ANNIENTAMENTO",
+        "description": "live_game:start_annihilation:(no description)"
+    },
+    "waiting_for_other_players_to_select_a_spawn_location": {
+        "message": "In attesa che gli altri giocatori selezionino un punto di atterraggio.",
+        "description": "live_game:waiting_for_other_players_to_select_a_spawn_location:(no description)"
+    },
+    "dmg": {
+        "message": "DMG:",
+        "description": "live_game:dmg:(no description)"
+    },
+    "aps": {
+        "message": "APS:",
+        "description": "live_game:aps:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "CONNESSIONE AL SERVER PERSA",
+        "description": "live_game:connection_to_server_lost:(no description)"
+    },
+    "anti_nuke_intercepts_incoming_nuclear_missiles": {
+        "message": "Antimissile - Intercetta missili nucleari in arrivo.",
+        "description": "live_game:anti_nuke_intercepts_incoming_nuclear_missiles:(no description)"
+    },
+    "position_targeted_click_to_confirm": {
+        "message": "Posizione acquisita. Clicca per confermare.",
+        "description": "live_game:position_targeted_click_to_confirm:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Ritorno al Menu Principale in corso",
+        "description": "live_game:returning_to_main_menu:(no description)"
+    },
+    "efficiency": {
+        "message": "Efficienza",
+        "description": "live_game:efficiency:(no description)"
+    },
+    "nuclear_missile_long_range_large_area_damage_projectile": {
+        "message": "Missile nucleare - Lungo raggio, danno su vasta scala, proiettile.",
+        "description": "live_game:nuclear_missile_long_range_large_area_damage_projectile:(no description)"
+    },
+    "pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander": {
+        "message": "Scegli una posizione all'interno di una delle zone verdi per far apparire il tuo Comandante.",
+        "description": "live_game:pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander:(no description)"
+    },
+    "fabricating": {
+        "message": "COSTRUZIONE IN CORSO",
+        "description": "live_game:fabricating:(no description)"
+    },
+    "cancel": {
+        "message": "Annulla",
+        "description": "live_game:cancel:(no description)"
+    },
+    "sr_24_shield_missile_defense": {
+        "message": "SR-24 -Scudo- Difesa Missilistica",
+        "description": "live_game:sr_24_shield_missile_defense:(no description)"
+    },
+    "exit_game": {
+        "message": "Uscire dal gioco?",
+        "description": "live_game:exit_game:(no description)"
+    },
+    "attacking": {
+        "message": "ATTACCO IN CORSO",
+        "description": "live_game:attacking:(no description)"
+    },
+    "transport": {
+        "message": "TRASPORTO",
+        "description": "live_game:transport:(no description)"
+    },
+    "reclaiming": {
+        "message": "RICICLAGGIO IN CORSO",
+        "description": "live_game:reclaiming:(no description)"
+    }
+}

@@ -1,0 +1,306 @@
+{
+    "load": {
+        "message": "ÎNCARCĂ",
+        "description": "live_game:load:(no description)"
+    },
+    "repair": {
+        "message": "REPARĂ",
+        "description": "live_game:repair:(no description)"
+    },
+    "ready": {
+        "message": "gata.",
+        "description": "live_game:ready:(no description)"
+    },
+    "v": {
+        "message": "V:",
+        "description": "live_game:v:(no description)"
+    },
+    "patrol": {
+        "message": "PATRULEAZĂ",
+        "description": "live_game:patrol:(no description)"
+    },
+    "hold_position": {
+        "message": "MENŢINE POZIŢIA",
+        "description": "live_game:hold_position:(no description)"
+    },
+    "army_unit_count": {
+        "message": "Numără",
+        "description": "live_game:army_unit_count:(no description)"
+    },
+    "ai": {
+        "message": "IA",
+        "description": "live_game:ai:(no description)"
+    },
+    "change_orbit": {
+        "message": "Schimbă orbita",
+        "description": "live_game:change_orbit:(no description)"
+    },
+    "chrono_cam": {
+        "message": "CAMERA CHRONO",
+        "description": "live_game:chrono_cam:(no description)"
+    },
+    "stop_sharing_resources": {
+        "message": "OPREŞTE ÎMPĂRTĂŞIREA DE RESURSE",
+        "description": "live_game:stop_sharing_resources:(no description)"
+    },
+    "energy_off": {
+        "message": "OPRITĂ",
+        "description": "live_game:energy_off:(no description)"
+    },
+    "live_game_econ": {
+        "message": "Joc În Direct: Economie",
+        "description": "live_game:live_game_econ:(no description)"
+    },
+    "at_will": {
+        "message": "DUPĂ PLAC",
+        "description": "live_game:at_will:(no description)"
+    },
+    "fabricating": {
+        "message": "FABRICÂND:",
+        "description": "live_game:fabricating:(no description)"
+    },
+    "cancel": {
+        "message": "Anulează",
+        "description": "live_game:cancel:(no description)"
+    },
+    "set_target_spot": {
+        "message": "Stabileşte destinaţia dorită",
+        "description": "live_game:set_target_spot:(no description)"
+    },
+    "army_mobile_value": {
+        "message": "Mobil",
+        "description": "live_game:army_mobile_value:(no description)"
+    },
+    "energy_orders": {
+        "message": "ORDINE PENTRU ENERGIE",
+        "description": "live_game:energy_orders:(no description)"
+    },
+    "move": {
+        "message": "MUTĂ",
+        "description": "live_game:move:(no description)"
+    },
+    "build_efficiency": {
+        "message": "Eficienţă",
+        "description": "live_game:build_efficiency:(no description)"
+    },
+    "quit": {
+        "message": "PĂRĂSEŞTE",
+        "description": "live_game:quit:(no description)"
+    },
+    "use": {
+        "message": "FOLOSEŞTE",
+        "description": "live_game:use:(no description)"
+    },
+    "army_fabber_value": {
+        "message": "Printer 3D",
+        "description": "live_game:army_fabber_value:(no description)"
+    },
+    "spectate_panel_title": {
+        "message": "Observă",
+        "description": "live_game:spectate_panel_title:(no description)"
+    },
+    "request_alliance": {
+        "message": "SOLICITĂ ALIANŢĂ",
+        "description": "live_game:request_alliance:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Revenind la Meniul Principal",
+        "description": "live_game:returning_to_main_menu:(no description)"
+    },
+    "diplomacy": {
+        "message": "DIPLOMAŢIE",
+        "description": "live_game:diplomacy:(no description)"
+    },
+    "ping": {
+        "message": "Ping!",
+        "description": "live_game:ping:(no description)"
+    },
+    "destroyed": {
+        "message": "distrus.",
+        "description": "live_game:destroyed:(no description)"
+    },
+    "attack": {
+        "message": "ATACĂ",
+        "description": "live_game:attack:(no description)"
+    },
+    "pa": {
+        "message": "PA",
+        "description": "live_game:pa:(no description)"
+    },
+    "live_game": {
+        "message": "Joc În Direct",
+        "description": "live_game:live_game:(no description)"
+    },
+    "set_hostile": {
+        "message": "SETEAZĂ CA OSTIL",
+        "description": "live_game:set_hostile:(no description)"
+    },
+    "hold": {
+        "message": "STAI",
+        "description": "live_game:hold:(no description)"
+    },
+    "then_confirm_destination_to_set_course": {
+        "message": "Apoi confirmă destinaţia pe direcţia stabilită.",
+        "description": "live_game:then_confirm_destination_to_set_course:(no description)"
+    },
+    "s_move": {
+        "message": "S.MUTĂ",
+        "description": "live_game:s_move:(no description)"
+    },
+    "select_a_planet_to_attack": {
+        "message": "Alege o planetă pentru atac.",
+        "description": "live_game:select_a_planet_to_attack:(no description)"
+    },
+    "continuous": {
+        "message": "CONTINUU",
+        "description": "live_game:continuous:(no description)"
+    },
+    "yes": {
+        "message": "Da",
+        "description": "live_game:yes:(no description)"
+    },
+    "return_fire": {
+        "message": "RETURNEAZĂ ATAC",
+        "description": "live_game:return_fire:(no description)"
+    },
+    "normal": {
+        "message": "NORMAL",
+        "description": "live_game:normal:(no description)"
+    },
+    "waiting_for_other_players_to_land": {
+        "message": "Aşteptând ceilalţi jucători sa aterizeze",
+        "description": "live_game:waiting_for_other_players_to_land:(no description)"
+    },
+    "unload": {
+        "message": "DESCARCĂ",
+        "description": "live_game:unload:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "CONEXIUNEA CĂTRE SERVER PIERDUTĂ",
+        "description": "live_game:connection_to_server_lost:(no description)"
+    },
+    "assist": {
+        "message": "ASISTĂ",
+        "description": "live_game:assist:(no description)"
+    },
+    "stop": {
+        "message": "OPREŞTE",
+        "description": "live_game:stop:(no description)"
+    },
+    "position_targeted_click_to_confirm": {
+        "message": "Poziţie aleasă. Apasă pentru confirmare.",
+        "description": "live_game:position_targeted_click_to_confirm:(no description)"
+    },
+    "under_attack": {
+        "message": "sub atac.",
+        "description": "live_game:under_attack:(no description)"
+    },
+    "alt_fire": {
+        "message": "ATAC ALTERNATIV",
+        "description": "live_game:alt_fire:(no description)"
+    },
+    "game_settings": {
+        "message": "SETĂRI DE JOC",
+        "description": "live_game:game_settings:(no description)"
+    },
+    "build_mode": {
+        "message": "MOD DE CONSTRUCŢIE",
+        "description": "live_game:build_mode:(no description)"
+    },
+    "pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander": {
+        "message": "Alege o locaţie în una din zonele verzi pentru a depune Comandantul tău.",
+        "description": "live_game:pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander:(no description)"
+    },
+    "set_course_for_annihilation": {
+        "message": "Alege direcţie pentru anihilare.",
+        "description": "live_game:set_course_for_annihilation:(no description)"
+    },
+    "army_metal_value": {
+        "message": "Armată",
+        "description": "live_game:army_metal_value:(no description)"
+    },
+    "main_menu": {
+        "message": "MENIU PRINCIPAL",
+        "description": "live_game:main_menu:(no description)"
+    },
+    "fire_orders": {
+        "message": "ORDINE DE ATAC",
+        "description": "live_game:fire_orders:(no description)"
+    },
+    "exit_game": {
+        "message": "IEŞIRE DIN JOC?",
+        "description": "live_game:exit_game:(no description)"
+    },
+    "select_a_target_location": {
+        "message": "Alege o locaţie ţintă",
+        "description": "live_game:select_a_target_location:(no description)"
+    },
+    "start_annihilation": {
+        "message": "ÎNCEPE ANIHILAREA",
+        "description": "live_game:start_annihilation:(no description)"
+    },
+    "manuever": {
+        "message": "MANEVREAZĂ",
+        "description": "live_game:manuever:(no description)"
+    },
+    "c": {
+        "message": "C:",
+        "description": "live_game:c:(no description)"
+    },
+    "engage": {
+        "message": "ANGAJEAZĂ",
+        "description": "live_game:engage:(no description)"
+    },
+    "break_alliance": {
+        "message": "RUPE ALIANŢA",
+        "description": "live_game:break_alliance:(no description)"
+    },
+    "move_orders": {
+        "message": "ORDINE DE MIŞCARE",
+        "description": "live_game:move_orders:(no description)"
+    },
+    "efficiency": {
+        "message": "Eficienţă",
+        "description": "live_game:efficiency:(no description)"
+    },
+    "k": {
+        "message": "K",
+        "description": "live_game:k:(no description)"
+    },
+    "give_resources": {
+        "message": "DĂ RESURSE",
+        "description": "live_game:give_resources:(no description)"
+    },
+    "energy_on": {
+        "message": "PORNIT",
+        "description": "live_game:energy_on:(no description)"
+    },
+    "set_neutral": {
+        "message": "STABILEŞTE CA NEUTRU",
+        "description": "live_game:set_neutral:(no description)"
+    },
+    "select_a_new_gravity_well": {
+        "message": "Alege o nouă fântână de gravitaţie.",
+        "description": "live_game:select_a_new_gravity_well:(no description)"
+    },
+    "roam": {
+        "message": "CĂLĂTOREŞTE",
+        "description": "live_game:roam:(no description)"
+    },
+    "army_factory_value": {
+        "message": "Fabrică",
+        "description": "live_game:army_factory_value:(no description)"
+    },
+    "attacking": {
+        "message": "ATACÂND:",
+        "description": "live_game:attacking:(no description)"
+    },
+    "reclaim": {
+        "message": "RECLAMĂ",
+        "description": "live_game:reclaim:(no description)"
+    },
+    "reclaiming": {
+        "message": "RECLAMÂND:",
+        "description": "live_game:reclaiming:(no description)"
+    }
+}

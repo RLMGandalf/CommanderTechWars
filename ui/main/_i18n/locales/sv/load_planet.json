@@ -1,0 +1,62 @@
+{
+    "my_planets": {
+        "message": "My Planets",
+        "description": "load_planet:my_planets:(no description)"
+    },
+    "delete_this_planet": {
+        "message": "Ta bort den här planeten?",
+        "description": "load_planet:delete_this_planet:(no description)"
+    },
+    "planets": {
+        "message": "Planeter",
+        "description": "load_planet:planets:(no description)"
+    },
+    "delete_this_system": {
+        "message": "Ta bort det här systemet?",
+        "description": "load_planet:delete_this_system:(no description)"
+    },
+    "delete_system": {
+        "message": "Ta bort System",
+        "description": "load_planet:delete_system:(no description)"
+    },
+    "show_planets": {
+        "message": "VISA PLANETER",
+        "description": "load_planet:show_planets:(no description)"
+    },
+    "load_system": {
+        "message": "Ladda System",
+        "description": "load_planet:load_system:(no description)"
+    },
+    "show_systems": {
+        "message": "VISA SYSTEM",
+        "description": "load_planet:show_systems:(no description)"
+    },
+    "systems": {
+        "message": "Systems",
+        "description": "load_planet:systems:(no description)"
+    },
+    "load_planet": {
+        "message": "Ladda Planet",
+        "description": "load_planet:load_planet:(no description)"
+    },
+    "my_systems": {
+        "message": "My Systems",
+        "description": "load_planet:my_systems:(no description)"
+    },
+    "cancel": {
+        "message": "AVBRYT",
+        "description": "load_planet:cancel:(no description)"
+    },
+    "create_new_system": {
+        "message": "SKAPA NYTT SYSTEM",
+        "description": "load_planet:create_new_system:(no description)"
+    },
+    "system_designer": {
+        "message": "SYSTEM DESIGNER",
+        "description": "load_planet:system_designer:(no description)"
+    },
+    "delete": {
+        "message": "TA BORT",
+        "description": "load_planet:delete:(no description)"
+    }
+}

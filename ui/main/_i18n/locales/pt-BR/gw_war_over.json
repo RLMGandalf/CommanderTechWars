@@ -1,0 +1,34 @@
+{
+    "final_tech": {
+        "message": "Tecnologia Final",
+        "description": "gw_war_over:final_tech:(no description)"
+    },
+    "annihilated": {
+        "message": "Aniquilado",
+        "description": "gw_war_over:annihilated:(no description)"
+    },
+    "discards": {
+        "message": "Descartados",
+        "description": "gw_war_over:discards:(no description)"
+    },
+    "turns": {
+        "message": "Turnos:",
+        "description": "gw_war_over:turns:(no description)"
+    },
+    "victory": {
+        "message": "VItória",
+        "description": "gw_war_over:victory:(no description)"
+    },
+    "wins": {
+        "message": "Vitórias:",
+        "description": "gw_war_over:wins:(no description)"
+    },
+    "delete_archive": {
+        "message": "Deletar Arquivo",
+        "description": "gw_war_over:delete_archive:(no description)"
+    },
+    "close": {
+        "message": "Fechar",
+        "description": "gw_war_over:close:(no description)"
+    }
+}

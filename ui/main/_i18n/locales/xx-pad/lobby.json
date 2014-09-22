@@ -1,0 +1,207 @@
+{
+    "add_an_army": {
+        "description": "lobby:add_an_army:(no description)", 
+        "message": "\u0202\u0189\u0189 \u0202\u019d \u0202\u211d\u039c\u0423\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "ADD AN ARMY"
+    }, 
+    "ai": {
+        "description": "lobby:ai:(no description)", 
+        "message": "\u0202\u03aa\u03a9", 
+        "original": "AI"
+    }, 
+    "ai_commander": {
+        "description": "lobby:ai_commander:(no description)", 
+        "message": "\u0202\u03aa \u04aa\u020f\u028d\u028d\u0203\u019e\u0257\u1f73\u0213\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "AI Commander"
+    }, 
+    "ai_economy_rate": {
+        "description": "lobby:ai_economy_rate:(no description)", 
+        "message": "\u0202\u03aa \u0190\u04aa\u0472\u019d\u0472\u039c\u0423 \u211d\u0202\u4e01\u0190:\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "AI ECONOMY RATE:"
+    }, 
+    "armies": {
+        "description": "lobby:armies:(no description)", 
+        "message": "\u0202\u211d\u039c\u03aa\u0190\u1e60\u03a9\u03a9\u03a9", 
+        "original": "ARMIES"
+    }, 
+    "army": {
+        "description": "lobby:army:(no description)", 
+        "message": "\u0202\u211d\u039c\u0423\u03a9\u03a9", 
+        "original": "ARMY"
+    }, 
+    "battle_solo_against_armies_commanded_by_the_ai": {
+        "description": "lobby:battle_solo_against_armies_commanded_by_the_ai:(no description)", 
+        "message": "\u0e3f\u0203\u04ad\u04ad\u230a\u1f73 \u01a8\u020f\u230a\u020f \u0203\u0260\u0203\u0457\u019e\u01a8\u04ad \u0203\u0213\u028d\u0457\u1f73\u01a8 \u03f2\u020f\u028d\u028d\u0203\u019e\u0257\u1f73\u0257 \u0411\u0443 \u04ad\u043d\u1f73 \u0202\u03aa.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Battle solo against armies commanded by the AI."
+    }, 
+    "cancel": {
+        "description": "lobby:cancel:(no description)", 
+        "message": "\u04aa\u0203\u019e\u03f2\u1f73\u230a\u03a9\u03a9\u03a9", 
+        "original": "Cancel"
+    }, 
+    "chat": {
+        "description": "lobby:chat:(no description)", 
+        "message": "\u04aa\u04c7\u0202\u4e01\u03a9\u03a9", 
+        "original": "CHAT"
+    }, 
+    "connecting_to_server": {
+        "description": "lobby:connecting_to_server:(no description)", 
+        "message": "\u04aa\u0472\u019d\u019d\u0190\u04aa\u4e01\u03aa\u019d\u01f4 \u4e01\u0472 \u1e60\u0190\u211d\u0476\u0190\u211d\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "CONNECTING TO SERVER"
+    }, 
+    "connection_to_server_lost": {
+        "description": "lobby:connection_to_server_lost:(no description)", 
+        "message": "\u04aa\u0472\u019d\u019d\u0190\u04aa\u4e01\u03aa\u0472\u019d \u4e01\u0472 \u1e60\u0190\u211d\u0476\u0190\u211d \u20a4\u0472\u1e60\u4e01\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "CONNECTION TO SERVER LOST"
+    }, 
+    "exit_game": {
+        "description": "lobby:exit_game:(no description)", 
+        "message": "\u0190\u2327\u0457\u04ad \u01f4\u0203\u028d\u1f73?\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Exit Game?"
+    }, 
+    "format": {
+        "description": "lobby:format:(no description)", 
+        "message": "\u03dc\u0472\u211d\u039c\u0202\u4e01\u03a9\u03a9\u03a9", 
+        "original": "FORMAT"
+    }, 
+    "free_for_all": {
+        "description": "lobby:free_for_all:(no description)", 
+        "message": "\u03dc\u0213\u1f73\u1f73 \u03dc\u020f\u0213 \u0202\u230a\u230a\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Free For All"
+    }, 
+    "game_will_start_when_all_players_select_a_slot_and_click_ready": {
+        "description": "lobby:game_will_start_when_all_players_select_a_slot_and_click_ready:(no description)", 
+        "message": "\u01f4\u0203\u028d\u1f73 \u1ff4\u0457\u230a\u230a \u01a8\u04ad\u0203\u0213\u04ad \u1ff4\u043d\u1f73\u019e \u0203\u230a\u230a \u2374\u230a\u0203\u0443\u1f73\u0213\u01a8 \u01a8\u1f73\u230a\u1f73\u03f2\u04ad \u0203 \u01a8\u230a\u020f\u04ad \u0203\u019e\u0257 \u03f2\u230a\u0457\u03f2\u045c \u211d\u1f73\u0203\u0257\u0443.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Game will start when all players select a slot and click Ready."
+    }, 
+    "game_will_start_when_the_server_has_finished_generating_the_solar_system": {
+        "description": "lobby:game_will_start_when_the_server_has_finished_generating_the_solar_system:(no description)", 
+        "message": "\u01f4\u0203\u028d\u1f73 \u1ff4\u0457\u230a\u230a \u01a8\u04ad\u0203\u0213\u04ad \u1ff4\u043d\u1f73\u019e \u04ad\u043d\u1f73 \u01a8\u1f73\u0213\u0477\u1f73\u0213 \u043d\u0203\u01a8 \u0493\u0457\u019e\u0457\u01a8\u043d\u1f73\u0257 \u0260\u1f73\u019e\u1f73\u0213\u0203\u04ad\u0457\u019e\u0260 \u04ad\u043d\u1f73 \u01a8\u020f\u230a\u0203\u0213 \u01a8\u0443\u01a8\u04ad\u1f73\u028d\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Game will start when the server has finished generating the solar system"
+    }, 
+    "gamma_v": {
+        "description": "lobby:gamma_v:(no description)", 
+        "message": "\u01f4\u0202\u039c\u039c\u0202 \u0477.\u03a9\u03a9\u03a9\u03a9", 
+        "original": "GAMMA v."
+    }, 
+    "join": {
+        "description": "lobby:join:(no description)", 
+        "message": "\u06b7\u020f\u0457\u019e\u03a9\u03a9", 
+        "original": "Join"
+    }, 
+    "kick": {
+        "description": "lobby:kick:(no description)", 
+        "message": "\u04a0\u03aa\u04aa\u04a0\u03a9\u03a9", 
+        "original": "KICK"
+    }, 
+    "leave_game": {
+        "description": "lobby:leave_game:(no description)", 
+        "message": "\u20a4\u0190\u0202\u0476\u0190 \u01f4\u0202\u039c\u0190\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "LEAVE GAME"
+    }, 
+    "lobby": {
+        "description": "lobby:lobby:(no description)", 
+        "message": "\u20a4\u0472\u0e3f\u0e3f\u0423\u03a9\u03a9", 
+        "original": "LOBBY"
+    }, 
+    "lobby_beta": {
+        "description": "lobby:lobby_beta:(no description)", 
+        "message": "\u20a4\u0472\u0e3f\u0e3f\u0423 \u0e3f\u0190\u4e01\u0202\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "LOBBY BETA"
+    }, 
+    "offline": {
+        "description": "lobby:offline:(no description)", 
+        "message": "\u020f\u0493\u0493\u230a\u0457\u019e\u1f73\u03a9\u03a9\u03a9", 
+        "original": "offline"
+    }, 
+    "one_player_per_army": {
+        "description": "lobby:one_player_per_army:(no description)", 
+        "message": "\u0472\u019e\u1f73 \u2374\u230a\u0203\u0443\u1f73\u0213 \u2374\u1f73\u0213 \u0203\u0213\u028d\u0443.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "One player per army."
+    }, 
+    "partner_up_and_share_control_of_one_army_and_economy": {
+        "description": "lobby:partner_up_and_share_control_of_one_army_and_economy:(no description)", 
+        "message": "\u1e54\u0203\u0213\u04ad\u019e\u1f73\u0213 \u0574\u2374 \u0203\u019e\u0257 \u01a8\u043d\u0203\u0213\u1f73 \u03f2\u020f\u019e\u04ad\u0213\u020f\u230a \u020f\u0493 \u020f\u019e\u1f73 \u0203\u0213\u028d\u0443 \u0203\u019e\u0257 \u1f73\u03f2\u020f\u019e\u020f\u028d\u0443.\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Partner up and share control of one army and economy."
+    }, 
+    "planets": {
+        "description": "lobby:planets:(no description)", 
+        "message": "\u1e54\u20a4\u0202\u019d\u0190\u4e01\u1e60:\u03a9\u03a9\u03a9\u03a9", 
+        "original": "PLANETS:"
+    }, 
+    "player_economy_rate": {
+        "description": "lobby:player_economy_rate:(no description)", 
+        "message": "\u1e54\u20a4\u0202\u0423\u0190\u211d \u0190\u04aa\u0472\u019d\u0472\u039c\u0423 \u211d\u0202\u4e01\u0190:\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "PLAYER ECONOMY RATE:"
+    }, 
+    "players": {
+        "description": "lobby:players:(no description)", 
+        "message": "\u1e54\u20a4\u0202\u0423\u0190\u211d\u1e60\u03a9\u03a9\u03a9", 
+        "original": "PLAYERS"
+    }, 
+    "promote": {
+        "description": "lobby:promote:(no description)", 
+        "message": "\u1e54\u211d\u0472\u039c\u0472\u4e01\u0190\u03a9\u03a9\u03a9", 
+        "original": "PROMOTE"
+    }, 
+    "ready": {
+        "description": "lobby:ready:(no description)", 
+        "message": "\u0213\u1f73\u0203\u0257\u0443\u03a9\u03a9", 
+        "original": "ready"
+    }, 
+    "ready_caps": {
+        "description": "lobby:ready_caps:(no description)", 
+        "message": "\u211d\u0190\u0202\u0189\u0423\u03a9\u03a9", 
+        "original": "READY"
+    }, 
+    "returning_to_main_menu": {
+        "description": "lobby:returning_to_main_menu:(no description)", 
+        "message": "\u211d\u1f73\u04ad\u0574\u0213\u019e\u0457\u019e\u0260 \u04ad\u020f \u039c\u0203\u0457\u019e \u039c\u1f73\u019e\u0574\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Returning to Main Menu"
+    }, 
+    "scale": {
+        "description": "lobby:scale:(no description)", 
+        "message": "\u1e60\u04aa\u0202\u20a4\u0190\u03a9\u03a9", 
+        "original": "SCALE"
+    }, 
+    "starting_game": {
+        "description": "lobby:starting_game:(no description)", 
+        "message": "\u1e60\u4e01\u0202\u211d\u4e01\u03aa\u019d\u01f4 \u01f4\u0202\u039c\u0190\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "STARTING GAME"
+    }, 
+    "starting_planet": {
+        "description": "lobby:starting_planet:(no description)", 
+        "message": "\u1e60\u4e01\u0202\u211d\u4e01\u03aa\u019d\u01f4 \u1e54\u20a4\u0202\u019d\u0190\u4e01:\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "STARTING PLANET:"
+    }, 
+    "system": {
+        "description": "lobby:system:(no description)", 
+        "message": "\u1e60\u0423\u1e60\u4e01\u0190\u039c\u03a9\u03a9\u03a9", 
+        "original": "SYSTEM"
+    }, 
+    "team_armies": {
+        "description": "lobby:team_armies:(no description)", 
+        "message": "\u4e01\u1f73\u0203\u028d \u0202\u0213\u028d\u0457\u1f73\u01a8\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Team Armies"
+    }, 
+    "vs": {
+        "description": "lobby:vs:(no description)", 
+        "message": "\u0477\u01a8\u03a9", 
+        "original": "vs"
+    }, 
+    "waiting": {
+        "description": "lobby:waiting:(no description)", 
+        "message": "\u1ff4\u0203\u0457\u04ad\u0457\u019e\u0260\u03a9\u03a9\u03a9", 
+        "original": "waiting"
+    }, 
+    "yes": {
+        "description": "lobby:yes:(no description)", 
+        "message": "\u0423\u1f73\u01a8\u03a9", 
+        "original": "Yes"
+    }, 
+    "you": {
+        "description": "lobby:you:(no description)", 
+        "message": "\u0423\u0472\u1ee6\u03a9", 
+        "original": "YOU"
+    }
+}

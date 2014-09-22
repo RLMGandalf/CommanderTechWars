@@ -1,0 +1,86 @@
+{
+    "yes": {
+        "message": "نعم",
+        "description": "live_game:yes:(no description)"
+    },
+    "lr_96_pacifier_missile": {
+        "message": "صاروخ ل.ر ۹٦",
+        "description": "live_game:lr_96_pacifier_missile:(no description)"
+    },
+    "dps": {
+        "message": "ثانية/ضرر:",
+        "description": "live_game:dps:(no description)"
+    },
+    "start_annihilation": {
+        "message": "إبدأ الإبادة",
+        "description": "live_game:start_annihilation:(no description)"
+    },
+    "waiting_for_other_players_to_select_a_spawn_location": {
+        "message": "الإنتظار للاعبين الآخرين ليختاروا مكان البدء",
+        "description": "live_game:waiting_for_other_players_to_select_a_spawn_location:(no description)"
+    },
+    "dmg": {
+        "message": "الضرر",
+        "description": "live_game:dmg:(no description)"
+    },
+    "aps": {
+        "message": "س.الإطلاق:",
+        "description": "live_game:aps:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "فقد الإتصال بالجهاز الخادم",
+        "description": "live_game:connection_to_server_lost:(no description)"
+    },
+    "anti_nuke_intercepts_incoming_nuclear_missiles": {
+        "message": "مضاد الصاروخ النووي",
+        "description": "live_game:anti_nuke_intercepts_incoming_nuclear_missiles:(no description)"
+    },
+    "position_targeted_click_to_confirm": {
+        "message": "تم تحديد الموقع. أنقر للتأكيد",
+        "description": "live_game:position_targeted_click_to_confirm:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "جاري العودة للقائمة الرئيسة",
+        "description": "live_game:returning_to_main_menu:(no description)"
+    },
+    "efficiency": {
+        "message": "الكفاءة",
+        "description": "live_game:efficiency:(no description)"
+    },
+    "nuclear_missile_long_range_large_area_damage_projectile": {
+        "message": "صاروخ نووي",
+        "description": "live_game:nuclear_missile_long_range_large_area_damage_projectile:(no description)"
+    },
+    "pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander": {
+        "message": "إختر مكاناً داخل المناطق الخضراء",
+        "description": "live_game:pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander:(no description)"
+    },
+    "fabricating": {
+        "message": "افتعال",
+        "description": "live_game:fabricating:(no description)"
+    },
+    "cancel": {
+        "message": "إلغي",
+        "description": "live_game:cancel:(no description)"
+    },
+    "sr_24_shield_missile_defense": {
+        "message": "مضاد الصواريخ",
+        "description": "live_game:sr_24_shield_missile_defense:(no description)"
+    },
+    "exit_game": {
+        "message": "الخروج من اللعبة؟",
+        "description": "live_game:exit_game:(no description)"
+    },
+    "attacking": {
+        "message": "مهاجمة",
+        "description": "live_game:attacking:(no description)"
+    },
+    "transport": {
+        "message": "الناقل",
+        "description": "live_game:transport:(no description)"
+    },
+    "reclaiming": {
+        "message": "الإستعادة",
+        "description": "live_game:reclaiming:(no description)"
+    }
+}

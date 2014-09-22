@@ -1,0 +1,47 @@
+{
+    "allied": {
+        "description": "live_game_unit_alert:allied:(no description)", 
+        "message": "\u0202\u230a\u230a\u0457\u1f73\u0257", 
+        "original": "Allied"
+    }, 
+    "destroyed": {
+        "description": "live_game_unit_alert:destroyed:(no description)", 
+        "message": "\u0257\u1f73\u01a8\u04ad\u0213\u020f\u0443\u1f73\u0257.", 
+        "original": "destroyed."
+    }, 
+    "enemy_contact": {
+        "description": "live_game_unit_alert:enemy_contact:(no description)", 
+        "message": "\u0190\u019e\u1f73\u028d\u0443 \u04aa\u020f\u019e\u04ad\u0203\u03f2\u04ad!", 
+        "original": "Enemy Contact!"
+    }, 
+    "launched": {
+        "description": "live_game_unit_alert:launched:(no description)", 
+        "message": "\u230a\u0203\u0574\u019e\u03f2\u043d\u1f73\u0257!", 
+        "original": "launched!"
+    }, 
+    "located": {
+        "description": "live_game_unit_alert:located:(no description)", 
+        "message": "\u230a\u020f\u03f2\u0203\u04ad\u1f73\u0257.", 
+        "original": "located."
+    }, 
+    "lost": {
+        "description": "live_game_unit_alert:lost:(no description)", 
+        "message": "\u230a\u020f\u01a8\u04ad.", 
+        "original": "lost."
+    }, 
+    "ping": {
+        "description": "live_game_unit_alert:ping:(no description)", 
+        "message": "\u1e54\u0457\u019e\u0260!", 
+        "original": "Ping!"
+    }, 
+    "ready": {
+        "description": "live_game_unit_alert:ready:(no description)", 
+        "message": "\u0213\u1f73\u0203\u0257\u0443.", 
+        "original": "ready."
+    }, 
+    "under_attack": {
+        "description": "live_game_unit_alert:under_attack:(no description)", 
+        "message": "\u0574\u019e\u0257\u1f73\u0213 \u0203\u04ad\u04ad\u0203\u03f2\u045c.", 
+        "original": "under attack."
+    }
+}

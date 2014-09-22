@@ -1,0 +1,146 @@
+{
+    "appear_offline": {
+        "message": "Çevrimdışı gözüküyor",
+        "description": "uberbar:appear_offline:(no description)"
+    },
+    "wants_to_be_your_friend": {
+        "message": "arkadaşınız olmak istiyor.",
+        "description": "uberbar:wants_to_be_your_friend:(no description)"
+    },
+    "_tags": {
+        "message": "[Etiketler:",
+        "description": "uberbar:_tags:(no description)"
+    },
+    "accept": {
+        "message": "Kabul et",
+        "description": "uberbar:accept:(no description)"
+    },
+    "send_friend_request": {
+        "message": "Arkadaş İsteği Gönder",
+        "description": "uberbar:send_friend_request:(no description)"
+    },
+    "unblock": {
+        "message": "Engellemeyi kaldır",
+        "description": "uberbar:unblock:(no description)"
+    },
+    "invite_to_chat": {
+        "message": "Sohbete Davet Et",
+        "description": "uberbar:invite_to_chat:(no description)"
+    },
+    "chat": {
+        "message": "Sohbet",
+        "description": "uberbar:chat:(no description)"
+    },
+    "cancel": {
+        "message": "İPTAL",
+        "description": "uberbar:cancel:(no description)"
+    },
+    "users": {
+        "message": "Kullanıcılar",
+        "description": "uberbar:users:(no description)"
+    },
+    "_remove": {
+        "message": "[Çıkar]",
+        "description": "uberbar:_remove:(no description)"
+    },
+    "search_results": {
+        "message": "Arama Sonuçları",
+        "description": "uberbar:search_results:(no description)"
+    },
+    "away": {
+        "message": "Dışarda",
+        "description": "uberbar:away:(no description)"
+    },
+    "invited_you_to_chat": {
+        "message": "Seni bir oyuna davet etti.",
+        "description": "uberbar:invited_you_to_chat:(no description)"
+    },
+    "invite_to_game": {
+        "message": "Oyuna davet et",
+        "description": "uberbar:invite_to_game:(no description)"
+    },
+    "_i": {
+        "message": "[I]",
+        "description": "uberbar:_i:(no description)"
+    },
+    "online": {
+        "message": "Çevrimiçi",
+        "description": "uberbar:online:(no description)"
+    },
+    "_f": {
+        "message": "[F]",
+        "description": "uberbar:_f:(no description)"
+    },
+    "offline": {
+        "message": "Çevrimdışı",
+        "description": "uberbar:offline:(no description)"
+    },
+    "_b": {
+        "message": "[B]",
+        "description": "uberbar:_b:(no description)"
+    },
+    "unfriend": {
+        "message": "Arkadaş olmayan",
+        "description": "uberbar:unfriend:(no description)"
+    },
+    "no_pending_notifications": {
+        "message": "Sırada olan bilgilendirmeler yok.",
+        "description": "uberbar:no_pending_notifications:(no description)"
+    },
+    "join_game": {
+        "message": "Oyuna katıl",
+        "description": "uberbar:join_game:(no description)"
+    },
+    "pending_invite": {
+        "message": "Davet işleme alınıyor",
+        "description": "uberbar:pending_invite:(no description)"
+    },
+    "friends": {
+        "message": "ARKADAŞLAR",
+        "description": "uberbar:friends:(no description)"
+    },
+    "change": {
+        "message": "DEĞİŞTİR",
+        "description": "uberbar:change:(no description)"
+    },
+    "recent": {
+        "message": "En yeni",
+        "description": "uberbar:recent:(no description)"
+    },
+    "change_your_display_name": {
+        "message": "Ekran ismini değiştir?",
+        "description": "uberbar:change_your_display_name:(no description)"
+    },
+    "new_display_name": {
+        "message": "Yeni Ekran Adı:",
+        "description": "uberbar:new_display_name:(no description)"
+    },
+    "do_not_disturb": {
+        "message": "Rahatsız etmeyin",
+        "description": "uberbar:do_not_disturb:(no description)"
+    },
+    "remove": {
+        "message": "Çıkar",
+        "description": "uberbar:remove:(no description)"
+    },
+    "ignore": {
+        "message": "Yok say",
+        "description": "uberbar:ignore:(no description)"
+    },
+    "_chat": {
+        "message": "[SOHBET]",
+        "description": "uberbar:_chat:(no description)"
+    },
+    "invited_you_to_a_game": {
+        "message": "Seni bir oyuna davet etti.",
+        "description": "uberbar:invited_you_to_a_game:(no description)"
+    },
+    "change_display_name": {
+        "message": "Ekran ismini değiştir?",
+        "description": "uberbar:change_display_name:(no description)"
+    },
+    "block": {
+        "message": "Engelle",
+        "description": "uberbar:block:(no description)"
+    }
+}

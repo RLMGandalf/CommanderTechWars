@@ -1,0 +1,122 @@
+{
+    "designed_in_collaboration_with": {
+        "message": "与我们共同设计：",
+        "description": "armory:designed_in_collaboration_with:(no description)"
+    },
+    "remove": {
+        "message": "移除",
+        "description": "armory:remove:(no description)"
+    },
+    "cancel": {
+        "message": "取消",
+        "description": "armory:cancel:(no description)"
+    },
+    "continue_shopping": {
+        "message": "继续购买",
+        "description": "armory:continue_shopping:(no description)"
+    },
+    "account_name": {
+        "message": "账户名称：",
+        "description": "armory:account_name:(no description)"
+    },
+    "badges": {
+        "message": "勋章",
+        "description": "armory:badges:(no description)"
+    },
+    "here_s_your_receipt": {
+        "message": "您的收据：",
+        "description": "armory:here_s_your_receipt:(no description)"
+    },
+    "set_as_default_commander": {
+        "message": "设为默认指挥官",
+        "description": "armory:set_as_default_commander:(no description)"
+    },
+    "total": {
+        "message": "合计：",
+        "description": "armory:total:(no description)"
+    },
+    "confirmation_code": {
+        "message": "确认码：",
+        "description": "armory:confirmation_code:(no description)"
+    },
+    "kickstarter_backer": {
+        "message": "Kickstarter赞助者",
+        "description": "armory:kickstarter_backer:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below": {
+        "message": "您的购物确认信息。",
+        "description": "armory:confirmation_of_your_purchase_is_provided_below:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "您购买的物品已注册到您的账号并可在游戏中使用了。",
+        "description": "armory:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "item_is_already_in_cart": {
+        "message": "物品已在购物车内。",
+        "description": "armory:item_is_already_in_cart:(no description)"
+    },
+    "add_to_cart": {
+        "message": "添加到购物车",
+        "description": "armory:add_to_cart:(no description)"
+    },
+    "armory": {
+        "message": "军械库",
+        "description": "armory:armory:(no description)"
+    },
+    "checkout": {
+        "message": "付款",
+        "description": "armory:checkout:(no description)"
+    },
+    "price": {
+        "message": "价格",
+        "description": "armory:price:(no description)"
+    },
+    "cart": {
+        "message": "购物车",
+        "description": "armory:cart:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "感谢您的购买！",
+        "description": "armory:thank_you_for_your_purchase:(no description)"
+    },
+    "redeem": {
+        "message": "兑换",
+        "description": "armory:redeem:(no description)"
+    },
+    "total_price": {
+        "message": "合计：",
+        "description": "armory:total_price:(no description)"
+    },
+    "updating": {
+        "message": "正在更新...",
+        "description": "armory:updating:(no description)"
+    },
+    "credit_applied": {
+        "message": "使用的余额：",
+        "description": "armory:credit_applied:(no description)"
+    },
+    "go_to_main_menu": {
+        "message": "返回主菜单",
+        "description": "armory:go_to_main_menu:(no description)"
+    },
+    "cart_empty": {
+        "message": "您的购物车为空。",
+        "description": "armory:cart_empty:(no description)"
+    },
+    "commanders": {
+        "message": "指挥官",
+        "description": "armory:commanders:(no description)"
+    },
+    "refresh": {
+        "message": "刷新",
+        "description": "armory:refresh:(no description)"
+    },
+    "item": {
+        "message": "物品",
+        "description": "armory:item:(no description)"
+    },
+    "return_to_armory": {
+        "message": "返回军械库",
+        "description": "armory:return_to_armory:(no description)"
+    }
+}

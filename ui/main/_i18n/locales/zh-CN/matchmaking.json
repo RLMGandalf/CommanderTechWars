@@ -1,0 +1,18 @@
+{
+    "returning_to_main_menu": {
+        "message": "返回主菜单",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "新Alpha游戏",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "匹配中",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "匹配失败",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

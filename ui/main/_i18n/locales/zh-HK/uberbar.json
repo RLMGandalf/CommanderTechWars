@@ -1,0 +1,122 @@
+{
+    "appear_offline": {
+        "message": "顯示為離線",
+        "description": "uberbar:appear_offline:(no description)"
+    },
+    "accept_request": {
+        "message": "同意請求",
+        "description": "uberbar:accept_request:(no description)"
+    },
+    "_tags": {
+        "message": "[Tags:",
+        "description": "uberbar:_tags:(no description)"
+    },
+    "unblock": {
+        "message": "解除封鎖",
+        "description": "uberbar:unblock:(no description)"
+    },
+    "chat": {
+        "message": "交談",
+        "description": "uberbar:chat:(no description)"
+    },
+    "users": {
+        "message": "使用者",
+        "description": "uberbar:users:(no description)"
+    },
+    "_remove": {
+        "message": "[REMOVE]",
+        "description": "uberbar:_remove:(no description)"
+    },
+    "away": {
+        "message": "Away",
+        "description": "uberbar:away:(no description)"
+    },
+    "wants_to_be_your_friend": {
+        "message": "想成為你的朋友",
+        "description": "uberbar:wants_to_be_your_friend:(no description)"
+    },
+    "invite_to_game": {
+        "message": "邀請參加遊戲",
+        "description": "uberbar:invite_to_game:(no description)"
+    },
+    "uberbar": {
+        "message": "UBERBAR",
+        "description": "uberbar:uberbar:(no description)"
+    },
+    "_i": {
+        "message": "[I]",
+        "description": "uberbar:_i:(no description)"
+    },
+    "online": {
+        "message": "線上",
+        "description": "uberbar:online:(no description)"
+    },
+    "_f": {
+        "message": "[F]",
+        "description": "uberbar:_f:(no description)"
+    },
+    "offline": {
+        "message": "離線",
+        "description": "uberbar:offline:(no description)"
+    },
+    "_b": {
+        "message": "[B]",
+        "description": "uberbar:_b:(no description)"
+    },
+    "unfriend": {
+        "message": "解除好友關係",
+        "description": "uberbar:unfriend:(no description)"
+    },
+    "no_pending_notifications": {
+        "message": "沒有未處理通知。",
+        "description": "uberbar:no_pending_notifications:(no description)"
+    },
+    "join_game": {
+        "message": "加入遊戲",
+        "description": "uberbar:join_game:(no description)"
+    },
+    "friends": {
+        "message": "好友",
+        "description": "uberbar:friends:(no description)"
+    },
+    "recent": {
+        "message": "最近",
+        "description": "uberbar:recent:(no description)"
+    },
+    "b": {
+        "message": "B",
+        "description": "uberbar:b:(no description)"
+    },
+    "do_not_disturb": {
+        "message": "勿擾",
+        "description": "uberbar:do_not_disturb:(no description)"
+    },
+    "remove": {
+        "message": "移除",
+        "description": "uberbar:remove:(no description)"
+    },
+    "ignore": {
+        "message": "忽略",
+        "description": "uberbar:ignore:(no description)"
+    },
+    "r": {
+        "message": "R",
+        "description": "uberbar:r:(no description)"
+    },
+    "_chat": {
+        "message": "[CHAT]",
+        "description": "uberbar:_chat:(no description)"
+    },
+    "friend_request": {
+        "message": "Friend request",
+        "description": "uberbar:friend_request:(no description)"
+    },
+    "invited_you_to_a_game": {
+        "message": "邀請你參加遊戲",
+        "description": "uberbar:invited_you_to_a_game:(no description)"
+    },
+    "block": {
+        "message": "封鎖",
+        "description": "uberbar:block:(no description)"
+    }
+}

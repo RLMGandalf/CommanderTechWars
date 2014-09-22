@@ -1,0 +1,110 @@
+{
+    "locked_game": {
+        "message": "上鎖的遊戲",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "single": {
+        "message": "單人",
+        "description": "server_browser:single:(no description)"
+    },
+    "planets": {
+        "message": "星球",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "欄位",
+        "description": "server_browser:slots:(no description)"
+    },
+    "filter_by_system_size": {
+        "message": "以星系大小過濾",
+        "description": "server_browser:filter_by_system_size:(no description)"
+    },
+    "filter_by_game_state": {
+        "message": "以遊戲狀態過濾",
+        "description": "server_browser:filter_by_game_state:(no description)"
+    },
+    "10_players": {
+        "message": "10 位以上玩家",
+        "description": "server_browser:10_players:(no description)"
+    },
+    "create_game": {
+        "message": "建立遊戲",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "觀戰者",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "small_system_2_3": {
+        "message": "小型星系 (2-3)",
+        "description": "server_browser:small_system_2_3:(no description)"
+    },
+    "medium_system_4_9": {
+        "message": "中型星系 (4-9)",
+        "description": "server_browser:medium_system_4_9:(no description)"
+    },
+    "filter_by_player_count": {
+        "message": "以玩家數目過濾",
+        "description": "server_browser:filter_by_player_count:(no description)"
+    },
+    "join_game": {
+        "message": "加入遊戲",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "filter_by_regions": {
+        "message": "以地區過濾",
+        "description": "server_browser:filter_by_regions:(no description)"
+    },
+    "game": {
+        "message": "遊戲",
+        "description": "server_browser:game:(no description)"
+    },
+    "pa_server_browser_list": {
+        "message": "PA GAME BROWSER",
+        "description": "server_browser:pa_server_browser_list:(no description)"
+    },
+    "2_3_players": {
+        "message": "2-3 位玩家",
+        "description": "server_browser:2_3_players:(no description)"
+    },
+    "in_progress": {
+        "message": "正在進行",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "密碼",
+        "description": "server_browser:password:(no description)"
+    },
+    "4_9_players": {
+        "message": "4-9 位玩家",
+        "description": "server_browser:4_9_players:(no description)"
+    },
+    "annihilate": {
+        "message": "殲滅",
+        "description": "server_browser:annihilate:(no description)"
+    },
+    "region": {
+        "message": "地區",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "觀戰",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "in_lobby": {
+        "message": "在大廳中",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "玩家",
+        "description": "server_browser:players:(no description)"
+    },
+    "mode": {
+        "message": "模式",
+        "description": "server_browser:mode:(no description)"
+    },
+    "large_system_10": {
+        "message": "大型星系 (10+)",
+        "description": "server_browser:large_system_10:(no description)"
+    }
+}

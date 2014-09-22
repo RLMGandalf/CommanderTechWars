@@ -1,0 +1,122 @@
+{
+    "designed_in_collaboration_with": {
+        "message": "Zaprojektowano we współpracy z",
+        "description": "armory:designed_in_collaboration_with:(no description)"
+    },
+    "remove": {
+        "message": "USUŃ",
+        "description": "armory:remove:(no description)"
+    },
+    "cancel": {
+        "message": "Anuluj",
+        "description": "armory:cancel:(no description)"
+    },
+    "continue_shopping": {
+        "message": "Kontynuuj zakupy",
+        "description": "armory:continue_shopping:(no description)"
+    },
+    "account_name": {
+        "message": "Nazwa konta:",
+        "description": "armory:account_name:(no description)"
+    },
+    "badges": {
+        "message": "Odznaki",
+        "description": "armory:badges:(no description)"
+    },
+    "here_s_your_receipt": {
+        "message": "Twój paragon.",
+        "description": "armory:here_s_your_receipt:(no description)"
+    },
+    "set_as_default_commander": {
+        "message": "Ustaw jako domyślnego dowódcę",
+        "description": "armory:set_as_default_commander:(no description)"
+    },
+    "total": {
+        "message": "Łącznie:",
+        "description": "armory:total:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Kod potwierdzający:",
+        "description": "armory:confirmation_code:(no description)"
+    },
+    "kickstarter_backer": {
+        "message": "Sponsor Kickstarter",
+        "description": "armory:kickstarter_backer:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below": {
+        "message": "Potwierdzenie zakupu znajduje się poniżej.",
+        "description": "armory:confirmation_of_your_purchase_is_provided_below:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "Zakupione przedmioty są teraz zarejestrowane na Twoim koncie i są dostępne w grze.",
+        "description": "armory:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "item_is_already_in_cart": {
+        "message": "Przedmiot jest już w koszyku.",
+        "description": "armory:item_is_already_in_cart:(no description)"
+    },
+    "add_to_cart": {
+        "message": "Dodaj do koszyka",
+        "description": "armory:add_to_cart:(no description)"
+    },
+    "armory": {
+        "message": "Zbrojownia",
+        "description": "armory:armory:(no description)"
+    },
+    "checkout": {
+        "message": "KASA",
+        "description": "armory:checkout:(no description)"
+    },
+    "price": {
+        "message": "Cena",
+        "description": "armory:price:(no description)"
+    },
+    "cart": {
+        "message": "Koszyk",
+        "description": "armory:cart:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Dziękujemy za zakup.",
+        "description": "armory:thank_you_for_your_purchase:(no description)"
+    },
+    "redeem": {
+        "message": "Wykorzystaj",
+        "description": "armory:redeem:(no description)"
+    },
+    "total_price": {
+        "message": "Łącznie:",
+        "description": "armory:total_price:(no description)"
+    },
+    "updating": {
+        "message": "Aktualizacja...",
+        "description": "armory:updating:(no description)"
+    },
+    "credit_applied": {
+        "message": "Kredyt nadano:",
+        "description": "armory:credit_applied:(no description)"
+    },
+    "go_to_main_menu": {
+        "message": "Przejdź do menu głównego",
+        "description": "armory:go_to_main_menu:(no description)"
+    },
+    "cart_empty": {
+        "message": "Twój koszyk jest pusty.",
+        "description": "armory:cart_empty:(no description)"
+    },
+    "commanders": {
+        "message": "Dowódcy",
+        "description": "armory:commanders:(no description)"
+    },
+    "refresh": {
+        "message": "Odśwież",
+        "description": "armory:refresh:(no description)"
+    },
+    "item": {
+        "message": "Przedmiot",
+        "description": "armory:item:(no description)"
+    },
+    "return_to_armory": {
+        "message": "Powrót do Zbrojowni",
+        "description": "armory:return_to_armory:(no description)"
+    }
+}

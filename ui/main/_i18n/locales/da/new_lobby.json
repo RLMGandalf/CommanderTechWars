@@ -1,0 +1,42 @@
+{
+    "spectators": {
+        "message": "Tilskuere",
+        "description": "new_lobby:spectators:(no description)"
+    },
+    "roster": {
+        "message": "Roster",
+        "description": "new_lobby:roster:(no description)"
+    },
+    "ready_cancel": {
+        "message": "Ready/Cancel",
+        "description": "new_lobby:ready_cancel:(no description)"
+    },
+    "manage": {
+        "message": "Manage",
+        "description": "new_lobby:manage:(no description)"
+    },
+    "game_type": {
+        "message": "Game Type",
+        "description": "new_lobby:game_type:(no description)"
+    },
+    "system": {
+        "message": "System",
+        "description": "new_lobby:system:(no description)"
+    },
+    "options": {
+        "message": "Options",
+        "description": "new_lobby:options:(no description)"
+    },
+    "chat": {
+        "message": "Chat",
+        "description": "new_lobby:chat:(no description)"
+    },
+    "section": {
+        "message": "Section",
+        "description": "new_lobby:section:(no description)"
+    },
+    "new_lobby": {
+        "message": "New Lobby",
+        "description": "new_lobby:new_lobby:(no description)"
+    }
+}

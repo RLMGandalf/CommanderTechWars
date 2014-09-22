@@ -1,0 +1,306 @@
+{
+    "ai": {
+        "description": "live_game:ai:(no description)", 
+        "message": "AI"
+    }, 
+    "alt_fire": {
+        "description": "live_game:alt_fire:(no description)", 
+        "message": "ALT FIRE"
+    }, 
+    "army_fabber_value": {
+        "description": "live_game:army_fabber_value:(no description)", 
+        "message": "Fabber"
+    }, 
+    "army_factory_value": {
+        "description": "live_game:army_factory_value:(no description)", 
+        "message": "Factory"
+    }, 
+    "army_metal_value": {
+        "description": "live_game:army_metal_value:(no description)", 
+        "message": "Army"
+    }, 
+    "army_mobile_value": {
+        "description": "live_game:army_mobile_value:(no description)", 
+        "message": "Mobile"
+    }, 
+    "army_unit_count": {
+        "description": "live_game:army_unit_count:(no description)", 
+        "message": "Count"
+    }, 
+    "assist": {
+        "description": "live_game:assist:(no description)", 
+        "message": "ASSIST"
+    }, 
+    "at_will": {
+        "description": "live_game:at_will:(no description)", 
+        "message": "AT WILL"
+    }, 
+    "attack": {
+        "description": "live_game:attack:(no description)", 
+        "message": "ATTACK"
+    }, 
+    "attacking": {
+        "description": "live_game:attacking:(no description)", 
+        "message": "ATTACKING:"
+    }, 
+    "break_alliance": {
+        "description": "live_game:break_alliance:(no description)", 
+        "message": "BREAK ALLIANCE"
+    }, 
+    "build_efficiency": {
+        "description": "live_game:build_efficiency:(no description)", 
+        "message": "Efficiency"
+    }, 
+    "build_mode": {
+        "description": "live_game:build_mode:(no description)", 
+        "message": "BUILD MODE"
+    }, 
+    "c": {
+        "description": "live_game:c:(no description)", 
+        "message": "C:"
+    }, 
+    "cancel": {
+        "description": "live_game:cancel:(no description)", 
+        "message": "Cancel"
+    }, 
+    "change_orbit": {
+        "description": "live_game:change_orbit:(no description)", 
+        "message": "Change orbit"
+    }, 
+    "chrono_cam": {
+        "description": "live_game:chrono_cam:(no description)", 
+        "message": "CHRONO CAM"
+    }, 
+    "connection_to_server_lost": {
+        "description": "live_game:connection_to_server_lost:(no description)", 
+        "message": "CONNECTION TO SERVER LOST"
+    }, 
+    "continuous": {
+        "description": "live_game:continuous:(no description)", 
+        "message": "CONTINUOUS"
+    }, 
+    "destroyed": {
+        "description": "live_game:destroyed:(no description)", 
+        "message": "destroyed."
+    }, 
+    "diplomacy": {
+        "description": "live_game:diplomacy:(no description)", 
+        "message": "DIPLOMACY"
+    }, 
+    "efficiency": {
+        "description": "live_game:efficiency:(no description)", 
+        "message": "Efficiency"
+    }, 
+    "energy_off": {
+        "description": "live_game:energy_off:(no description)", 
+        "message": "OFF"
+    }, 
+    "energy_on": {
+        "description": "live_game:energy_on:(no description)", 
+        "message": "ON"
+    }, 
+    "energy_orders": {
+        "description": "live_game:energy_orders:(no description)", 
+        "message": "ENERGY ORDERS"
+    }, 
+    "engage": {
+        "description": "live_game:engage:(no description)", 
+        "message": "ENGAGE"
+    }, 
+    "exit_game": {
+        "description": "live_game:exit_game:(no description)", 
+        "message": "Exit Game?"
+    }, 
+    "fabricating": {
+        "description": "live_game:fabricating:(no description)", 
+        "message": "FABRICATING:"
+    }, 
+    "fire_orders": {
+        "description": "live_game:fire_orders:(no description)", 
+        "message": "FIRE ORDERS"
+    }, 
+    "game_settings": {
+        "description": "live_game:game_settings:(no description)", 
+        "message": "GAME SETTINGS"
+    }, 
+    "give_resources": {
+        "description": "live_game:give_resources:(no description)", 
+        "message": "GIVE RESOURCES"
+    }, 
+    "hold": {
+        "description": "live_game:hold:(no description)", 
+        "message": "HOLD"
+    }, 
+    "hold_position": {
+        "description": "live_game:hold_position:(no description)", 
+        "message": "HOLD POSITION"
+    }, 
+    "k": {
+        "description": "live_game:k:(no description)", 
+        "message": "K"
+    }, 
+    "live_game": {
+        "description": "live_game:live_game:(no description)", 
+        "message": "Live Game"
+    }, 
+    "live_game_econ": {
+        "description": "live_game:live_game_econ:(no description)", 
+        "message": "Live Game: Economy"
+    }, 
+    "load": {
+        "description": "live_game:load:(no description)", 
+        "message": "LOAD"
+    }, 
+    "main_menu": {
+        "description": "live_game:main_menu:(no description)", 
+        "message": "MAIN MENU"
+    }, 
+    "manuever": {
+        "description": "live_game:manuever:(no description)", 
+        "message": "MANUEVER"
+    }, 
+    "move": {
+        "description": "live_game:move:(no description)", 
+        "message": "MOVE"
+    }, 
+    "move_orders": {
+        "description": "live_game:move_orders:(no description)", 
+        "message": "MOVE ORDERS"
+    }, 
+    "normal": {
+        "description": "live_game:normal:(no description)", 
+        "message": "NORMAL"
+    }, 
+    "pa": {
+        "description": "live_game:pa:(no description)", 
+        "message": "PA"
+    }, 
+    "patrol": {
+        "description": "live_game:patrol:(no description)", 
+        "message": "PATROL"
+    }, 
+    "pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander": {
+        "description": "live_game:pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander:(no description)", 
+        "message": "Pick a location inside one of the green zones to spawn your Commander."
+    }, 
+    "ping": {
+        "description": "live_game:ping:(no description)", 
+        "message": "Ping!"
+    }, 
+    "position_targeted_click_to_confirm": {
+        "description": "live_game:position_targeted_click_to_confirm:(no description)", 
+        "message": "Position targeted. Click to confirm."
+    }, 
+    "quit": {
+        "description": "live_game:quit:(no description)", 
+        "message": "QUIT"
+    }, 
+    "ready": {
+        "description": "live_game:ready:(no description)", 
+        "message": "ready."
+    }, 
+    "reclaim": {
+        "description": "live_game:reclaim:(no description)", 
+        "message": "RECLAIM"
+    }, 
+    "reclaiming": {
+        "description": "live_game:reclaiming:(no description)", 
+        "message": "RECLAIMING:"
+    }, 
+    "repair": {
+        "description": "live_game:repair:(no description)", 
+        "message": "REPAIR"
+    }, 
+    "request_alliance": {
+        "description": "live_game:request_alliance:(no description)", 
+        "message": "REQUEST ALLIANCE"
+    }, 
+    "return_fire": {
+        "description": "live_game:return_fire:(no description)", 
+        "message": "RETURN FIRE"
+    }, 
+    "returning_to_main_menu": {
+        "description": "live_game:returning_to_main_menu:(no description)", 
+        "message": "Returning to Main Menu"
+    }, 
+    "roam": {
+        "description": "live_game:roam:(no description)", 
+        "message": "ROAM"
+    }, 
+    "s_move": {
+        "description": "live_game:s_move:(no description)", 
+        "message": "S.MOVE"
+    }, 
+    "select_a_new_gravity_well": {
+        "description": "live_game:select_a_new_gravity_well:(no description)", 
+        "message": "Select a new gravity well."
+    }, 
+    "select_a_planet_to_attack": {
+        "description": "live_game:select_a_planet_to_attack:(no description)", 
+        "message": "Select a planet to attack."
+    }, 
+    "select_a_target_location": {
+        "description": "live_game:select_a_target_location:(no description)", 
+        "message": "Select a target location"
+    }, 
+    "set_course_for_annihilation": {
+        "description": "live_game:set_course_for_annihilation:(no description)", 
+        "message": "Set course for annihilation"
+    }, 
+    "set_hostile": {
+        "description": "live_game:set_hostile:(no description)", 
+        "message": "SET HOSTILE"
+    }, 
+    "set_neutral": {
+        "description": "live_game:set_neutral:(no description)", 
+        "message": "SET NEUTRAL"
+    }, 
+    "set_target_spot": {
+        "description": "live_game:set_target_spot:(no description)", 
+        "message": "Set target spot"
+    }, 
+    "spectate_panel_title": {
+        "description": "live_game:spectate_panel_title:(no description)", 
+        "message": "Spectate"
+    }, 
+    "start_annihilation": {
+        "description": "live_game:start_annihilation:(no description)", 
+        "message": "START ANNIHILATION"
+    }, 
+    "stop": {
+        "description": "live_game:stop:(no description)", 
+        "message": "STOP"
+    }, 
+    "stop_sharing_resources": {
+        "description": "live_game:stop_sharing_resources:(no description)", 
+        "message": "STOP SHARING RESOURCES"
+    }, 
+    "then_confirm_destination_to_set_course": {
+        "description": "live_game:then_confirm_destination_to_set_course:(no description)", 
+        "message": "Then confirm destination to set course."
+    }, 
+    "under_attack": {
+        "description": "live_game:under_attack:(no description)", 
+        "message": "under attack."
+    }, 
+    "unload": {
+        "description": "live_game:unload:(no description)", 
+        "message": "UNLOAD"
+    }, 
+    "use": {
+        "description": "live_game:use:(no description)", 
+        "message": "USE"
+    }, 
+    "v": {
+        "description": "live_game:v:(no description)", 
+        "message": "V:"
+    }, 
+    "waiting_for_other_players_to_land": {
+        "description": "live_game:waiting_for_other_players_to_land:(no description)", 
+        "message": "Waiting for other players to land"
+    }, 
+    "yes": {
+        "description": "live_game:yes:(no description)", 
+        "message": "Yes"
+    }
+}

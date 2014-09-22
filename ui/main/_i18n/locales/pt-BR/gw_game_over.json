@@ -1,0 +1,6 @@
+{
+    "draw": {
+        "message": "EMPATE",
+        "description": "gw_game_over:draw:(no description)"
+    }
+}

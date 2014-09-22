@@ -1,0 +1,210 @@
+{
+    "my_planets": {
+        "message": "MOJE PLANETY",
+        "description": "system_editor:my_planets:(no description)"
+    },
+    "preview_all": {
+        "message": "PODGLĄD CAŁOŚCI",
+        "description": "system_editor:preview_all:(no description)"
+    },
+    "show": {
+        "message": "POKAŻ",
+        "description": "system_editor:show:(no description)"
+    },
+    "water_height": {
+        "message": "WYSOKOŚĆ POZIOMU WODY",
+        "description": "system_editor:water_height:(no description)"
+    },
+    "accept": {
+        "message": "Akceptuj",
+        "description": "system_editor:accept:(no description)"
+    },
+    "height": {
+        "message": "Wysokość",
+        "description": "system_editor:height:(no description)"
+    },
+    "seed": {
+        "message": "SEED",
+        "description": "system_editor:seed:(no description)"
+    },
+    "radius": {
+        "message": "ZASIĘG",
+        "description": "system_editor:radius:(no description)"
+    },
+    "cancel": {
+        "message": "Anuluj",
+        "description": "system_editor:cancel:(no description)"
+    },
+    "close": {
+        "message": "ZAMKNIJ",
+        "description": "system_editor:close:(no description)"
+    },
+    "metal_clusters": {
+        "message": "SKUPISKA METALU",
+        "description": "system_editor:metal_clusters:(no description)"
+    },
+    "the_system_has_not_been_saved": {
+        "message": "System nie został zapisany.",
+        "description": "system_editor:the_system_has_not_been_saved:(no description)"
+    },
+    "the_planet_is_loading_this_can_take_a_long_time": {
+        "message": "Planeta jest wczytywana. Może to zająć dluższą chwilę.",
+        "description": "system_editor:the_planet_is_loading_this_can_take_a_long_time:(no description)"
+    },
+    "biome": {
+        "message": "BIOM",
+        "description": "system_editor:biome:(no description)"
+    },
+    "starting_planet": {
+        "message": "Planeta startowa",
+        "description": "system_editor:starting_planet:(no description)"
+    },
+    "hide": {
+        "message": "UKRYJ",
+        "description": "system_editor:hide:(no description)"
+    },
+    "temperature": {
+        "message": "TEMPERATURA",
+        "description": "system_editor:temperature:(no description)"
+    },
+    "discard": {
+        "message": "Odrzuć",
+        "description": "system_editor:discard:(no description)"
+    },
+    "save_mixed_case": {
+        "message": "Zapisz",
+        "description": "system_editor:save_mixed_case:(no description)"
+    },
+    "clear_system": {
+        "message": "WYCZYŚĆ SYSTEM",
+        "description": "system_editor:clear_system:(no description)"
+    },
+    "system_radius_is_too_small": {
+        "message": "Zbyt mały zasięg systemu.",
+        "description": "system_editor:system_radius_is_too_small:(no description)"
+    },
+    "x": {
+        "message": "X",
+        "description": "system_editor:x:(no description)"
+    },
+    "system_editor": {
+        "message": "EDYTOR SYSTEMU",
+        "description": "system_editor:system_editor:(no description)"
+    },
+    "preview": {
+        "message": "PODGLĄD",
+        "description": "system_editor:preview:(no description)"
+    },
+    "templates": {
+        "message": "SZABLONY",
+        "description": "system_editor:templates:(no description)"
+    },
+    "biome_scale": {
+        "message": "SKALA BIOMU",
+        "description": "system_editor:biome_scale:(no description)"
+    },
+    "save_system": {
+        "message": "ZAPISZ SYSTEM",
+        "description": "system_editor:save_system:(no description)"
+    },
+    "water": {
+        "message": "Woda",
+        "description": "system_editor:water:(no description)"
+    },
+    "metal_density": {
+        "message": "GĘSTOŚĆ WYSTĘPOWANIA METALU",
+        "description": "system_editor:metal_density:(no description)"
+    },
+    "velocity": {
+        "message": "PRĘDKOŚĆ",
+        "description": "system_editor:velocity:(no description)"
+    },
+    "edit_planet": {
+        "message": "EDYTUJ PLANETĘ",
+        "description": "system_editor:edit_planet:(no description)"
+    },
+    "simulate": {
+        "message": "SYMULUJ",
+        "description": "system_editor:simulate:(no description)"
+    },
+    "planet_name": {
+        "message": "NAZWA PLANETY",
+        "description": "system_editor:planet_name:(no description)"
+    },
+    "required_thrust_to_move": {
+        "message": "SILNIKI",
+        "description": "system_editor:required_thrust_to_move:(no description)"
+    },
+    "system_radius_is_too_large": {
+        "message": "Zbyt duży zasięg systemu.",
+        "description": "system_editor:system_radius_is_too_large:(no description)"
+    },
+    "properties": {
+        "message": "WŁAŚCIWOŚCI",
+        "description": "system_editor:properties:(no description)"
+    },
+    "recent": {
+        "message": "NIEDAWNE",
+        "description": "system_editor:recent:(no description)"
+    },
+    "system_name": {
+        "message": "NAZWA:",
+        "description": "system_editor:system_name:(no description)"
+    },
+    "e": {
+        "message": "E:",
+        "description": "system_editor:e:(no description)"
+    },
+    "temp": {
+        "message": "Temp",
+        "description": "system_editor:temp:(no description)"
+    },
+    "do_you_want_to_save_this_system": {
+        "message": "Chcesz zapisac ten system?",
+        "description": "system_editor:do_you_want_to_save_this_system:(no description)"
+    },
+    "height_range": {
+        "message": "ZASIĘG WYSOKOŚCI",
+        "description": "system_editor:height_range:(no description)"
+    },
+    "remove": {
+        "message": "USUŃ",
+        "description": "system_editor:remove:(no description)"
+    },
+    "planet": {
+        "message": "PLANETA",
+        "description": "system_editor:planet:(no description)"
+    },
+    "system_has_no_starting_planet": {
+        "message": "System nie posiada planety startowej.",
+        "description": "system_editor:system_has_no_starting_planet:(no description)"
+    },
+    "random_name": {
+        "message": "NAZWA LOSOWA",
+        "description": "system_editor:random_name:(no description)"
+    },
+    "mass": {
+        "message": "MASA",
+        "description": "system_editor:mass:(no description)"
+    },
+    "save_template": {
+        "message": "ZAPISZ SZABLON",
+        "description": "system_editor:save_template:(no description)"
+    },
+    "the_program_will_be_unresponsive_until_the_planet_has_finished": {
+        "message": "Aplikacja będzie nieodpowiadać dopóki planeta nie zostanie skończona.",
+        "description": "system_editor:the_program_will_be_unresponsive_until_the_planet_has_finished:(no description)"
+    },
+    "y": {
+        "message": "Y:",
+        "description": "system_editor:y:(no description)"
+    },
+    "position": {
+        "message": "POZYCJA",
+        "description": "system_editor:position:(no description)"
+    },
+    "the_system_has_been_changed_since_it_was_last_saved": {
+        "message": "Ten system zostal zmieniony od czasu ostatniego zapisu.",
+        "description": "system_editor:the_system_has_been_changed_since_it_was_last_saved:(no description)"
+    }
+}

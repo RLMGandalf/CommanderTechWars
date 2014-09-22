@@ -1,0 +1,122 @@
+{
+    "designed_in_collaboration_with": {
+        "message": "Ontworpen in samenwerking met",
+        "description": "armory:designed_in_collaboration_with:(no description)"
+    },
+    "remove": {
+        "message": "VERWIJDEREN",
+        "description": "armory:remove:(no description)"
+    },
+    "cancel": {
+        "message": "Annuleren",
+        "description": "armory:cancel:(no description)"
+    },
+    "continue_shopping": {
+        "message": "Doorgaan met winkelen",
+        "description": "armory:continue_shopping:(no description)"
+    },
+    "account_name": {
+        "message": "Accountnaam:",
+        "description": "armory:account_name:(no description)"
+    },
+    "badges": {
+        "message": "Insignes",
+        "description": "armory:badges:(no description)"
+    },
+    "here_s_your_receipt": {
+        "message": "Hier is uw factuur.",
+        "description": "armory:here_s_your_receipt:(no description)"
+    },
+    "set_as_default_commander": {
+        "message": "Als standaardcommandant instellen",
+        "description": "armory:set_as_default_commander:(no description)"
+    },
+    "total": {
+        "message": "Totaal:",
+        "description": "armory:total:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Bevestigingscode:",
+        "description": "armory:confirmation_code:(no description)"
+    },
+    "kickstarter_backer": {
+        "message": "Kickstarter Backer",
+        "description": "armory:kickstarter_backer:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below": {
+        "message": "De bevestiging van uw bestelling vindt u hieronder.",
+        "description": "armory:confirmation_of_your_purchase_is_provided_below:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "Uw aangeschafte producten zijn nu toegevoegd aan uw account en zijn beschikbaar in het spel.",
+        "description": "armory:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "item_is_already_in_cart": {
+        "message": "Product is al in de winkelwagen.",
+        "description": "armory:item_is_already_in_cart:(no description)"
+    },
+    "add_to_cart": {
+        "message": "Aan winkelwagen toevoegen",
+        "description": "armory:add_to_cart:(no description)"
+    },
+    "armory": {
+        "message": "Arsenaal",
+        "description": "armory:armory:(no description)"
+    },
+    "checkout": {
+        "message": "NAAR KASSA",
+        "description": "armory:checkout:(no description)"
+    },
+    "price": {
+        "message": "Prijs",
+        "description": "armory:price:(no description)"
+    },
+    "cart": {
+        "message": "Winkelwagen",
+        "description": "armory:cart:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Bedankt voor uw aankoop.",
+        "description": "armory:thank_you_for_your_purchase:(no description)"
+    },
+    "redeem": {
+        "message": "Inwisselen",
+        "description": "armory:redeem:(no description)"
+    },
+    "total_price": {
+        "message": "Totaal:",
+        "description": "armory:total_price:(no description)"
+    },
+    "updating": {
+        "message": "Updaten...",
+        "description": "armory:updating:(no description)"
+    },
+    "credit_applied": {
+        "message": "Tegoed gebruikt:",
+        "description": "armory:credit_applied:(no description)"
+    },
+    "go_to_main_menu": {
+        "message": "Ga naar het hoofdmenu",
+        "description": "armory:go_to_main_menu:(no description)"
+    },
+    "cart_empty": {
+        "message": "Uw winkelwagen is leeg.",
+        "description": "armory:cart_empty:(no description)"
+    },
+    "commanders": {
+        "message": "Commandanten",
+        "description": "armory:commanders:(no description)"
+    },
+    "refresh": {
+        "message": "Verversen",
+        "description": "armory:refresh:(no description)"
+    },
+    "item": {
+        "message": "Product",
+        "description": "armory:item:(no description)"
+    },
+    "return_to_armory": {
+        "message": "Naar het arsenaal terugkeren",
+        "description": "armory:return_to_armory:(no description)"
+    }
+}

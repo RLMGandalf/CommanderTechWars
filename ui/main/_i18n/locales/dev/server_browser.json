@@ -1,0 +1,138 @@
+{
+    "ai_battle": {
+        "description": "server_browser:ai_battle:(no description)", 
+        "message": "AI Battle"
+    }, 
+    "any": {
+        "description": "server_browser:any:(no description)", 
+        "message": "Any"
+    }, 
+    "can_join": {
+        "description": "server_browser:can_join:(no description)", 
+        "message": "Can Join"
+    }, 
+    "can_play": {
+        "description": "server_browser:can_play:(no description)", 
+        "message": "Can Play"
+    }, 
+    "can_spectate": {
+        "description": "server_browser:can_spectate:(no description)", 
+        "message": "Can Spectate"
+    }, 
+    "casual": {
+        "description": "server_browser:casual:(no description)", 
+        "message": "Casual"
+    }, 
+    "competitive": {
+        "description": "server_browser:competitive:(no description)", 
+        "message": "Competitive"
+    }, 
+    "create_game": {
+        "description": "server_browser:create_game:(no description)", 
+        "message": "Create Game"
+    }, 
+    "free_for_all": {
+        "description": "server_browser:free_for_all:(no description)", 
+        "message": "Free For All"
+    }, 
+    "game": {
+        "description": "server_browser:game:(no description)", 
+        "message": "Game"
+    }, 
+    "game_state": {
+        "description": "server_browser:game_state:(no description)", 
+        "message": "Game State"
+    }, 
+    "in_lobby": {
+        "description": "server_browser:in_lobby:(no description)", 
+        "message": "In Lobby"
+    }, 
+    "in_progress": {
+        "description": "server_browser:in_progress:(no description)", 
+        "message": "In Progress"
+    }, 
+    "join_game": {
+        "description": "server_browser:join_game:(no description)", 
+        "message": "Join Game"
+    }, 
+    "locked_game": {
+        "description": "server_browser:locked_game:(no description)", 
+        "message": "Locked Game"
+    }, 
+    "mod": {
+        "description": "server_browser:mod:(no description)", 
+        "message": "Mod"
+    }, 
+    "mode": {
+        "description": "server_browser:mode:(no description)", 
+        "message": "Mode"
+    }, 
+    "mods": {
+        "description": "server_browser:mods:(no description)", 
+        "message": "Mods"
+    }, 
+    "multiplayer": {
+        "description": "server_browser:multiplayer:(no description)", 
+        "message": "Multiplayer"
+    }, 
+    "no_max": {
+        "description": "server_browser:no_max:(no description)", 
+        "message": "No max"
+    }, 
+    "no_min": {
+        "description": "server_browser:no_min:(no description)", 
+        "message": "No min"
+    }, 
+    "number_of_planets": {
+        "description": "server_browser:number_of_planets:(no description)", 
+        "message": "Number of Planets"
+    }, 
+    "number_of_players": {
+        "description": "server_browser:number_of_players:(no description)", 
+        "message": "Number of Players"
+    }, 
+    "password": {
+        "description": "server_browser:password:(no description)", 
+        "message": "Password"
+    }, 
+    "planets": {
+        "description": "server_browser:planets:(no description)", 
+        "message": "Planets"
+    }, 
+    "players": {
+        "description": "server_browser:players:(no description)", 
+        "message": "Players"
+    }, 
+    "region": {
+        "description": "server_browser:region:(no description)", 
+        "message": "Region"
+    }, 
+    "slots": {
+        "description": "server_browser:slots:(no description)", 
+        "message": "Slots"
+    }, 
+    "spectate": {
+        "description": "server_browser:spectate:(no description)", 
+        "message": "Spectate"
+    }, 
+    "spectators": {
+        "description": "server_browser:spectators:(no description)", 
+        "message": "Spectators"
+    }, 
+    "status": {
+        "description": "server_browser:status:(no description)", 
+        "message": "Status"
+    }, 
+    "tag": {
+        "description": "server_browser:tag:(no description)", 
+        "message": "Tag"
+    }, 
+    "team_armies": {
+        "description": "server_browser:team_armies:(no description)", 
+        "message": "Team Armies"
+    }, 
+    "testing": {
+        "description": "server_browser:testing:(no description)", 
+        "message": "Testing"
+    }
+}

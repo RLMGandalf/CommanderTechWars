@@ -1,0 +1,10 @@
+{
+    "returning_to_main_menu": {
+        "message": "Návrat do Hlavního Menu",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "error": {
+        "message": "Chyba",
+        "description": "transit:error:(no description)"
+    }
+}

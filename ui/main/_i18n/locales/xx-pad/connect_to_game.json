@@ -1,0 +1,42 @@
+{
+    "connection_to_server_failed": {
+        "description": "connect_to_game:connection_to_server_failed:(no description)", 
+        "message": "\u04aa\u0472\u019d\u019d\u0190\u04aa\u4e01\u03aa\u0472\u019d \u4e01\u0472 \u1e60\u0190\u211d\u0476\u0190\u211d \u03dc\u0202\u03aa\u20a4\u0190\u0189\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "CONNECTION TO SERVER FAILED"
+    }, 
+    "connection_to_server_lost": {
+        "description": "connect_to_game:connection_to_server_lost:(no description)", 
+        "message": "\u04aa\u0472\u019d\u019d\u0190\u04aa\u4e01\u03aa\u0472\u019d \u4e01\u0472 \u1e60\u0190\u211d\u0476\u0190\u211d \u20a4\u0472\u1e60\u4e01\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "CONNECTION TO SERVER LOST"
+    }, 
+    "failed_to_join_game": {
+        "description": "connect_to_game:failed_to_join_game:(no description)", 
+        "message": "\u03dc\u0202\u03aa\u20a4\u0190\u0189 \u4e01\u0472 \u06b7\u0472\u03aa\u019d \u01f4\u0202\u039c\u0190\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "FAILED TO JOIN GAME"
+    }, 
+    "failed_to_start_game": {
+        "description": "connect_to_game:failed_to_start_game:(no description)", 
+        "message": "\u03dc\u0202\u03aa\u20a4\u0190\u0189 \u4e01\u0472 \u1e60\u4e01\u0202\u211d\u4e01 \u01f4\u0202\u039c\u0190\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "FAILED TO START GAME"
+    }, 
+    "failed_to_start_replay": {
+        "description": "connect_to_game:failed_to_start_replay:(no description)", 
+        "message": "\u03dc\u0202\u03aa\u20a4\u0190\u0189 \u4e01\u0472 \u1e60\u4e01\u0202\u211d\u4e01 \u211d\u0190\u1e54\u20a4\u0202\u0423\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "FAILED TO START REPLAY"
+    }, 
+    "login_accepted": {
+        "description": "connect_to_game:login_accepted:(no description)", 
+        "message": "\u20a4\u0472\u01f4\u03aa\u019d \u0202\u04aa\u04aa\u0190\u1e54\u4e01\u0190\u0189\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "LOGIN ACCEPTED"
+    }, 
+    "login_to_server_rejected": {
+        "description": "connect_to_game:login_to_server_rejected:(no description)", 
+        "message": "\u20a4\u0472\u01f4\u03aa\u019d \u4e01\u0472 \u1e60\u0190\u211d\u0476\u0190\u211d \u211d\u0190\u06b7\u0190\u04aa\u4e01\u0190\u0189\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "LOGIN TO SERVER REJECTED"
+    }, 
+    "returning_to_main_menu": {
+        "description": "connect_to_game:returning_to_main_menu:(no description)", 
+        "message": "\u211d\u1f73\u04ad\u0574\u0213\u019e\u0457\u019e\u0260 \u04ad\u020f \u039c\u0203\u0457\u019e \u039c\u1f73\u019e\u0574\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9\u03a9", 
+        "original": "Returning to Main Menu"
+    }
+}

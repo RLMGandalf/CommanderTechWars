@@ -1,0 +1,138 @@
+{
+    "number_of_players": {
+        "message": "Количество игроков",
+        "description": "server_browser:number_of_players:(no description)"
+    },
+    "locked_game": {
+        "message": "Закрытая игра",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "testing": {
+        "message": "Тестирование",
+        "description": "server_browser:testing:(no description)"
+    },
+    "game_state": {
+        "message": "Состояние игры",
+        "description": "server_browser:game_state:(no description)"
+    },
+    "competitive": {
+        "message": "Конкурентоспособный",
+        "description": "server_browser:competitive:(no description)"
+    },
+    "tag": {
+        "message": "Метка",
+        "description": "server_browser:tag:(no description)"
+    },
+    "planets": {
+        "message": "Планеты",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "Слоты",
+        "description": "server_browser:slots:(no description)"
+    },
+    "casual": {
+        "message": "Казуальный",
+        "description": "server_browser:casual:(no description)"
+    },
+    "can_join": {
+        "message": "Возможность присоединиться",
+        "description": "server_browser:can_join:(no description)"
+    },
+    "multiplayer": {
+        "message": "Мультиплеер",
+        "description": "server_browser:multiplayer:(no description)"
+    },
+    "any": {
+        "message": "Любой",
+        "description": "server_browser:any:(no description)"
+    },
+    "can_spectate": {
+        "message": "Возможность подглядеть",
+        "description": "server_browser:can_spectate:(no description)"
+    },
+    "no_min": {
+        "message": "Нет минимума",
+        "description": "server_browser:no_min:(no description)"
+    },
+    "number_of_planets": {
+        "message": "Количество планет",
+        "description": "server_browser:number_of_planets:(no description)"
+    },
+    "status": {
+        "message": "Статус",
+        "description": "server_browser:status:(no description)"
+    },
+    "create_game": {
+        "message": "Создать игру",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "Наблюдатели",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "join_game": {
+        "message": "Присоединиться",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "game": {
+        "message": "Игра",
+        "description": "server_browser:game:(no description)"
+    },
+    "in_progress": {
+        "message": "В процессе",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "Пароль",
+        "description": "server_browser:password:(no description)"
+    },
+    "team_armies": {
+        "message": "Командные армии",
+        "description": "server_browser:team_armies:(no description)"
+    },
+    "mod": {
+        "message": "Мод",
+        "description": "server_browser:mod:(no description)"
+    },
+    "mods": {
+        "message": "Моды",
+        "description": "server_browser:mods:(no description)"
+    },
+    "free_for_all": {
+        "message": "Все против всех",
+        "description": "server_browser:free_for_all:(no description)"
+    },
+    "no_max": {
+        "message": "Нет максимума",
+        "description": "server_browser:no_max:(no description)"
+    },
+    "region": {
+        "message": "Регион",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "Наблюдать",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "can_play": {
+        "message": "Возможность поиграть",
+        "description": "server_browser:can_play:(no description)"
+    },
+    "in_lobby": {
+        "message": "В лобби",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "Игроки",
+        "description": "server_browser:players:(no description)"
+    },
+    "ai_battle": {
+        "message": "Сражение AI",
+        "description": "server_browser:ai_battle:(no description)"
+    },
+    "mode": {
+        "message": "Режим",
+        "description": "server_browser:mode:(no description)"
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "total_apm": {
+        "message": "Totaal APM",
+        "description": "gamestats:total_apm:(no description)"
+    },
+    "produced": {
+        "message": "Geproduceerd",
+        "description": "gamestats:produced:(no description)"
+    },
+    "wasted": {
+        "message": "Verspild",
+        "description": "gamestats:wasted:(no description)"
+    },
+    "total_efficiency": {
+        "message": "Totale efficiëntie",
+        "description": "gamestats:total_efficiency:(no description)"
+    },
+    "retrieving_stats": {
+        "message": "Statistieken ophalen...",
+        "description": "gamestats:retrieving_stats:(no description)"
+    },
+    "total": {
+        "message": "Totaal",
+        "description": "gamestats:total:(no description)"
+    },
+    "avg": {
+        "message": "Gem",
+        "description": "gamestats:avg:(no description)"
+    },
+    "total_metal": {
+        "message": "Totaal metaal",
+        "description": "gamestats:total_metal:(no description)"
+    },
+    "current_units": {
+        "message": "Huidige eenheden",
+        "description": "gamestats:current_units:(no description)"
+    },
+    "game_summary": {
+        "message": "SPEL SAMENVATTING",
+        "description": "gamestats:game_summary:(no description)"
+    },
+    "winner": {
+        "message": "Winnaar:",
+        "description": "gamestats:winner:(no description)"
+    },
+    "factory": {
+        "message": "Fabriek",
+        "description": "gamestats:factory:(no description)"
+    },
+    "current": {
+        "message": "Huidig",
+        "description": "gamestats:current:(no description)"
+    },
+    "current_apm": {
+        "message": "Huidige APM",
+        "description": "gamestats:current_apm:(no description)"
+    },
+    "winners": {
+        "message": "Winnaars:",
+        "description": "gamestats:winners:(no description)"
+    },
+    "total_energy": {
+        "message": "Totale energie",
+        "description": "gamestats:total_energy:(no description)"
+    },
+    "current_efficiency": {
+        "message": "Huidige efficiëntie",
+        "description": "gamestats:current_efficiency:(no description)"
+    },
+    "draw": {
+        "message": "Gelijkspel",
+        "description": "gamestats:draw:(no description)"
+    },
+    "opp_killed": {
+        "message": "Opp Vernietigd",
+        "description": "gamestats:opp_killed:(no description)"
+    },
+    "total_units": {
+        "message": "Totale eenheden",
+        "description": "gamestats:total_units:(no description)"
+    },
+    "fab": {
+        "message": "Fab",
+        "description": "gamestats:fab:(no description)"
+    },
+    "in_progress": {
+        "message": "Bezig",
+        "description": "gamestats:in_progress:(no description)"
+    },
+    "lost": {
+        "message": "Verloren",
+        "description": "gamestats:lost:(no description)"
+    },
+    "created": {
+        "message": "Gemaakt",
+        "description": "gamestats:created:(no description)"
+    },
+    "mobile": {
+        "message": "Mobiel",
+        "description": "gamestats:mobile:(no description)"
+    },
+    "consumed": {
+        "message": "Gebruikt",
+        "description": "gamestats:consumed:(no description)"
+    },
+    "current_metal": {
+        "message": "Huidig metaal",
+        "description": "gamestats:current_metal:(no description)"
+    },
+    "current_energy": {
+        "message": "Huidig energie",
+        "description": "gamestats:current_energy:(no description)"
+    }
+}

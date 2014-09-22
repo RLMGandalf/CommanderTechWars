@@ -1,0 +1,46 @@
+{
+    "pa_replay_browser_list": {
+        "message": "橫掃千星回放瀏覽列表",
+        "description": "replay_browser:pa_replay_browser_list:(no description)"
+    },
+    "code": {
+        "message": "代碼:",
+        "description": "replay_browser:code:(no description)"
+    },
+    "replays_available": {
+        "message": "可使用的回放",
+        "description": "replay_browser:replays_available:(no description)"
+    },
+    "waiting_on_server": {
+        "message": "正在等待伺服器...",
+        "description": "replay_browser:waiting_on_server:(no description)"
+    },
+    "failed_to_start_game": {
+        "message": "無法開始遊戲",
+        "description": "replay_browser:failed_to_start_game:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "正在返回主目錄",
+        "description": "replay_browser:returning_to_main_menu:(no description)"
+    },
+    "lan_replays": {
+        "message": "區域網路遊戲回放",
+        "description": "replay_browser:lan_replays:(no description)"
+    },
+    "failed_to_load_replay": {
+        "message": "無法載入回放",
+        "description": "replay_browser:failed_to_load_replay:(no description)"
+    },
+    "ubernet_replays": {
+        "message": "UBERNET 回放",
+        "description": "replay_browser:ubernet_replays:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "replay_browser:gamma_v:(no description)"
+    },
+    "view_replay": {
+        "message": "檢視回放",
+        "description": "replay_browser:view_replay:(no description)"
+    }
+}

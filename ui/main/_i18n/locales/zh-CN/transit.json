@@ -1,0 +1,10 @@
+{
+    "returning_to_main_menu": {
+        "message": "正在返回主菜单",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "error": {
+        "message": "错误",
+        "description": "transit:error:(no description)"
+    }
+}

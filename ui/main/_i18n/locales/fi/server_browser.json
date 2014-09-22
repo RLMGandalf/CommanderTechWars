@@ -1,0 +1,126 @@
+{
+    "number_of_players": {
+        "message": "Number of Players",
+        "description": "server_browser:number_of_players:(no description)"
+    },
+    "locked_game": {
+        "message": "Lukittu Peli",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "testing": {
+        "message": "Testing",
+        "description": "server_browser:testing:(no description)"
+    },
+    "game_state": {
+        "message": "Game State",
+        "description": "server_browser:game_state:(no description)"
+    },
+    "competitive": {
+        "message": "Competitive",
+        "description": "server_browser:competitive:(no description)"
+    },
+    "tag": {
+        "message": "Tag",
+        "description": "server_browser:tag:(no description)"
+    },
+    "planets": {
+        "message": "Planeetat",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "Paikat",
+        "description": "server_browser:slots:(no description)"
+    },
+    "casual": {
+        "message": "Casual",
+        "description": "server_browser:casual:(no description)"
+    },
+    "multiplayer": {
+        "message": "Moninpeli",
+        "description": "server_browser:multiplayer:(no description)"
+    },
+    "any": {
+        "message": "Any",
+        "description": "server_browser:any:(no description)"
+    },
+    "no_min": {
+        "message": "No min",
+        "description": "server_browser:no_min:(no description)"
+    },
+    "number_of_planets": {
+        "message": "Number of Planets",
+        "description": "server_browser:number_of_planets:(no description)"
+    },
+    "status": {
+        "message": "Status",
+        "description": "server_browser:status:(no description)"
+    },
+    "create_game": {
+        "message": "Luo peli",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "Katsojat",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "join_game": {
+        "message": "Liity peliin",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "game": {
+        "message": "Peli",
+        "description": "server_browser:game:(no description)"
+    },
+    "in_progress": {
+        "message": "Käynnissä",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "Salasana",
+        "description": "server_browser:password:(no description)"
+    },
+    "team_armies": {
+        "message": "Joukkuearmeijat",
+        "description": "server_browser:team_armies:(no description)"
+    },
+    "mod": {
+        "message": "Mod",
+        "description": "server_browser:mod:(no description)"
+    },
+    "mods": {
+        "message": "Mods",
+        "description": "server_browser:mods:(no description)"
+    },
+    "free_for_all": {
+        "message": "Kaikki kaikkia vastaan",
+        "description": "server_browser:free_for_all:(no description)"
+    },
+    "no_max": {
+        "message": "No max",
+        "description": "server_browser:no_max:(no description)"
+    },
+    "region": {
+        "message": "Alue",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "Katsomo",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "in_lobby": {
+        "message": "Aulassa",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "Pelaajat",
+        "description": "server_browser:players:(no description)"
+    },
+    "ai_battle": {
+        "message": "AI Battle",
+        "description": "server_browser:ai_battle:(no description)"
+    },
+    "mode": {
+        "message": "Muoto",
+        "description": "server_browser:mode:(no description)"
+    }
+}

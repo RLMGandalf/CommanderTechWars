@@ -1,0 +1,114 @@
+{
+    "abandon_war": {
+        "description": "gw_play:abandon_war:(no description)", 
+        "message": "Abandon War"
+    }, 
+    "ai": {
+        "description": "gw_play:ai:(no description)", 
+        "message": "AI:"
+    }, 
+    "card": {
+        "description": "gw_play:card:(no description)", 
+        "message": "Card:"
+    }, 
+    "data_banks_full": {
+        "description": "gw_play:data_banks_full:(no description)", 
+        "message": "Data Banks Full"
+    }, 
+    "date": {
+        "description": "gw_play:date:(no description)", 
+        "message": "Date:"
+    }, 
+    "delete_tech": {
+        "description": "gw_play:delete_tech:(no description)", 
+        "message": "Delete Tech"
+    }, 
+    "dismiss": {
+        "description": "gw_play:dismiss:(no description)", 
+        "message": "Dismiss"
+    }, 
+    "download_tech": {
+        "description": "gw_play:download_tech:(no description)", 
+        "message": "Download Tech"
+    }, 
+    "duplicate_tech": {
+        "description": "gw_play:duplicate_tech:(no description)", 
+        "message": "Duplicate Tech"
+    }, 
+    "exit": {
+        "description": "gw_play:exit:(no description)", 
+        "message": "Exit"
+    }, 
+    "explore": {
+        "description": "gw_play:explore:(no description)", 
+        "message": "Explore"
+    }, 
+    "fight": {
+        "description": "gw_play:fight:(no description)", 
+        "message": "Fight"
+    }, 
+    "give_tech": {
+        "description": "gw_play:give_tech:(no description)", 
+        "message": "Give tech"
+    }, 
+    "history": {
+        "description": "gw_play:history:(no description)", 
+        "message": "History:"
+    }, 
+    "jump": {
+        "description": "gw_play:jump:(no description)", 
+        "message": "Jump"
+    }, 
+    "load_game": {
+        "description": "gw_play:load_game:(no description)", 
+        "message": "Load game"
+    }, 
+    "loss": {
+        "description": "gw_play:loss:(no description)", 
+        "message": "loss"
+    }, 
+    "preparing_for_battle": {
+        "description": "gw_play:preparing_for_battle:(no description)", 
+        "message": "Preparing for battle"
+    }, 
+    "record": {
+        "description": "gw_play:record:(no description)", 
+        "message": "Record:"
+    }, 
+    "reject_tech": {
+        "description": "gw_play:reject_tech:(no description)", 
+        "message": "Reject Tech"
+    }, 
+    "save": {
+        "description": "gw_play:save:(no description)", 
+        "message": "Save"
+    }, 
+    "scanning_system": {
+        "description": "gw_play:scanning_system:(no description)", 
+        "message": "Scanning System"
+    }, 
+    "settings": {
+        "description": "gw_play:settings:(no description)", 
+        "message": "Settings"
+    }, 
+    "techs": {
+        "description": "gw_play:techs:(no description)", 
+        "message": "TECHS"
+    }, 
+    "to_download_open_a_data_bank_by_deleting_an_undesired_tech": {
+        "description": "gw_play:to_download_open_a_data_bank_by_deleting_an_undesired_tech:(no description)", 
+        "message": "To download, open a data bank by deleting an undesired tech."
+    }, 
+    "turn_state": {
+        "description": "gw_play:turn_state:(no description)", 
+        "message": "Turn State:"
+    }, 
+    "unlock_commander": {
+        "description": "gw_play:unlock_commander:(no description)", 
+        "message": "Unlock Commander"
+    }, 
+    "win": {
+        "description": "gw_play:win:(no description)", 
+        "message": "win /"
+    }
+}

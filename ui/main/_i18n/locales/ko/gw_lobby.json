@@ -1,0 +1,6 @@
+{
+    "connection_to_server_lost": {
+        "message": "서버와의 연결 끊김",
+        "description": "gw_lobby:connection_to_server_lost:(no description)"
+    }
+}

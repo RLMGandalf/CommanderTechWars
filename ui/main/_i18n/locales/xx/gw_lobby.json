@@ -1,0 +1,7 @@
+{
+    "connection_to_server_lost": {
+        "description": "gw_lobby:connection_to_server_lost:(no description)", 
+        "message": "\u04aa\u0472\u019d\u019d\u0190\u04aa\u4e01\u03aa\u0472\u019d \u4e01\u0472 \u1e60\u0190\u211d\u0476\u0190\u211d \u20a4\u0472\u1e60\u4e01", 
+        "original": "CONNECTION TO SERVER LOST"
+    }
+}

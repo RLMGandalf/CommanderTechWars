@@ -1,0 +1,354 @@
+{
+    "channels_streaming": {
+        "message": "串流頻道",
+        "description": "start:channels_streaming:(no description)"
+    },
+    "fmod_sound_system_copyright_firelight_technologies_pty_ltd_1994_2013": {
+        "message": "FMOD Sound System, copyright © Firelight Technologies Pty, Ltd., 1994-2013",
+        "description": "start:fmod_sound_system_copyright_firelight_technologies_pty_ltd_1994_2013:(no description)"
+    },
+    "click_here": {
+        "message": "點擊這裡",
+        "description": "start:click_here:(no description)"
+    },
+    "link_ubernet_with_steam": {
+        "message": "連結 UberNet 與 Steam",
+        "description": "start:link_ubernet_with_steam:(no description)"
+    },
+    "confirm_password": {
+        "message": "確認密碼:",
+        "description": "start:confirm_password:(no description)"
+    },
+    "please_login_to_the_forums_with_the_ubernet_account_you_play_with_if_you_play_through_steam_please_go_to_https_uberent_com_user_linkedsteamaccount_to_associate_your_steam_account_with_an_ubernet_account_to_access_the_beta_forums": {
+        "message": "請以你用作登入遊戲的 UberNet 帳號登入討論區。如果你是使用 Steam 帳號登入，請到 https://uberent.com/user/linkedsteamaccount 連結你的 Steam 帳號至 UberNet 帳號，以便存取 Gamma 測試討論區。",
+        "description": "start:please_login_to_the_forums_with_the_ubernet_account_you_play_with_if_you_play_through_steam_please_go_to_https_uberent_com_user_linkedsteamaccount_to_associate_your_steam_account_with_an_ubernet_account_to_access_the_beta_forums:(no description)"
+    },
+    "by_clicking": {
+        "message": "請點擊",
+        "description": "start:by_clicking:(no description)"
+    },
+    "email_address_is_invalid": {
+        "message": "電子郵件地址並不正確",
+        "description": "start:email_address_is_invalid:(no description)"
+    },
+    "username_already_exists": {
+        "message": "使用者名稱已經存在",
+        "description": "start:username_already_exists:(no description)"
+    },
+    "updates": {
+        "message": "更新",
+        "description": "start:updates:(no description)"
+    },
+    "retrieve_your_username_and_password": {
+        "message": "找回帳號和密碼",
+        "description": "start:retrieve_your_username_and_password:(no description)"
+    },
+    "password": {
+        "message": "密碼",
+        "description": "start:password:(no description)"
+    },
+    "viewers": {
+        "message": "檢視者",
+        "description": "start:viewers:(no description)"
+    },
+    "forgot_username_or_password": {
+        "message": "忘記帳號或是密碼",
+        "description": "start:forgot_username_or_password:(no description)"
+    },
+    "settings": {
+        "message": "設定",
+        "description": "start:settings:(no description)"
+    },
+    "new_build_available": {
+        "message": "新版本釋出：",
+        "description": "start:new_build_available:(no description)"
+    },
+    "return_to_sign_in": {
+        "message": "回到登入介面",
+        "description": "start:return_to_sign_in:(no description)"
+    },
+    "this_means_the_game_is_not_complete_yet": {
+        "message": "這意味著此遊戲尚未完成。",
+        "description": "start:this_means_the_game_is_not_complete_yet:(no description)"
+    },
+    "it_also_means_while_playing_it_you_may_encounter_bugs_performance_problems_system_incompatibility_issues_and_a_host_of_other_unanticipated_issues_that_would_hopefully_not_exist_in_a_released_game": {
+        "message": "It also means while playing it you may encounter bugs, performance problems, system incompatibility issues, and a host of other unanticipated issues that would hopefully not exist in a released game.",
+        "description": "start:it_also_means_while_playing_it_you_may_encounter_bugs_performance_problems_system_incompatibility_issues_and_a_host_of_other_unanticipated_issues_that_would_hopefully_not_exist_in_a_released_game:(no description)"
+    },
+    "_2014_uber_entertainment_inc": {
+        "message": "© 2014 Uber Entertainment Inc.",
+        "description": "start:_2014_uber_entertainment_inc:(no description)"
+    },
+    "get_account_info": {
+        "message": "獲取帳號資訊",
+        "description": "start:get_account_info:(no description)"
+    },
+    "more_information_to_come": {
+        "message": "更多資訊即將公佈。",
+        "description": "start:more_information_to_come:(no description)"
+    },
+    "names_of_our_wonderful_backers_to_come": {
+        "message": "募資計劃的支持者名稱即將公佈。",
+        "description": "start:names_of_our_wonderful_backers_to_come:(no description)"
+    },
+    "uber_entertainment": {
+        "message": "UBER ENTERTAINMENT",
+        "description": "start:uber_entertainment:(no description)"
+    },
+    "email_address_already_exists": {
+        "message": "電子郵件地址已被使用",
+        "description": "start:email_address_already_exists:(no description)"
+    },
+    "tutorial": {
+        "message": "教學",
+        "description": "start:tutorial:(no description)"
+    },
+    "your_account_has_been_banned_if_you_believe_this_is_in_error_contact_us_at": {
+        "message": "你的帳號已被封鎖。若你堅信這是錯誤的，那麼請聯絡我們。",
+        "description": "start:your_account_has_been_banned_if_you_believe_this_is_in_error_contact_us_at:(no description)"
+    },
+    "sign_into_your_ubernet_account": {
+        "message": "登入你的 UberNet 帳號。",
+        "description": "start:sign_into_your_ubernet_account:(no description)"
+    },
+    "thank_you_kickstarter_backers": {
+        "message": "感謝 KICKSTARTER 募資計劃支持者!",
+        "description": "start:thank_you_kickstarter_backers:(no description)"
+    },
+    "replays_and_videos": {
+        "message": "戰鬥綠影和影片",
+        "description": "start:replays_and_videos:(no description)"
+    },
+    "please_try_again_later_if_this_error_persists_please_contact_support_and_check_the_forums": {
+        "message": "請稍後再試。如果此錯誤仍然存在，請與支援中心聯繫，並查詢論壇。",
+        "description": "start:please_try_again_later_if_this_error_persists_please_contact_support_and_check_the_forums:(no description)"
+    },
+    "set_by_code": {
+        "message": "set by code",
+        "description": "start:set_by_code:(no description)"
+    },
+    "email": {
+        "message": "電子信箱:",
+        "description": "start:email:(no description)"
+    },
+    "your_default_region_is_currently_unavailable_please_choose_a_different_region": {
+        "message": "你的預設地區目前不能使用. 請選擇另一個地區.",
+        "description": "start:your_default_region_is_currently_unavailable_please_choose_a_different_region:(no description)"
+    },
+    "your_steam_id_and_ubernet_accounts_have_been_successfully_linked": {
+        "message": "你的 Steam ID 與 UberNet 帳號成功連結。",
+        "description": "start:your_steam_id_and_ubernet_accounts_have_been_successfully_linked:(no description)"
+    },
+    "there_is_a_problem_with_steam_please_restart_steam_and_try_again_or_login_using_your_ubernet_credentials": {
+        "message": "Steam 出現了問題。請重新啟動Steam 並重試 或 使用你的 UberNet 帳號登入。",
+        "description": "start:there_is_a_problem_with_steam_please_restart_steam_and_try_again_or_login_using_your_ubernet_credentials:(no description)"
+    },
+    "login_error": {
+        "message": "不能登入",
+        "description": "start:login_error:(no description)"
+    },
+    "account_information_sent": {
+        "message": "Account information sent",
+        "description": "start:account_information_sent:(no description)"
+    },
+    "don_t_have_an_ubernet_account": {
+        "message": "尚未擁有 UberNet 帳號？",
+        "description": "start:don_t_have_an_ubernet_account:(no description)"
+    },
+    "you_can_change_the_region_later_in_the_settings_menu": {
+        "message": "You can change the region later in the settings menu.",
+        "description": "start:you_can_change_the_region_later_in_the_settings_menu:(no description)"
+    },
+    "please_make_regular_use_of_the_bug_reporting_features_both_in_game_coming_soon_in_the_launcher_coming_soon_and_on_our_forums": {
+        "message": "Please make regular use of the bug reporting features, both in game (Coming Soon), in the launcher (Coming Soon), and on our forums.",
+        "description": "start:please_make_regular_use_of_the_bug_reporting_features_both_in_game_coming_soon_in_the_launcher_coming_soon_and_on_our_forums:(no description)"
+    },
+    "would_you_like_to_watch_a_short_tutorial_video": {
+        "message": "你是否想觀看一個簡短的教學影片？",
+        "description": "start:would_you_like_to_watch_a_short_tutorial_video:(no description)"
+    },
+    "this_shouldn_t_happen_please_contact_us_at": {
+        "message": "這不該發生。請聯絡我們",
+        "description": "start:this_shouldn_t_happen_please_contact_us_at:(no description)"
+    },
+    "twitch": {
+        "message": "Twitch",
+        "description": "start:twitch:(no description)"
+    },
+    "for_discussions_or_bugs_that_for_some_reason_cannot_be_reported_in_game_please_join_us_on_our_forums_at_https_forums_uberent_com": {
+        "message": "要討論遊戲或回報因某些原因無法在遊戲內回報的臭蟲，請參與我們的討論區: https://forums.ubernet.com",
+        "description": "start:for_discussions_or_bugs_that_for_some_reason_cannot_be_reported_in_game_please_join_us_on_our_forums_at_https_forums_uberent_com:(no description)"
+    },
+    "licenses_from": {
+        "message": "Licenses from:",
+        "description": "start:licenses_from:(no description)"
+    },
+    "planetary_annihilation_gamma_disclaimer": {
+        "message": "PLANETARY ANNIHILATION GAMMA 免責聲明",
+        "description": "start:planetary_annihilation_gamma_disclaimer:(no description)"
+    },
+    "join_local_server": {
+        "message": "加入本地伺服器",
+        "description": "start:join_local_server:(no description)"
+    },
+    "below_you_acknowledge_that_you_ve_read_and_agree_to_the_following_conditions": {
+        "message": "below, you acknowledge that you've read and agree to the following conditions.",
+        "description": "start:below_you_acknowledge_that_you_ve_read_and_agree_to_the_following_conditions:(no description)"
+    },
+    "accounts_linked": {
+        "message": "帳號已連結",
+        "description": "start:accounts_linked:(no description)"
+    },
+    "quit": {
+        "message": "離開",
+        "description": "start:quit:(no description)"
+    },
+    "system_manager": {
+        "message": "System Designer",
+        "description": "start:system_manager:(no description)"
+    },
+    "an_email_with_a_link_to_recover_your_account_was_sent_to_username_domain_com": {
+        "message": "用作取回你的帳號的連結已隨一封電子郵件寄至 username@domain.com。",
+        "description": "start:an_email_with_a_link_to_recover_your_account_was_sent_to_username_domain_com:(no description)"
+    },
+    "this_title_has_not_been_activated": {
+        "message": "這款作品尚未啟動。",
+        "description": "start:this_title_has_not_been_activated:(no description)"
+    },
+    "armory": {
+        "message": "Armory",
+        "description": "start:armory:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "start:gamma_v:(no description)"
+    },
+    "username": {
+        "message": "用戶名",
+        "description": "start:username:(no description)"
+    },
+    "uber_account_already_linked_to_a_different_steam_account": {
+        "message": "Uber 帳號已與其他的帳號 Steam 帳號連結",
+        "description": "start:uber_account_already_linked_to_a_different_steam_account:(no description)"
+    },
+    "planetary_annihilation_is_in_gamma": {
+        "message": "橫掃千星進入 Gamma 測試階段。",
+        "description": "start:planetary_annihilation_is_in_gamma:(no description)"
+    },
+    "you_are_already_assigned_to_a_game": {
+        "message": "你已分配至一個遊戲。",
+        "description": "start:you_are_already_assigned_to_a_game:(no description)"
+    },
+    "already_have_an_ubernet_account": {
+        "message": "已擁有 UberNet 帳號？",
+        "description": "start:already_have_an_ubernet_account:(no description)"
+    },
+    "you_don_t_appear_to_own_a_copy_of_the_game": {
+        "message": "You don't appear to own a copy of the game.",
+        "description": "start:you_don_t_appear_to_own_a_copy_of_the_game:(no description)"
+    },
+    "problem_with_steam_account": {
+        "message": "Steam 帳號發生問題。",
+        "description": "start:problem_with_steam_account:(no description)"
+    },
+    "continue_to_main_menu": {
+        "message": "CONTINUE TO MAIN MENU",
+        "description": "start:continue_to_main_menu:(no description)"
+    },
+    "your_steam_account_does_not_own_this_application": {
+        "message": "你的 Steam 帳號未擁有此應用程式。",
+        "description": "start:your_steam_account_does_not_own_this_application:(no description)"
+    },
+    "error_connecting_to_ubernet": {
+        "message": "與 UberNet 的連線發生錯誤：",
+        "description": "start:error_connecting_to_ubernet:(no description)"
+    },
+    "you_need_a_new_client_to_play_the_game_steam_users_may_need_to_restart_steam_to_get_the_new_client": {
+        "message": "You need a new client to play the game. Steam users may need to restart Steam to get the new client.",
+        "description": "start:you_need_a_new_client_to_play_the_game_steam_users_may_need_to_restart_steam_to_get_the_new_client:(no description)"
+    },
+    "uber_username": {
+        "message": "Uber 帳號名稱",
+        "description": "start:uber_username:(no description)"
+    },
+    "there_are_no_regions_available_for_this_build_version": {
+        "message": "There are no regions available for this build version.",
+        "description": "start:there_are_no_regions_available_for_this_build_version:(no description)"
+    },
+    "videos": {
+        "message": "影片",
+        "description": "start:videos:(no description)"
+    },
+    "passwords_are_different": {
+        "message": "密碼並不一致",
+        "description": "start:passwords_are_different:(no description)"
+    },
+    "accept": {
+        "message": "接受",
+        "description": "start:accept:(no description)"
+    },
+    "please_go_to_https_uberent_com_user_recoveraccountdialog": {
+        "message": "請到 https://uberent.com/user/recoveraccountdialog",
+        "description": "start:please_go_to_https_uberent_com_user_recoveraccountdialog:(no description)"
+    },
+    "unknown_error_please_contact_us_at": {
+        "message": "未知錯誤。請與我們聯繫",
+        "description": "start:unknown_error_please_contact_us_at:(no description)"
+    },
+    "user_account_has_not_been_linked_to_steam": {
+        "message": "用戶帳號已與 steam 連結。",
+        "description": "start:user_account_has_not_been_linked_to_steam:(no description)"
+    },
+    "create_an_ubernet_account_to_link_with_steam": {
+        "message": "創建一個 UberNet 帳號來與 Steam 連結。",
+        "description": "start:create_an_ubernet_account_to_link_with_steam:(no description)"
+    },
+    "sign_in_with_your_uber_id": {
+        "message": "使用你的 Uber ID 登入",
+        "description": "start:sign_in_with_your_uber_id:(no description)"
+    },
+    "using_ubernet_server": {
+        "message": "使用 UBERNET 伺服器",
+        "description": "start:using_ubernet_server:(no description)"
+    },
+    "using_local_server": {
+        "message": "使用本地伺服器",
+        "description": "start:using_local_server:(no description)"
+    },
+    "play": {
+        "message": "玩",
+        "description": "start:play:(no description)"
+    },
+    "please_try_to_link_your_account_at": {
+        "message": "Please try to link your account at",
+        "description": "start:please_try_to_link_your_account_at:uberent.com/user/linksteam');"
+    },
+    "sign_in": {
+        "message": "登入",
+        "description": "start:sign_in:(no description)"
+    },
+    "incorrect_username_or_password_please_check_your_entry_and_try_again": {
+        "message": "錯誤的帳號或密碼。請確認你輸入的內容並再試一次。",
+        "description": "start:incorrect_username_or_password_please_check_your_entry_and_try_again:(no description)"
+    },
+    "create_account_and_link": {
+        "message": "CREATE ACCOUNT AND LINK",
+        "description": "start:create_account_and_link:(no description)"
+    },
+    "please_choose_a_default_region": {
+        "message": "請選擇一個預設地區。",
+        "description": "start:please_choose_a_default_region:(no description)"
+    },
+    "reconnecting_to_game": {
+        "message": "重新連線至遊戲",
+        "description": "start:reconnecting_to_game:(no description)"
+    },
+    "your_account_has_been_banned": {
+        "message": "你的帳號已被封鎖。",
+        "description": "start:your_account_has_been_banned:(no description)"
+    },
+    "connecting_to_ubernet": {
+        "message": "連接至 UberNet",
+        "description": "start:connecting_to_ubernet:(no description)"
+    }
+}

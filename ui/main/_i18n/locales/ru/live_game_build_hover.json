@@ -1,0 +1,18 @@
+{
+    "aps": {
+        "message": "APS:",
+        "description": "live_game_build_hover:aps:(no description)"
+    },
+    "bp": {
+        "message": "BP:",
+        "description": "live_game_build_hover:bp:(no description)"
+    },
+    "eff": {
+        "message": "EFF:",
+        "description": "live_game_build_hover:eff:(no description)"
+    },
+    "dmg": {
+        "message": "Урон:",
+        "description": "live_game_build_hover:dmg:(no description)"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "filter_by_dropdown": {
+        "message": "Filtro por Dropdown",
+        "description": "blank:filter_by_dropdown:(no description)"
+    },
+    "blank_screen": {
+        "message": "PANTALLA EN BLANCO",
+        "description": "blank:blank_screen:(no description)"
+    },
+    "search": {
+        "message": "Buscar",
+        "description": "blank:search:(no description)"
+    },
+    "a_command": {
+        "message": "BOTÓN DE COMANDANTE",
+        "description": "blank:a_command:(no description)"
+    },
+    "modal_title": {
+        "message": "Título",
+        "description": "blank:modal_title:(no description)"
+    },
+    "tab3": {
+        "message": "Pestaña 3",
+        "description": "blank:tab3:(no description)"
+    },
+    "tab2": {
+        "message": "Pestaña 2",
+        "description": "blank:tab2:(no description)"
+    },
+    "tab1": {
+        "message": "Pestaña 1",
+        "description": "blank:tab1:(no description)"
+    },
+    "submit": {
+        "message": "Enviar",
+        "description": "blank:submit:(no description)"
+    },
+    "in_lobby": {
+        "message": "En sala de espera",
+        "description": "blank:in_lobby:(no description)"
+    },
+    "second": {
+        "message": "Botón Secundario",
+        "description": "blank:second:(no description)"
+    },
+    "stuff": {
+        "message": "Cosas",
+        "description": "blank:stuff:(no description)"
+    },
+    "tab_3_content": {
+        "message": "Contenido de la Pestaña 3",
+        "description": "blank:tab_3_content:(no description)"
+    },
+    "tab_1_content": {
+        "message": "Contenido de la Pestaña 1",
+        "description": "blank:tab_1_content:(no description)"
+    },
+    "tab_2_content": {
+        "message": "Contenido de la Pestaña 2",
+        "description": "blank:tab_2_content:(no description)"
+    },
+    "in_progress": {
+        "message": "En Progreso",
+        "description": "blank:in_progress:(no description)"
+    },
+    "pa_blank": {
+        "message": "PANTALLA EN BLANCO",
+        "description": "blank:pa_blank:(no description)"
+    },
+    "first": {
+        "message": "Botón Primario",
+        "description": "blank:first:(no description)"
+    }
+}

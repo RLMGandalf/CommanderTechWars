@@ -1,0 +1,18 @@
+{
+    "returning_to_main_menu": {
+        "message": "Ritorno al Menu Principale in corso",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "PA NUOVA PARTITA IN ALPHA",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "MATCHMAKE IN CORSO",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "MATCHMAKE FALLITO",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

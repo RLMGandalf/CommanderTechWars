@@ -1,0 +1,646 @@
+﻿body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: 'Armata Regular';
+    font-size: 11px;
+    line-height: 1.7;
+    cursor: default;
+    background-image: none;
+    background: none;
+    overflow:hidden;
+    display: flex;
+    align-items: flex-end;
+}
+
+#social-bar {
+    width: 100%;
+    height: 30px;
+    background: black;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    padding: 2px 15px;
+}
+
+    #social-bar img {
+        float: right;
+        margin-left: 8px;
+    }
+
+#contextMenu {
+    position: fixed;
+    z-index: 1000;
+    display: none;
+}
+
+.menu-action {
+    color: #fff;
+    font-size: 12px;
+}
+
+
+/*----   SOCIAL BAR  ----*/
+.div-social-bar {
+    height: 34px;
+    width: 100%;
+    position: absolute;
+    background: rgba(0,0,0,.9);
+    bottom: 0px;
+    font-size: 12px;
+    border-top: 1px solid rgba(255,255,255,.08);
+}
+
+.div-social-bar-menu {
+    width: 283px;
+    float: right;
+    background: url(coui://ui/main/uberbar/img/img_uber_corner_bar.png) -20px -15px no-repeat;
+    padding-left: 34px;
+}
+
+.div-social-bar-item {
+    height: 32px;
+    text-align: center;
+    float: right;
+    padding: 0px 8px;
+    border: 1px solid transparent;
+}
+
+.div-social-bar-menu-item {
+    float: left;
+}
+
+.div-social-bar-item.dirty {
+    background: #005000;
+    border: 1px solid #0F0;
+    -webkit-box-shadow: inset 0 0 8px rgba(0, 255, 0, 0.8);
+}
+
+.div-social-bar-item.active {
+    background: #068585;
+    border: 1px solid #0ff;
+    -webkit-box-shadow: inset 0 0 8px rgba(0, 255, 255, 0.8);
+}
+
+.item-social {
+}
+
+    .item-social .icon {
+        display: inline-block;
+        vertical-align: middle;
+        margin: -2px 0px 0px 0px;
+    }
+
+    .item-social .count {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 4px 0px 0px -3px;
+        color:#fff;
+    }
+
+.div-social-bar-chat-cont {
+    height: 100%;
+    float: right;
+    margin: 0px 10px 0px 0px;
+}
+
+.div-social-bar-chat-item {
+    width: 150px;
+    height: 28px;
+    text-align: left;
+    padding: 2px 0px 0px 6px;
+    float: right;
+    border: 1px solid #808080;
+    border-width: 1px 1px 1px 1px;
+    margin: 2px 0px 0px 8px;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.chat-item-focus {
+    background: #262626;
+}
+
+.div-clock {
+    width: 120px;
+    text-align: right;
+}
+
+.clock {
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    text-shadow: 0px 0px 20px #00b3ff;
+    margin: -2px 0px 0px 0px;
+}
+
+.div-social-canvas {
+    position: absolute;
+    bottom: 32px;
+    width: 100%;
+    height: 625px;
+}
+
+.div-social-canvas-panel {
+    float: right;
+    height: 100%;
+}
+
+    .div-social-canvas-panel .tbl {
+        height: 658px;
+        width: 100%;
+    }
+
+    .div-social-canvas-panel .tbl {
+        height: 656px;
+        width: 100%;
+    }
+
+
+/*----   SOCIAL WIDGET   ----*/
+
+.div-social-widget {
+    height: auto;
+    width: 250px;
+    padding: 4px;
+    border: 1px solid #4D4D4D;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(40,40,40,1)), color-stop(30%,rgba(20,20,20,1)), color-stop(100%,rgba(20,20,20,1)));
+    box-shadow: 0px 0px 20px #000;
+    float: right;
+    margin: 0px 0px 0px 0px;
+}
+
+.div-user-profile-container {
+    border-image: url(img/img_profile_container_bground.png) 61 17 17 7 fill;
+    border-width: 61px 17px 17px 7px;
+    margin: -6px;
+}
+
+    .div-user-profile-container .fill {
+        height: 3px;
+        background: #2e2e2e;
+    }
+
+.user-profile-controls {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 4px;
+    position: absolute;
+    top: 22px;
+}
+
+.btn-user-profile {
+}
+
+.lbl-user-profile-btn {
+    width: 170px;
+    font-family: 'Sansation Bold';
+    font-size: 16px;
+    margin: 0px 0px;
+    line-height: 1;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.div-contacts-cont {
+    padding: 0px;
+    margin: 14px 0px 0px 0px;
+    background: none;
+}
+
+    .div-contacts-cont .tab-content {
+        padding: 0px;
+        margin: 0px;
+        background: none;
+    }
+
+.tabs-contacts {
+    height: 442px;
+    background: #141414;
+    box-shadow: inset 0px 0px 8px #000;
+    padding: 4px;
+    overflow: auto;
+}
+
+.div-search-results {
+    height: 520px;
+    background: #141414;
+    box-shadow: inset 0px 0px 8px #000;
+    padding: 4px;
+    overflow: auto;
+}
+
+.div-contact-category {
+    margin: 0px 0px 8px 0px;
+}
+
+.category-label {
+    text-transform: uppercase;
+    color: #A4A4A4;
+}
+
+.contact-item {
+    width: 100%;
+}
+
+    /*.contact-item:hover {
+        background:#262626;
+    }*/
+
+    .contact-item:active {
+        background: #262626;
+    }
+
+.contact-item-disabled, .contact-item-disabled:active {
+    width: 100%;
+    background: none;
+}
+
+.status-visual {
+    height: 5px;
+    width: 15px;
+    background: none;
+    border: 1px solid #808080;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 8px 4px 8px 4px;
+    box-shadow: none;
+}
+
+.online {
+    background: #00ff00;
+    box-shadow: 0px 0px 8px #0f0;
+}
+
+.away {
+    background: yellow;
+    box-shadow: 0px 0px 8px yellow;
+}
+
+
+.dnd {
+    background: red;
+    box-shadow: 0px 0px 8px red;
+}
+
+
+.offline {
+    background: none;
+    border: 1px solid #808080;
+    box-shadow: none;
+}
+
+
+.status-username {
+    max-width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 12px;
+    margin: 0px 0px 0px 0px;
+}
+
+.status-username-offline {
+    color: #808080;
+}
+
+/*----   NOTIFICATION WIDGET   ----*/
+
+.div-notification-widget {
+    min-height: 100px;
+    min-width: 251px;
+    position: absolute;
+    bottom: 33px;
+    right: 0px;
+    border: 1px solid #4D4D4D;
+    box-shadow: 0px 0px 20px #000;
+}
+
+.div-notification-cont {
+    min-height: 100px;
+    background: -webkit-gradient(linear, left top, 0 100, from(#282828), to(#141414));
+    box-shadow: inset 0px 0px 4px rgba(255,255,255,.2);
+}
+
+    .div-notification-cont .div-win-ctrl-bar {
+        height: 10px;
+        margin: 0px 4px 8px 0px;
+    }
+
+.div-notification-item {
+    width: 460px;
+    border: 1px solid #4D4D4D;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(40,40,40,1)), color-stop(100%,rgba(20,20,20,1)));
+    padding: 4px;
+    position: relative;
+    margin: 0px;
+    box-shadow: inset 0px 0px 8px #444;
+}
+
+.lbl-notification-empty {
+    text-align: center;
+    color: #A4A4A4;
+    margin-top: 30px;
+}
+
+.div-user-profile-pic {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.div-notification-details {
+    display: inline-block;
+    position: relative;
+}
+
+.div-notification-body {
+    height: 70px;
+    width: 340px;
+    display: inline-block;
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+.div-notification-ctrls {
+    margin: -10px 0px 0px 0px;
+}
+
+.div-notification-msg {
+    margin: 10px 0px 0px 8px;
+}
+
+.btn-notification {
+    display: inline-block;
+    float: right;
+}
+
+.div-abuse-ctrl-cont {
+    position: absolute;
+    top: 24px;
+    right: 3px;
+}
+
+.btn-abuse {
+    opacity: .2;
+    margin: 0px 4px 4px 0px;
+}
+
+.btn-block-user {
+    height: 10px;
+    width: 10px;
+    background: url('img/icon_block.png') center center no-repeat;
+}
+
+.btn-report-user {
+    height: 10px;
+    width: 10px;
+    background: url('img/icon_report.png') center center no-repeat;
+}
+
+.btn-abuse:hover {
+    opacity: 1;
+}
+
+.btn-abuse:active {
+    opacity: .8;
+}
+
+
+
+/*----   CHAT WINDOW   ----*/
+
+.div-chat-window {
+    width: 250px;
+    border: 1px solid #4D4D4D;
+    background: -webkit-gradient(linear, left top, 0 100, from(#282828), to(#141414));
+    box-shadow: 0px 0px 20px #000;
+    font-size: 12px;
+    float: right;
+    margin: 0px 0px 0px 0px;
+    box-shadow: inset 0px 0px 4px rgba(255,255,255,.2);
+}
+
+.div-chat-window-collapsed {
+    width: 250px;
+    border: 1px solid #4D4D4D;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(40,40,40,1)), color-stop(30%,rgba(20,20,20,1)), color-stop(100%,rgba(20,20,20,1)));
+    box-shadow: 0px 0px 20px #000;
+    font-size: 12px;
+    float: right;
+    margin: 625px 10px 0px 0px;
+}
+
+.div-chat-header {
+    background: none;
+    border: 1px solid transparent;
+}
+
+@-webkit-keyframes chat-alert {
+    0% {
+        background: none;
+        border: 1px solid transparent;
+    }
+
+    50% {
+        background: #005000;
+        border: 1px solid #0F0;
+    }
+
+    100% {
+        background: none;
+        border: 1px solid transparent;
+    }
+}
+
+.div-chat-header.dirty {
+    background: #005000;
+    border: 1px solid #0F0;
+    -webkit-box-shadow: inset 0 0 8px rgba(0, 255, 0, 0.8);
+    -webkit-animation-name: chat-alert;
+    -webkit-animation-duration: .3s;
+    -webkit-animation-iteration-count: 2;
+}
+
+
+.div-chat-username {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 0px 0px 2px;
+}
+
+.div-chat-header .div-chat-username .username {
+    width: 175px;
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: middle;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    margin: 4px 0px 4px 0px;
+}
+
+.div-chat-win-controls {
+    float: right;
+    margin: 7px 4px 0px 0px;
+}
+
+.btn-chat-win-control {
+    display: inline-block;
+}
+
+.div-chat-cont {
+    padding: 0px 4px 4px;
+}
+
+.div-chat-body {
+    height: 300px;
+    box-shadow: inset 0px 0px 8px #000;
+    background: #141414;
+    box-shadow: inset 0px 0px 8px #000;
+    padding: 4px;
+    overflow: auto;
+}
+
+.chat_message {
+    margin: 2px 2px 4px;
+    word-break: break-word;
+    line-height: 1.4em;
+}
+
+.chat_message_player_name {
+    color: #00FF00;
+}
+
+.chat-msg {
+    color: #fff;
+}
+
+.div-chat-input {
+    padding: 0px 4px 4px;
+}
+
+.input-chat {
+    width: 100%;
+}
+
+.input-psm {
+    width: 224px;
+    margin: 4px 0px 0px 0px;
+}
+
+.div-user-profile-status {
+    height: 26px;
+    width: 26px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px 4px 0px 0px;
+}
+
+.status-picker {
+}
+
+    .status-picker button.btn-default {
+        width: 224px;
+        background: none;
+        border-radius: 0px;
+        box-shadow: none;
+        border: 1px solid #666;
+        color: white;
+        text-transform: none;
+        font-family: 'Armata Regular';
+        padding: 0px;
+    }
+
+    .status-picker .btn-group bootstrap-select {
+        height: 27px;
+        width: 224px;
+    }
+
+    .status-picker .btn-group > .status-picker .btn:first-child {
+        height: 27px;
+        width: 224px;
+        margin-left: 0;
+        padding: 0px;
+    }
+
+    .status-picker .btn,
+    .status-picker .btn-default:hover,
+    .status-picker .btn-default:focus,
+    .status-picker .btn-default:active,
+    .status-picker .btn-default.active,
+    .status-picker .open .dropdown-toggle.btn-default {
+        height: 27px;
+        width: 224px;
+        color: inherit;
+        background-color: inherit;
+        border-color: inherit;
+        padding: 0px;
+        font-family: 'Armata Regular';
+    }
+
+    .status-picker .bootstrap-select.btn-group .btn .caret {
+        right: 8px;
+    }
+
+    .status-picker .bootstrap-select.btn-group .dropdown-menu li > a {
+        padding: 4px 0px 4px 4px;
+        font-size: 12px;
+    }
+
+    .status-picker .bootstrap-select.btn-group .btn .filter-option {
+        overflow: hidden;
+        position: absolute;
+        top: 0;
+        left: 4px;
+        right: 195px;
+        text-align: left;
+    }
+
+    .status-picker .dropdown-menu {
+        width: 224px;
+        padding: 0px;
+        margin: 0px;
+        font-size: 12px;
+    }
+
+        .status-picker .dropdown-menu li {
+            margin: 0 0 0px;
+        }
+
+        .status-picker .dropdown-menu > li > a {
+            padding: 4px 0px 4px 4px;
+        }
+
+        .status-picker .dropdown-menu open {
+            width: 154px;
+        }
+
+    .status-picker .status-visual {
+    }
+
+    .status-picker .status-label {
+        margin: 0px 0px 0px 4px;
+    }
+
+.status-psm {
+    line-height: 1;
+    font-size: 11px;
+    color: #A8A8A8;
+    max-width: 195px;
+    display: inline-block;
+    vertical-align: middle;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 10px;
+    margin: 0px 0px 2px 26px;
+}

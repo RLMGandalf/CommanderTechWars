@@ -1,0 +1,10 @@
+{
+    "returning_to_main_menu": {
+        "message": "Terugkeren naar Hoofdmenu",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "error": {
+        "message": "Fout",
+        "description": "transit:error:(no description)"
+    }
+}

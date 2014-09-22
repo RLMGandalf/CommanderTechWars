@@ -1,0 +1,354 @@
+{
+    "_2014_uber_entertainment_inc": {
+        "description": "start:_2014_uber_entertainment_inc:(no description)", 
+        "message": "\u00a9 2014 Uber Entertainment Inc."
+    }, 
+    "accept": {
+        "description": "start:accept:(no description)", 
+        "message": "Accept"
+    }, 
+    "account_information_sent": {
+        "description": "start:account_information_sent:(no description)", 
+        "message": "Account information sent"
+    }, 
+    "accounts_linked": {
+        "description": "start:accounts_linked:(no description)", 
+        "message": "Accounts linked"
+    }, 
+    "already_have_an_ubernet_account": {
+        "description": "start:already_have_an_ubernet_account:(no description)", 
+        "message": "Already have an UberNet account?"
+    }, 
+    "an_email_with_a_link_to_recover_your_account_was_sent_to_username_domain_com": {
+        "description": "start:an_email_with_a_link_to_recover_your_account_was_sent_to_username_domain_com:(no description)", 
+        "message": "An email with a link to recover your account was sent to username@domain.com."
+    }, 
+    "armory": {
+        "description": "start:armory:(no description)", 
+        "message": "Armory"
+    }, 
+    "below_you_acknowledge_that_you_ve_read_and_agree_to_the_following_conditions": {
+        "description": "start:below_you_acknowledge_that_you_ve_read_and_agree_to_the_following_conditions:(no description)", 
+        "message": "below, you acknowledge that you've read and agree to the following conditions."
+    }, 
+    "by_clicking": {
+        "description": "start:by_clicking:(no description)", 
+        "message": "By clicking"
+    }, 
+    "channels_streaming": {
+        "description": "start:channels_streaming:(no description)", 
+        "message": "Channels Streaming"
+    }, 
+    "click_here": {
+        "description": "start:click_here:(no description)", 
+        "message": "Click here."
+    }, 
+    "confirm_password": {
+        "description": "start:confirm_password:(no description)", 
+        "message": "Confirm Password:"
+    }, 
+    "connecting_to_ubernet": {
+        "description": "start:connecting_to_ubernet:(no description)", 
+        "message": "Connecting to UberNet"
+    }, 
+    "continue_to_main_menu": {
+        "description": "start:continue_to_main_menu:(no description)", 
+        "message": "CONTINUE TO MAIN MENU"
+    }, 
+    "create_account_and_link": {
+        "description": "start:create_account_and_link:(no description)", 
+        "message": "CREATE ACCOUNT AND LINK"
+    }, 
+    "create_an_ubernet_account_to_link_with_steam": {
+        "description": "start:create_an_ubernet_account_to_link_with_steam:(no description)", 
+        "message": "Create an UberNet account to link with Steam"
+    }, 
+    "don_t_have_an_ubernet_account": {
+        "description": "start:don_t_have_an_ubernet_account:(no description)", 
+        "message": "Don't have an UberNet account?"
+    }, 
+    "email": {
+        "description": "start:email:(no description)", 
+        "message": "Email:"
+    }, 
+    "email_address_already_exists": {
+        "description": "start:email_address_already_exists:(no description)", 
+        "message": "Email address already exists"
+    }, 
+    "email_address_is_invalid": {
+        "description": "start:email_address_is_invalid:(no description)", 
+        "message": "Email address is invalid"
+    }, 
+    "error_connecting_to_ubernet": {
+        "description": "start:error_connecting_to_ubernet:(no description)", 
+        "message": "Error connecting to UberNet:"
+    }, 
+    "fmod_sound_system_copyright_firelight_technologies_pty_ltd_1994_2013": {
+        "description": "start:fmod_sound_system_copyright_firelight_technologies_pty_ltd_1994_2013:(no description)", 
+        "message": "FMOD Sound System, copyright \u00a9 Firelight Technologies Pty, Ltd., 1994-2013"
+    }, 
+    "for_discussions_or_bugs_that_for_some_reason_cannot_be_reported_in_game_please_join_us_on_our_forums_at_https_forums_uberent_com": {
+        "description": "start:for_discussions_or_bugs_that_for_some_reason_cannot_be_reported_in_game_please_join_us_on_our_forums_at_https_forums_uberent_com:(no description)", 
+        "message": "For discussions, or bugs that for some reason cannot be reported in game, please join us on our forums at https://forums.uberent.com."
+    }, 
+    "forgot_username_or_password": {
+        "description": "start:forgot_username_or_password:(no description)", 
+        "message": "Forgot username or password?"
+    }, 
+    "gamma_v": {
+        "description": "start:gamma_v:(no description)", 
+        "message": "GAMMA v."
+    }, 
+    "get_account_info": {
+        "description": "start:get_account_info:(no description)", 
+        "message": "GET ACCOUNT INFO"
+    }, 
+    "incorrect_username_or_password_please_check_your_entry_and_try_again": {
+        "description": "start:incorrect_username_or_password_please_check_your_entry_and_try_again:(no description)", 
+        "message": "Incorrect username or password. Please check your entry and try again."
+    }, 
+    "it_also_means_while_playing_it_you_may_encounter_bugs_performance_problems_system_incompatibility_issues_and_a_host_of_other_unanticipated_issues_that_would_hopefully_not_exist_in_a_released_game": {
+        "description": "start:it_also_means_while_playing_it_you_may_encounter_bugs_performance_problems_system_incompatibility_issues_and_a_host_of_other_unanticipated_issues_that_would_hopefully_not_exist_in_a_released_game:(no description)", 
+        "message": "It also means while playing it you may encounter bugs, performance problems, system incompatibility issues, and a host of other unanticipated issues that would hopefully not exist in a released game."
+    }, 
+    "join_local_server": {
+        "description": "start:join_local_server:(no description)", 
+        "message": "Join Local Server"
+    }, 
+    "licenses_from": {
+        "description": "start:licenses_from:(no description)", 
+        "message": "Licenses from:"
+    }, 
+    "link_ubernet_with_steam": {
+        "description": "start:link_ubernet_with_steam:(no description)", 
+        "message": "Link UberNet with Steam"
+    }, 
+    "login_error": {
+        "description": "start:login_error:(no description)", 
+        "message": "Unable to Sign In"
+    }, 
+    "more_information_to_come": {
+        "description": "start:more_information_to_come:(no description)", 
+        "message": "More information to come."
+    }, 
+    "names_of_our_wonderful_backers_to_come": {
+        "description": "start:names_of_our_wonderful_backers_to_come:(no description)", 
+        "message": "Names of our wonderful backers to come."
+    }, 
+    "new_build_available": {
+        "description": "start:new_build_available:(no description)", 
+        "message": "New Build Available:"
+    }, 
+    "password": {
+        "description": "start:password:(no description)", 
+        "message": "Password"
+    }, 
+    "passwords_are_different": {
+        "description": "start:passwords_are_different:(no description)", 
+        "message": "Passwords are different"
+    }, 
+    "planetary_annihilation_gamma_disclaimer": {
+        "description": "start:planetary_annihilation_gamma_disclaimer:(no description)", 
+        "message": "PLANETARY ANNIHILATION GAMMA DISCLAIMER"
+    }, 
+    "planetary_annihilation_is_in_gamma": {
+        "description": "start:planetary_annihilation_is_in_gamma:(no description)", 
+        "message": "Planetary Annihilation is in Gamma."
+    }, 
+    "play": {
+        "description": "start:play:(no description)", 
+        "message": "Play"
+    }, 
+    "please_choose_a_default_region": {
+        "description": "start:please_choose_a_default_region:(no description)", 
+        "message": "Please choose a default region."
+    }, 
+    "please_go_to_https_uberent_com_user_recoveraccountdialog": {
+        "description": "start:please_go_to_https_uberent_com_user_recoveraccountdialog:(no description)", 
+        "message": "Please go to https://uberent.com/user/recoveraccountdialog"
+    }, 
+    "please_login_to_the_forums_with_the_ubernet_account_you_play_with_if_you_play_through_steam_please_go_to_https_uberent_com_user_linkedsteamaccount_to_associate_your_steam_account_with_an_ubernet_account_to_access_the_beta_forums": {
+        "description": "start:please_login_to_the_forums_with_the_ubernet_account_you_play_with_if_you_play_through_steam_please_go_to_https_uberent_com_user_linkedsteamaccount_to_associate_your_steam_account_with_an_ubernet_account_to_access_the_beta_forums:(no description)", 
+        "message": "Please login to the forums with the UberNet account you play with. If you play through Steam, please go to https://uberent.com/user/linkedsteamaccount to associate your Steam account with an UberNet account to access the Gamma forums."
+    }, 
+    "please_make_regular_use_of_the_bug_reporting_features_both_in_game_coming_soon_in_the_launcher_coming_soon_and_on_our_forums": {
+        "description": "start:please_make_regular_use_of_the_bug_reporting_features_both_in_game_coming_soon_in_the_launcher_coming_soon_and_on_our_forums:(no description)", 
+        "message": "Please make regular use of the bug reporting features, both in game (Coming Soon), in the launcher (Coming Soon), and on our forums."
+    }, 
+    "please_try_again_later_if_this_error_persists_please_contact_support_and_check_the_forums": {
+        "description": "start:please_try_again_later_if_this_error_persists_please_contact_support_and_check_the_forums:(no description)", 
+        "message": "Please try again later. If this error persists, please contact support and check the forums."
+    }, 
+    "please_try_to_link_your_account_at": {
+        "description": "start:please_try_to_link_your_account_at:uberent.com/user/linksteam');", 
+        "message": "Please try to link your account at"
+    }, 
+    "problem_with_steam_account": {
+        "description": "start:problem_with_steam_account:(no description)", 
+        "message": "Problem with Steam Account."
+    }, 
+    "quit": {
+        "description": "start:quit:(no description)", 
+        "message": "Quit"
+    }, 
+    "reconnecting_to_game": {
+        "description": "start:reconnecting_to_game:(no description)", 
+        "message": "Reconnecting to Game"
+    }, 
+    "replays_and_videos": {
+        "description": "start:replays_and_videos:(no description)", 
+        "message": "Replays and Videos"
+    }, 
+    "retrieve_your_username_and_password": {
+        "description": "start:retrieve_your_username_and_password:(no description)", 
+        "message": "Retrieve your username and password"
+    }, 
+    "return_to_sign_in": {
+        "description": "start:return_to_sign_in:(no description)", 
+        "message": "RETURN TO SIGN IN"
+    }, 
+    "set_by_code": {
+        "description": "start:set_by_code:(no description)", 
+        "message": "set by code"
+    }, 
+    "settings": {
+        "description": "start:settings:(no description)", 
+        "message": "Settings"
+    }, 
+    "sign_in": {
+        "description": "start:sign_in:(no description)", 
+        "message": "Sign in"
+    }, 
+    "sign_in_with_your_uber_id": {
+        "description": "start:sign_in_with_your_uber_id:(no description)", 
+        "message": "Sign in with your Uber ID"
+    }, 
+    "sign_into_your_ubernet_account": {
+        "description": "start:sign_into_your_ubernet_account:(no description)", 
+        "message": "Sign into your UberNet account."
+    }, 
+    "system_manager": {
+        "description": "start:system_manager:(no description)", 
+        "message": "System Designer"
+    }, 
+    "thank_you_kickstarter_backers": {
+        "description": "start:thank_you_kickstarter_backers:(no description)", 
+        "message": "THANK YOU KICKSTARTER BACKERS!"
+    }, 
+    "there_are_no_regions_available_for_this_build_version": {
+        "description": "start:there_are_no_regions_available_for_this_build_version:(no description)", 
+        "message": "There are no regions available for this build version."
+    }, 
+    "there_is_a_problem_with_steam_please_restart_steam_and_try_again_or_login_using_your_ubernet_credentials": {
+        "description": "start:there_is_a_problem_with_steam_please_restart_steam_and_try_again_or_login_using_your_ubernet_credentials:(no description)", 
+        "message": "There is a problem with Steam. Please restart Steam and try again or login using your UberNet credentials."
+    }, 
+    "this_means_the_game_is_not_complete_yet": {
+        "description": "start:this_means_the_game_is_not_complete_yet:(no description)", 
+        "message": "This means the game is not complete yet."
+    }, 
+    "this_shouldn_t_happen_please_contact_us_at": {
+        "description": "start:this_shouldn_t_happen_please_contact_us_at:(no description)", 
+        "message": "This shouldn't happen. Please contact us at"
+    }, 
+    "this_title_has_not_been_activated": {
+        "description": "start:this_title_has_not_been_activated:(no description)", 
+        "message": "This title has not been activated."
+    }, 
+    "tutorial": {
+        "description": "start:tutorial:(no description)", 
+        "message": "Tutorial"
+    }, 
+    "twitch": {
+        "description": "start:twitch:(no description)", 
+        "message": "Twitch"
+    }, 
+    "uber_account_already_linked_to_a_different_steam_account": {
+        "description": "start:uber_account_already_linked_to_a_different_steam_account:(no description)", 
+        "message": "Uber account already linked to a different Steam account"
+    }, 
+    "uber_entertainment": {
+        "description": "start:uber_entertainment:(no description)", 
+        "message": "UBER ENTERTAINMENT"
+    }, 
+    "uber_username": {
+        "description": "start:uber_username:(no description)", 
+        "message": "Uber Username:"
+    }, 
+    "unknown_error_please_contact_us_at": {
+        "description": "start:unknown_error_please_contact_us_at:(no description)", 
+        "message": "Unknown Error.  Please contact us at"
+    }, 
+    "updates": {
+        "description": "start:updates:(no description)", 
+        "message": "Updates"
+    }, 
+    "user_account_has_not_been_linked_to_steam": {
+        "description": "start:user_account_has_not_been_linked_to_steam:(no description)", 
+        "message": "User account has not been linked to steam."
+    }, 
+    "username": {
+        "description": "start:username:(no description)", 
+        "message": "Username"
+    }, 
+    "username_already_exists": {
+        "description": "start:username_already_exists:(no description)", 
+        "message": "Username already exists"
+    }, 
+    "using_local_server": {
+        "description": "start:using_local_server:(no description)", 
+        "message": "USING LOCAL SERVER"
+    }, 
+    "using_ubernet_server": {
+        "description": "start:using_ubernet_server:(no description)", 
+        "message": "USING UBERNET SERVER"
+    }, 
+    "videos": {
+        "description": "start:videos:(no description)", 
+        "message": "Videos"
+    }, 
+    "viewers": {
+        "description": "start:viewers:(no description)", 
+        "message": "viewers"
+    }, 
+    "would_you_like_to_watch_a_short_tutorial_video": {
+        "description": "start:would_you_like_to_watch_a_short_tutorial_video:(no description)", 
+        "message": "Would you like to watch a short tutorial video?"
+    }, 
+    "you_are_already_assigned_to_a_game": {
+        "description": "start:you_are_already_assigned_to_a_game:(no description)", 
+        "message": "You are already assigned to a game."
+    }, 
+    "you_can_change_the_region_later_in_the_settings_menu": {
+        "description": "start:you_can_change_the_region_later_in_the_settings_menu:(no description)", 
+        "message": "You can change the region later in the settings menu."
+    }, 
+    "you_don_t_appear_to_own_a_copy_of_the_game": {
+        "description": "start:you_don_t_appear_to_own_a_copy_of_the_game:(no description)", 
+        "message": "You don't appear to own a copy of the game."
+    }, 
+    "you_need_a_new_client_to_play_the_game_steam_users_may_need_to_restart_steam_to_get_the_new_client": {
+        "description": "start:you_need_a_new_client_to_play_the_game_steam_users_may_need_to_restart_steam_to_get_the_new_client:(no description)", 
+        "message": "You need a new client to play the game. Steam users may need to restart Steam to get the new client."
+    }, 
+    "your_account_has_been_banned": {
+        "description": "start:your_account_has_been_banned:(no description)", 
+        "message": "Your account has been banned."
+    }, 
+    "your_account_has_been_banned_if_you_believe_this_is_in_error_contact_us_at": {
+        "description": "start:your_account_has_been_banned_if_you_believe_this_is_in_error_contact_us_at:(no description)", 
+        "message": "Your account has been banned. If you believe this is in error, contact us at"
+    }, 
+    "your_default_region_is_currently_unavailable_please_choose_a_different_region": {
+        "description": "start:your_default_region_is_currently_unavailable_please_choose_a_different_region:(no description)", 
+        "message": "Your default region is currently unavailable. Please choose a different region."
+    }, 
+    "your_steam_account_does_not_own_this_application": {
+        "description": "start:your_steam_account_does_not_own_this_application:(no description)", 
+        "message": "Your steam account does not own this application."
+    }, 
+    "your_steam_id_and_ubernet_accounts_have_been_successfully_linked": {
+        "description": "start:your_steam_id_and_ubernet_accounts_have_been_successfully_linked:(no description)", 
+        "message": "Your Steam ID and UberNet accounts have been successfully linked."
+    }
+}

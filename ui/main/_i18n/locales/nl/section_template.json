@@ -1,0 +1,26 @@
+{
+    "roster": {
+        "message": "Rooster",
+        "description": "section_template:roster:(no description)"
+    },
+    "section": {
+        "message": "Sectie",
+        "description": "section_template:section:(no description)"
+    },
+    "game_lobby": {
+        "message": "Spellobby",
+        "description": "section_template:game_lobby:(no description)"
+    },
+    "ready_cancel": {
+        "message": "Gereed/Annuleer",
+        "description": "section_template:ready_cancel:(no description)"
+    },
+    "game_options": {
+        "message": "Spelopties",
+        "description": "section_template:game_options:(no description)"
+    },
+    "new_lobby": {
+        "message": "Nieuwe Lobby",
+        "description": "section_template:new_lobby:(no description)"
+    }
+}

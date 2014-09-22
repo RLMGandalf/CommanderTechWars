@@ -1,0 +1,10 @@
+{
+    "building_planets": {
+        "message": "建構星球中",
+        "description": "building_planets:building_planets:(no description)"
+    },
+    "generating_planets": {
+        "message": "產生星球中",
+        "description": "building_planets:generating_planets:(no description)"
+    }
+}

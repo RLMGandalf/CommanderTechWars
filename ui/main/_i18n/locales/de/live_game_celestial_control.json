@@ -1,0 +1,34 @@
+{
+    "select_a_planet_to_destroy": {
+        "message": "Planeten zur Zerstörung auswählen.",
+        "description": "live_game_celestial_control:select_a_planet_to_destroy:(no description)"
+    },
+    "change_orbit": {
+        "message": "Umlaufbahn ändern",
+        "description": "live_game_celestial_control:change_orbit:(no description)"
+    },
+    "select_a_planet_to_attack": {
+        "message": "Planeten zum Angriff auswählen.",
+        "description": "live_game_celestial_control:select_a_planet_to_attack:(no description)"
+    },
+    "set_target_spot": {
+        "message": "Zielpunkt setzen",
+        "description": "live_game_celestial_control:set_target_spot:(no description)"
+    },
+    "activate_planetary_laser": {
+        "message": "Interplanetaren Laser aktivieren.",
+        "description": "live_game_celestial_control:activate_planetary_laser:(no description)"
+    },
+    "set_course_for_annihilation": {
+        "message": "Setze Kurs zur Vernichtung",
+        "description": "live_game_celestial_control:set_course_for_annihilation:(no description)"
+    },
+    "then_confirm_destination_to_set_course": {
+        "message": "Dann Zielort bestätigen, um den Kurs festzulegen.",
+        "description": "live_game_celestial_control:then_confirm_destination_to_set_course:(no description)"
+    },
+    "select_a_new_gravity_well": {
+        "message": "Wähle neue Gravitationsquelle.",
+        "description": "live_game_celestial_control:select_a_new_gravity_well:(no description)"
+    }
+}

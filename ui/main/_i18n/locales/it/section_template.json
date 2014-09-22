@@ -1,0 +1,26 @@
+{
+    "roster": {
+        "message": "Turno",
+        "description": "section_template:roster:(no description)"
+    },
+    "section": {
+        "message": "Sezione",
+        "description": "section_template:section:(no description)"
+    },
+    "game_lobby": {
+        "message": "Sala d'attesa della partita",
+        "description": "section_template:game_lobby:(no description)"
+    },
+    "ready_cancel": {
+        "message": "Pronto/Annulla",
+        "description": "section_template:ready_cancel:(no description)"
+    },
+    "game_options": {
+        "message": "Opzioni di gioco",
+        "description": "section_template:game_options:(no description)"
+    },
+    "new_lobby": {
+        "message": "Nuova Lobby",
+        "description": "section_template:new_lobby:(no description)"
+    }
+}

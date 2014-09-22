@@ -1,0 +1,102 @@
+{
+    "give_tech": {
+        "message": "Dai tecnologia",
+        "description": "gw_play:give_tech:(no description)"
+    },
+    "ai": {
+        "message": "IA:",
+        "description": "gw_play:ai:(no description)"
+    },
+    "win": {
+        "message": "win /",
+        "description": "gw_play:win:(no description)"
+    },
+    "abandon_war": {
+        "message": "Abbandona guerra",
+        "description": "gw_play:abandon_war:(no description)"
+    },
+    "jump": {
+        "message": "Salta",
+        "description": "gw_play:jump:(no description)"
+    },
+    "date": {
+        "message": "Data:",
+        "description": "gw_play:date:(no description)"
+    },
+    "preparing_for_battle": {
+        "message": "Preparazione alla battaglia",
+        "description": "gw_play:preparing_for_battle:(no description)"
+    },
+    "techs": {
+        "message": "TECNOLOGIE",
+        "description": "gw_play:techs:(no description)"
+    },
+    "unlock_commander": {
+        "message": "Sblocca Comandante",
+        "description": "gw_play:unlock_commander:(no description)"
+    },
+    "fight": {
+        "message": "Combatti",
+        "description": "gw_play:fight:(no description)"
+    },
+    "exit": {
+        "message": "Esci",
+        "description": "gw_play:exit:(no description)"
+    },
+    "reject_tech": {
+        "message": "Scarta tecnologia",
+        "description": "gw_play:reject_tech:(no description)"
+    },
+    "save": {
+        "message": "Salva",
+        "description": "gw_play:save:(no description)"
+    },
+    "download_tech": {
+        "message": "Scarica tecnologia",
+        "description": "gw_play:download_tech:(no description)"
+    },
+    "delete_tech": {
+        "message": "Cancella tecnologia",
+        "description": "gw_play:delete_tech:(no description)"
+    },
+    "dismiss": {
+        "message": "Scarta",
+        "description": "gw_play:dismiss:(no description)"
+    },
+    "explore": {
+        "message": "Esplora",
+        "description": "gw_play:explore:(no description)"
+    },
+    "scanning_system": {
+        "message": "Scansione del sistema",
+        "description": "gw_play:scanning_system:(no description)"
+    },
+    "card": {
+        "message": "Carta:",
+        "description": "gw_play:card:(no description)"
+    },
+    "loss": {
+        "message": "perdita",
+        "description": "gw_play:loss:(no description)"
+    },
+    "settings": {
+        "message": "Impostazioni",
+        "description": "gw_play:settings:(no description)"
+    },
+    "record": {
+        "message": "Record:",
+        "description": "gw_play:record:(no description)"
+    },
+    "load_game": {
+        "message": "Carica",
+        "description": "gw_play:load_game:(no description)"
+    },
+    "turn_state": {
+        "message": "Stato turno:",
+        "description": "gw_play:turn_state:(no description)"
+    },
+    "history": {
+        "message": "Cronologia:",
+        "description": "gw_play:history:(no description)"
+    }
+}

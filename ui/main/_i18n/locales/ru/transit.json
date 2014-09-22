@@ -1,0 +1,10 @@
+{
+    "returning_to_main_menu": {
+        "message": "Возвращение в главное меню",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "error": {
+        "message": "Ошибка",
+        "description": "transit:error:(no description)"
+    }
+}

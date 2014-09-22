@@ -1,0 +1,34 @@
+{
+    "select_a_planet_to_destroy": {
+        "message": "Válassz egy elpusztítani kívánt bolygót.",
+        "description": "live_game_celestial_control:select_a_planet_to_destroy:(no description)"
+    },
+    "change_orbit": {
+        "message": "Keringési pálya változtatása",
+        "description": "live_game_celestial_control:change_orbit:(no description)"
+    },
+    "select_a_planet_to_attack": {
+        "message": "Válassz egy megtámadni kívánt bolygót.",
+        "description": "live_game_celestial_control:select_a_planet_to_attack:(no description)"
+    },
+    "set_target_spot": {
+        "message": "Célterület kiválasztása",
+        "description": "live_game_celestial_control:set_target_spot:(no description)"
+    },
+    "activate_planetary_laser": {
+        "message": "Planetáris lézer aktiválása",
+        "description": "live_game_celestial_control:activate_planetary_laser:(no description)"
+    },
+    "set_course_for_annihilation": {
+        "message": "Pálya beállítása a megsemmisítéshez",
+        "description": "live_game_celestial_control:set_course_for_annihilation:(no description)"
+    },
+    "then_confirm_destination_to_set_course": {
+        "message": "Majd erősítsd meg a célt, hogy beállítsd a pályát.",
+        "description": "live_game_celestial_control:then_confirm_destination_to_set_course:(no description)"
+    },
+    "select_a_new_gravity_well": {
+        "message": "Új gravitációs központ kiválasztása.",
+        "description": "live_game_celestial_control:select_a_new_gravity_well:(no description)"
+    }
+}

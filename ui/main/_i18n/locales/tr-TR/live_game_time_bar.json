@@ -1,0 +1,14 @@
+{
+    "2m": {
+        "message": "2dk",
+        "description": "live_game_time_bar:2m:(no description)"
+    },
+    "awesome": {
+        "message": "Müthiş",
+        "description": "live_game_time_bar:awesome:(no description)"
+    },
+    "close": {
+        "message": "KAPAT",
+        "description": "live_game_time_bar:close:(no description)"
+    }
+}

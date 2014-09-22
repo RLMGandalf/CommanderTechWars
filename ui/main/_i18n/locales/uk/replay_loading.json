@@ -1,0 +1,10 @@
+{
+    "connection_to_server_lost": {
+        "message": "ВТРАЧЕНО ЗВ'ЯЗОК ЗІ СЕРВЕРОМ",
+        "description": "replay_loading:connection_to_server_lost:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "До головного меню",
+        "description": "replay_loading:returning_to_main_menu:(no description)"
+    }
+}

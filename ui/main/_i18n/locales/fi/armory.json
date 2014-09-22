@@ -1,0 +1,122 @@
+{
+    "designed_in_collaboration_with": {
+        "message": "Designed in collaboration with",
+        "description": "armory:designed_in_collaboration_with:(no description)"
+    },
+    "remove": {
+        "message": "POISTA",
+        "description": "armory:remove:(no description)"
+    },
+    "cancel": {
+        "message": "Peruuta",
+        "description": "armory:cancel:(no description)"
+    },
+    "continue_shopping": {
+        "message": "Jatka ostoksia",
+        "description": "armory:continue_shopping:(no description)"
+    },
+    "account_name": {
+        "message": "Tunnuksen nimi:",
+        "description": "armory:account_name:(no description)"
+    },
+    "badges": {
+        "message": "Merkit",
+        "description": "armory:badges:(no description)"
+    },
+    "here_s_your_receipt": {
+        "message": "Here's your receipt.",
+        "description": "armory:here_s_your_receipt:(no description)"
+    },
+    "set_as_default_commander": {
+        "message": "Aseta oletuskomentajaksi",
+        "description": "armory:set_as_default_commander:(no description)"
+    },
+    "total": {
+        "message": "Total:",
+        "description": "armory:total:(no description)"
+    },
+    "confirmation_code": {
+        "message": "Varmistuskoodi:",
+        "description": "armory:confirmation_code:(no description)"
+    },
+    "kickstarter_backer": {
+        "message": "Kickstarter-tukija",
+        "description": "armory:kickstarter_backer:(no description)"
+    },
+    "confirmation_of_your_purchase_is_provided_below": {
+        "message": "Confirmation of your purchase is provided below.",
+        "description": "armory:confirmation_of_your_purchase_is_provided_below:(no description)"
+    },
+    "your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game": {
+        "message": "Your purchased items are now registered to your account and are accessible in the game.",
+        "description": "armory:your_purchased_items_are_now_registered_to_your_account_and_are_accessible_in_the_game:(no description)"
+    },
+    "item_is_already_in_cart": {
+        "message": "Item is already in cart.",
+        "description": "armory:item_is_already_in_cart:(no description)"
+    },
+    "add_to_cart": {
+        "message": "Add To Cart",
+        "description": "armory:add_to_cart:(no description)"
+    },
+    "armory": {
+        "message": "Asevarasto",
+        "description": "armory:armory:(no description)"
+    },
+    "checkout": {
+        "message": "CHECKOUT",
+        "description": "armory:checkout:(no description)"
+    },
+    "price": {
+        "message": "Hinta",
+        "description": "armory:price:(no description)"
+    },
+    "cart": {
+        "message": "Ostoskori",
+        "description": "armory:cart:(no description)"
+    },
+    "thank_you_for_your_purchase": {
+        "message": "Thank you for your purchase.",
+        "description": "armory:thank_you_for_your_purchase:(no description)"
+    },
+    "redeem": {
+        "message": "Syötä koodi",
+        "description": "armory:redeem:(no description)"
+    },
+    "total_price": {
+        "message": "Yhteensä:",
+        "description": "armory:total_price:(no description)"
+    },
+    "updating": {
+        "message": "Päivitetään...",
+        "description": "armory:updating:(no description)"
+    },
+    "credit_applied": {
+        "message": "Credit applied:",
+        "description": "armory:credit_applied:(no description)"
+    },
+    "go_to_main_menu": {
+        "message": "Palaa Päävalikkoon",
+        "description": "armory:go_to_main_menu:(no description)"
+    },
+    "cart_empty": {
+        "message": "Ostoskorisi on tyhjä.",
+        "description": "armory:cart_empty:(no description)"
+    },
+    "commanders": {
+        "message": "Komentajat",
+        "description": "armory:commanders:(no description)"
+    },
+    "refresh": {
+        "message": "Refresh",
+        "description": "armory:refresh:(no description)"
+    },
+    "item": {
+        "message": "Item",
+        "description": "armory:item:(no description)"
+    },
+    "return_to_armory": {
+        "message": "Palaa Asevarastoon",
+        "description": "armory:return_to_armory:(no description)"
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "number_of_players": {
+        "message": "Número de jugadores",
+        "description": "server_browser:number_of_players:(no description)"
+    },
+    "locked_game": {
+        "message": "Juego Cerrado con Llave",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "testing": {
+        "message": "Comprobando",
+        "description": "server_browser:testing:(no description)"
+    },
+    "game_state": {
+        "message": "Estado del juego",
+        "description": "server_browser:game_state:(no description)"
+    },
+    "competitive": {
+        "message": "Competitivo",
+        "description": "server_browser:competitive:(no description)"
+    },
+    "tag": {
+        "message": "Marcar",
+        "description": "server_browser:tag:(no description)"
+    },
+    "planets": {
+        "message": "Planetas",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "Ranuras",
+        "description": "server_browser:slots:(no description)"
+    },
+    "casual": {
+        "message": "Casual",
+        "description": "server_browser:casual:(no description)"
+    },
+    "can_join": {
+        "message": "Puede unirse",
+        "description": "server_browser:can_join:(no description)"
+    },
+    "multiplayer": {
+        "message": "Multijugador",
+        "description": "server_browser:multiplayer:(no description)"
+    },
+    "any": {
+        "message": "Cualquiera",
+        "description": "server_browser:any:(no description)"
+    },
+    "can_spectate": {
+        "message": "Puede ser espectador",
+        "description": "server_browser:can_spectate:(no description)"
+    },
+    "no_min": {
+        "message": "Sin mín.",
+        "description": "server_browser:no_min:(no description)"
+    },
+    "number_of_planets": {
+        "message": "Número de planetas",
+        "description": "server_browser:number_of_planets:(no description)"
+    },
+    "status": {
+        "message": "Estado",
+        "description": "server_browser:status:(no description)"
+    },
+    "create_game": {
+        "message": "Crear Juego",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "Espectadores",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "join_game": {
+        "message": "Unirse al Juego",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "game": {
+        "message": "Juego",
+        "description": "server_browser:game:(no description)"
+    },
+    "in_progress": {
+        "message": "En Progreso",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "Contraseña",
+        "description": "server_browser:password:(no description)"
+    },
+    "team_armies": {
+        "message": "Ejércitos en equipo",
+        "description": "server_browser:team_armies:(no description)"
+    },
+    "mod": {
+        "message": "Mod",
+        "description": "server_browser:mod:(no description)"
+    },
+    "mods": {
+        "message": "Mods",
+        "description": "server_browser:mods:(no description)"
+    },
+    "free_for_all": {
+        "message": "Todos Contra Todos",
+        "description": "server_browser:free_for_all:(no description)"
+    },
+    "no_max": {
+        "message": "Sin máx.",
+        "description": "server_browser:no_max:(no description)"
+    },
+    "region": {
+        "message": "Región",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "Espectador",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "can_play": {
+        "message": "Puede jugar",
+        "description": "server_browser:can_play:(no description)"
+    },
+    "in_lobby": {
+        "message": "En sala de espera",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "Jugadores",
+        "description": "server_browser:players:(no description)"
+    },
+    "ai_battle": {
+        "message": "Batalla de IA",
+        "description": "server_browser:ai_battle:(no description)"
+    },
+    "mode": {
+        "message": "Modo",
+        "description": "server_browser:mode:(no description)"
+    }
+}

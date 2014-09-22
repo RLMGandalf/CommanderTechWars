@@ -1,0 +1,18 @@
+{
+    "returning_to_main_menu": {
+        "message": "Går til Hovedmenu",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "NYT SPIL ALPHA",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "VENTER PÅ NOGEN AT SPILLE MED",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "KUNNE IKKE FINDE ET SPIL",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

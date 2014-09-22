@@ -1,0 +1,38 @@
+{
+    "failed_to_start_replay": {
+        "message": "FAILED TO START REPLAY",
+        "description": "connect_to_game:failed_to_start_replay:(no description)"
+    },
+    "failed_to_start_game": {
+        "message": "НЕ ВДАЛОСЯ ПОЧАТИ ГРУ",
+        "description": "connect_to_game:failed_to_start_game:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "З'ЄДНАННЯ З СЕРВЕРОМ ВТРАЧЕНЕ",
+        "description": "connect_to_game:connection_to_server_lost:(no description)"
+    },
+    "login_to_server_rejected": {
+        "message": "ВІДМОВА В ДОСТУПІ ДО СЕРВЕРУ",
+        "description": "connect_to_game:login_to_server_rejected:(no description)"
+    },
+    "login_accepted": {
+        "message": "УСПІШНИЙ ВХІД",
+        "description": "connect_to_game:login_accepted:(no description)"
+    },
+    "connection_to_server_failed": {
+        "message": "НЕВДАЛОСЯ З'ЄДНАТИСЯ",
+        "description": "connect_to_game:connection_to_server_failed:(no description)"
+    },
+    "failed_to_join_game": {
+        "message": "НЕВДАЛОСЯ УВІЙТИ",
+        "description": "connect_to_game:failed_to_join_game:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "connect_to_game:gamma_v:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "До головного меню",
+        "description": "connect_to_game:returning_to_main_menu:(no description)"
+    }
+}

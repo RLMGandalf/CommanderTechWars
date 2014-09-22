@@ -1,0 +1,10 @@
+{
+    "connection_to_server_lost": {
+        "message": "ZTRACEN KONTAKT SE SERVEREM",
+        "description": "replay_loading:connection_to_server_lost:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Návrat do Hlavního Menu",
+        "description": "replay_loading:returning_to_main_menu:(no description)"
+    }
+}

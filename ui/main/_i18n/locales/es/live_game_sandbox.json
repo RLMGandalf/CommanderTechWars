@@ -1,0 +1,10 @@
+{
+    "sandbox": {
+        "message": "MAPA ABIERTO",
+        "description": "live_game_sandbox:sandbox:(no description)"
+    },
+    "v": {
+        "message": "v",
+        "description": "live_game_sandbox:v:(no description)"
+    }
+}

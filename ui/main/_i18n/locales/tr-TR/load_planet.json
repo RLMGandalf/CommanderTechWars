@@ -1,0 +1,66 @@
+{
+    "my_planets": {
+        "message": "BENİM GEZEGENLERİM",
+        "description": "load_planet:my_planets:(no description)"
+    },
+    "delete_this_planet": {
+        "message": "Bu gezegen silinsin mi?",
+        "description": "load_planet:delete_this_planet:(no description)"
+    },
+    "planets": {
+        "message": "Gezegenler",
+        "description": "load_planet:planets:(no description)"
+    },
+    "delete_this_system": {
+        "message": "Bu sistem silinsin mi?",
+        "description": "load_planet:delete_this_system:(no description)"
+    },
+    "delete_planet": {
+        "message": "Gezegeni Sil",
+        "description": "load_planet:delete_planet:(no description)"
+    },
+    "delete_system": {
+        "message": "Sistemi sil",
+        "description": "load_planet:delete_system:(no description)"
+    },
+    "show_planets": {
+        "message": "GEZEGENLERİ GÖSTER",
+        "description": "load_planet:show_planets:(no description)"
+    },
+    "load_system": {
+        "message": "Sistemi yükle",
+        "description": "load_planet:load_system:(no description)"
+    },
+    "show_systems": {
+        "message": "SİSTEMLERİ GÖSTER",
+        "description": "load_planet:show_systems:(no description)"
+    },
+    "systems": {
+        "message": "Sistemler",
+        "description": "load_planet:systems:(no description)"
+    },
+    "load_planet": {
+        "message": "Gezegeni yükle",
+        "description": "load_planet:load_planet:(no description)"
+    },
+    "my_systems": {
+        "message": "Sistemlerim",
+        "description": "load_planet:my_systems:(no description)"
+    },
+    "cancel": {
+        "message": "İPTAL",
+        "description": "load_planet:cancel:(no description)"
+    },
+    "create_new_system": {
+        "message": "YENİ SİSTEM OLUŞTUR",
+        "description": "load_planet:create_new_system:(no description)"
+    },
+    "system_designer": {
+        "message": "Sistem oluşturucu",
+        "description": "load_planet:system_designer:(no description)"
+    },
+    "delete": {
+        "message": "SİL",
+        "description": "load_planet:delete:(no description)"
+    }
+}

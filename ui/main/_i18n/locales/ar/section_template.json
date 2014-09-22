@@ -1,0 +1,26 @@
+{
+    "roster": {
+        "message": "قائمة",
+        "description": "section_template:roster:(no description)"
+    },
+    "section": {
+        "message": "قسم",
+        "description": "section_template:section:(no description)"
+    },
+    "game_lobby": {
+        "message": "ردهة اللعبة",
+        "description": "section_template:game_lobby:(no description)"
+    },
+    "ready_cancel": {
+        "message": "جاهز/إلغاء الأمر",
+        "description": "section_template:ready_cancel:(no description)"
+    },
+    "game_options": {
+        "message": "خيارات اللعب",
+        "description": "section_template:game_options:(no description)"
+    },
+    "new_lobby": {
+        "message": "ردهة جديدة",
+        "description": "section_template:new_lobby:(no description)"
+    }
+}

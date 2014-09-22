@@ -1,0 +1,174 @@
+{
+    "add_slot": {
+        "message": "Ajouter une case",
+        "description": "new_game:add_slot:(no description)"
+    },
+    "full_planet_landing": {
+        "message": "Atterissage sur la planète",
+        "description": "new_game:full_planet_landing:(no description)"
+    },
+    "private": {
+        "message": "Privée",
+        "description": "new_game:private:(no description)"
+    },
+    "system": {
+        "message": "Système",
+        "description": "new_game:system:(no description)"
+    },
+    "ready": {
+        "message": "Prêt",
+        "description": "new_game:ready:(no description)"
+    },
+    "cheats": {
+        "message": "Codes de triche",
+        "description": "new_game:cheats:(no description)"
+    },
+    "tag": {
+        "message": "Tag :",
+        "description": "new_game:tag:(no description)"
+    },
+    "chat": {
+        "message": "Discussion",
+        "description": "new_game:chat:(no description)"
+    },
+    "_host": {
+        "message": "- Hôte",
+        "description": "new_game:_host:(no description)"
+    },
+    "game_mode": {
+        "message": "Mode de jeu",
+        "description": "new_game:game_mode:(no description)"
+    },
+    "you_must_have_a_player_slot_before_publishing": {
+        "message": "Vouz devez avoir une case joueur avant de publier.",
+        "description": "new_game:you_must_have_a_player_slot_before_publishing:(no description)"
+    },
+    "share_army": {
+        "message": "PARTAGE D'ARMÉE",
+        "description": "new_game:share_army:(no description)"
+    },
+    "title": {
+        "message": "Titre",
+        "description": "new_game:title:(no description)"
+    },
+    "browse": {
+        "message": "Parcourir...",
+        "description": "new_game:browse:(no description)"
+    },
+    "alliance_victory": {
+        "message": "Victoire de l'Alliance",
+        "description": "new_game:alliance_victory:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Retour au Menu Principal",
+        "description": "new_game:returning_to_main_menu:(no description)"
+    },
+    "game_lobby": {
+        "message": "Hall de jeu",
+        "description": "new_game:game_lobby:(no description)"
+    },
+    "public": {
+        "message": "Public",
+        "description": "new_game:public:(no description)"
+    },
+    "kick": {
+        "message": "Exclure",
+        "description": "new_game:kick:(no description)"
+    },
+    "spectators": {
+        "message": "Spectateurs",
+        "description": "new_game:spectators:(no description)"
+    },
+    "player_slot": {
+        "message": "Case Joueur",
+        "description": "new_game:player_slot:(no description)"
+    },
+    "you_need_friends": {
+        "message": "Vous devez avoir des amis pour jouer une partie autorisée seulement aux amis.",
+        "description": "new_game:you_need_friends:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "CONNEXION AU SERVEUR PERDUE",
+        "description": "new_game:connection_to_server_lost:(no description)"
+    },
+    "player_chooses_spot_on_starting_planet": {
+        "message": "Chaque joueur choisi librement son emplacement sur les planètes de départ",
+        "description": "new_game:player_chooses_spot_on_starting_planet:(no description)"
+    },
+    "dynamic_alliances": {
+        "message": "Alliances Dynamiques",
+        "description": "new_game:dynamic_alliances:(no description)"
+    },
+    "server_mods": {
+        "message": "Mods Serveur",
+        "description": "new_game:server_mods:(no description)"
+    },
+    "friends": {
+        "message": "Amis",
+        "description": "new_game:friends:(no description)"
+    },
+    "team_armies": {
+        "message": "Jeu en équipe",
+        "description": "new_game:team_armies:(no description)"
+    },
+    "add_ai": {
+        "message": "Ajouter IA",
+        "description": "new_game:add_ai:(no description)"
+    },
+    "ai_commander": {
+        "message": "Commandant IA",
+        "description": "new_game:ai_commander:(no description)"
+    },
+    "join": {
+        "message": "Rejoindre",
+        "description": "new_game:join:(no description)"
+    },
+    "global_spectator_chat": {
+        "message": "Chat des spectateurs internationaux ",
+        "description": "new_game:global_spectator_chat:(no description)"
+    },
+    "free_for_all": {
+        "message": "Chacun pour soi",
+        "description": "new_game:free_for_all:(no description)"
+    },
+    "add_ai_commander": {
+        "message": "Ajouter un commander IA",
+        "description": "new_game:add_ai_commander:(no description)"
+    },
+    "start_game": {
+        "message": "Commencer la partie",
+        "description": "new_game:start_game:(no description)"
+    },
+    "spectate": {
+        "message": "Observer",
+        "description": "new_game:spectate:(no description)"
+    },
+    "remove": {
+        "message": "Retirer",
+        "description": "new_game:remove:(no description)"
+    },
+    "leave": {
+        "message": "Quitter",
+        "description": "new_game:leave:(no description)"
+    },
+    "players": {
+        "message": "Joueurs)",
+        "description": "new_game:players:(no description)"
+    },
+    "new_system": {
+        "message": "Nouveau Système",
+        "description": "new_game:new_system:(no description)"
+    },
+    "empty": {
+        "message": "Vide",
+        "description": "new_game:empty:(no description)"
+    },
+    "you_must_add_an_extra_slot_before_publishing": {
+        "message": "Vous devez ajouter une case supplémentaire avant de pouvoir publier.",
+        "description": "new_game:you_must_add_an_extra_slot_before_publishing:(no description)"
+    },
+    "open_to": {
+        "message": "Ouvert à :",
+        "description": "new_game:open_to:(no description)"
+    }
+}

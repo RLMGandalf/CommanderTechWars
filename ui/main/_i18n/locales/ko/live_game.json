@@ -1,0 +1,86 @@
+{
+    "yes": {
+        "message": "예",
+        "description": "live_game:yes:(no description)"
+    },
+    "lr_96_pacifier_missile": {
+        "message": "LA-96 핵미사일",
+        "description": "live_game:lr_96_pacifier_missile:(no description)"
+    },
+    "dps": {
+        "message": "초당 공격력:",
+        "description": "live_game:dps:(no description)"
+    },
+    "start_annihilation": {
+        "message": "섬멸 시작",
+        "description": "live_game:start_annihilation:(no description)"
+    },
+    "waiting_for_other_players_to_select_a_spawn_location": {
+        "message": "다른 플레이어가 시작 지점을 선택할 때 까지 기다려주세요.",
+        "description": "live_game:waiting_for_other_players_to_select_a_spawn_location:(no description)"
+    },
+    "dmg": {
+        "message": "공격력:",
+        "description": "live_game:dmg:(no description)"
+    },
+    "aps": {
+        "message": "초당 공격 횟수:",
+        "description": "live_game:aps:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "서버와의 연결 끊김",
+        "description": "live_game:connection_to_server_lost:(no description)"
+    },
+    "anti_nuke_intercepts_incoming_nuclear_missiles": {
+        "message": "안티 핵 - 다가오는 핵미사일을 요격.",
+        "description": "live_game:anti_nuke_intercepts_incoming_nuclear_missiles:(no description)"
+    },
+    "position_targeted_click_to_confirm": {
+        "message": "목표 위치. 클릭으로 확인.",
+        "description": "live_game:position_targeted_click_to_confirm:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "메인 메뉴로 돌아가는 중",
+        "description": "live_game:returning_to_main_menu:(no description)"
+    },
+    "efficiency": {
+        "message": "효율",
+        "description": "live_game:efficiency:(no description)"
+    },
+    "nuclear_missile_long_range_large_area_damage_projectile": {
+        "message": "긴 사거리, 넓은 폭발 반경을 가진 핵 미사일입니다.",
+        "description": "live_game:nuclear_missile_long_range_large_area_damage_projectile:(no description)"
+    },
+    "pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander": {
+        "message": "지휘관 배치를 위해 녹색 지역의 한 지점을 선택하라.",
+        "description": "live_game:pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander:(no description)"
+    },
+    "fabricating": {
+        "message": "제작중",
+        "description": "live_game:fabricating:(no description)"
+    },
+    "cancel": {
+        "message": "취소",
+        "description": "live_game:cancel:(no description)"
+    },
+    "sr_24_shield_missile_defense": {
+        "message": "SR-24 핵 요격미사일",
+        "description": "live_game:sr_24_shield_missile_defense:(no description)"
+    },
+    "exit_game": {
+        "message": "정말로 종료하시겠습니까?",
+        "description": "live_game:exit_game:(no description)"
+    },
+    "attacking": {
+        "message": "공격중",
+        "description": "live_game:attacking:(no description)"
+    },
+    "transport": {
+        "message": "운송중",
+        "description": "live_game:transport:(no description)"
+    },
+    "reclaiming": {
+        "message": "분해중",
+        "description": "live_game:reclaiming:(no description)"
+    }
+}

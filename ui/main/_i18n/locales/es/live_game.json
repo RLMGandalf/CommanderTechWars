@@ -1,0 +1,86 @@
+{
+    "yes": {
+        "message": "Sí",
+        "description": "live_game:yes:(no description)"
+    },
+    "lr_96_pacifier_missile": {
+        "message": "LR-96 -Pacifier- Misil",
+        "description": "live_game:lr_96_pacifier_missile:(no description)"
+    },
+    "dps": {
+        "message": "DPS:",
+        "description": "live_game:dps:(no description)"
+    },
+    "start_annihilation": {
+        "message": "COMENZAR ANIQUILACIÓN",
+        "description": "live_game:start_annihilation:(no description)"
+    },
+    "waiting_for_other_players_to_select_a_spawn_location": {
+        "message": "Esperando que otros jugadores seleccionen los lugares de regeneración.",
+        "description": "live_game:waiting_for_other_players_to_select_a_spawn_location:(no description)"
+    },
+    "dmg": {
+        "message": "DAÑO:",
+        "description": "live_game:dmg:(no description)"
+    },
+    "aps": {
+        "message": "APS:",
+        "description": "live_game:aps:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "CONEXIÓN AL SERVIDOR PERDIDA",
+        "description": "live_game:connection_to_server_lost:(no description)"
+    },
+    "anti_nuke_intercepts_incoming_nuclear_missiles": {
+        "message": "Anti-nuke - Intercepta misiles nucleares que llegan.",
+        "description": "live_game:anti_nuke_intercepts_incoming_nuclear_missiles:(no description)"
+    },
+    "position_targeted_click_to_confirm": {
+        "message": "Posición selecionada. Haz clic para confirmar.",
+        "description": "live_game:position_targeted_click_to_confirm:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Regresando al Menú Principal",
+        "description": "live_game:returning_to_main_menu:(no description)"
+    },
+    "efficiency": {
+        "message": "Eficiencia",
+        "description": "live_game:efficiency:(no description)"
+    },
+    "nuclear_missile_long_range_large_area_damage_projectile": {
+        "message": "Misil nuclear - Largo alcance, gran área de daño, proyectil.",
+        "description": "live_game:nuclear_missile_long_range_large_area_damage_projectile:(no description)"
+    },
+    "pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander": {
+        "message": "Escoja una posición adentro de una de las zonas verdes para desplegar su Comandante.",
+        "description": "live_game:pick_a_location_inside_one_of_the_green_zones_to_spawn_your_commander:(no description)"
+    },
+    "fabricating": {
+        "message": "FABRICANDO",
+        "description": "live_game:fabricating:(no description)"
+    },
+    "cancel": {
+        "message": "Cancelar",
+        "description": "live_game:cancel:(no description)"
+    },
+    "sr_24_shield_missile_defense": {
+        "message": "SR-24 -Escudo- Defensa anti-misiles.",
+        "description": "live_game:sr_24_shield_missile_defense:(no description)"
+    },
+    "exit_game": {
+        "message": "Salir del juego?",
+        "description": "live_game:exit_game:(no description)"
+    },
+    "attacking": {
+        "message": "ATACANDO",
+        "description": "live_game:attacking:(no description)"
+    },
+    "transport": {
+        "message": "TRANSPORTAR",
+        "description": "live_game:transport:(no description)"
+    },
+    "reclaiming": {
+        "message": "RECLAMANDO",
+        "description": "live_game:reclaiming:(no description)"
+    }
+}

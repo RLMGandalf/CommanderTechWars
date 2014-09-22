@@ -1,0 +1,78 @@
+{
+    "produced": {
+        "message": "Előállított",
+        "description": "game_over:produced:(no description)"
+    },
+    "draw": {
+        "message": "DÖNTETLEN",
+        "description": "game_over:draw:(no description)"
+    },
+    "units": {
+        "message": "Egységek",
+        "description": "game_over:units:(no description)"
+    },
+    "built": {
+        "message": "Épített",
+        "description": "game_over:built:(no description)"
+    },
+    "you_ve_been_annihilated": {
+        "message": "MEGSEMMISÜLTÉL",
+        "description": "game_over:you_ve_been_annihilated:(no description)"
+    },
+    "average": {
+        "message": "Átlag",
+        "description": "game_over:average:(no description)"
+    },
+    "pa_game_over": {
+        "message": "GH JÁTÉK VÉGE",
+        "description": "game_over:pa_game_over:(no description)"
+    },
+    "metal": {
+        "message": "Fém",
+        "description": "game_over:metal:(no description)"
+    },
+    "winners": {
+        "message": "Győztesek:",
+        "description": "game_over:winners:(no description)"
+    },
+    "the_game_has_ended": {
+        "message": "A játék véget ért.",
+        "description": "game_over:the_game_has_ended:(no description)"
+    },
+    "annihilation_complete": {
+        "message": "MEGSEMMISÍTÉS BEFEJEZVE",
+        "description": "game_over:annihilation_complete:(no description)"
+    },
+    "destroyed": {
+        "message": "Elpusztítva",
+        "description": "game_over:destroyed:(no description)"
+    },
+    "efficiency": {
+        "message": "Hatékonyság",
+        "description": "game_over:efficiency:(no description)"
+    },
+    "used": {
+        "message": "Felhasználva",
+        "description": "game_over:used:(no description)"
+    },
+    "winner": {
+        "message": "Győztes:",
+        "description": "game_over:winner:(no description)"
+    },
+    "apm": {
+        "message": "Művelet/ perc",
+        "description": "game_over:apm:(no description)"
+    },
+    "duration": {
+        "message": "Időtartam:",
+        "description": "game_over:duration:(no description)"
+    },
+    "energy": {
+        "message": "Energia",
+        "description": "game_over:energy:(no description)"
+    },
+    "victory_is_yours": {
+        "message": "TIÉD A GYŐZELEM",
+        "description": "game_over:victory_is_yours:(no description)"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "energy": {
+        "message": "ЕНЕРГІЯ",
+        "description": "game_over:energy:(no description)"
+    },
+    "review_game": {
+        "message": "ПЕРЕГЛЯД ПОВТОРУ",
+        "description": "game_over:review_game:(no description)"
+    },
+    "produced": {
+        "message": "ВИРОБЛЕНО",
+        "description": "game_over:produced:(no description)"
+    },
+    "duration": {
+        "message": "ТРИВАЛІСТЬ:",
+        "description": "game_over:duration:(no description)"
+    },
+    "totals": {
+        "message": "ЗАГАЛОМ",
+        "description": "game_over:totals:(no description)"
+    },
+    "return_to_main_menu": {
+        "message": "ДО ГОЛОВНОГО МЕНЮ",
+        "description": "game_over:return_to_main_menu:(no description)"
+    },
+    "winner": {
+        "message": "ПЕРЕМОЖЕЦЬ:",
+        "description": "game_over:winner:(no description)"
+    },
+    "damage": {
+        "message": "ПОШКОДЖЕННЯ",
+        "description": "game_over:damage:(no description)"
+    },
+    "inflicted": {
+        "message": "НАНЕСЕНО",
+        "description": "game_over:inflicted:(no description)"
+    },
+    "winners": {
+        "message": "ПЕРЕМОЖЦІ:",
+        "description": "game_over:winners:(no description)"
+    },
+    "units": {
+        "message": "ЮНІТИ",
+        "description": "game_over:units:(no description)"
+    },
+    "draw": {
+        "message": "НІЧИЯ",
+        "description": "game_over:draw:(no description)"
+    },
+    "army_4": {
+        "message": "АРМІЯ 4",
+        "description": "game_over:army_4:(no description)"
+    },
+    "army_1": {
+        "message": "АРМІЯ 1",
+        "description": "game_over:army_1:(no description)"
+    },
+    "army_2": {
+        "message": "АРМІЯ 2",
+        "description": "game_over:army_2:(no description)"
+    },
+    "army_3": {
+        "message": "АРМІЯ 3",
+        "description": "game_over:army_3:(no description)"
+    },
+    "wasted": {
+        "message": "ВТРАЧЕНО",
+        "description": "game_over:wasted:(no description)"
+    },
+    "annihilation_completed": {
+        "message": "АНІГІЛЯЦІЯ ЗАВЕРШЕНА.",
+        "description": "game_over:annihilation_completed:(no description)"
+    },
+    "killed": {
+        "message": "ВБИТО",
+        "description": "game_over:killed:(no description)"
+    },
+    "received": {
+        "message": "ОТРИМАНО",
+        "description": "game_over:received:(no description)"
+    },
+    "lost": {
+        "message": "УТРАЧЕНО",
+        "description": "game_over:lost:(no description)"
+    },
+    "consumed": {
+        "message": "ВИКОРИСТАНО",
+        "description": "game_over:consumed:(no description)"
+    },
+    "metal": {
+        "message": "МЕТАЛ",
+        "description": "game_over:metal:(no description)"
+    },
+    "start_new_game": {
+        "message": "ПОЧАТИ НОВУ ГРУ",
+        "description": "game_over:start_new_game:(no description)"
+    },
+    "pa_game_over": {
+        "message": "КІНЕЦЬ ГРИ",
+        "description": "game_over:pa_game_over:(no description)"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "returning_to_main_menu": {
+        "message": "Revenind la Meniul Principal",
+        "description": "matchmaking:returning_to_main_menu:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "matchmaking:gamma_v:(no description)"
+    },
+    "pa_new_game_alpha": {
+        "message": "PA JOC NOU ALFA",
+        "description": "matchmaking:pa_new_game_alpha:(no description)"
+    },
+    "waiting_for_match": {
+        "message": "AŞTEPTÂND MECI",
+        "description": "matchmaking:waiting_for_match:(no description)"
+    },
+    "failed_to_matchmake": {
+        "message": "FORMAREA DE MECI NOU NEREUŞITĂ",
+        "description": "matchmaking:failed_to_matchmake:(no description)"
+    }
+}

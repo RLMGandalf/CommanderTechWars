@@ -1,0 +1,10 @@
+{
+    "returning_to_main_menu": {
+        "message": "메인 메뉴로 돌아가는 중",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "error": {
+        "message": "오류",
+        "description": "transit:error:(no description)"
+    }
+}

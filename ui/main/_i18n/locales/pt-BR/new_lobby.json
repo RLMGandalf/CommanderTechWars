@@ -1,0 +1,42 @@
+{
+    "spectators": {
+        "message": "Espectadores",
+        "description": "new_lobby:spectators:(no description)"
+    },
+    "roster": {
+        "message": "Registro",
+        "description": "new_lobby:roster:(no description)"
+    },
+    "ready_cancel": {
+        "message": "Pronto/Cancelar",
+        "description": "new_lobby:ready_cancel:(no description)"
+    },
+    "manage": {
+        "message": "Administrar",
+        "description": "new_lobby:manage:(no description)"
+    },
+    "game_type": {
+        "message": "Tipo de Jogo",
+        "description": "new_lobby:game_type:(no description)"
+    },
+    "system": {
+        "message": "Sistema",
+        "description": "new_lobby:system:(no description)"
+    },
+    "options": {
+        "message": "Opções",
+        "description": "new_lobby:options:(no description)"
+    },
+    "chat": {
+        "message": "Chat",
+        "description": "new_lobby:chat:(no description)"
+    },
+    "section": {
+        "message": "Sessão",
+        "description": "new_lobby:section:(no description)"
+    },
+    "new_lobby": {
+        "message": "Nova Sala",
+        "description": "new_lobby:new_lobby:(no description)"
+    }
+}

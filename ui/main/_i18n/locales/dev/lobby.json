@@ -1,0 +1,166 @@
+{
+    "add_an_army": {
+        "description": "lobby:add_an_army:(no description)", 
+        "message": "ADD AN ARMY"
+    }, 
+    "ai": {
+        "description": "lobby:ai:(no description)", 
+        "message": "AI"
+    }, 
+    "ai_commander": {
+        "description": "lobby:ai_commander:(no description)", 
+        "message": "AI Commander"
+    }, 
+    "ai_economy_rate": {
+        "description": "lobby:ai_economy_rate:(no description)", 
+        "message": "AI ECONOMY RATE:"
+    }, 
+    "armies": {
+        "description": "lobby:armies:(no description)", 
+        "message": "ARMIES"
+    }, 
+    "army": {
+        "description": "lobby:army:(no description)", 
+        "message": "ARMY"
+    }, 
+    "battle_solo_against_armies_commanded_by_the_ai": {
+        "description": "lobby:battle_solo_against_armies_commanded_by_the_ai:(no description)", 
+        "message": "Battle solo against armies commanded by the AI."
+    }, 
+    "cancel": {
+        "description": "lobby:cancel:(no description)", 
+        "message": "Cancel"
+    }, 
+    "chat": {
+        "description": "lobby:chat:(no description)", 
+        "message": "CHAT"
+    }, 
+    "connecting_to_server": {
+        "description": "lobby:connecting_to_server:(no description)", 
+        "message": "CONNECTING TO SERVER"
+    }, 
+    "connection_to_server_lost": {
+        "description": "lobby:connection_to_server_lost:(no description)", 
+        "message": "CONNECTION TO SERVER LOST"
+    }, 
+    "exit_game": {
+        "description": "lobby:exit_game:(no description)", 
+        "message": "Exit Game?"
+    }, 
+    "format": {
+        "description": "lobby:format:(no description)", 
+        "message": "FORMAT"
+    }, 
+    "free_for_all": {
+        "description": "lobby:free_for_all:(no description)", 
+        "message": "Free For All"
+    }, 
+    "game_will_start_when_all_players_select_a_slot_and_click_ready": {
+        "description": "lobby:game_will_start_when_all_players_select_a_slot_and_click_ready:(no description)", 
+        "message": "Game will start when all players select a slot and click Ready."
+    }, 
+    "game_will_start_when_the_server_has_finished_generating_the_solar_system": {
+        "description": "lobby:game_will_start_when_the_server_has_finished_generating_the_solar_system:(no description)", 
+        "message": "Game will start when the server has finished generating the solar system"
+    }, 
+    "gamma_v": {
+        "description": "lobby:gamma_v:(no description)", 
+        "message": "GAMMA v."
+    }, 
+    "join": {
+        "description": "lobby:join:(no description)", 
+        "message": "Join"
+    }, 
+    "kick": {
+        "description": "lobby:kick:(no description)", 
+        "message": "KICK"
+    }, 
+    "leave_game": {
+        "description": "lobby:leave_game:(no description)", 
+        "message": "LEAVE GAME"
+    }, 
+    "lobby": {
+        "description": "lobby:lobby:(no description)", 
+        "message": "LOBBY"
+    }, 
+    "lobby_beta": {
+        "description": "lobby:lobby_beta:(no description)", 
+        "message": "LOBBY BETA"
+    }, 
+    "offline": {
+        "description": "lobby:offline:(no description)", 
+        "message": "offline"
+    }, 
+    "one_player_per_army": {
+        "description": "lobby:one_player_per_army:(no description)", 
+        "message": "One player per army."
+    }, 
+    "partner_up_and_share_control_of_one_army_and_economy": {
+        "description": "lobby:partner_up_and_share_control_of_one_army_and_economy:(no description)", 
+        "message": "Partner up and share control of one army and economy."
+    }, 
+    "planets": {
+        "description": "lobby:planets:(no description)", 
+        "message": "PLANETS:"
+    }, 
+    "player_economy_rate": {
+        "description": "lobby:player_economy_rate:(no description)", 
+        "message": "PLAYER ECONOMY RATE:"
+    }, 
+    "players": {
+        "description": "lobby:players:(no description)", 
+        "message": "PLAYERS"
+    }, 
+    "promote": {
+        "description": "lobby:promote:(no description)", 
+        "message": "PROMOTE"
+    }, 
+    "ready": {
+        "description": "lobby:ready:(no description)", 
+        "message": "ready"
+    }, 
+    "ready_caps": {
+        "description": "lobby:ready_caps:(no description)", 
+        "message": "READY"
+    }, 
+    "returning_to_main_menu": {
+        "description": "lobby:returning_to_main_menu:(no description)", 
+        "message": "Returning to Main Menu"
+    }, 
+    "scale": {
+        "description": "lobby:scale:(no description)", 
+        "message": "SCALE"
+    }, 
+    "starting_game": {
+        "description": "lobby:starting_game:(no description)", 
+        "message": "STARTING GAME"
+    }, 
+    "starting_planet": {
+        "description": "lobby:starting_planet:(no description)", 
+        "message": "STARTING PLANET:"
+    }, 
+    "system": {
+        "description": "lobby:system:(no description)", 
+        "message": "SYSTEM"
+    }, 
+    "team_armies": {
+        "description": "lobby:team_armies:(no description)", 
+        "message": "Team Armies"
+    }, 
+    "vs": {
+        "description": "lobby:vs:(no description)", 
+        "message": "vs"
+    }, 
+    "waiting": {
+        "description": "lobby:waiting:(no description)", 
+        "message": "waiting"
+    }, 
+    "yes": {
+        "description": "lobby:yes:(no description)", 
+        "message": "Yes"
+    }, 
+    "you": {
+        "description": "lobby:you:(no description)", 
+        "message": "YOU"
+    }
+}

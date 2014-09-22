@@ -1,0 +1,34 @@
+{
+    "final_tech": {
+        "message": "Legutolsó Technológia",
+        "description": "gw_war_over:final_tech:(no description)"
+    },
+    "annihilated": {
+        "message": "Megsemmisítve",
+        "description": "gw_war_over:annihilated:(no description)"
+    },
+    "discards": {
+        "message": "Eldobások",
+        "description": "gw_war_over:discards:(no description)"
+    },
+    "turns": {
+        "message": "Körök:",
+        "description": "gw_war_over:turns:(no description)"
+    },
+    "victory": {
+        "message": "Győzelem",
+        "description": "gw_war_over:victory:(no description)"
+    },
+    "wins": {
+        "message": "Győzelmek:",
+        "description": "gw_war_over:wins:(no description)"
+    },
+    "delete_archive": {
+        "message": "Archívum törlése",
+        "description": "gw_war_over:delete_archive:(no description)"
+    },
+    "close": {
+        "message": "Bezárás",
+        "description": "gw_war_over:close:(no description)"
+    }
+}

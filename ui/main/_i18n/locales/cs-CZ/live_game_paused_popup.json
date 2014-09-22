@@ -1,0 +1,6 @@
+{
+    "game_paused": {
+        "message": "Hra pozastavena",
+        "description": "live_game_paused_popup:game_paused:(no description)"
+    }
+}

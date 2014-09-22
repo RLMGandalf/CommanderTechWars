@@ -1,0 +1,10 @@
+{
+    "returning_to_main_menu": {
+        "message": "Visszatérés a főmenübe",
+        "description": "transit:returning_to_main_menu:(no description)"
+    },
+    "error": {
+        "message": "Hiba",
+        "description": "transit:error:(no description)"
+    }
+}

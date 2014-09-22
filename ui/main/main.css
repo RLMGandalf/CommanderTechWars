@@ -1,0 +1,55 @@
+body {
+    background: none;
+}
+
+.fullscreen {
+    position:absolute;
+    width:100%;
+    height:100%;
+}
+
+.front {
+    z-index: 2000;
+}
+
+.back {
+    z-index: 1;
+}
+
+.ignoreMouse {
+    pointer-events: none;
+}
+
+#player {
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:100%;
+    z-index: 2000;
+}
+
+#game {
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:100%;
+    z-index: 1;
+}
+
+.live_game_uberbar_on {
+    height: calc(100% - 35px);
+}
+
+.live_game_uberbar_off {
+    height: 100%;
+}
+
+#uberbar {
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:100%;
+    z-index: 1000;
+}

@@ -1,0 +1,14 @@
+{
+    "2m": {
+        "message": "2m",
+        "description": "live_game_time_bar:2m:(no description)"
+    },
+    "awesome": {
+        "message": "FANTASTISK",
+        "description": "live_game_time_bar:awesome:(no description)"
+    },
+    "close": {
+        "message": "Avslutt",
+        "description": "live_game_time_bar:close:(no description)"
+    }
+}

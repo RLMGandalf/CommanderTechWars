@@ -1,0 +1,289 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+
+    <!-- Change these title attributes -->
+    <noloc><title>Galactic War: Start</title></noloc>
+    <script src="coui://ui/main/shared/js/common.js" type="text/javascript"></script>
+    <!-- optional, if you're going to use select boxes -->
+    <script src="coui://ui/main/shared/js/thirdparty/bootstrap-select/bootstrap-select.js" type="text/javascript"></script>
+    <link href="coui://ui/main/shared/css/global.css" rel="stylesheet" type="text/css" />
+    <!-- optional, if you're going to use select boxes -->
+    <link href="coui://ui/main/shared/js/thirdparty/bootstrap-select/bootstrap-select.css" rel="stylesheet" type="text/css" />
+    <link href="coui://ui/main/shared/css/template.css" rel="stylesheet" type="text/css" />
+    <link href="coui://ui/main/shared/css/landing_page.css" rel="stylesheet" type="text/css" />
+    <link href="gw_start.css" rel="stylesheet" type="text/css" />
+    <script src="coui://ui/main/game/galactic_war/shared/js/gw_common.js"></script>
+    <script src="gw_start.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+<script id="cardTemplate">
+    app.loadTemplate("coui://ui/main/game/galactic_war/shared/template/gwt_card");
+</script>
+    
+<!--- VISUAL TREATMENTS ---->
+<div class="background_glow"></div>
+
+<!-- TITLE -->
+<div class="section_title">
+    <div class="content">
+        <div class="btn_std_ix btn_back_small" data-bind="click: back">
+            <span class="carat"><</span></div>
+        <div class="title" data-bind="text: title">
+        </div>
+    </div>
+</div>
+<!-- CONTENT --->
+<div class="section_content_top_bar" style="display: none" data-bind="visible: showTabs">
+    <ul class="nav nav-pills" style="z-index:1;">
+        <li data-bind="visible: showActiveGames, css: { active: activeTabActive }">
+            <a href="#tab1" data-toggle="pill" data-bind="click_sound: 'default', rollover_sound: 'default', click: function () { model.navFunction('active'); }">
+                <loc data-i18n="gw_start:active_wars.message" desc="">Active Wars</loc>
+            </a>
+        </li>
+        <li data-bind="visible: showArchivedGames, css: { active: archivedTabActive }">
+            <a href="#tab2" data-toggle="pill" data-bind="click_sound: 'default', rollover_sound: 'default', click: function () { model.navFunction('archived'); }">
+                <loc data-i18n="gw_start:archived_wars.message" desc="">Archived Wars</loc>
+            </a>
+        </li>
+        <li data-bind="visible: showNewGame, css: { active: newTabActive }">
+            <a href="#tab3" data-toggle="pill" data-bind="click_sound: 'default', rollover_sound: 'default', click: function () { model.navFunction('new'); }">
+                <loc data-i18n="gw_start:new_war.message" desc="">New War</loc>
+            </a>
+        </li>
+    </ul>
+</div>
+<div class="div_credits_top_spacer" data-bind="visible: noTabs"></div>
+<div class="section_content">
+<div class="section_wrapper overall_width">
+    <div id="tab1" class="" data-bind="visible: activeTabActive, css: { active: activeTabActive }" style="display: none">
+        <div id="active-games" data-bind="foreach: activeGames">
+            <div class="one_war" 
+                 data-bind="click_sound: 'default', rollover_sound: 'default', click: function () { model.activeGame($data) }, css: { one_war_selected: model.activeGame() === $data }">
+                <div class="war-title-group">
+                    <div class="war-title" data-bind="text: name"></div>
+                </div>
+            <div><img class="icon" src="" data-bind="attr: { src: $root.getCommanderIcon($data.commander) }" />
+            </div>
+            <div class="bottom result">
+                <!-- ko if: $data.state === 'won' -->
+                <div class="victory"><loc data-i18n="gw_start:victory.message" desc="">Victory</loc></div>
+                <!-- /ko -->
+                <!-- ko if: $data.state === 'lost' -->
+                <div class="defeat"><loc data-i18n="gw_start:annihilated.message" desc="">Annihilated</loc></div>
+                <!-- /ko -->
+                <div class="stats">
+                    <span><loc data-i18n="gw_start:turns.message" desc="">Turns:</loc> </span><span class="unit" style="margin-right:8px;" data-bind="text: $data.turns"></span>
+                    <span><loc data-i18n="gw_start:wins.message" desc="">Wins:</loc> </span><span class="unit" data-bind="text: $data.wins"></span>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div id="tab2" class="tab-pane" data-bind="visible: archivedTabActive, css: { active: archivedTabActive }" style="display: none">
+        <div id="archived-games" data-bind="foreach: archivedGames">
+            <div class="one_war" data-bind="click_sound: 'default', rollover_sound: 'default', click: function () { model.activeGame($data) },
+                css: { one_war_selected: model.activeGame() === $data }">
+                <div class="war-title-group">
+                    <div class="war-title" data-bind="text: name"></div>
+                </div>
+                <div>
+                    <img class="icon" src="" data-bind="attr: { src: $root.getCommanderIcon($data.commander) }" />
+                </div>
+                <div class="bottom result">
+                    <!-- ko if: $data.state === 'won' -->
+                    <div class="victory">
+                        <loc data-i18n="gw_start:victory.message" desc="">Victory</loc>
+                    </div>
+                    <!-- /ko -->
+                    <!-- ko if: $data.state === 'lost' -->
+                    <div class="defeat">
+                        <loc data-i18n="gw_start:annihilated.message" desc="">Annihilated</loc>
+                    </div>
+                    <!-- /ko -->
+                    <div class="stats">
+                        <span><loc data-i18n="gw_start:turns.message" desc="">Turns:</loc> </span><span class="unit" style="margin-right: 8px;" data-bind="text: $data.turns"></span>
+                        <span><loc data-i18n="gw_start:wins.message" desc="">Wins:</loc> </span><span class="unit" data-bind="text: $data.wins"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="tab3" class="tab-pane" data-bind="visible: newTabActive, css: { active: newTabActive }" style="display: none">
+
+
+        <div id="new-game-right" class="col">
+            <div class="header" style="background: rgba(255, 255, 255, 0.3);"><loc data-i18n="gw_start:setup.message" desc="">Setup</loc></div>
+            <div class="col-padding">
+                <div class="form-group" data-bind="visible: !model.creditsMode()">
+                    <label for="game-name"><loc data-i18n="gw_start:name.message" desc="">Name</loc></label>
+                    <input type="text" class="form-control" id="game-name" name="game-name" placeholder="Game name" data-bind="value: newGameName" />
+                </div>
+
+                <div class="form-group" style="display:none">
+                    <label for="game-seed"><loc data-i18n="gw_start:game_seed.message" desc="">Seed Value</loc></label>
+                    <input type="text" class="form-control" id="game-seed" name="game-seed" placeholder="Random number for generating new galaxy" data-bind="value: newGameSeed" />
+                </div>
+
+                <div class="form-group" data-bind="visible: !model.creditsMode()">
+                    <label for="faction-select"><loc data-i18n="gw_start:player_faction.message" desc="">Faction</loc></label>
+                    <div id="faction-select" data-bind="
+                        click: nextFaction,
+                        text: playerFactionName,
+                        style: {
+                            background: playerColorCSS,
+                            color: playerSecondaryColorCSS,
+                            textShadow: playerFactionTextOutlineCSS
+                        }">
+                </div>
+                </div>
+
+                <div class="form-group" style="display: none" data-bind="visible: !model.creditsMode()">
+                    <label for="game-size"><loc data-i18n="gw_start:size.message" desc="">Size:</loc></label>
+                    <select class="form-control" id="game-size" data-bind="selectPicker: newGameSizeIndex" >
+                        <option locattr="locdata" locdata="!LOC(gw_start:small.message):SMALL" value="0"></option>
+                        <option locattr="locdata" locdata="!LOC(gw_start:medium.message):MEDIUM" value="1"></option>
+                        <option locattr="locdata" locdata="!LOC(gw_start:large.message):LARGE" value="2"></option>
+                        <option locattr="locdata" locdata="!LOC(gw_start:epic.message):EPIC" value="3"></option>
+                        <option locattr="locdata" locdata="!LOC(gw_start:uber.message):UBER" value="4"></option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label id="game-difficulty-label" for="game-difficulty"><loc data-i18n="gw_start:difficulty.message" desc="">Difficulty:</loc></label>
+                    <select class="form-control" id="game-difficulty" data-bind="selectPicker: newGameDifficultyIndex" >
+                        <option locattr="locdata" locdata="!LOC(gw_start:normal.message):NORMAL" value="0"></option>
+                        <option locattr="locdata" locdata="!LOC(gw_start:hard.message):HARD" value="1"></option>
+                        <option locattr="locdata" locdata="!LOC(gw_start:relentless.message):RELENTLESS" value="2"></option>
+                        <option locattr="locdata" locdata="!LOC(gw_start:absurd.message):ABSURD" value="3"></option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div id="new-game-left" class="col">
+            <div class="header" style="background: rgba(255, 255, 255, 0.2);"><loc data-i18n="gw_start:commander.message" desc="">Commander</loc></div>
+            <div class="col-padding">
+                <div class="form-group">
+                    <div id="commander-select">
+                    <p data-bind="text: selectedCommander().DisplayName"></p>
+                    <p id="game-commander-preview"><img src="" data-bind="attr: { src: selectedCommander().ImgSource }" height="275" width="275" /></p>
+                    <div id="commander-prev" data-bind="click_sound: 'default', rollover_sound: 'default', click: prevCommander" ></div>
+                    <div id="commander-next" data-bind="click_sound: 'default', rollover_sound: 'default', click: nextCommander" ></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="loadouts" class="col">
+            <div class="header" style="background: rgba(255, 255, 255, 0.1);"><loc data-i18n="gw_start:loadout.message" desc="">Loadout</loc></div>
+            <div id="start-cards">
+                <!-- ko foreach: startCards -->
+                        <!-- ko if: $data.id() -->
+                        <div class="card" data-bind="
+                            click_sound: 'default',
+                            rollover_sound: 'default',
+                            click: activate,
+                            css: btnClass
+                                        ">
+                            <!-- ko template: 'cardTemplate' -->
+                            <!-- /ko -->
+                        </div>
+                        <!-- /ko -->
+                        <!-- ko if: !$data.id() -->
+                        <div class="card_locked">
+                            <div class="unknown">
+                                <div style="display:flex; margin-bottom:10px; text-align: left;">
+                                    <div class="col1">
+                                        <img class="icon" style="height:90px;" data-bind="attr: { src: $data.icon }" />
+                                    </div>
+                                    <div class="col2">
+                                        <div class="summary" style="color:#666;"><loc data-i18n="gw_start:locked.message" desc="">LOCKED</loc></div>
+                                        <div class="desc"><span class="tip"><loc data-i18n="gw_start:tip.message" desc="">Tip:</loc></span><span data-bind="html: loc( $data.description() )"></span></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /ko -->
+                <!-- /ko -->
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!-- COMMIT -->
+<div class="div_commit_cont">
+    <div id="game-bar">
+        <div id="first" class="btn_std" data-bind="
+                click: navToGame,
+                click_sound: 'default',
+                rollover_sound: 'default',
+                click: showTutorial
+            ">
+            <div class="btn_label" style="padding:0px 40px;">
+                <loc data-i18n="gw_start:how_to_play.message" desc="">How to Play</loc>
+            </div>
+        </div>
+        <div class="btn_hero" data-bind="
+                click: navToGame,
+                click_sound: 'default',
+                rollover_sound: 'default',
+                css: { btn_hero_disabled: !ready() }
+            ">
+            <div class="btn_label" style="padding:0px 40px;">
+                <span style="display: none" data-bind="visible: archivedTabActive"><loc data-i18n="gw_start:details.message" desc="">Details</loc></span>
+                <span data-bind="visible: !archivedTabActive()">
+                    <loc data-i18n="gw_start:load_game.message" desc="">Go to War</loc>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+    <div id="tutorial" style="display: none">
+        <div class="header">
+            <loc data-i18n="gw_start:how_to_play.message" desc="">How To Play</loc>
+        </div>
+        <div class="details">
+            <p>
+                <loc data-i18n="gw_start:move_from_star_system_to_star_system_collecting_techs_use_those_techs_to_defeat_the_enemy_faction_leaders_and_conquer_the_galaxy.message" desc="">Move from star system to star system collecting Techs. Use those Techs to defeat the enemy faction leaders and conquer the galaxy!</loc>
+            </p>
+            <br />
+            <div class="header">
+                <loc data-i18n="gw_start:tips.message" desc="">Tips</loc>
+            </div>
+            <div class="details">
+                <p>
+                    <loc data-i18n="gw_start:choose_a_loadout_to_give_your_commander_different_starting_tech_configurations.message" desc="">Choose a loadout to give your Commander different starting Tech configurations.</loc>
+                    <br />
+                    <br />
+                    <loc data-i18n="gw_start:navigate_the_galaxy_map_by_jumping_from_system_to_system.message" desc="">Navigate the galaxy map by jumping from system to system.</loc>
+                    <br />
+                    <br />
+                    <loc data-i18n="gw_start:explore_unclaimed_systems_to_recover_tech.message" desc="">Explore unclaimed systems to recover Tech.</loc>
+                    <br />
+                    <br />
+                    <loc data-i18n="gw_start:annihilate_enemies_on_claimed_systems_to_collect_their_tech.message" desc="">Annihilate enemies on claimed systems to collect their Tech.</loc>
+                    <br />
+                    <br />
+                    <loc data-i18n="gw_start:some_systems_have_hidden_commander_loadouts_recover_them_for_future_galactic_wars.message" desc="">Some systems have hidden Commander loadouts. Recover them for future Galactic Wars.</loc>
+                    <br />
+                    <br />
+                    <loc data-i18n="gw_start:tech_can_be_deleted_to_make_room_for_new_ones_to_download_deleted_and_rejected_techs_are_lost_for_the_remainder_of_the_galactic_war.message" desc="">Tech can be deleted to make room for new ones to download. Deleted and rejected Techs are lost for the remainder of the Galactic War.</loc>
+                    <br />
+                    <br />
+                    <loc data-i18n="gw_start:new_data_banks_to_store_techs_can_be_found_by_exploring_systems.message" desc="">New Data Banks to store Techs can be found by exploring systems.</loc>
+                    <br />
+                    <br />
+                    <loc data-i18n="gw_start:annihilation_is_final.message" desc="">Annihilation is final.</loc>
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

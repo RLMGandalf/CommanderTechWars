@@ -1,0 +1,38 @@
+{
+    "ready": {
+        "message": "准备。",
+        "description": "live_game_unit_alert:ready:(no description)"
+    },
+    "lost": {
+        "message": "被摧毁",
+        "description": "live_game_unit_alert:lost:(no description)"
+    },
+    "ping": {
+        "message": "信息！",
+        "description": "live_game_unit_alert:ping:(no description)"
+    },
+    "under_attack": {
+        "message": "遭到攻击。",
+        "description": "live_game_unit_alert:under_attack:(no description)"
+    },
+    "destroyed": {
+        "message": "已被摧毁。",
+        "description": "live_game_unit_alert:destroyed:(no description)"
+    },
+    "located": {
+        "message": "发现目标。",
+        "description": "live_game_unit_alert:located:(no description)"
+    },
+    "allied": {
+        "message": "已结盟",
+        "description": "live_game_unit_alert:allied:(no description)"
+    },
+    "enemy_contact": {
+        "message": "发现敌军！",
+        "description": "live_game_unit_alert:enemy_contact:(no description)"
+    },
+    "launched": {
+        "message": "已发射！",
+        "description": "live_game_unit_alert:launched:(no description)"
+    }
+}

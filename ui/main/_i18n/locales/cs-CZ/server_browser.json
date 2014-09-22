@@ -1,0 +1,138 @@
+{
+    "number_of_players": {
+        "message": "Počet hráčů",
+        "description": "server_browser:number_of_players:(no description)"
+    },
+    "locked_game": {
+        "message": "Zamknutá hra",
+        "description": "server_browser:locked_game:(no description)"
+    },
+    "testing": {
+        "message": "Testovací",
+        "description": "server_browser:testing:(no description)"
+    },
+    "game_state": {
+        "message": "Stav hry",
+        "description": "server_browser:game_state:(no description)"
+    },
+    "competitive": {
+        "message": "Soutěžní",
+        "description": "server_browser:competitive:(no description)"
+    },
+    "tag": {
+        "message": "Označit",
+        "description": "server_browser:tag:(no description)"
+    },
+    "planets": {
+        "message": "Planety",
+        "description": "server_browser:planets:(no description)"
+    },
+    "slots": {
+        "message": "Místa",
+        "description": "server_browser:slots:(no description)"
+    },
+    "casual": {
+        "message": "Neformální",
+        "description": "server_browser:casual:(no description)"
+    },
+    "can_join": {
+        "message": "Can Join",
+        "description": "server_browser:can_join:(no description)"
+    },
+    "multiplayer": {
+        "message": "Více hráčů",
+        "description": "server_browser:multiplayer:(no description)"
+    },
+    "any": {
+        "message": "Libovolné",
+        "description": "server_browser:any:(no description)"
+    },
+    "can_spectate": {
+        "message": "Can Spectate",
+        "description": "server_browser:can_spectate:(no description)"
+    },
+    "no_min": {
+        "message": "Bez minima",
+        "description": "server_browser:no_min:(no description)"
+    },
+    "number_of_planets": {
+        "message": "Počet planet",
+        "description": "server_browser:number_of_planets:(no description)"
+    },
+    "status": {
+        "message": "Stav",
+        "description": "server_browser:status:(no description)"
+    },
+    "create_game": {
+        "message": "Vytvořit Hru",
+        "description": "server_browser:create_game:(no description)"
+    },
+    "spectators": {
+        "message": "Pozorovatelé",
+        "description": "server_browser:spectators:(no description)"
+    },
+    "join_game": {
+        "message": "Připojit se ke hře",
+        "description": "server_browser:join_game:(no description)"
+    },
+    "game": {
+        "message": "Hra",
+        "description": "server_browser:game:(no description)"
+    },
+    "in_progress": {
+        "message": "Probíhá",
+        "description": "server_browser:in_progress:(no description)"
+    },
+    "password": {
+        "message": "Heslo",
+        "description": "server_browser:password:(no description)"
+    },
+    "team_armies": {
+        "message": "Týmové armády",
+        "description": "server_browser:team_armies:(no description)"
+    },
+    "mod": {
+        "message": "Mod",
+        "description": "server_browser:mod:(no description)"
+    },
+    "mods": {
+        "message": "Mody",
+        "description": "server_browser:mods:(no description)"
+    },
+    "free_for_all": {
+        "message": "Všichni proti všem",
+        "description": "server_browser:free_for_all:(no description)"
+    },
+    "no_max": {
+        "message": "Bez maxima",
+        "description": "server_browser:no_max:(no description)"
+    },
+    "region": {
+        "message": "Oblast",
+        "description": "server_browser:region:(no description)"
+    },
+    "spectate": {
+        "message": "Pozorovat",
+        "description": "server_browser:spectate:(no description)"
+    },
+    "can_play": {
+        "message": "Can Play",
+        "description": "server_browser:can_play:(no description)"
+    },
+    "in_lobby": {
+        "message": "V hale",
+        "description": "server_browser:in_lobby:(no description)"
+    },
+    "players": {
+        "message": "Hráči",
+        "description": "server_browser:players:(no description)"
+    },
+    "ai_battle": {
+        "message": "Bitva AI",
+        "description": "server_browser:ai_battle:(no description)"
+    },
+    "mode": {
+        "message": "Mód",
+        "description": "server_browser:mode:(no description)"
+    }
+}

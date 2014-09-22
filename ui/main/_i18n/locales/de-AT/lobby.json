@@ -1,0 +1,166 @@
+{
+    "planets": {
+        "message": "PLANETS:",
+        "description": "lobby:planets:(no description)"
+    },
+    "ai": {
+        "message": "KI",
+        "description": "lobby:ai:(no description)"
+    },
+    "starting_game": {
+        "message": "Starte Spiel",
+        "description": "lobby:starting_game:(no description)"
+    },
+    "ai_economy_rate": {
+        "message": "KI Wirtschaftsrate:",
+        "description": "lobby:ai_economy_rate:(no description)"
+    },
+    "ready": {
+        "message": "Bereit",
+        "description": "lobby:ready:(no description)"
+    },
+    "vs": {
+        "message": "Gegen",
+        "description": "lobby:vs:(no description)"
+    },
+    "chat": {
+        "message": "CHAT",
+        "description": "lobby:chat:(no description)"
+    },
+    "cancel": {
+        "message": "Abbrechen",
+        "description": "lobby:cancel:(no description)"
+    },
+    "yes": {
+        "message": "Ja",
+        "description": "lobby:yes:(no description)"
+    },
+    "leave_game": {
+        "message": "Spiel verlassen",
+        "description": "lobby:leave_game:(no description)"
+    },
+    "starting_planet": {
+        "message": "Start Planet:",
+        "description": "lobby:starting_planet:(no description)"
+    },
+    "promote": {
+        "message": "Fördern",
+        "description": "lobby:promote:(no description)"
+    },
+    "player_economy_rate": {
+        "message": "Spieler-Wirtschaftsrate:",
+        "description": "lobby:player_economy_rate:(no description)"
+    },
+    "army": {
+        "message": "Armee",
+        "description": "lobby:army:(no description)"
+    },
+    "connecting_to_server": {
+        "message": "Verbine zum Server",
+        "description": "lobby:connecting_to_server:(no description)"
+    },
+    "returning_to_main_menu": {
+        "message": "Zurückkehren zum Hauptmenü",
+        "description": "lobby:returning_to_main_menu:(no description)"
+    },
+    "add_an_army": {
+        "message": "Armee hinzufügen",
+        "description": "lobby:add_an_army:(no description)"
+    },
+    "system": {
+        "message": "System",
+        "description": "lobby:system:(no description)"
+    },
+    "waiting": {
+        "message": "Warten",
+        "description": "lobby:waiting:(no description)"
+    },
+    "partner_up_and_share_control_of_one_army_and_economy": {
+        "message": "Verbinde dich mit einem Partner und teile Armee und Wirtschaft.",
+        "description": "lobby:partner_up_and_share_control_of_one_army_and_economy:(no description)"
+    },
+    "ready_caps": {
+        "message": "BEREIT",
+        "description": "lobby:ready_caps:(no description)"
+    },
+    "offline": {
+        "message": "offline",
+        "description": "lobby:offline:(no description)"
+    },
+    "gamma_v": {
+        "message": "GAMMA v.",
+        "description": "lobby:gamma_v:(no description)"
+    },
+    "kick": {
+        "message": "Kick",
+        "description": "lobby:kick:(no description)"
+    },
+    "armies": {
+        "message": "Armeen",
+        "description": "lobby:armies:(no description)"
+    },
+    "format": {
+        "message": "Format",
+        "description": "lobby:format:(no description)"
+    },
+    "connection_to_server_lost": {
+        "message": "Verbindung zum Server verloren",
+        "description": "lobby:connection_to_server_lost:(no description)"
+    },
+    "you": {
+        "message": "DU",
+        "description": "lobby:you:(no description)"
+    },
+    "scale": {
+        "message": "Größe",
+        "description": "lobby:scale:(no description)"
+    },
+    "join": {
+        "message": "Beitreten",
+        "description": "lobby:join:(no description)"
+    },
+    "game_will_start_when_all_players_select_a_slot_and_click_ready": {
+        "message": "Spiel startet wenn alle spieler bereit sind.",
+        "description": "lobby:game_will_start_when_all_players_select_a_slot_and_click_ready:(no description)"
+    },
+    "exit_game": {
+        "message": "Spiel verlassen?",
+        "description": "lobby:exit_game:(no description)"
+    },
+    "lobby": {
+        "message": "Lobby",
+        "description": "lobby:lobby:(no description)"
+    },
+    "team_armies": {
+        "message": "Team Armeen",
+        "description": "lobby:team_armies:(no description)"
+    },
+    "one_player_per_army": {
+        "message": "Ein Spieler pro Armee",
+        "description": "lobby:one_player_per_army:(no description)"
+    },
+    "ai_commander": {
+        "message": "KI Commander",
+        "description": "lobby:ai_commander:(no description)"
+    },
+    "game_will_start_when_the_server_has_finished_generating_the_solar_system": {
+        "message": "Spiel startet, wenn der Server das System geladen hat",
+        "description": "lobby:game_will_start_when_the_server_has_finished_generating_the_solar_system:(no description)"
+    },
+    "free_for_all": {
+        "message": "Alle gegen Alle",
+        "description": "lobby:free_for_all:(no description)"
+    },
+    "lobby_beta": {
+        "message": "Lobby Beta",
+        "description": "lobby:lobby_beta:(no description)"
+    },
+    "battle_solo_against_armies_commanded_by_the_ai": {
+        "message": "Einzelspieler gegen KI Commander",
+        "description": "lobby:battle_solo_against_armies_commanded_by_the_ai:(no description)"
+    },
+    "players": {
+        "message": "Spieler",
+        "description": "lobby:players:(no description)"
+    }
+}
