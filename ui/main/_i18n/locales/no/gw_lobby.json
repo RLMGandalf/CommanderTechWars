@@ -1,6 +1,0 @@
-{
-    "connection_to_server_lost": {
-        "message": "MISTET TILGANG TIL SERVER",
-        "description": "gw_lobby:connection_to_server_lost:(no description)"
-    }
-}
