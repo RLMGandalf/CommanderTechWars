@@ -1,0 +1,13 @@
+{
+    "context": "server",
+    "identifier": "com.uberent.pa.mods.stockmods.server.TeamComBuilder",
+    "display_name": "TeamComBuilder",
+    "description": "Commanders with highly specialized technology divisions",
+    "author": "Gandalf",
+    "version": "0.1",
+    "build": "70289",
+    "date": "2014/8/26",
+    "signature": "not yet implemented",
+    "forum": "http:lol",
+    "id": "TeamComBuilder",
+    "priority": 100,    "enabled": true}
