@@ -35,7 +35,7 @@
   },
   "base_spec": "/pa/units/air/base_flyer/base_flyer.json",
   "build_metal_cost": 200,
-  "buildable_types": "Factory & Air | CmdBuild & Air | Economy & Basic",
+  "buildable_types": "Factory & Air | CmdBuild & Orbital | CmdBuild & Air | Economy & Basic",
   "command_caps": [
     "ORDER_Move",
     "ORDER_Patrol",

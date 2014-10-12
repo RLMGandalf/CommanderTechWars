@@ -22,7 +22,7 @@
     "ORDER_Attack",
     "ORDER_Assist"
   ],
-  "description": "!LOC(units:basic_manufacturing_builds_and_launches_satellites_and_other_units.message):Basic manufacturing- Builds and launches satellites and other units.",
+  "description": "Basic manufacturing- Builds and launches only default orbitals.",
   "display_name": "!LOC(units:orbital_launcher.message):Orbital Launcher",
   "enable_orbital_shell": true,
   "events": {
@@ -364,14 +364,13 @@
   ],
   "unit_types": [
     "UNITTYPE_CmdBuild",
+    "UNITTYPE_Orbital",
     "UNITTYPE_Factory",
     "UNITTYPE_Construction",
     "UNITTYPE_Structure",
     "UNITTYPE_Land",
     "UNITTYPE_FabBuild",
     "UNITTYPE_FabAdvBuild",
-    "UNITTYPE_Advanced",
-    "UNITTYPE_Orbital",
     "UNITTYPE_Important"
   ],
   "wait_to_rolloff_time": 3

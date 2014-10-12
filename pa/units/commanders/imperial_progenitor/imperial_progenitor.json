@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/units/commanders/imperial_base/imperial_base.json",
   "build_metal_cost": 18000,
-  "buildable_types": "CmdBuild & Naval | CmdBuild & Economy & Basic",
+  "buildable_types": "CmdBuild & Naval | CmdBuild & Economy & Basic | CmdBuild & Orbital",
   "death_weapon": {
     "air_ammo_spec": "/pa/units/commanders/imperial_delta/delta_pbaoe.json",
     "air_height_threshold": 100,

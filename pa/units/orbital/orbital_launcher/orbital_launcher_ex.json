@@ -365,7 +365,6 @@
   ],
   "unit_types": [
     "UNITTYPE_Orbital",
-    "UNITTYPE_CmdBuild",
     "UNITTYPE_Factory",
     "UNITTYPE_Construction",
     "UNITTYPE_Structure",
