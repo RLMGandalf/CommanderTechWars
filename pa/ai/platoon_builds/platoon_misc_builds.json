@@ -1,1 +1,38 @@
-{"build_list":[{"name":"Nuke Silo Platoon","to_build":"Nukes","instance_count":-1,"priority":100,"build_conditions":[[{"test_type":"UnitPoolCount","unit_type_string0":"Structure & Nuke","compare0":">=","value0":1}]],"task_type":"Nuke"},{"name":"Artillery Platoon","to_build":"Artillery","instance_count":-1,"priority":100,"build_conditions":[[{"test_type":"UnitPoolCount","unit_type_string0":"Structure & (Artillery | Tactical)","compare0":">=","value0":1}]],"task_type":"Artillery"}]}
+{
+  "build_list": [
+    {
+      "build_conditions": [
+        [
+          {
+            "compare0": ">=",
+            "test_type": "UnitPoolCount",
+            "unit_type_string0": "Structure & Nuke",
+            "value0": 1
+          }
+        ]
+      ],
+      "instance_count": -1,
+      "name": "Nuke Silo Platoon",
+      "priority": 100,
+      "task_type": "Nuke",
+      "to_build": "Nukes"
+    },
+    {
+      "build_conditions": [
+        [
+          {
+            "compare0": ">=",
+            "test_type": "UnitPoolCount",
+            "unit_type_string0": "Structure & (Artillery | Tactical)",
+            "value0": 1
+          }
+        ]
+      ],
+      "instance_count": -1,
+      "name": "Artillery Platoon",
+      "priority": 100,
+      "task_type": "Artillery",
+      "to_build": "Artillery"
+    }
+  ]
+}

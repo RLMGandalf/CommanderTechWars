@@ -1,1 +1,97 @@
-{"build_list":[{"name":"Nuke Missile","to_build":"NukeMissile","instance_count":-1,"priority":151,"builders":["NukeSilo"],"build_conditions":[[{"test_type":"CanAffordBuildDemand"},{"test_type":"FactoryHasOpenSlot"}]]},{"name":"Nuke Missile - No Antis","to_build":"NukeMissile","instance_count":2,"min_num_assisters":5,"max_num_assisters":12,"priority":387,"builders":["NukeSilo"],"build_conditions":[[{"test_type":"CanAffordBuildDemand"},{"test_type":"PlanetThreat","string0":"AntiNuke","compare0":"<=","value0":0},{"test_type":"FactoryHasOpenSlot"}]]},{"name":"Anti Nuke Missile","to_build":"AntiNukeMissile","instance_count":-1,"priority":151,"builders":["AntiNukeSilo"],"build_conditions":[[{"test_type":"CanAffordBuildDemand"},{"test_type":"FactoryHasOpenSlot"}]]},{"name":"Anti Nuke Missile - Rush","to_build":"AntiNukeMissile","instance_count":-1,"min_num_assisters":5,"max_num_assisters":12,"priority":388,"builders":["AntiNukeSilo"],"build_conditions":[[{"test_type":"CanAffordBuildDemand"},{"test_type":"PlanetThreat","string0":"Nuke","compare0":">","value0":0},{"test_type":"FactorySlotsEmpty","boolean":true}]]}]}
+{
+  "build_list": [
+    {
+      "build_conditions": [
+        [
+          {
+            "test_type": "CanAffordBuildDemand"
+          },
+          {
+            "test_type": "FactoryHasOpenSlot"
+          }
+        ]
+      ],
+      "builders": [
+        "NukeSilo"
+      ],
+      "instance_count": -1,
+      "name": "Nuke Missile",
+      "priority": 151,
+      "to_build": "NukeMissile"
+    },
+    {
+      "build_conditions": [
+        [
+          {
+            "test_type": "CanAffordBuildDemand"
+          },
+          {
+            "compare0": "<=",
+            "string0": "AntiNuke",
+            "test_type": "PlanetThreat",
+            "value0": 0
+          },
+          {
+            "test_type": "FactoryHasOpenSlot"
+          }
+        ]
+      ],
+      "builders": [
+        "NukeSilo"
+      ],
+      "instance_count": 2,
+      "max_num_assisters": 12,
+      "min_num_assisters": 5,
+      "name": "Nuke Missile - No Antis",
+      "priority": 387,
+      "to_build": "NukeMissile"
+    },
+    {
+      "build_conditions": [
+        [
+          {
+            "test_type": "CanAffordBuildDemand"
+          },
+          {
+            "test_type": "FactoryHasOpenSlot"
+          }
+        ]
+      ],
+      "builders": [
+        "AntiNukeSilo"
+      ],
+      "instance_count": -1,
+      "name": "Anti Nuke Missile",
+      "priority": 151,
+      "to_build": "AntiNukeMissile"
+    },
+    {
+      "build_conditions": [
+        [
+          {
+            "test_type": "CanAffordBuildDemand"
+          },
+          {
+            "compare0": ">",
+            "string0": "Nuke",
+            "test_type": "PlanetThreat",
+            "value0": 0
+          },
+          {
+            "boolean": true,
+            "test_type": "FactorySlotsEmpty"
+          }
+        ]
+      ],
+      "builders": [
+        "AntiNukeSilo"
+      ],
+      "instance_count": -1,
+      "max_num_assisters": 12,
+      "min_num_assisters": 5,
+      "name": "Anti Nuke Missile - Rush",
+      "priority": 388,
+      "to_build": "AntiNukeMissile"
+    }
+  ]
+}

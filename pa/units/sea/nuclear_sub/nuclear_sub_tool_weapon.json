@@ -1,1 +1,16 @@
-{"base_spec":"/pa/tools/base_torpedo_turret/base_torpedo_turret.json","ammo_id":"/pa/units/sea/nuclear_sub/nuclear_sub_ammo.json","rate_of_fire":2,"max_range":150,"yaw_rate":360,"pitch_rate":360,"yaw_range":180,"pitch_range":180,"auto_attack":true,"target_layers":["WL_WaterSurface","WL_Seafloor","WL_Underwater"]}
+{
+  "ammo_id": "/pa/units/sea/nuclear_sub/nuclear_sub_ammo.json",
+  "auto_attack": true,
+  "base_spec": "/pa/tools/base_torpedo_turret/base_torpedo_turret.json",
+  "max_range": 150,
+  "pitch_range": 180,
+  "pitch_rate": 360,
+  "rate_of_fire": 2,
+  "target_layers": [
+    "WL_WaterSurface",
+    "WL_Seafloor",
+    "WL_Underwater"
+  ],
+  "yaw_range": 180,
+  "yaw_rate": 360
+}

@@ -1,1 +1,21 @@
-{"ammo_type":"PBAOE","damage":100,"splash_radius":200,"full_damage_splash_radius":70,"splash_damages_allies":false,"splash_damage_orbital":true,"sim_fire_effect":"/pa/effects/specs/default_commander_explosion_ent.json","impact_decals":["/pa/effects/specs/nuke_scorch_01.json"],"burn_damage":200,"burn_radius":137,"damage_volume":{"initial_radius":20.0,"radius_velocity":50.0,"radius_accel":100.0,"delay":1.0,"burnable_remove_radius":100.0}}
+{
+  "ammo_type": "PBAOE",
+  "burn_damage": 200,
+  "burn_radius": 137,
+  "damage": 100,
+  "damage_volume": {
+    "burnable_remove_radius": 100.0,
+    "delay": 1.0,
+    "initial_radius": 20.0,
+    "radius_accel": 100.0,
+    "radius_velocity": 50.0
+  },
+  "full_damage_splash_radius": 70,
+  "impact_decals": [
+    "/pa/effects/specs/nuke_scorch_01.json"
+  ],
+  "sim_fire_effect": "/pa/effects/specs/default_commander_explosion_ent.json",
+  "splash_damage_orbital": true,
+  "splash_damages_allies": false,
+  "splash_radius": 200
+}
