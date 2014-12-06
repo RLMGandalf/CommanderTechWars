@@ -14,14 +14,14 @@
     }
   },
   "base_spec": "/pa/units/commanders/raptor_base/raptor_base.json",
-  "build_metal_cost": 8000,
+  "build_metal_cost": 6000,
   "buildable_types": "CmdBuild & Bot | CmdBuild & Economy & Basic | CmdBuild & Orbital",
   "death_weapon": {
     "air_ammo_spec": "/pa/units/commanders/raptor_rallus/rallus_pbaoe.json",
     "air_height_threshold": 100,
     "ground_ammo_spec": "/pa/units/commanders/raptor_rallus/rallus_pbaoe.json"
   },
-  "description": "Efficient Bot Production Commander.",
+  "description": "Source of bot technology. Champion of bot combat.",
   "display_name": "Bot Commander",
   "headlights": [
     {
@@ -82,7 +82,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 14000,
+  "max_health": 7000,
   "mesh_bounds": [
     9.5,
     8.71255,
@@ -94,7 +94,7 @@
   "navigation": {
     "acceleration": 80,
     "brake": 80,
-    "move_speed": 9,
+    "move_speed": 13,
     "turn_speed": 90,
     "type": "amphibious"
   },

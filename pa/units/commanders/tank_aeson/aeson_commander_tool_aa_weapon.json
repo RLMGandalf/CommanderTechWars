@@ -4,7 +4,7 @@
   "base_spec": "/pa/tools/base_bot_weapon/base_bot_weapon.json",
   "firing_arc_pitch": 360,
   "firing_arc_yaw": 360,
-  "max_range": 80,
+  "max_range": 100,
   "pitch_range": 89,
   "pitch_rate": 360,
   "rate_of_fire": 2.0,
@@ -13,7 +13,7 @@
     "WL_Air"
   ],
   "target_priorities": [
-    "Mobile - Air"
+    "Bomber - Air"
   ],
   "yaw_range": 180,
   "yaw_rate": 360

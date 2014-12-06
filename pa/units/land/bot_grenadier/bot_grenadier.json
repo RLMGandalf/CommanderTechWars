@@ -28,8 +28,8 @@
     }
   },
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
-  "build_metal_cost": 120,
-  "description": "!LOC(units:grenadier_basic_assault_weapons_dealing_area_effect_damage.message):Grenadier- Basic assault weapons dealing area effect damage.",
+  "build_metal_cost": 30,
+  "description": "!LOC(units:grenadier_basic_assault_weapons_dealing_area_effect_damage.message):Grenadier- Throws high impact explosives at a slow rate.",
   "display_name": "!LOC(units:grenadier.message):Grenadier",
   "events": {
     "build_complete": {
@@ -60,7 +60,7 @@
     },
     "animtree": "/pa/anim/anim_trees/bot_grenadier_anim_tree.json",
     "filename": "/pa/units/land/bot_grenadier/bot_grenadier.papa",
-    "walk_speed": 12
+    "walk_speed": 18
   },
   "navigation": {
     "acceleration": 120,
@@ -79,7 +79,7 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 85,
+          "radius": 110,
           "shape": "capsule"
         }
       ]

@@ -28,7 +28,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
-  "build_metal_cost": 1200,
+  "build_metal_cost": 210,
   "description": "Tactical missile bot- Medium range land/ship missiles.",
   "display_name": "!LOC(units:bluehawk.message):Bluehawk",
   "events": {
@@ -46,7 +46,7 @@
   },
   "guard_layer": "WL_AnySurface",
   "guard_radius": 180,
-  "max_health": 200,
+  "max_health": 40,
   "mesh_bounds": [
     8.2,
     7,
@@ -61,13 +61,13 @@
     },
     "animtree": "/pa/anim/anim_trees/bot_tactical_missile_anim_tree.json",
     "filename": "/pa/units/land/bot_tactical_missile/bot_tactical_missile.papa",
-    "walk_speed": 12
+    "walk_speed": 16
   },
   "navigation": {
     "acceleration": 120,
     "brake": 120,
     "group_preference": "back",
-    "move_speed": 12,
+    "move_speed": 16,
     "turn_speed": 720,
     "type": "land-small"
   },
@@ -82,8 +82,14 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 100,
+          "radius": 140,
           "shape": "capsule"
+        },
+        {
+          "layer": "orbital",
+          "channel": "sight",
+          "shape": "capsule",
+          "radius": 80
         }
       ]
     }

@@ -15,7 +15,7 @@
     }
   },
   "flight_type": "Seeking",
-  "full_damage_splash_radius": 150,
+  "full_damage_splash_radius": 30,
   "fx_trail": {
     "filename": "/pa/effects/specs/uber_proj_trail.pfx",
     "offset": [

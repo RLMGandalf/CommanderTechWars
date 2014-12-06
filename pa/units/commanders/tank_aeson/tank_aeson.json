@@ -14,7 +14,7 @@
     }
   },
   "base_spec": "/pa/units/commanders/tank_base/tank_base.json",
-  "build_metal_cost": 12000,
+  "build_metal_cost": 6000,
   "buildable_types": "CmdBuild & Tank | CmdBuild & Economy & Basic | CmdBuild & Orbital",
   "death_weapon": {
     "air_ammo_spec": "/pa/units/commanders/tank_aeson/aeson_pbaoe.json",
@@ -82,7 +82,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 18000,
+  "max_health": 9000,
   "mesh_bounds": [
     11.1,
     9.8,
@@ -94,7 +94,7 @@
   "navigation": {
     "acceleration": 80,
     "brake": 80,
-    "move_speed": 5,
+    "move_speed": 9,
     "turn_speed": 90,
     "type": "amphibious"
   },

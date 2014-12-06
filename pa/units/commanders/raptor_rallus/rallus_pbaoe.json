@@ -5,7 +5,7 @@
   },
   "burn_damage": 200,
   "burn_radius": 137,
-  "damage": 2000,
+  "damage": 500,
   "damage_volume": {
     "burnable_remove_radius": 100.0,
     "delay": 1.0,
@@ -13,11 +13,11 @@
     "radius_accel": 100.0,
     "radius_velocity": 50.0
   },
-  "full_damage_splash_radius": 150,
+  "full_damage_splash_radius": 40,
   "impact_decals": [
     "/pa/effects/specs/nuke_scorch_01.json"
   ],
   "sim_fire_effect": "/pa/effects/specs/default_commander_explosion_ent.json",
   "splash_damages_allies": true,
-  "splash_radius": 150
+  "splash_radius": 120
 }

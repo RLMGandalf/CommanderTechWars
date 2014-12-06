@@ -25,8 +25,8 @@
     }
   },
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
-  "build_metal_cost": 90,
-  "description": "Combat bot- Equipped with basic anti-air missiles.",
+  "build_metal_cost": 30,
+  "description": "AA bot- Takes down flying targets directly above.",
   "display_name": "!LOC(units:stinger.message):Stinger",
   "events": {
     "build_complete": {
@@ -43,7 +43,7 @@
   },
   "guard_layer": "WL_Air",
   "guard_radius": 120,
-  "max_health": 80,
+  "max_health": 40,
   "mesh_bounds": [
     4.5,
     3,
@@ -60,12 +60,12 @@
     "animtree": "/pa/anim/anim_trees/bot_aa_anim_tree.json",
     "arrows": 5,
     "filename": "/pa/units/land/bot_aa/bot_aa.papa",
-    "walk_speed": 11.2
+    "walk_speed": 18
   },
   "navigation": {
     "acceleration": 120,
     "brake": 120,
-    "move_speed": 12,
+    "move_speed": 18,
     "turn_speed": 720,
     "type": "land-small"
   },
@@ -80,7 +80,7 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 100,
+          "radius": 80,
           "shape": "capsule"
         }
       ]

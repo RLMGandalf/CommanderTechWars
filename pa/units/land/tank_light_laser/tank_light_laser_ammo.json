@@ -1,6 +1,6 @@
 {
   "base_spec": "/pa/ammo/base_shell/base_shell.json",
-  "damage": 84,
+  "damage": 126,
   "fx_trail": {
     "filename": "/pa/effects/specs/tank_light_proj.pfx",
     "offset": [

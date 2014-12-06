@@ -14,7 +14,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 600,
+  "build_metal_cost": 500,
   "buildable_types": "Bot & Mobile & Basic & FactoryBuild",
   "command_caps": [
     "ORDER_Move",
@@ -38,7 +38,7 @@
       "effect_scale": 1.0
     }
   },
-  "factory_cooldown_time": 3,
+  "factory_cooldown_time": 2,
   "fx_offsets": [
     {
       "bone": "socket_muzzle01",
@@ -155,7 +155,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 6000,
+  "max_health": 3000,
   "mesh_bounds": [
     29.5,
     30.5,
@@ -187,6 +187,12 @@
           "layer": "surface_and_air",
           "radius": 110,
           "shape": "capsule"
+        },
+        {
+          "layer": "orbital",
+          "channel": "radar",
+          "shape": "capsule",
+          "radius": 50
         }
       ]
     }
