@@ -16,7 +16,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 14000,
+  "build_metal_cost": 1200,
   "buildable_projectiles": [
     "/pa/units/land/nuke_launcher/nuke_launcher_ammo.json"
   ],
@@ -151,7 +151,7 @@
       "radius": 3.5
     }
   ],
-  "max_health": 1500,
+  "max_health": 900,
   "mesh_bounds": [
     14,
     14,
@@ -193,6 +193,12 @@
           "channel": "sight",
           "layer": "surface_and_air",
           "radius": 100,
+          "shape": "capsule"
+        },
+        {
+          "channel": "radar",
+          "layer": "orbital",
+          "radius": 60,
           "shape": "capsule"
         }
       ]

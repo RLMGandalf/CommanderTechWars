@@ -14,14 +14,14 @@
     }
   },
   "base_spec": "/pa/units/commanders/imperial_base/imperial_base.json",
-  "build_metal_cost": 10000,
+  "build_metal_cost": 6000,
   "buildable_types": "CombatFabAdvBuild | CmdBuild & Orbital",
   "death_weapon": {
     "air_ammo_spec": "/pa/units/commanders/imperial_invictus/invictus_pbaoe.json",
     "air_height_threshold": 100,
     "ground_ammo_spec": "/pa/units/commanders/imperial_invictus/invictus_pbaoe.json"
   },
-  "description": "Frontline Assault Commander",
+  "description": "Experimentally stripped, repurposed as frontline combat.",
   "display_name": "Assault Commander",
   "headlights": [
     {
@@ -82,7 +82,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 20000,
+  "max_health": 11000,
   "mesh_bounds": [
     12.6,
     7,
@@ -94,16 +94,16 @@
   "navigation": {
     "acceleration": 80,
     "brake": 80,
-    "move_speed": 8,
+    "move_speed": 12,
     "turn_speed": 90,
     "type": "amphibious"
   },
   "production": {
     "energy": 1000,
-    "metal": 10
+    "metal": 15
   },
   "storage": {
-    "energy": 25000,
+    "energy": 10000,
     "metal": 500
   },
   "tools": [

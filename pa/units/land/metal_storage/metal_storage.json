@@ -90,7 +90,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 7500,
+  "max_health": 800,
   "mesh_bounds": [
     18,
     18,
@@ -115,13 +115,19 @@
           "layer": "surface_and_air",
           "radius": 100,
           "shape": "capsule"
+        },
+        {
+          "channel": "orbital",
+          "layer": "surface_and_air",
+          "radius": 60,
+          "shape": "capsule"
         }
       ]
     }
   },
   "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
   "storage": {
-    "metal": 20000
+    "metal": 4000
   },
   "unit_types": [
     "UNITTYPE_Structure",

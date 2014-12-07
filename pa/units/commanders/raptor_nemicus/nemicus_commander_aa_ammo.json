@@ -3,7 +3,8 @@
     "AT_Structure": 0.0
   },
   "base_spec": "/pa/ammo/base_missiles/base_missile_aa_seeking.json",
-  "damage": 35,
+  "fx_collision_spec": "/pa/effects/specs/default_proj_flak_explosion.pfx",
+  "damage": 450,
   "events": {
     "spawned": {
       "audio_cue": "/SE/Weapons/commander/Commander_gun_fire"
@@ -13,7 +14,7 @@
   "initial_velocity": 125.0,
   "lifetime": 2,
   "max_velocity": 125.0,
-  "splash_damage": 20,
-  "splash_radius": 10,
+  "splash_damage": 500,
+  "splash_radius": 50,
   "turn_rate": 360
 }

@@ -4,11 +4,11 @@
   "atrophy_cool_down": 15,
   "atrophy_rate": 5,
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 1000,
+  "build_metal_cost": 450,
   "command_caps": [
     "ORDER_Attack"
   ],
-  "description": "!LOC(units:basic_turret_equipped_with_anti_air_missiles.message):Basic turret- Homing Single Aircraft Takedown Missiles.",
+  "description": "Basic AA Turret- Long range, low fire rate, antiair and antimissile.",
   "display_name": "!LOC(units:galata_turret.message):Surface Air Missile Defense",
   "events": {
     "build_complete": {
@@ -25,7 +25,7 @@
   },
   "guard_layer": "WL_Air",
   "guard_radius": 150,
-  "max_health": 750,
+  "max_health": 450,
   "mesh_bounds": [
     5,
     5,
@@ -51,7 +51,7 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 155,
+          "radius": 120,
           "shape": "capsule"
         }
       ]
@@ -66,6 +66,14 @@
         "socket_leftMuzzle"
       ],
       "spec_id": "/pa/units/land/air_defense/air_defense_tool_weapon.json"
+    }
+    {
+      "aim_bone": "bone_pitch",
+      "muzzle_bone": [
+        "socket_rightMuzzle",
+        "socket_leftMuzzle"
+      ],
+      "spec_id": "/pa/units/land/air_defense/air_defense_tool_anti.json"
     }
   ],
   "unit_types": [

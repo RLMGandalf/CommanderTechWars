@@ -5,7 +5,7 @@
   "atrophy_cool_down": 15.0,
   "atrophy_rate": 500,
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 30000,
+  "build_metal_cost": 18000,
   "description": "!LOC(units:analysis_controls_things_big_things.message):Analysis: Controls things. Big things.",
   "display_name": "!LOC(units:catalyst.message):Catalyst",
   "events": {
@@ -134,7 +134,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 20000,
+  "max_health": 6000,
   "mesh_bounds": [
     80,
     150,
@@ -165,6 +165,12 @@
           "channel": "sight",
           "layer": "surface_and_air",
           "radius": 100,
+          "shape": "capsule"
+        },
+        {
+          "channel": "radar",
+          "layer": "orbital",
+          "radius": 60,
           "shape": "capsule"
         }
       ]

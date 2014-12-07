@@ -8,7 +8,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 800,
+  "build_metal_cost": 900,
   "command_caps": [
     "ORDER_Attack"
   ],
@@ -28,7 +28,7 @@
     }
   },
   "guard_layer": "WL_AnySurface",
-  "guard_radius": 280,
+  "guard_radius": 320,
   "lamps": [
     {
       "bone": "bone_pitch",
@@ -46,7 +46,7 @@
       "radius": 1.75
     }
   ],
-  "max_health": 500,
+  "max_health": 400,
   "mesh_bounds": [
     7,
     15.1443,

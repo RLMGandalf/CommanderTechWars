@@ -4,11 +4,11 @@
   "atrophy_cool_down": 15,
   "atrophy_rate": 26.66667,
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 200,
+  "build_metal_cost": 450,
   "command_caps": [
     "ORDER_Attack"
   ],
-  "description": "!LOC(units:advanced_turret_equipped_with_anti_air_turret.message):Basic turret- Area Damage Anti-Air Defense.",
+  "description": "Basic AA turret- Overhead Area-Damage, Anti-missile.",
   "display_name": "!LOC(units:flak_cannon.message):Flak Cannon",
   "events": {
     "build_complete": {
@@ -25,7 +25,7 @@
   },
   "guard_layer": "WL_Air",
   "guard_radius": 80,
-  "max_health": 750,
+  "max_health": 450,
   "mesh_bounds": [
     7,
     7,
@@ -51,7 +51,7 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 155,
+          "radius": 100,
           "shape": "capsule"
         }
       ]
@@ -68,6 +68,16 @@
         "socket_leftMuzzle02"
       ],
       "spec_id": "/pa/units/land/air_defense_adv/air_defense_adv_tool_weapon.json"
+    },
+    {
+      "aim_bone": "bone_pitch",
+      "muzzle_bone": [
+        "socket_rightMuzzle01",
+        "socket_leftMuzzle01",
+        "socket_rightMuzzle02",
+        "socket_leftMuzzle02"
+      ],
+      "spec_id": "/pa/units/land/air_defense_adv/air_defense_adv_tool_anti.json"
     }
   ],
   "unit_types": [

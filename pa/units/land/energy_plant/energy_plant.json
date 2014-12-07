@@ -192,7 +192,7 @@
       "radius": 3.0
     }
   ],
-  "max_health": 3000,
+  "max_health": 800,
   "mesh_bounds": [
     10,
     10,
@@ -231,6 +231,12 @@
           "channel": "sight",
           "layer": "surface_and_air",
           "radius": 100,
+          "shape": "capsule"
+        },
+        {
+          "channel": "radar",
+          "layer": "orbital",
+          "radius": 60,
           "shape": "capsule"
         }
       ]

@@ -4,10 +4,10 @@
   "base_spec": "/pa/tools/base_bot_weapon/base_bot_weapon.json",
   "firing_arc_pitch": 360,
   "firing_arc_yaw": 360,
-  "max_range": 150,
+  "max_range": 120,
   "pitch_range": 89,
   "pitch_rate": 360,
-  "rate_of_fire": 1.5,
+  "rate_of_fire": 1,
   "spread_fire": true,
   "target_layers": [
     "WL_Air"

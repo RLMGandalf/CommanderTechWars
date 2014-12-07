@@ -1,15 +1,15 @@
 {
   "ammo_type": "Projectile",
   "armor_damage_map": {
-    "AT_Commander": 0.33
+    "AT_Commander": 1.0
   },
   "audio_loop": "/SE/Movement/missile/nuke_missile_fly_loop",
-  "build_metal_cost": 36000,
+  "build_metal_cost": 4500,
   "burn_damage": 200,
   "burn_radius": 137,
   "collision_check": "ground",
-  "cruise_height": 100,
-  "damage": 33000,
+  "cruise_height": 120,
+  "damage": 6000,
   "damage_volume": {
     "burnable_remove_radius": 100.0,
     "delay": 1.0,
@@ -17,7 +17,7 @@
     "radius_accel": 100.0,
     "radius_velocity": 50.0
   },
-  "description": "!LOC(units:nuclear_missile_long_range_large_area_damage_projectile.message):Nuclear missile - Long range, large area damage, projectile",
+  "description": "Nuclear missile - Fire anywhere to pacify large areas, Beware interception.",
   "display_name": "!LOC(units:lr_96_pacifier_missile.message):LR-96 -Pacifier- Missile",
   "enable_orbital_shell": true,
   "events": {
@@ -28,7 +28,7 @@
     }
   },
   "flight_type": "Staged",
-  "full_damage_splash_radius": 125,
+  "full_damage_splash_radius": 60,
   "fx_trail": {
     "filename": "/pa/units/air/missile_nuke/missile_nuke_trail.pfx",
     "offset": [
@@ -62,7 +62,7 @@
   "show_strategic_icon": true,
   "sim_impact_effect": "/pa/units/land/nuke_launcher/nuke_launcher_ammo_explosion_ent.json",
   "spawn_layers": "WL_Air",
-  "splash_damage": 33000,
+  "splash_damage": 6000,
   "splash_damage_orbital": true,
   "splash_damages_allies": true,
   "splash_radius": 150,

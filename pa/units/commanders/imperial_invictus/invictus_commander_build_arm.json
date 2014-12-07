@@ -1,9 +1,9 @@
 {
   "construction_demand": {
     "energy": 1000,
-    "metal": 20
+    "metal": 15
   },
-  "max_range": 20,
+  "max_range": 50,
   "pitch_range": 90,
   "pitch_rate": 90,
   "tool_type": "TOOL_BuildArm",

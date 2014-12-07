@@ -9,11 +9,11 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 2000,
+  "build_metal_cost": 360,
   "consumption": {
-    "energy": 0
+    "energy": 2400
   },
-  "description": "!LOC(units:advanced_manufacturing_produces_metal_can_only_be_placed_on_metal_deposits.message):Advanced manufacturing- Produces metal, can only be placed on metal deposits.",
+  "description": "Advanced Manufacturing- Produces metal refined at an atomic level from soil.",
   "display_name": "!LOC(units:advanced_metal_extractor.message):Advanced Metal Extractor",
   "events": {
     "build_complete": {
@@ -24,9 +24,6 @@
       "effect_scale": 0.8
     }
   },
-  "feature_requirements": [
-    "metal_spot"
-  ],
   "lamps": [
     {
       "color": [
@@ -43,7 +40,7 @@
       "radius": 5.0
     }
   ],
-  "max_health": 5000,
+  "max_health": 720,
   "mesh_bounds": [
     15.5,
     13.3685,
@@ -74,7 +71,7 @@
     16
   ],
   "production": {
-    "metal": 24
+    "metal": 6
   },
   "recon": {
     "observer": {

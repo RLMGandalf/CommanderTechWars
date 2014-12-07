@@ -8,11 +8,11 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 3000,
+  "build_metal_cost": 1500,
   "command_caps": [
     "ORDER_Attack"
   ],
-  "description": "!LOC(units:tactical_missile_launcher_equipped_with_advanced_long_range_anti_land_missile_launcher.message):Tactical Missile Battery- Anti Orbital, Air, Land, and Sea, Capacity of 10.",
+  "description": "Missle Launcher- Chucks Missiles at land, air, and orbital.",
   "display_name": "!LOC(units:catapult.message):Catapult",
   "events": {
     "build_complete": {
@@ -29,7 +29,7 @@
   },
   "guard_layer": "WL_AnySurface",
   "guard_radius": 300,
-  "max_health": 1500,
+  "max_health": 900,
   "mesh_bounds": [
     9,
     9,
@@ -62,7 +62,13 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 100,
+          "radius": 120,
+          "shape": "capsule"
+        },
+        {
+          "channel": "radar",
+          "layer": "orbital",
+          "radius": 60,
           "shape": "capsule"
         }
       ]

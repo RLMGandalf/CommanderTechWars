@@ -10,9 +10,9 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 5000,
+  "build_metal_cost": 1200,
   "consumption": {
-    "energy": 4500
+    "energy": 2400
   },
   "description": "!LOC(units:advanced_radar_detects_nearby_enemy_land_sea_and_air_units.message):Advanced radar- Detects nearby enemy land, sea, and air units.",
   "display_name": "!LOC(units:advanced_radar.message):Advanced Radar",
@@ -43,7 +43,7 @@
       "radius": 3.0
     }
   ],
-  "max_health": 1500,
+  "max_health": 900,
   "mesh_bounds": [
     8.58559,
     7.71255,
@@ -81,21 +81,21 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 250,
+          "radius": 320,
           "shape": "capsule",
           "uses_energy": true
         },
         {
           "channel": "radar",
           "layer": "surface_and_air",
-          "radius": 1100,
+          "radius": 900,
           "shape": "capsule",
           "uses_energy": true
         },
         {
           "channel": "radar",
           "layer": "orbital",
-          "radius": 400,
+          "radius": 450,
           "shape": "capsule",
           "uses_energy": true
         },

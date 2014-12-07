@@ -1,7 +1,7 @@
 {
   "construction_demand": {
     "energy": 1500,
-    "metal": 60
+    "metal": 30
   },
   "max_range": 50,
   "pitch_range": 90,

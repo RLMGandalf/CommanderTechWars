@@ -10,9 +10,9 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 200,
+  "build_metal_cost": 450,
   "consumption": {
-    "energy": 150
+    "energy": 600
   },
   "description": "!LOC(units:basic_radar_detects_nearby_enemy_land_sea_and_air_units.message):Basic radar- Detects nearby enemy land, sea, and air units.",
   "display_name": "!LOC(units:radar.message):Radar",
@@ -42,7 +42,7 @@
       "radius": 3.0
     }
   ],
-  "max_health": 500,
+  "max_health": 450,
   "mesh_bounds": [
     8.58559,
     7.71255,
@@ -80,21 +80,21 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 100,
+          "radius": 150,
           "shape": "capsule",
           "uses_energy": true
         },
         {
           "channel": "radar",
           "layer": "surface_and_air",
-          "radius": 400,
+          "radius": 450,
           "shape": "capsule",
           "uses_energy": true
         },
         {
           "channel": "radar",
           "layer": "orbital",
-          "radius": 200,
+          "radius": 250,
           "shape": "capsule",
           "uses_energy": true
         }

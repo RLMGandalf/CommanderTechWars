@@ -19,5 +19,5 @@
   ],
   "sim_fire_effect": "/pa/effects/specs/default_commander_explosion_ent.json",
   "splash_damages_allies": false,
-  "splash_radius": 100
+  "splash_radius": 200
 }

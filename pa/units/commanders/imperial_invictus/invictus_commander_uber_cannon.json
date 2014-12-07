@@ -1,6 +1,6 @@
 {
   "ammo_capacity": 50000,
-  "ammo_demand": 5000,
+  "ammo_demand": 1000,
   "ammo_id": "/pa/units/commanders/imperial_invictus/invictus_commander_cannon_ammo.json",
   "ammo_per_shot": 10000,
   "ammo_source": "energy",
