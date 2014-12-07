@@ -14,14 +14,14 @@
     }
   },
   "base_spec": "/pa/units/commanders/quad_base/quad_base.json",
-  "build_metal_cost": 12000,
+  "build_metal_cost": 6000,
   "buildable_types": "CmdBuild & Air | CmdBuild & Economy & Basic | CmdBuild & Orbital",
   "death_weapon": {
-    "air_ammo_spec": "/pa/units/commanders/quad_osiris/osiris_pbaoe.json",
+    "air_ammo_spec": "/pa/units/commanders/quad_osiris/osiris_air_pbaoe.json",
     "air_height_threshold": 100,
     "ground_ammo_spec": "/pa/units/commanders/quad_osiris/osiris_pbaoe.json"
   },
-  "description": "Efficient Air Production Commander.",
+  "description": "Source of air technology, champion of air combat.",
   "display_name": "Air Commander",
   "headlights": [
     {
@@ -82,7 +82,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 12000,
+  "max_health": 7000,
   "mesh_bounds": [
     11.0,
     8.71255,
@@ -94,12 +94,12 @@
   "navigation": {
     "acceleration": 80,
     "brake": 80,
-    "move_speed": 7,
+    "move_speed": 11,
     "turn_speed": 90,
     "type": "amphibious"
   },
   "production": {
-    "energy": 3000,
+    "energy": 1800,
     "metal": 30
   },
   "storage": {

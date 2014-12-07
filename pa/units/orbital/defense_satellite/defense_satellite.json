@@ -14,14 +14,14 @@
     }
   },
   "base_spec": "/pa/units/orbital/base_orbital_structure/base_orbital_structure.json",
-  "build_metal_cost": 5000,
+  "build_metal_cost": 900,
   "command_caps": [
     "ORDER_Attack",
     "ORDER_Move",
     "ORDER_Patrol",
     "ORDER_Assist"
   ],
-  "description": "Fragile orbital platform can attack any layer.",
+  "description": "Orbital platform can attack any layer.",
   "display_name": "Anchor",
   "events": {
     "build_complete": {
@@ -47,14 +47,6 @@
     "animtree": "/pa/anim/anim_trees/defense_satellite_anim_tree.json",
     "filename": "/pa/units/orbital/defense_satellite/defense_satellite.papa"
   },
-  "navigation": {
-    "acceleration": 10,
-    "brake": 10,
-    "hover_time": -1.0,
-    "move_speed": 25,
-    "turn_speed": 90,
-    "type": "orbital"
-  },
   "physics": {
     "collision_layers": "WL_Orbital",
     "gravity_scalar": 0.001,
@@ -71,7 +63,13 @@
         {
           "channel": "sight",
           "layer": "orbital",
-          "radius": 280,
+          "radius": 120,
+          "shape": "sphere"
+        },
+        {
+          "channel": "radar",
+          "layer": "surface_and_air",
+          "radius": 120,
           "shape": "sphere"
         }
       ]

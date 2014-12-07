@@ -10,13 +10,13 @@
     }
   },
   "base_spec": "/pa/units/orbital/base_orbital/base_orbital.json",
-  "build_metal_cost": 20000,
+  "build_metal_cost": 2700,
   "command_caps": [
     "ORDER_Move",
     "ORDER_Patrol",
     "ORDER_Attack"
   ],
-  "description": "!LOC(units:orbital_laser_platform_rains_death_from_above.message):Orbital laser platform- Rains death from above.",
+  "description": "Orbital laser platform- Intercepts missiles and rains death from above.",
   "display_name": "!LOC(units:sxx_1304_laser_platform.message):SXX-1304 Laser Platform",
   "events": {
     "build_complete": {
@@ -35,7 +35,7 @@
   "gravwell_velocity_multiplier": 6.0,
   "guard_layer": "WL_AnySurface",
   "guard_radius": 110,
-  "max_health": 4000,
+  "max_health": 600,
   "mesh_bounds": [
     38,
     38,
@@ -51,10 +51,10 @@
     "filename": "/pa/units/orbital/orbital_laser/orbital_laser.papa"
   },
   "navigation": {
-    "acceleration": 10,
-    "brake": 10,
+    "acceleration": 9,
+    "brake": 9,
     "hover_time": -1.0,
-    "move_speed": 25,
+    "move_speed": 18,
     "turn_speed": 90,
     "type": "orbital"
   },
@@ -67,7 +67,7 @@
     "observer": {
       "items": [
         {
-          "channel": "sight",
+          "channel": "radar",
           "layer": "surface_and_air",
           "radius": 100,
           "shape": "capsule"
@@ -87,6 +87,11 @@
       "aim_bone": "bone_recoil",
       "muzzle_bone": "socket_muzzle",
       "spec_id": "/pa/units/orbital/orbital_laser/orbital_laser_tool_weapon.json"
+    },
+    {
+      "aim_bone": "bone_recoil",
+      "muzzle_bone": "socket_muzzle",
+      "spec_id": "/pa/units/orbital/orbital_laser/orbital_laser_tool_anti.json"
     }
   ],
   "unit_types": [

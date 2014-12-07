@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/tools/engineer_build_arm_adv/engineer_build_arm_adv.json",
   "construction_demand": {
-    "energy": 1500,
+    "energy": 1800,
     "metal": 30
   },
   "firing_arc_pitch": 360,

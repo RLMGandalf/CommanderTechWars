@@ -8,9 +8,9 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 300,
+  "build_metal_cost": 600,
   "consumption": {
-    "energy": 150
+    "energy": 600
   },
   "description": "!LOC(units:orbital_and_deepspace_radar_orbital_and_celestial_radar_telemetry.message):Orbital and deepspace radar- Orbital and Celestial radar telemetry.",
   "display_name": "!LOC(units:orbital_and_deepspace_radar.message):Orbital and Deepspace Radar",
@@ -24,7 +24,7 @@
       "effect_scale": 1.25
     }
   },
-  "max_health": 750,
+  "max_health": 600,
   "mesh_bounds": [
     29,
     29,
@@ -66,7 +66,7 @@
           "shape": "capsule"
         },
         {
-          "channel": "sight",
+          "channel": "radar",
           "layer": "celestial",
           "radius": 1,
           "shape": "sphere",

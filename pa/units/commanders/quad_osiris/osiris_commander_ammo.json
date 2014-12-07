@@ -1,6 +1,6 @@
 {
   "base_spec": "/pa/ammo/base_bullet/base_bullet.json",
-  "damage": 50,
+  "damage": 258,
   "events": {
     "spawned": {
       "audio_cue": "/SE/Weapons/commander/Commander_gun_fire"
@@ -10,7 +10,7 @@
   "initial_velocity": 125.0,
   "lifetime": 2.5,
   "max_velocity": 125.0,
-  "splash_damage": 0,
-  "splash_radius": 0,
+  "splash_damage": 258,
+  "splash_radius": 30,
   "turn_rate": 180
 }

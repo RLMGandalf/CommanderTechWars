@@ -10,7 +10,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 500,
+  "build_metal_cost": 600,
   "description": "!LOC(units:manufacturing_orbital_energy_generation.message):Manufacturing- Orbital energy generation.",
   "display_name": "!LOC(units:solar_array.message):Solar Array",
   "events": {
@@ -25,7 +25,7 @@
       "audio_cue": "/SE/Weapons/air/bomber_fire"
     }
   },
-  "max_health": 500,
+  "max_health": 300,
   "mesh_bounds": [
     50,
     15,
@@ -49,6 +49,12 @@
         {
           "channel": "sight",
           "layer": "orbital",
+          "radius": 100,
+          "shape": "sphere"
+        },
+        {
+          "channel": "radar",
+          "layer": "surface_and_air",
           "radius": 100,
           "shape": "sphere"
         }

@@ -61,7 +61,7 @@
     "group_preference": "front",
     "move_speed": 8,
     "turn_speed": 180,
-    "type": "land-small"
+    "type": "amphibious"
   },
   "physics": {
     "push_class": 90,

@@ -13,7 +13,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 600,
+  "build_metal_cost": 500,
   "buildable_types": "Orbital & FactoryBuild & basic | Orbital & Fabber",
   "command_caps": [
     "ORDER_Move",
@@ -311,7 +311,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 6000,
+  "max_health": 1500,
   "mesh_bounds": [
     50.0454,
     50.0306,
@@ -372,5 +372,5 @@
     "UNITTYPE_FabOrbBuild",
     "UNITTYPE_Important"
   ],
-  "wait_to_rolloff_time": 3
+  "wait_to_rolloff_time": 1
 }

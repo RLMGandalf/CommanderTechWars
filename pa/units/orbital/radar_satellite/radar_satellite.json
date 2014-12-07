@@ -22,7 +22,7 @@
     "ORDER_Assist"
   ],
   "consumption": {
-    "energy": 300
+    "energy": 600
   },
   "description": "!LOC(units:basic_radar_satellite_detects_a_large_area_for_enemy_land_sea_and_air_units.message):Basic radar satellite- Detects a large area for enemy land, sea, and air units.",
   "display_name": "!LOC(units:arkyd.message):ARKYD",
@@ -39,7 +39,7 @@
     }
   },
   "gravwell_velocity_multiplier": 6.0,
-  "max_health": 1000,
+  "max_health": 400,
   "mesh_bounds": [
     20,
     20,
@@ -58,7 +58,7 @@
     "acceleration": 15,
     "brake": 15,
     "hover_time": -1.0,
-    "move_speed": 15,
+    "move_speed": 25,
     "turn_speed": 90,
     "type": "orbital"
   },
@@ -73,28 +73,28 @@
         {
           "channel": "radar",
           "layer": "surface_and_air",
-          "radius": 600,
+          "radius": 450,
           "shape": "capsule",
           "uses_energy": true
         },
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 300,
+          "radius": 200,
           "shape": "capsule",
           "uses_energy": true
         },
         {
           "channel": "radar",
           "layer": "orbital",
-          "radius": 600,
+          "radius": 450,
           "shape": "capsule",
           "uses_energy": true
         },
         {
           "channel": "sight",
           "layer": "orbital",
-          "radius": 100,
+          "radius": 200,
           "shape": "capsule",
           "uses_energy": true
         }

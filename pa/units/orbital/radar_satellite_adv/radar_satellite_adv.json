@@ -15,14 +15,14 @@
     }
   },
   "base_spec": "/pa/units/orbital/base_orbital/base_orbital.json",
-  "build_metal_cost": 4800,
+  "build_metal_cost": 2400,
   "command_caps": [
     "ORDER_Move",
     "ORDER_Patrol",
     "ORDER_Assist"
   ],
   "consumption": {
-    "energy": 9000
+    "energy": 1800
   },
   "description": "!LOC(units:advanced_radar_satellite_detects_a_vast_area_for_enemy_land_sea_and_air_units.message):Advanced radar satellite- Detects a vast area for enemy land, sea, and air units.",
   "display_name": "!LOC(units:advanced_radar_satellite.message):Advanced Radar Satellite",
@@ -40,7 +40,7 @@
     }
   },
   "gravwell_velocity_multiplier": 6.0,
-  "max_health": 5000,
+  "max_health": 600,
   "mesh_bounds": [
     25,
     15,
@@ -59,7 +59,7 @@
     "acceleration": 10,
     "brake": 10,
     "hover_time": -1.0,
-    "move_speed": 10,
+    "move_speed": 18,
     "turn_speed": 90,
     "type": "orbital"
   },
@@ -74,29 +74,29 @@
         {
           "channel": "radar",
           "layer": "surface_and_air",
-          "radius": 1000,
+          "radius": 900,
           "shape": "capsule",
           "uses_energy": true
         },
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 600,
+          "radius": 450,
           "shape": "capsule",
           "uses_energy": true
         },
         {
           "channel": "sight",
           "layer": "orbital",
-          "radius": 600,
+          "radius": 540,
           "shape": "capsule",
           "uses_energy": true
         },
         {
-          "channel": "radar",
-          "layer": "orbital",
-          "radius": 1200,
-          "shape": "capsule",
+          "channel": "sight",
+          "layer": "celestial",
+          "radius": 1,
+          "shape": "sphere",
           "uses_energy": true
         }
       ]

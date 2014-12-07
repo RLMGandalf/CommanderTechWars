@@ -131,7 +131,7 @@
       "type": "moving"
     }
   ],
-  "max_health": 2000,
+  "max_health": 200,
   "mesh_bounds": [
     30,
     20,
@@ -150,7 +150,7 @@
     "acceleration": 25,
     "brake": 25,
     "hover_time": -1.0,
-    "move_speed": 25,
+    "move_speed": 30,
     "turn_speed": 360,
     "type": "orbital",
     "vertical_speed": 100
@@ -164,7 +164,7 @@
     "observer": {
       "items": [
         {
-          "channel": "sight",
+          "channel": "radar",
           "layer": "surface_and_air",
           "radius": 100,
           "shape": "capsule"

@@ -14,7 +14,7 @@
     }
   },
   "base_spec": "/pa/units/orbital/base_orbital_structure/base_orbital_structure.json",
-  "build_metal_cost": 5400,
+  "build_metal_cost": 1500,
   "buildable_types": "Orbital & FactoryBuild & Advanced",
   "command_caps": [
     "ORDER_Move",
@@ -34,7 +34,7 @@
       "effect_scale": 2.5
     }
   },
-  "factory_cooldown_time": 4,
+  "factory_cooldown_time": 2,
   "fx_offsets": [
     {
       "bone": "bone_centerHalo",
@@ -127,7 +127,7 @@
       "type": "build"
     }
   ],
-  "max_health": 15000,
+  "max_health": 1500,
   "mesh_bounds": [
     45,
     40,
@@ -161,6 +161,12 @@
         {
           "channel": "sight",
           "layer": "orbital",
+          "radius": 100,
+          "shape": "sphere"
+        },
+        {
+          "channel": "radar",
+          "layer": "surface_and_air",
           "radius": 100,
           "shape": "sphere"
         }

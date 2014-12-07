@@ -89,7 +89,7 @@
     "bank_factor": 10,
     "brake": 10,
     "hover_time": -1.0,
-    "move_speed": 20,
+    "move_speed": 30,
     "turn_speed": 75,
     "type": "orbital"
   },
@@ -103,13 +103,13 @@
         {
           "channel": "radar",
           "layer": "surface_and_air",
-          "radius": 100,
+          "radius": 40,
           "shape": "capsule"
         },
         {
           "channel": "sight",
           "layer": "orbital",
-          "radius": 100,
+          "radius": 80,
           "shape": "capsule"
         }
       ]

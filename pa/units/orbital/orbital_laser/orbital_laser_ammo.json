@@ -1,6 +1,6 @@
 {
   "base_spec": "/pa/ammo/base_ammo/base_ammo.json",
-  "damage": 1500,
+  "damage": 600,
   "events": {
     "died": {
       "audio_cue": "/SE/Impacts/orbital_laser",
@@ -8,7 +8,7 @@
     }
   },
   "flight_type": "Direct",
-  "full_damage_splash_radius": 2,
+  "full_damage_splash_radius": 12,
   "fx_trail": {
     "effect_scale": 2,
     "filename": "/pa/units/orbital/orbital_laser/orbital_laser_proj_trail.pfx"
@@ -27,6 +27,6 @@
     "radius": 1
   },
   "spawn_layers": "orbital",
-  "splash_damage": 1500,
-  "splash_radius": 20
+  "splash_damage": 600,
+  "splash_radius": 24
 }

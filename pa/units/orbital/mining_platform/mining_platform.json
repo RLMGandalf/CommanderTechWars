@@ -14,9 +14,8 @@
   },
   "base_spec": "/pa/units/orbital/base_orbital_structure/base_orbital_structure.json",
   "build_metal_cost": 600,
-  "build_restrictions": "Terrainless",
   "description": "Filters Rich Dense Metals from Gas Giant Atmosphere.",
-  "display_name": "Jig (Gas)",
+  "display_name": "Jig",
   "events": {
     "build_complete": {
       "audio_cue": "/SE/Build_Complete/orbital_platform"
@@ -150,7 +149,7 @@
       "radius": 6.0
     }
   ],
-  "max_health": 500,
+  "max_health": 400,
   "mesh_bounds": [
     50,
     50,
@@ -175,8 +174,11 @@
     300,
     300
   ],
+  "consumption": {
+    "energy": 1200
+  },
   "production": {
-    "metal": 15
+    "metal": 8
   },
   "recon": {
     "observer": {
@@ -184,7 +186,13 @@
         {
           "channel": "sight",
           "layer": "orbital",
-          "radius": 250,
+          "radius": 100,
+          "shape": "sphere"
+        },
+        {
+          "channel": "radar",
+          "layer": "surface_and_air",
+          "radius": 100,
           "shape": "sphere"
         }
       ]
