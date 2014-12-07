@@ -187,13 +187,13 @@
           "channel": "sight",
           "layer": "orbital",
           "radius": 100,
-          "shape": "sphere"
+          "shape": "capsule"
         },
         {
           "channel": "radar",
           "layer": "surface_and_air",
           "radius": 100,
-          "shape": "sphere"
+          "shape": "capsule"
         }
       ]
     }

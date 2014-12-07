@@ -40,6 +40,7 @@
     }
   },
   "factory_cooldown_time": 3,
+  "fx_offsets": [
     {
       "bone": "socket_muzzle01",
       "filename": "/pa/effects/specs/fab_spray.pfx",

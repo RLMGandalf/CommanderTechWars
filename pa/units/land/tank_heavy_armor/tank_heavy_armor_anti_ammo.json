@@ -24,7 +24,7 @@
   "has_notifications": true,
   "influence_radius": 1200,
   "initial_velocity": 400.0,
-  "lifetime": 0,
+  "lifetime": 10,
   "max_velocity": 400.0,
   "model": {
     "filename": "/pa/units/air/missile_anti_nuke/missile_anti_nuke.papa"

@@ -66,7 +66,7 @@
         "socket_leftMuzzle"
       ],
       "spec_id": "/pa/units/land/air_defense/air_defense_tool_weapon.json"
-    }
+    },
     {
       "aim_bone": "bone_pitch",
       "muzzle_bone": [
