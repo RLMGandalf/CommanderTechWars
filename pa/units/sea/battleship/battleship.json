@@ -83,6 +83,12 @@
           "layer": "surface_and_air",
           "radius": 200,
           "shape": "capsule"
+        },
+        {
+          "layer": "orbital",
+          "channel": "radar",
+          "shape": "capsule",
+          "radius": 50
         }
       ]
     }

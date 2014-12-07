@@ -13,7 +13,8 @@
   "target_layers": [
     "WL_LandHorizontal",
     "WL_WaterSurface",
-    "WL_Air"
+    "WL_Air",
+    "WL_Orbital"
   ],
   "yaw_range": 0,
   "yaw_rate": 0

@@ -4,10 +4,10 @@
   "base_spec": "/pa/tools/base_missile_turret/base_missile_turret.json",
   "firing_arc_pitch": 360,
   "firing_arc_yaw": 360,
-  "max_range": 130,
+  "max_range": 120,
   "pitch_range": 0,
   "pitch_rate": 0,
-  "rate_of_fire": 0.25,
+  "rate_of_fire": 0.2,
   "spread_fire": true,
   "target_layers": [
     "WL_LandHorizontal",

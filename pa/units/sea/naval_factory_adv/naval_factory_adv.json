@@ -39,7 +39,7 @@
       "effect_scale": 2.5
     }
   },
-  "factory_cooldown_time": 10,
+  "factory_cooldown_time": 6,
   "fx_offsets": [
     {
       "bone": "socket_muzzle01",
@@ -102,7 +102,7 @@
       "type": "build"
     }
   ],
-  "max_health": 15000,
+  "max_health": 6000,
   "mesh_bounds": [
     50,
     100,
@@ -129,6 +129,12 @@
           "layer": "surface_and_air",
           "radius": 100,
           "shape": "capsule"
+        },
+        {
+          "layer": "orbital",
+          "channel": "radar",
+          "shape": "capsule",
+          "radius": 50
         }
       ]
     }

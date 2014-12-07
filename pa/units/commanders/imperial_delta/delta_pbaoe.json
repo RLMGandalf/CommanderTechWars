@@ -5,7 +5,7 @@
   },
   "burn_damage": 200,
   "burn_radius": 137,
-  "damage": 1200,
+  "damage": 900,
   "damage_volume": {
     "burnable_remove_radius": 100.0,
     "delay": 1.0,

@@ -11,8 +11,8 @@
     }
   },
   "base_spec": "/pa/units/sea/base_ship/base_ship.json",
-  "build_metal_cost": 200,
-  "description": "!LOC(units:scout_light_weaponry_fast_speed.message):Scout- Light weaponry, fast speed.",
+  "build_metal_cost": 90,
+  "description": "Raider- Surface and air missiles, fast speed, low health.",
   "display_name": "!LOC(units:sun_fish.message):Sun Fish",
   "events": {
     "build_complete": {
@@ -27,7 +27,7 @@
       "audio_cue": "/SE/Weapons/sea/sea_scout_fire"
     }
   },
-  "max_health": 250,
+  "max_health": 160,
   "mesh_bounds": [
     3,
     10.5,
@@ -44,7 +44,7 @@
   "navigation": {
     "acceleration": 200,
     "brake": 200,
-    "move_speed": 18,
+    "move_speed": 20,
     "turn_in_place": false,
     "turn_speed": 180,
     "type": "deepwater"
@@ -59,7 +59,7 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 140,
+          "radius": 180,
           "shape": "capsule"
         }
       ]

@@ -11,7 +11,7 @@
     }
   },
   "base_spec": "/pa/units/sea/base_ship/base_ship.json",
-  "build_metal_cost": 280,
+  "build_metal_cost": 150,
   "description": "!LOC(units:frigate_basic_anti_air_missiles_and_anti_ship_guns.message):Frigate- Basic anti-air missiles and anti-ship guns.",
   "display_name": "!LOC(units:narwhal.message):Narwhal",
   "events": {
@@ -30,7 +30,7 @@
   },
   "guard_layer": "WL_AnySurface",
   "guard_radius": 220,
-  "max_health": 320,
+  "max_health": 300,
   "mesh_bounds": [
     10,
     25,
@@ -44,7 +44,7 @@
   "navigation": {
     "acceleration": 70,
     "brake": 70,
-    "move_speed": 12,
+    "move_speed": 13,
     "turn_speed": 60,
     "type": "deepwater"
   },
@@ -60,7 +60,7 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 150,
+          "radius": 120,
           "shape": "capsule"
         }
       ]
@@ -73,7 +73,7 @@
       "muzzle_bone": [
         "socket_muzzle01"
       ],
-      "spec_id": "/pa/units/sea/frigate/frigate_tool_weapon_shell.json"
+      "spec_id": "/pa/units/sea/destroyer/destroyer_tool_weapon.json"
     },
     {
       "aim_bone": "bone_pitch02",

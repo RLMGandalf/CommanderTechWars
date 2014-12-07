@@ -99,7 +99,7 @@
     "type": "amphibious"
   },
   "production": {
-    "energy": 3000,
+    "energy": 1800,
     "metal": 30
   },
   "storage": {

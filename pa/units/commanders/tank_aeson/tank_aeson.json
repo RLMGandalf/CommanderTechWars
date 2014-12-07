@@ -21,7 +21,7 @@
     "air_height_threshold": 100,
     "ground_ammo_spec": "/pa/units/commanders/tank_aeson/aeson_pbaoe.json"
   },
-  "description": "Efficient Vehicle Production Commander.",
+  "description": "Source of tank technology. Champion of tank combat.",
   "display_name": "Vehicle Commander",
   "headlights": [
     {
@@ -99,7 +99,7 @@
     "type": "amphibious"
   },
   "production": {
-    "energy": 3000,
+    "energy": 1800,
     "metal": 30
   },
   "scrolling_uv": {

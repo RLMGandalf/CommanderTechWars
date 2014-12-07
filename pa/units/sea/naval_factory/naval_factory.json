@@ -39,8 +39,7 @@
       "effect_scale": 1.5
     }
   },
-  "factory_cooldown_time": 5,
-  "fx_offsets": [
+  "factory_cooldown_time": 3,
     {
       "bone": "socket_muzzle01",
       "filename": "/pa/effects/specs/fab_spray.pfx",
@@ -72,7 +71,7 @@
       "type": "build"
     }
   ],
-  "max_health": 6000,
+  "max_health": 3000,
   "mesh_bounds": [
     30,
     45,
@@ -99,6 +98,12 @@
           "layer": "surface_and_air",
           "radius": 100,
           "shape": "capsule"
+        },
+        {
+          "layer": "orbital",
+          "channel": "radar",
+          "shape": "capsule",
+          "radius": 50
         }
       ]
     }
