@@ -132,7 +132,6 @@
     "UNITTYPE_Offense",
     "UNITTYPE_Land",
     "UNITTYPE_Basic",
-    "UNITTYPE_CmdBuild",
     "UNITTYPE_CombatFabAdvBuild"
   ]
 }
