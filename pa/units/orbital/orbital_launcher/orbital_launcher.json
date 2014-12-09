@@ -311,7 +311,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 1500,
+  "max_health": 3000,
   "mesh_bounds": [
     50.0454,
     50.0306,

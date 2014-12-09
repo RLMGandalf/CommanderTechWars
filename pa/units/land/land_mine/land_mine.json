@@ -2,8 +2,8 @@
   "TEMP_texelinfo": 2.37699,
   "area_build_separation": 1.0,
   "area_build_type": "Sphere",
-  "build_metal_cost": 20,
-  "description": "!LOC(units:land_mine_detonates_when_enemy_units_are_in_proximity.message):Land mine- Detonates when enemy units are in proximity.",
+  "build_metal_cost": 15,
+  "description": "Land Mine- Detected by Radar, undetectable by units",
   "display_name": "!LOC(units:land_mine.message):Land Mine",
   "events": {
     "build_complete": {
@@ -59,6 +59,7 @@
     "UNITTYPE_Basic",
     "UNITTYPE_Land",
     "UNITTYPE_Defense",
+    "UNITTYPE_CmdBuild",
     "UNITTYPE_CombatFabBuild",
     "UNITTYPE_CombatFabAdvBuild"
   ],

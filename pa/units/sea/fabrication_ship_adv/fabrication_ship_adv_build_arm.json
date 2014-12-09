@@ -1,8 +1,9 @@
 {
+  "auto_repair": true,
   "base_spec": "/pa/tools/engineer_build_arm_adv/engineer_build_arm_adv.json",
   "construction_demand": {
-    "energy": 3000,
-    "metal": 80
+    "energy": 1200,
+    "metal": 30
   },
   "max_range": 40,
   "pitch_rate": 180,

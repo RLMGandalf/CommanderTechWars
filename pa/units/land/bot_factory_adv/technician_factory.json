@@ -14,8 +14,8 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 2500,
-  "buildable_types": "Tactical & Mobile & FactoryBuild",
+  "build_metal_cost": 900,
+  "buildable_types": "Advanced & Defense & Mobile & FactoryBuild",
   "command_caps": [
     "ORDER_Move",
     "ORDER_Patrol",
@@ -193,7 +193,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 10000,
+  "max_health": 4500,
   "mesh_bounds": [
     50,
     50,
@@ -222,7 +222,13 @@
         {
           "channel": "sight",
           "layer": "surface_and_air",
-          "radius": 110,
+          "radius": 100,
+          "shape": "capsule"
+        },
+        {
+          "channel": "radar",
+          "layer": "orbital",
+          "radius": 100,
           "shape": "capsule"
         }
       ]

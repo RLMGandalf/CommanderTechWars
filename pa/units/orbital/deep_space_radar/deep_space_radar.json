@@ -87,9 +87,8 @@
     "UNITTYPE_CmdBuild",
     "UNITTYPE_Orbital",
     "UNITTYPE_Structure",
-    "UNITTYPE_Basic",
-    "UNITTYPE_FabBuild",
-    "UNITTYPE_FabAdvBuild",
+    "UNITTYPE_Recon",
+    "UNITTYPE_Basic"
     "UNITTYPE_Important"
   ]
 }

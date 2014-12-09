@@ -1,6 +1,6 @@
 {
-  "TEMP_texelinfo": 15.8224,
-  "area_build_type": "Line",
+  "TEMP_texelinfo": 26.4567,
+  "area_build_type": "Sphere",
   "atrophy_cool_down": 15.0,
   "atrophy_rate": 7.5,
   "audio": {
@@ -9,29 +9,20 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 300,
-  "description": "Basic manufacturing- Produces energy.",
-  "display_name": "Energy Plant EX",
+  "build_metal_cost": 450,
+  "description": "Orbital Storage- Increases maximum energy storage capacity.",
+  "display_name": "Orbital Energy Storage",
+  "si_name": "energy_storage",
+  "enable_orbital_shell": true,
   "events": {
     "build_complete": {
       "audio_cue": "/SE/Build_Complete/energy"
     },
     "died": {
       "audio_cue": "/SE/Death/Factory",
-      "effect_scale": 0.5
+      "effect_scale": 0.8
     }
   },
-  "fx_offsets": [
-    {
-      "filename": "/pa/units/land/energy_plant/energy_plant_idle.pfx",
-      "offset": [
-        0,
-        0,
-        5
-      ],
-      "type": "idle"
-    }
-  ],
   "headlights": [
     {
       "color": [
@@ -39,21 +30,21 @@
         1.0,
         1.0
       ],
-      "far_distance": 15.0,
+      "far_distance": 25.0,
       "gobo": "/pa/effects/textures/gobo/spotlight_gobo.papa",
       "intensity": 1.0,
       "near_distance": 2.5,
       "near_height": 5.5,
       "near_width": 5.5,
       "offset": [
-        5.25,
-        0.0,
-        6.75
+        6.2,
+        6.2,
+        8.6
       ],
       "orientation": [
-        35.0,
-        0.0,
-        0.0
+        26.33,
+        -23.93,
+        -50.68
       ]
     },
     {
@@ -62,21 +53,21 @@
         1.0,
         1.0
       ],
-      "far_distance": 15.0,
+      "far_distance": 25.0,
       "gobo": "/pa/effects/textures/gobo/spotlight_gobo.papa",
       "intensity": 1.0,
       "near_distance": 2.5,
       "near_height": 5.5,
       "near_width": 5.5,
       "offset": [
-        -5.25,
-        0.0,
-        6.75
+        -6.2,
+        6.2,
+        8.6
       ],
       "orientation": [
-        -35.0,
-        0.0,
-        0.0
+        -26.34,
+        -23.93,
+        50.67
       ]
     },
     {
@@ -85,21 +76,44 @@
         1.0,
         1.0
       ],
-      "far_distance": 15.0,
+      "far_distance": 25.0,
       "gobo": "/pa/effects/textures/gobo/spotlight_gobo.papa",
       "intensity": 1.0,
       "near_distance": 2.5,
       "near_height": 5.5,
       "near_width": 5.5,
       "offset": [
-        0.0,
-        -5.25,
-        6.75
+        6.2,
+        -6.2,
+        8.6
       ],
       "orientation": [
-        0.0,
-        35.0,
-        0.0
+        26.33,
+        23.92,
+        -129.32
+      ]
+    },
+    {
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "far_distance": 25.0,
+      "gobo": "/pa/effects/textures/gobo/spotlight_gobo.papa",
+      "intensity": 1.0,
+      "near_distance": 2.5,
+      "near_height": 5.5,
+      "near_width": 5.5,
+      "offset": [
+        -6.2,
+        -6.2,
+        8.6
+      ],
+      "orientation": [
+        -26.34,
+        23.92,
+        129.31
       ]
     }
   ],
@@ -110,59 +124,15 @@
         1.0,
         1.0
       ],
-      "intensity": 2.0,
-      "offset": [
-        5.25,
-        0.0,
-        6.75
-      ],
-      "radius": 2.0
-    },
-    {
-      "color": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "intensity": 2.0,
-      "offset": [
-        -5.25,
-        0.0,
-        6.75
-      ],
-      "radius": 2.0
-    },
-    {
-      "color": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "intensity": 2.0,
-      "offset": [
-        0.0,
-        -5.25,
-        6.75
-      ],
-      "radius": 2.0
-    },
-    {
-      "bone": "bone_rotor",
-      "color": [
-        1.0,
-        1.0,
-        1.0
-      ],
       "intensity": 1.0,
       "offset": [
-        0.0,
-        -2.71,
-        1.1
+        6.2,
+        6.2,
+        8.6
       ],
       "radius": 3.0
     },
     {
-      "bone": "bone_rotor",
       "color": [
         1.0,
         1.0,
@@ -170,14 +140,13 @@
       ],
       "intensity": 1.0,
       "offset": [
-        -2.44,
-        1.34,
-        1.1
+        -6.2,
+        6.2,
+        8.6
       ],
       "radius": 3.0
     },
     {
-      "bone": "bone_rotor",
       "color": [
         1.0,
         1.0,
@@ -185,45 +154,40 @@
       ],
       "intensity": 1.0,
       "offset": [
-        2.44,
-        1.34,
-        1.1
+        6.2,
+        -6.2,
+        8.6
+      ],
+      "radius": 3.0
+    },
+    {
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "intensity": 1.0,
+      "offset": [
+        -6.2,
+        -6.2,
+        8.6
       ],
       "radius": 3.0
     }
   ],
-  "max_health": 3000,
+  "max_health": 600,
   "mesh_bounds": [
-    10,
-    10,
-    11.3
+    19,
+    20,
+    14.2
   ],
   "model": [
     {
-      "animations": {
-        "idle": "/pa/units/land/energy_plant/energy_plant_anim_work.papa"
-      },
-      "animtree": "/pa/anim/anim_trees/constant_idle_anim_tree.json",
-      "filename": "/pa/units/land/energy_plant/energy_plant.papa",
-      "layer": "WL_LandHorizontal",
-      "skirt_decal": "/pa/effects/specs/skirt_energy.json"
-    },
-    {
-      "animations": {
-        "idle": "/pa/units/land/energy_plant/energy_plant_anim_work.papa"
-      },
-      "animtree": "/pa/anim/anim_trees/constant_idle_anim_tree.json",
-      "filename": "/pa/units/sea/sea_energy_plant/sea_energy_plant.papa",
-      "layer": "WL_WaterSurface"
+      "filename": "/pa/units/land/energy_storage/energy_storage.papa",
+      "layer": "WL_Orbital"
+      "skirt_decal": "/pa/effects/specs/skirt_energy_adv.json"
     }
   ],
-  "placement_size": [
-    12,
-    12
-  ],
-  "production": {
-    "energy": 800
-  },
   "recon": {
     "observer": {
       "items": [
@@ -232,17 +196,25 @@
           "layer": "surface_and_air",
           "radius": 100,
           "shape": "capsule"
+        },
+        {
+          "channel": "sight",
+          "layer": "orbital",
+          "radius": 100,
+          "shape": "capsule"
         }
       ]
     }
   },
-  "si_name": "energy_plant",
-  "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
+  "spawn_layers": "WL_Orbital",
+  "storage": {
+    "energy": 20000
+  },
   "unit_types": [
     "UNITTYPE_Structure",
-    "UNITTYPE_EnergyProduction",
-    "UNITTYPE_CmdBuild",
-    "UNITTYPE_FabBuild",
+    "UNITTYPE_Basic",
+    "UNITTYPE_Orbital",
+    "UNITTYPE_FabOrbBuild",
     "UNITTYPE_Economy"
   ]
 }

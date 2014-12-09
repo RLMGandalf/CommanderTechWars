@@ -86,7 +86,6 @@
     "UNITTYPE_Land",
     "UNITTYPE_Structure",
     "UNITTYPE_Tactical",
-    "UNITTYPE_CmdBuild",
     "UNITTYPE_Advanced",
     "UNITTYPE_FabAdvBuild",
     "UNITTYPE_Important"

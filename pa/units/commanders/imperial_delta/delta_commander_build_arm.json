@@ -1,7 +1,8 @@
 {
+  "auto_repair": true,
   "construction_demand": {
-    "energy": 1000,
-    "metal": 20
+    "energy": 600,
+    "metal": 30
   },
   "max_range": 50,
   "pitch_range": 90,

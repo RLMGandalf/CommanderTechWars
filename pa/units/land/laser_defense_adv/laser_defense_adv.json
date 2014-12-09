@@ -71,7 +71,6 @@
   "unit_types": [
     "UNITTYPE_Structure",
     "UNITTYPE_Land",
-    "UNITTYPE_CmdBuild",
     "UNITTYPE_SurfaceDefense",
     "UNITTYPE_Defense",
     "UNITTYPE_FabAdvBuild"

@@ -102,7 +102,6 @@
     "UNITTYPE_Basic",
     "UNITTYPE_MetalProduction",
     "UNITTYPE_CmdBuild",
-    "UNITTYPE_FabAdvBuild",
     "UNITTYPE_Economy"
   ]
 }

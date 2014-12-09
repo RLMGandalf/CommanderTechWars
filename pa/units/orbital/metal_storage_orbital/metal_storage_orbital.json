@@ -12,6 +12,8 @@
   "build_metal_cost": 450,
   "description": "!LOC(units:manufacturing_increases_maximum_metal_storage_capacity.message):Manufacturing- Increases maximum metal storage capacity.",
   "display_name": "!LOC(units:metal_storage.message):Metal Storage",
+  "si_name": "metal_storage",
+  "enable_orbital_shell": true,
   "events": {
     "build_complete": {
       "audio_cue": "/SE/Build_Complete/metal"
@@ -90,7 +92,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 900,
+  "max_health": 600,
   "mesh_bounds": [
     18,
     18,
@@ -99,14 +101,16 @@
   "model": [
     {
       "filename": "/pa/units/land/metal_storage/metal_storage.papa",
-      "layer": "WL_LandHorizontal",
+      "layer": "WL_Orbital"
       "skirt_decal": "/pa/effects/specs/skirt_metal.json"
-    },
-    {
-      "filename": "/pa/units/sea/sea_metal_storage/sea_metal_storage.papa",
-      "layer": "WL_WaterSurface"
     }
   ],
+  "physics": {
+    "collision_layers": "WL_Orbital",
+    "ignore_gravity": true,
+    "push_class": 15,
+    "radius": 20
+  },
   "recon": {
     "observer": {
       "items": [
@@ -117,22 +121,23 @@
           "shape": "capsule"
         },
         {
-          "channel": "radar",
+          "channel": "sight",
           "layer": "orbital",
-          "radius": 60,
+          "radius": 100,
           "shape": "capsule"
         }
       ]
     }
   },
-  "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
+  "spawn_layers": "WL_Orbital",
   "storage": {
     "metal": 4000
   },
   "unit_types": [
     "UNITTYPE_Structure",
     "UNITTYPE_Basic",
-    "UNITTYPE_CmdBuild",
+    "UNITTYPE_Orbital",
+    "UNITTYPE_FabOrbBuild",
     "UNITTYPE_Economy"
   ]
 }

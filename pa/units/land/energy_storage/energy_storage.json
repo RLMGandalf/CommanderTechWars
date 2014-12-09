@@ -216,8 +216,6 @@
     "UNITTYPE_Structure",
     "UNITTYPE_Basic",
     "UNITTYPE_CmdBuild",
-    "UNITTYPE_FabBuild",
-    "UNITTYPE_FabAdvBuild",
     "UNITTYPE_Economy"
   ]
 }

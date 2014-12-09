@@ -99,11 +99,10 @@
     }
   ],
   "unit_types": [
-    "UNITTYPE_Mobile",
     "UNITTYPE_Orbital",
     "UNITTYPE_OrbitalDefense",
     "UNITTYPE_Advanced",
-    "UNITTYPE_FactoryBuild"
+    "UNITTYPE_FabOrbBuild"
   ],
   "wreckage_health_frac": 0.0
 }

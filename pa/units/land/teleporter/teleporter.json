@@ -164,13 +164,12 @@
   "unit_types": [
     "UNITTYPE_Structure",
     "UNITTYPE_Teleporter",
-    "UNITTYPE_FabBuild",
-    "UNITTYPE_FabAdvBuild",
     "UNITTYPE_Basic",
     "UNITTYPE_Advanced",
     "UNITTYPE_CombatFabAdvBuild",
-    "UNITTYPE_CombatFabBuild",
-    "UNITTYPE_FabOrbBuild"
+    "UNITTYPE_FabOrbBuild",
+    "UNITTYPE_CmdBuild",
+    "UNITTYPE_Orbital"
   ],
   "useable": {
     "range": 30,

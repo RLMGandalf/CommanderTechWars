@@ -14,7 +14,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 30000,
+  "build_metal_cost": 24000,
   "build_restrictions": "Thrustable",
   "description": "!LOC(units:delta_v_engine_used_to_move_small_to_medium_celestial_bodies.message):Delta V Engine- Used to move suitable celestial bodies.",
   "display_name": "!LOC(units:halley.message):Halley",
@@ -310,7 +310,7 @@
       "radius": 3.0
     }
   ],
-  "max_health": 20000,
+  "max_health": 6000,
   "mesh_bounds": [
     50.0454,
     50.0306,

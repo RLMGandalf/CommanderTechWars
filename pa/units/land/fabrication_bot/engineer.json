@@ -34,7 +34,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
-  "build_metal_cost": 200,
+  "build_metal_cost": 120,
   "buildable_types": "FabBuild & Structure",
   "command_caps": [
     "ORDER_Move",
@@ -120,7 +120,7 @@
   "tools": [
     {
       "aim_bone": "bone_root",
-      "spec_id": "/pa/units/land/fabrication_bot/fabrication_bot_build_arm.json"
+      "spec_id": "/pa/units/land/fabrication_bot/engineer_build_arm.json"
     }
   ],
   "transportable": {

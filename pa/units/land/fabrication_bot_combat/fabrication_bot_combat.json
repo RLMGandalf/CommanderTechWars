@@ -34,7 +34,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
-  "build_metal_cost": 720,
+  "build_metal_cost": 300,
   "buildable_types": "CombatFabBuild",
   "can_only_assist_with_buildable_items": true,
   "command_caps": [
@@ -76,7 +76,7 @@
   ],
   "guard_layer": "WL_LandHorizontal",
   "guard_radius": 50,
-  "max_health": 50,
+  "max_health": 150,
   "mesh_bounds": [
     3.7,
     4.5,
@@ -128,11 +128,11 @@
   },
   "unit_types": [
     "UNITTYPE_Construction",
-    "UNITTYPE_Bot",
     "UNITTYPE_Mobile",
     "UNITTYPE_Offense",
     "UNITTYPE_Land",
     "UNITTYPE_Basic",
-    "UNITTYPE_FactoryBuild"
+    "UNITTYPE_CmdBuild",
+    "UNITTYPE_CombatFabAdvBuild"
   ]
 }

@@ -37,7 +37,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
-  "build_metal_cost": 200,
+  "build_metal_cost": 210,
   "buildable_types": "Factory & Bot | CmdBuild & Orbital | CmdBuild & Bot | Economy & Basic",
   "command_caps": [
     "ORDER_Move",
@@ -93,7 +93,7 @@
   ],
   "guard_layer": "WL_LandHorizontal",
   "guard_radius": 60,
-  "max_health": 50,
+  "max_health": 100,
   "mesh_bounds": [
     4,
     3.8,

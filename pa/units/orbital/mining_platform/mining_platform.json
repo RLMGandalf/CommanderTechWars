@@ -14,7 +14,7 @@
   },
   "base_spec": "/pa/units/orbital/base_orbital_structure/base_orbital_structure.json",
   "build_metal_cost": 600,
-  "description": "Filters Rich Dense Metals from Gas Giant Atmosphere.",
+  "description": "Renders metal at an atomic level from atmospheres.",
   "display_name": "Jig",
   "events": {
     "build_complete": {
@@ -175,10 +175,10 @@
     300
   ],
   "consumption": {
-    "energy": 1200
+    "energy": 2400
   },
   "production": {
-    "metal": 8
+    "metal": 6
   },
   "recon": {
     "observer": {

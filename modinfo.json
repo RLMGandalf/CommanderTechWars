@@ -1,13 +1,20 @@
 {
     "context": "server",
-    "identifier": "com.uberent.pa.mods.stockmods.server.TeamComBuilder",
+    "identifier": "com.pa.mods.server.TeamComBuilder",
     "display_name": "TeamComBuilder",
-    "description": "Commanders with highly specialized technology divisions",
-    "author": "Gandalf",
-    "version": "0.1",
-    "build": "70289",
-    "date": "2014/8/26",
+    "description": "Commanders have fully ",
+    "author": "Gandalf, TrophySystem",
+    "version": "0.8",
+    "build": "75539",
+    "date": "2014/12/08",
     "signature": "not yet implemented",
-    "forum": "http:lol",
+    "forum": "https://forums.uberent.com/",
     "id": "TeamComBuilder",
-    "priority": 100,    "enabled": true}
+    "category": [
+        "Factions"
+    ],
+    "priority": 100,
+    "enabled": true,
+    "content_id": "com.pa.mods.server.TeamComBuilder",
+    "store_id": "com.pahub.content.plugin.store.mod.server"
+}

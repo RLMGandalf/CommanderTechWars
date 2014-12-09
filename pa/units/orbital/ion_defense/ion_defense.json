@@ -124,10 +124,10 @@
     }
   ],
   "unit_types": [
-    "UNITTYPE_CmdBuild",
     "UNITTYPE_Structure",
     "UNITTYPE_Basic",
     "UNITTYPE_OrbitalDefense",
-    "UNITTYPE_FabBuild"
+    "UNITTYPE_FabBuild",
+    "UNITTYPE_CmdBuild"
   ]
 }

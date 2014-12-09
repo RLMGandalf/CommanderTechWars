@@ -9,7 +9,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 360,
+  "build_metal_cost": 450,
   "consumption": {
     "energy": 2400
   },
@@ -40,7 +40,7 @@
       "radius": 5.0
     }
   ],
-  "max_health": 720,
+  "max_health": 900,
   "mesh_bounds": [
     15.5,
     13.3685,
@@ -94,7 +94,8 @@
   "unit_types": [
     "UNITTYPE_Structure",
     "UNITTYPE_Advanced",
-    "UNITTYPE_MetalProduction",
-    "UNITTYPE_Economy"
+    "UNITTYPE_Economy",
+    "UNITTYPE_FabAdvBuild",
+    "UNITTYPE_MetalProduction"
   ]
 }

@@ -82,10 +82,11 @@
   ],
   "unit_types": [
     "UNITTYPE_Structure",
-    "UNITTYPE_CmdBuild",
+    "UNITTYPE_Basic",
+    "UNITTYPE_FabBuild",
     "UNITTYPE_Land",
     "UNITTYPE_AirDefense",
     "UNITTYPE_Defense",
-    "UNITTYPE_FabBuild"
+    "UNITTYPE_CmdBuild"
   ]
 }

@@ -9,7 +9,7 @@
     }
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
-  "build_metal_cost": 1800,
+  "build_metal_cost": 1600,
   "description": "!LOC(units:advanced_manufacturing_produces_energy.message):Advanced manufacturing- Produces energy.",
   "display_name": "!LOC(units:advanced_energy_plant.message):Advanced Energy Plant",
   "events": {
@@ -243,7 +243,7 @@
       "radius": 4.0
     }
   ],
-  "max_health": 1600,
+  "max_health": 2400,
   "mesh_bounds": [
     20,
     20,
@@ -294,6 +294,7 @@
     "UNITTYPE_Structure",
     "UNITTYPE_EnergyProduction",
     "UNITTYPE_Advanced",
+    "UNITTYPE_FabAdvBuild",
     "UNITTYPE_Economy"
   ]
 }

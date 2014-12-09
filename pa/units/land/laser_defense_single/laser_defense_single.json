@@ -73,7 +73,6 @@
     "UNITTYPE_SurfaceDefense",
     "UNITTYPE_Defense",
     "UNITTYPE_FabBuild",
-    "UNITTYPE_CmdBuild",
-    "UNITTYPE_CombatFabAdvBuild"
+    "UNITTYPE_CmdBuild"
   ]
 }
