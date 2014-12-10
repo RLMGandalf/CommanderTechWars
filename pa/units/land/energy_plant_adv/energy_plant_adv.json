@@ -10,7 +10,7 @@
   },
   "base_spec": "/pa/units/land/base_structure/base_structure.json",
   "build_metal_cost": 1600,
-  "description": "!LOC(units:advanced_manufacturing_produces_energy.message):Advanced manufacturing- Produces energy.",
+  "description": "Advanced Manufacturing- Space-Saving Fortified Energy Production.",
   "display_name": "!LOC(units:advanced_energy_plant.message):Advanced Energy Plant",
   "events": {
     "build_complete": {

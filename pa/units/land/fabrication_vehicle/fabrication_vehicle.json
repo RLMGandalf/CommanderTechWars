@@ -35,7 +35,7 @@
   },
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "build_metal_cost": 210,
-  "buildable_types": "Factory & Vehicle | CmdBuild & Orbital | CmdBuild & Vehicle | Economy & Basic",
+  "buildable_types": "Factory & Tank & Basic | CmdBuild & Orbital | Economy & Basic",
   "command_caps": [
     "ORDER_Move",
     "ORDER_Patrol",

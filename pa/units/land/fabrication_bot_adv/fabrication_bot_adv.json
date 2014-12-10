@@ -35,7 +35,7 @@
   },
   "base_spec": "/pa/units/land/base_bot/base_bot.json",
   "build_metal_cost": 450,
-  "buildable_types": "CmdBuild & Bot | CmdBuild & Orbital | Economy & Basic | Economy & Advanced",
+  "buildable_types": "Factory & Bot & Advanced | CmdBuild & Orbital | Economy & Basic",
   "command_caps": [
     "ORDER_Move",
     "ORDER_Patrol",

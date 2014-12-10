@@ -2,7 +2,7 @@
     "context": "server",
     "identifier": "com.pa.mods.server.TeamComBuilder",
     "display_name": "TeamComBuilder",
-    "description": "Commanders have fully ",
+    "description": "Commanders have sections of tech modified to self sustain.",
     "author": "Gandalf, TrophySystem",
     "version": "0.8",
     "build": "75539",
