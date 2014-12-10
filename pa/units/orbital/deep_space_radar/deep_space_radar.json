@@ -88,7 +88,7 @@
     "UNITTYPE_Orbital",
     "UNITTYPE_Structure",
     "UNITTYPE_Recon",
-    "UNITTYPE_Basic"
+    "UNITTYPE_Basic",
     "UNITTYPE_Important"
   ]
 }

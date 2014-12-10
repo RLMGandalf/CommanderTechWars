@@ -102,7 +102,6 @@
     {
       "filename": "/pa/units/land/metal_storage/metal_storage.papa",
       "layer": "WL_Orbital"
-      "skirt_decal": "/pa/effects/specs/skirt_metal.json"
     }
   ],
   "physics": {

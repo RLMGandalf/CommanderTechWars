@@ -15,7 +15,7 @@
   },
   "base_spec": "/pa/units/commanders/raptor_base/raptor_base.json",
   "build_metal_cost": 6000,
-  "buildable_types": "CmdBuild & FabBuild | CmdBuild & Orbital",
+  "buildable_types": "FabBuild | CmdBuild & Orbital | CmdBuild & Economy",
   "death_weapon": {
     "air_ammo_spec": "/pa/units/commanders/raptor_centurion/centurion_pbaoe.json",
     "air_height_threshold": 100,

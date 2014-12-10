@@ -94,7 +94,7 @@
         },
         {
           "channel": "radar",
-          "layer": "land",
+          "layer": "surface_and_air",
           "radius": 40,
           "shape": "sphere"
         }

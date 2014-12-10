@@ -185,7 +185,6 @@
     {
       "filename": "/pa/units/land/energy_storage/energy_storage.papa",
       "layer": "WL_Orbital"
-      "skirt_decal": "/pa/effects/specs/skirt_energy_adv.json"
     }
   ],
   "recon": {
