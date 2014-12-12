@@ -26,7 +26,7 @@
     "ORDER_Assist",
     "ORDER_Use"
   ],
-  "description": "Advanced manufacturing- Builds only the high-tech fabber.",
+  "description": "Advanced manufacturing- Builds only the superweapon fabber.",
   "display_name": "Technician Factory",
   "events": {
     "died": {

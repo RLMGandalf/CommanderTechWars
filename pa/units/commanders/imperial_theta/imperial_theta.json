@@ -14,15 +14,6 @@
     }
   },
   "base_spec": "/pa/units/commanders/imperial_base/imperial_base.json",
-  "build_metal_cost": 6000,
-  "buildable_types": "FabOrbBuild & Land | CmdBuild & Economy & Basic",
-  "death_weapon": {
-    "air_ammo_spec": "/pa/units/commanders/imperial_invictus/theta_pbaoe.json",
-    "air_height_threshold": 100,
-    "ground_ammo_spec": "/pa/units/commanders/imperial_theta/invictus_pbaoe.json"
-  },
-  "description": "Efficient Specialized Orbital Commander",
-  "display_name": "Orbital Commander",
   "headlights": [
     {
       "bone": "bone_spine",
@@ -82,7 +73,6 @@
       "radius": 4.0
     }
   ],
-  "max_health": 7000,
   "mesh_bounds": [
     9.8,
     7,
@@ -91,6 +81,16 @@
   "model": {
     "filename": "/pa/units/commanders/imperial_theta/imperial_theta.papa"
   },
+  "build_metal_cost": 6000,
+  "buildable_types": "FabOrbBuild & Land | CmdBuild & Economy & Basic",
+  "death_weapon": {
+    "air_ammo_spec": "/pa/units/commanders/imperial_invictus/theta_pbaoe.json",
+    "air_height_threshold": 100,
+    "ground_ammo_spec": "/pa/units/commanders/imperial_theta/invictus_pbaoe.json"
+  },
+  "description": "Efficient Specialized Orbital Commander",
+  "display_name": "Orbital Commander",
+  "max_health": 8000,
   "navigation": {
     "acceleration": 80,
     "brake": 80,
@@ -99,8 +99,8 @@
     "type": "amphibious"
   },
   "production": {
-    "energy": 1000,
-    "metal": 10
+    "energy": 1800,
+    "metal": 30
   },
   "storage": {
     "energy": 25000,

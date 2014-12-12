@@ -143,8 +143,7 @@
     "UNITTYPE_Mobile",
     "UNITTYPE_Transport",
     "UNITTYPE_Advanced",
-    "UNITTYPE_FactoryBuild",
-    "UNITTYPE_CombatFabAdvBuild"
+    "UNITTYPE_FactoryBuild"
   ],
   "usable": true,
   "useable": {

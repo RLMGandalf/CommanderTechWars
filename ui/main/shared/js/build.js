@@ -55,7 +55,7 @@ function BuildHotkeyModel() {
             "/pa/units/land/land_scout/land_scout.json": ["vehicle", 13],
             "/pa/units/land/aa_missile_vehicle/aa_missile_vehicle.json": ["vehicle", 14],    
 
-            "/pa/units/land/fabrication_bot/engineer.json": ["bot", 0],   
+            "/pa/units/land/fabrication_bot/engineer.json": ["bot", 13],   
             "/pa/units/land/fabrication_bot_adv/technician.json": ["bot", 1],   
             "/pa/units/land/fabrication_bot_adv/fabrication_bot_adv.json": ["bot", 5],   
             "/pa/units/land/assault_bot_adv/assault_bot_adv.json": ["bot", 6],
@@ -65,7 +65,6 @@ function BuildHotkeyModel() {
             "/pa/units/land/fabrication_bot/fabrication_bot.json": ["bot", 10],     
             "/pa/units/land/assault_bot/assault_bot.json": ["bot", 11],
             "/pa/units/land/bot_grenadier/bot_grenadier.json": ["bot", 12],
-            "/pa/units/land/fabrication_bot_combat/fabrication_bot_combat.json": ["bot", 13],
             "/pa/units/land/bot_tactical_missile/bot_tactical_missile.json": ["bot", 9],
      
             
@@ -101,6 +100,7 @@ function BuildHotkeyModel() {
             "/pa/units/sea/sea_scout/sea_scout.json": ["sea", 13],
 
             "/pa/units/land/land_mine/land_mine.json": ["ammo", 10],
+            "/pa/units/land/fabrication_bot_combat/fabrication_bot_combat.json": ["ammo", 11],
             "/pa/units/land/anti_nuke_launcher/anti_nuke_launcher_ammo.json": ["ammo", 13],
             "/pa/units/land/nuke_launcher/nuke_launcher_ammo.json": ["ammo", 14],
         }

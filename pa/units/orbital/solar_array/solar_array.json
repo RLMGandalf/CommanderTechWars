@@ -44,6 +44,16 @@
   "production": {
     "energy": 1200
   },
+  "physics": {
+    "collision_layers": "WL_Orbital",
+    "gravity_scalar": 0.001,
+    "push_class": 50,
+    "radius": 15
+  },
+  "placement_size": [
+    50,
+    50
+  ],
   "recon": {
     "observer": {
       "items": [

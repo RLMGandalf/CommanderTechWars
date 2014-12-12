@@ -13,16 +13,6 @@
       ]
     }
   },
-  "base_spec": "/pa/units/commanders/imperial_base/imperial_base.json",
-  "build_metal_cost": 6000,
-  "buildable_types": "CombatFabAdvBuild",
-  "death_weapon": {
-    "air_ammo_spec": "/pa/units/commanders/imperial_invictus/invictus_pbaoe.json",
-    "air_height_threshold": 100,
-    "ground_ammo_spec": "/pa/units/commanders/imperial_invictus/invictus_pbaoe.json"
-  },
-  "description": "Experimentally stripped, repurposed as frontline combat.",
-  "display_name": "Assault Commander",
   "headlights": [
     {
       "bone": "bone_spine",
@@ -82,7 +72,6 @@
       "radius": 4.0
     }
   ],
-  "max_health": 11000,
   "mesh_bounds": [
     12.6,
     7,
@@ -91,6 +80,17 @@
   "model": {
     "filename": "/pa/units/commanders/imperial_invictus/imperial_invictus.papa"
   },
+  "base_spec": "/pa/units/commanders/imperial_base/imperial_base.json",
+  "build_metal_cost": 6000,
+  "buildable_types": "CombatFabAdvBuild",
+  "death_weapon": {
+    "air_ammo_spec": "/pa/units/commanders/imperial_invictus/invictus_pbaoe.json",
+    "air_height_threshold": 100,
+    "ground_ammo_spec": "/pa/units/commanders/imperial_invictus/invictus_pbaoe.json"
+  },
+  "description": "Experimentally stripped, repurposed as frontline combat.",
+  "display_name": "Assault Commander",
+  "max_health": 11000,
   "navigation": {
     "acceleration": 80,
     "brake": 80,

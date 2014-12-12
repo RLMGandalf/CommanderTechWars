@@ -31,7 +31,7 @@
       "/pa/effects/specs/scorch_c_01.json"
     ]
   },
-  "description": "Basic manufacturing- Builds only the low-tech fabber.",
+  "description": "Basic manufacturing- Builds only the structural fabber.",
   "display_name": "Engineer Factory",
   "events": {
     "died": {

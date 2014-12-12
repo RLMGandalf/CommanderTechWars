@@ -9,7 +9,7 @@
   "burn_radius": 137,
   "collision_check": "ground",
   "cruise_height": 120,
-  "damage": 6000,
+  "damage": 7000,
   "damage_volume": {
     "burnable_remove_radius": 100.0,
     "delay": 1.0,
@@ -62,7 +62,7 @@
   "show_strategic_icon": true,
   "sim_impact_effect": "/pa/units/land/nuke_launcher/nuke_launcher_ammo_explosion_ent.json",
   "spawn_layers": "WL_Air",
-  "splash_damage": 6000,
+  "splash_damage": 7000,
   "splash_damage_orbital": true,
   "splash_damages_allies": true,
   "splash_radius": 150,

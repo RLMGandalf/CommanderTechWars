@@ -15,7 +15,7 @@
   },
   "base_spec": "/pa/units/orbital/base_orbital_structure/base_orbital_structure.json",
   "build_metal_cost": 1500,
-  "buildable_types": "Orbital & FactoryBuild & Advanced",
+  "buildable_types": "Orbital & FactoryBuild",
   "command_caps": [
     "ORDER_Move",
     "ORDER_Patrol",

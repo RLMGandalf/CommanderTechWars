@@ -171,8 +171,8 @@
     "radius": 20
   },
   "placement_size": [
-    300,
-    300
+    150,
+    150
   ],
   "consumption": {
     "energy": 2400

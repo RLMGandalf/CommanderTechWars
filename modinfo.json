@@ -1,20 +1,20 @@
 {
     "context": "server",
-    "identifier": "com.pa.mods.server.TeamComBuilder",
-    "display_name": "TeamComBuilder",
-    "description": "Commanders have parts of tech modified to self-sufficiency",
+    "identifier": "com.pa.mods.server.CommanderTechWars",
+    "display_name": "Commander TechWars",
+    "description": "Commanders have powerful autonomous tech types. Bot, tank, air, structure, superweapons...",
     "author": "Gandalf, TrophySystem",
     "version": "0.8",
     "build": "75539",
     "date": "2014/12/08",
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/",
-    "id": "TeamComBuilder",
+    "id": "CommanderTechWars",
     "category": [
         "Factions"
     ],
     "priority": 100,
     "enabled": true,
-    "content_id": "com.pa.mods.server.TeamComBuilder",
+    "content_id": "com.pa.mods.server.CommanderTechWars",
     "store_id": "com.pahub.content.plugin.store.mod.server"
 }
